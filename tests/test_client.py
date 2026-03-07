@@ -8,6 +8,7 @@ from youtube_scraper.client import (
     get_video_details,
     get_popular_videos,
 )
+from youtube_scraper.config import API_REQUEST_RETRIES
 from youtube_scraper.models import ChannelInfo, VideoInfo
 from tests.conftest import (
     make_channel_response,
@@ -265,3 +266,21 @@ class TestGetPopularVideos:
         )
         result = get_popular_videos("UC_test", top_n=1, max_results=50, service=service)
         assert isinstance(result[0], VideoInfo)
+
+class TestRequestReliability:
+    def test_execute_uses_default_retries(self):
+        service = build_mock_service(channel_response=make_channel_response())
+
+        get_channel_info("UC_retry", service=service)
+
+        service.channels().list.return_value.execute.assert_called_once_with(
+            num_retries=API_REQUEST_RETRIES
+        )
+
+    def test_timeout_error_has_actionable_message(self):
+        service = build_mock_service()
+        service.channels().list.return_value.execute.side_effect = TimeoutError("raw timeout")
+
+        with pytest.raises(TimeoutError, match="network/proxy"):
+            get_channel_info("UC_timeout", service=service)
+
