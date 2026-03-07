@@ -4,9 +4,10 @@
 
 ## 功能
 
-- **热门视频** — 获取指定频道播放量最高的视频，按观看数排序
-- **字幕提取** — 获取视频的字幕文本（支持多语言，无需额外 API Key）
-- **一站式** — 热门视频 + 字幕一次搞定，支持 JSON 输出
+- 热门视频：获取指定频道播放量最高的视频，按观看数排序
+- 字幕提取：获取视频字幕文本（支持多语言）
+- 一站式：热门视频 + 字幕一次获取
+- 统一输出：CLI 默认输出 LLM 友好的 JSON 信封
 
 ## 快速开始
 
@@ -29,24 +30,45 @@ cp .env.example .env
 
 ```bash
 # 获取频道热门视频（默认 top 10）
-uv run python -m youtube_scraper popular <channel_id> --top 5
+uv run python -m youtube_scraper popular <CHANNEL_ID> --top 5
 
 # 获取视频字幕
-uv run python -m youtube_scraper transcript <video_id>
+uv run python -m youtube_scraper transcript <VIDEO_ID>
 
 # 热门视频 + 字幕（一站式）
-uv run python -m youtube_scraper full <channel_id> --top 3
+uv run python -m youtube_scraper full <CHANNEL_ID> --top 3 --lang <LANG_CODES>
 
-# 所有命令支持 --json 输出
-uv run python -m youtube_scraper popular <channel_id> --json
+# 可选保存原始结果到目录
+uv run python -m youtube_scraper popular <CHANNEL_ID> --output <DIR>
 ```
 
-### 示例
+## OpenClaw Skill 部署
 
 ```bash
-# Two Minute Papers 频道 top 5
-uv run python -m youtube_scraper popular UCbfYPyITQ-7l4upoX8nvctg --top 5
+# 默认部署到 ~/.openclaw/skills/holo-youtube-scraper
+bash openclaw_deploy_skill.sh
+
+# 或部署到自定义绝对路径
+bash openclaw_deploy_skill.sh <ABS_TARGET_PATH>
 ```
+
+部署内容：`SKILL.md`、`scripts/`、`references/`、`src/`、`pyproject.toml`、`uv.lock`、`.env.example`。
+
+技能入口：
+
+```bash
+bash {baseDir}/scripts/youtube.sh help
+bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> --top 5
+```
+
+## 输出契约
+
+CLI 与 bash 入口统一输出单个 JSON 信封：
+
+- 成功：`ok=true`，包含 `command/input/result/meta`
+- 失败：`ok=false`，包含 `command/input/error/meta`
+
+详见：`references/output-schema.md`
 
 ## 编程接口
 
@@ -55,42 +77,16 @@ uv run python -m youtube_scraper popular UCbfYPyITQ-7l4upoX8nvctg --top 5
 ```python
 from youtube_scraper import get_popular_videos, get_transcript
 
-videos = get_popular_videos("UCbfYPyITQ-7l4upoX8nvctg", top_n=5)
-for v in videos:
-    print(f"{v.title} - {v.view_count:,} views")
-
-transcript = get_transcript("dQw4w9WgXcQ")
-if transcript.ok:
-    print(transcript.text)
+videos = get_popular_videos("<CHANNEL_ID>", top_n=5)
+transcript = get_transcript("<VIDEO_ID>")
 ```
 
-所有函数返回类型化的 dataclass，支持 `.to_dict()` 序列化。
-
-## 项目结构
-
-```
-src/youtube_scraper/
-  config.py        # 配置管理（API Key、默认参数）
-  models.py        # 数据模型（ChannelInfo, VideoInfo, TranscriptResult）
-  client.py        # YouTube API 客户端
-  transcript.py    # 字幕提取
-  cli.py           # CLI 入口
-tests/             # 单元测试
-docs/research.md   # API 调研文档
-```
-
-## 配额说明
-
-采用 playlistItems + videos.list 策略（而非 search.list），配额消耗低约 80%：
-
-| 操作 | 配额消耗 |
-|------|----------|
-| 获取 50 个视频并排序 | ~3 单位 |
-| 获取 500 个视频并排序 | ~21 单位 |
-| YouTube 每日免费配额 | 10,000 单位 |
+所有函数返回类型化 dataclass，支持 `.to_dict()` 序列化。
 
 ## 开发
 
 ```bash
-uv run pytest          # 运行测试 + 覆盖率
+uv run pytest
 ```
+
+测试包含覆盖率门禁：`youtube_scraper` 包行覆盖率需 >= 90%。

@@ -17,8 +17,8 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src/youtube_scraper"]
 
-[tool.uv]
-dev-dependencies = [
+[dependency-groups]
+dev = [
     "pytest>=9.0.2",
     "pytest-cov>=7.0.0",
 ]
@@ -28,7 +28,7 @@ youtube-scraper = "youtube_scraper.cli:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-addopts = "-v --tb=short --cov=youtube_scraper --cov-report=term-missing"
+addopts = "-v --tb=short --cov=youtube_scraper --cov-report=term-missing --cov-fail-under=90"
 
 [tool.coverage.run]
 source = ["youtube_scraper"]

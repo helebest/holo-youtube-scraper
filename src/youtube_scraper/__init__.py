@@ -4,11 +4,11 @@ Public API for programmatic / LLM skill use:
 
     from youtube_scraper import get_popular_videos, get_transcript
 
-    videos = get_popular_videos("UC...", top_n=5)
+    videos = get_popular_videos("<CHANNEL_ID>", top_n=5)
     for v in videos:
         print(v.title, v.view_count)
 
-    transcript = get_transcript("dQw4w9WgXcQ")
+    transcript = get_transcript("<VIDEO_ID>")
     if transcript.ok:
         print(transcript.text)
 """
