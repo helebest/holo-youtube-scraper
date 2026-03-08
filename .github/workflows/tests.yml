@@ -3,6 +3,14 @@ name: tests
 on:
   push:
   pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   pytest:
@@ -20,7 +28,14 @@ jobs:
           python-version: "3.12"
 
       - name: Sync dependencies
-        run: uv sync --all-groups
+        run: uv sync --all-groups --frozen
 
       - name: Run tests with coverage gate
         run: uv run pytest
+
+      - name: CLI smoke checks
+        run: |
+          uv run python -m youtube_scraper --help
+          uv run python -m youtube_scraper popular --help
+          uv run python -m youtube_scraper transcript --help
+          uv run python -m youtube_scraper full --help
