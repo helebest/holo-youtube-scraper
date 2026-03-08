@@ -1,7 +1,7 @@
 # YouTube Scraper
 
 [![CI](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
-[![Release](https://github.com/helebest/holo-youtube-scraper/actions/workflows/release.yml/badge.svg)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/release.yml)
+[![Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/helebest/holo-youtube-scraper/releases/tag/v1.0.0)
 
 通过 YouTube Data API v3 获取频道热门视频，并提取视频字幕/转录文本。
 
