@@ -3,7 +3,7 @@
 [![CI](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
 [![Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/helebest/holo-youtube-scraper/releases/tag/v1.0.0)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/helebest/holo-youtube-scraper)](https://github.com/helebest/holo-youtube-scraper/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 通过 YouTube Data API v3 获取频道热门视频，并提取视频字幕/转录文本。
 
