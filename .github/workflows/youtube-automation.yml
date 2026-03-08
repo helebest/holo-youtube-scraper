@@ -1,0 +1,233 @@
+name: youtube-automation
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      run_mode:
+        description: "Task selection mode: due / task / all"
+        required: true
+        default: due
+        type: choice
+        options:
+          - due
+          - task
+          - all
+      task_name:
+        description: "Task name when run_mode=task"
+        required: false
+        type: string
+        default: ai_tracker
+      run_date:
+        description: "Optional logical run date (YYYY-MM-DD)"
+        required: false
+        type: string
+      dry_run:
+        description: "Run task without pushing data branches"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-automation-${{ github.workflow }}-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  run-automation:
+    runs-on: ubuntu-latest
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      DEFAULT_BRANCH: ${{ github.ref_name }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync dependencies
+        run: uv sync --all-groups --frozen
+
+      - name: Validate API key
+        shell: bash
+        run: |
+          if [[ -z "${YOUTUBE_API_KEY}" ]]; then
+            echo "Missing required secret: YOUTUBE_API_KEY"
+            exit 1
+          fi
+
+      - name: Select tasks
+        id: select
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            RUN_MODE="${{ inputs.run_mode }}"
+            TASK_NAME="${{ inputs.task_name }}"
+          else
+            RUN_MODE="due"
+            TASK_NAME=""
+          fi
+
+          ARGS=(--config .github/youtube-tasks.yml --run-mode "$RUN_MODE")
+          if [[ "$RUN_MODE" == "task" ]]; then
+            if [[ -z "$TASK_NAME" ]]; then
+              echo "run_mode=task requires task_name"
+              exit 1
+            fi
+            ARGS+=(--task-name "$TASK_NAME")
+          fi
+
+          LIST_JSON="$(uv run python scripts/youtube_automation.py list "${ARGS[@]}")"
+          export LIST_JSON
+
+          TASKS_CSV="$(python - <<'PY'
+import json
+import os
+
+payload = json.loads(os.environ["LIST_JSON"])
+if not payload.get("ok"):
+    raise SystemExit(payload.get("error", {}).get("message", "list command failed"))
+print(",".join(payload.get("tasks", [])))
+PY
+)"
+
+          TASK_COUNT="$(python - <<'PY'
+import json
+import os
+
+payload = json.loads(os.environ["LIST_JSON"])
+print(len(payload.get("tasks", [])))
+PY
+)"
+
+          echo "tasks_csv=${TASKS_CSV}" >> "$GITHUB_OUTPUT"
+          echo "task_count=${TASK_COUNT}" >> "$GITHUB_OUTPUT"
+
+      - name: Configure git user
+        if: steps.select.outputs.task_count != '0' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run tasks and publish branches
+        if: steps.select.outputs.task_count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          TASKS_CSV="${{ steps.select.outputs.tasks_csv }}"
+          if [[ -z "$TASKS_CSV" ]]; then
+            echo "No tasks due."
+            exit 0
+          fi
+
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            RUN_DATE="${{ inputs.run_date }}"
+            DRY_RUN="${{ inputs.dry_run }}"
+          else
+            RUN_DATE=""
+            DRY_RUN="false"
+          fi
+
+          IFS=',' read -ra TASKS <<< "$TASKS_CSV"
+          FAILED=0
+
+          for TASK in "${TASKS[@]}"; do
+            echo "Executing task: ${TASK}"
+            ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root data)
+            if [[ -n "$RUN_DATE" ]]; then
+              ARGS+=(--run-date "$RUN_DATE")
+            fi
+
+            if ! RESULT_JSON="$(uv run python scripts/youtube_automation.py run "${ARGS[@]}")"; then
+              echo "Task execution failed: ${TASK}"
+              FAILED=1
+              continue
+            fi
+            export RESULT_JSON
+
+            BRANCH="$(python - <<'PY'
+import json
+import os
+payload = json.loads(os.environ["RESULT_JSON"])
+if not payload.get("ok"):
+    raise SystemExit(payload.get("error", {}).get("message", "task run failed"))
+print(payload["result"]["branch"])
+PY
+)"
+
+            OUTPUT_DIR="$(python - <<'PY'
+import json
+import os
+payload = json.loads(os.environ["RESULT_JSON"])
+print(payload["result"]["output_dir"])
+PY
+)"
+
+            RUN_DAY="$(python - <<'PY'
+import json
+import os
+payload = json.loads(os.environ["RESULT_JSON"])
+print(payload["result"]["date"])
+PY
+)"
+
+            CHANNELS_OK="$(python - <<'PY'
+import json
+import os
+payload = json.loads(os.environ["RESULT_JSON"])
+print(payload["result"]["summary"].get("channels_ok", 0))
+PY
+)"
+
+            CHANNELS_TOTAL="$(python - <<'PY'
+import json
+import os
+payload = json.loads(os.environ["RESULT_JSON"])
+print(payload["result"]["summary"].get("channels_total", 0))
+PY
+)"
+
+            if [[ "$CHANNELS_TOTAL" -gt 0 && "$CHANNELS_OK" -eq 0 ]]; then
+              echo "Task ${TASK} has zero successful channels."
+              FAILED=1
+            fi
+
+            if [[ "$DRY_RUN" == "true" ]]; then
+              echo "Dry-run: skipping push for ${TASK} -> ${BRANCH}"
+              continue
+            fi
+
+            git fetch origin "$BRANCH" || true
+            if git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
+              git checkout -B "$BRANCH" "origin/$BRANCH"
+            else
+              git checkout -B "$BRANCH" "$DEFAULT_BRANCH"
+            fi
+
+            git add "$OUTPUT_DIR"
+            if git diff --cached --quiet; then
+              echo "No data change for ${TASK} on ${RUN_DAY}."
+            else
+              git commit -m "chore(data): ${TASK} ${RUN_DAY}"
+              git push origin "$BRANCH"
+            fi
+
+            git checkout "$DEFAULT_BRANCH"
+          done
+
+          exit "$FAILED"
+

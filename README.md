@@ -1,7 +1,7 @@
 # Holo YouTube Scraper
 
 [![CI](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
-[![Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/helebest/holo-youtube-scraper/releases/tag/v1.0.0)
+[![Release v1.1.0](https://img.shields.io/badge/release-v1.1.0-blue.svg)](https://github.com/helebest/holo-youtube-scraper/releases/tag/v1.1.0)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -95,3 +95,29 @@ uv run pytest
 ```
 
 测试包含覆盖率门禁：`youtube_scraper` 包行覆盖率需 >= 90%。
+
+## GitHub Automation (v1.1.0)
+
+This repo now includes a task-based GitHub Action pipeline for YouTube monitoring.
+
+- Task config file: `.github/youtube-tasks.yml`
+- First task: `ai_tracker`
+- Trigger: scheduled + manual (`workflow_dispatch`)
+- Output branch per run: `data_<task_name>/<YYYY-MM-DD>`
+- Runner script: `scripts/youtube_automation.py`
+
+Manual trigger examples:
+
+```bash
+# run due tasks only
+run_mode=due
+
+# run a specific task
+run_mode=task
+task_name=ai_tracker
+
+# run all enabled tasks
+run_mode=all
+```
+
+For full details, see `docs/automation.md`.

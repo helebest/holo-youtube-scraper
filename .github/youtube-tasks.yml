@@ -1,0 +1,69 @@
+version: 1
+tasks:
+  - name: ai_tracker
+    enabled: true
+    mode: latest_full
+    schedule:
+      kind: daily
+      time: "21:00"
+      timezone: Asia/Shanghai
+    fetch:
+      top_n: 5
+      scan: 100
+      languages:
+        - en
+        - zh
+      timeout: 30
+      retries: 3
+    channels:
+      - name: Lex Fridman
+        tier: tier1_kol_interview
+        handle: "@lexfridman"
+      - name: Dwarkesh Patel
+        tier: tier1_kol_interview
+        handle: "@dwarkeshpatel"
+      - name: TED
+        tier: tier1_forum
+        handle: "@TED"
+      - name: Two Minute Papers
+        tier: tier2_frontier
+        handle: "@TwoMinutePapers"
+      - name: Matthew Berman
+        tier: tier2_frontier
+        handle: "@MatthewBerman"
+      - name: Marques Brownlee
+        tier: tier2_consumer
+        handle: "@mkbhd"
+      - name: NVIDIA
+        tier: tier3_official
+        handle: "@NVIDIA"
+      - name: OpenAI
+        tier: tier3_official
+        handle: "@OpenAI"
+      - name: Google
+        tier: tier3_official
+        handle: "@google"
+      - name: Matt Wolfe
+        tier: news_tools
+        status: pending
+      - name: AI Explained
+        tier: news_tools
+        status: pending
+      - name: Wes Roth
+        tier: news_tools
+        status: pending
+      - name: Yannic Kilcher
+        tier: research_visualization
+        status: pending
+      - name: 3Blue1Brown
+        tier: education_fundamentals
+        status: pending
+      - name: Andrej Karpathy
+        tier: education_fundamentals
+        status: pending
+      - name: Tina Huang
+        tier: education_fundamentals
+        status: pending
+      - name: World Economic Forum (Davos)
+        tier: tier1_forum
+        status: pending
