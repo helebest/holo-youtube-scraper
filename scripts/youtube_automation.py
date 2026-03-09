@@ -614,6 +614,17 @@ def _build_parser() -> argparse.ArgumentParser:
         default=None,
         help="Override current UTC timestamp, e.g. 2026-03-08T13:00:00Z.",
     )
+
+    p_plan = subparsers.add_parser("plan", help="Plan task execution (get branch/date info).")
+    p_plan.add_argument("--config", default=".github/youtube-tasks.yml", help="Path to task config.")
+    p_plan.add_argument("--task-name", required=True, help="Task name to plan.")
+    p_plan.add_argument("--output-root", default="data", help="Root output folder.")
+    p_plan.add_argument("--run-date", default=None, help="Override logical run date (YYYY-MM-DD).")
+    p_plan.add_argument(
+        "--now-utc",
+        default=None,
+        help="Override current UTC timestamp, e.g. 2026-03-08T13:00:00Z.",
+    )
     return parser
 
 
@@ -677,6 +688,29 @@ def main() -> None:
                 now_utc=now_utc,
             )
             _emit_success({"command": "run", "result": result.to_dict(), "meta": {"generated_at": _utc_iso()}})
+            return
+
+        if args.command == "plan":
+            task = tasks.get(args.task_name)
+            if task is None:
+                raise AutomationConfigError(f"Task not found: {args.task_name}")
+            if not task.enabled:
+                raise AutomationConfigError(f"Task is disabled: {task.name}")
+            logical_date = date.fromisoformat(args.run_date) if args.run_date else None
+            # Calculate the planned date and branch without executing
+            run_date = logical_date or date.today()
+            branch = f"data_{task.name}/{run_date.isoformat()}"
+            output_dir = str(Path(args.output_root) / task.name / run_date.isoformat())
+            _emit_success({
+                "command": "plan",
+                "result": {
+                    "task": task.name,
+                    "date": run_date.isoformat(),
+                    "branch": branch,
+                    "output_dir": output_dir,
+                },
+                "meta": {"generated_at": _utc_iso()},
+            })
             return
 
         raise AutomationConfigError(f"Unsupported command: {args.command}")
