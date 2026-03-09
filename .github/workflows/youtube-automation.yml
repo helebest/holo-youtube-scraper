@@ -1,0 +1,69 @@
+name: youtube-automation
+
+on:
+  schedule:
+    # Run every hour at minute 23
+    - cron: '23 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  PYTHON_VERSION: '3.12'
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run AI tracker
+        run: |
+          export YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
+          uv run python -m youtube_scraper.cli ai-tracker \
+            --channels-file .github/channels.txt \
+            --output-dir data/ai_tracker \
+            --max-results 500 \
+            --top-n 10
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push data
+        env:
+          DATE_DIR: ${{ github.run_id }}
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          BRANCH="data_ai_tracker/$TODAY"
+          
+          # Check if there are changes to commit
+          if git diff --stat | grep -q "data/"; then
+            git checkout -B "$BRANCH"
+            git add data/
+            git commit -m "chore(data): ai_tracker $TODAY" || echo "No changes to commit"
+            git push -f origin "$BRANCH"
+            echo "Committed to $BRANCH"
+          else
+            echo "No data changes to commit"
+          fi
