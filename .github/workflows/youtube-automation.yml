@@ -1,33 +1,26 @@
 name: youtube-automation
 
-on:
+'on':
   schedule:
-    - cron: "0 * * * *"
+    - cron: "23 * * * *"
   workflow_dispatch:
     inputs:
       run_mode:
         description: "Task selection mode: due / task / all"
-        required: true
-        default: due
-        type: choice
-        options:
-          - due
-          - task
-          - all
+        required: false
+        default: "due"
       task_name:
         description: "Task name when run_mode=task"
         required: false
-        type: string
-        default: ai_tracker
+        default: "ai_tracker"
       run_date:
         description: "Optional logical run date (YYYY-MM-DD)"
         required: false
-        type: string
+        default: ""
       dry_run:
-        description: "Run task without pushing data branches"
+        description: "Run task without pushing data branches (true/false)"
         required: false
-        type: boolean
-        default: false
+        default: "false"
 
 permissions:
   contents: write
@@ -74,10 +67,10 @@ jobs:
           set -euo pipefail
 
           if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
-            RUN_MODE="${{ inputs.run_mode }}"
-            TASK_NAME="${{ inputs.task_name }}"
+            RUN_MODE="$(jq -r '.inputs.run_mode // "due"' "$GITHUB_EVENT_PATH")"
+            TASK_NAME="$(jq -r '.inputs.task_name // "ai_tracker"' "$GITHUB_EVENT_PATH")"
           else
-            RUN_MODE="due"
+            RUN_MODE="all"
             TASK_NAME=""
           fi
 
@@ -91,33 +84,15 @@ jobs:
           fi
 
           LIST_JSON="$(uv run python scripts/youtube_automation.py list "${ARGS[@]}")"
-          export LIST_JSON
 
-          TASKS_CSV="$(python - <<'PY'
-import json
-import os
-
-payload = json.loads(os.environ["LIST_JSON"])
-if not payload.get("ok"):
-    raise SystemExit(payload.get("error", {}).get("message", "list command failed"))
-print(",".join(payload.get("tasks", [])))
-PY
-)"
-
-          TASK_COUNT="$(python - <<'PY'
-import json
-import os
-
-payload = json.loads(os.environ["LIST_JSON"])
-print(len(payload.get("tasks", [])))
-PY
-)"
+          TASKS_CSV="$(jq -er 'if .ok then (.tasks | join(",")) else error(.error.message // "list command failed") end' <<<"$LIST_JSON")"
+          TASK_COUNT="$(jq -er '.tasks | length' <<<"$LIST_JSON")"
 
           echo "tasks_csv=${TASKS_CSV}" >> "$GITHUB_OUTPUT"
           echo "task_count=${TASK_COUNT}" >> "$GITHUB_OUTPUT"
 
       - name: Configure git user
-        if: steps.select.outputs.task_count != '0' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run)
+        if: steps.select.outputs.task_count != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -130,13 +105,13 @@ PY
 
           TASKS_CSV="${{ steps.select.outputs.tasks_csv }}"
           if [[ -z "$TASKS_CSV" ]]; then
-            echo "No tasks due."
+            echo "No tasks selected."
             exit 0
           fi
 
           if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
-            RUN_DATE="${{ inputs.run_date }}"
-            DRY_RUN="${{ inputs.dry_run }}"
+            RUN_DATE="$(jq -r '.inputs.run_date // ""' "$GITHUB_EVENT_PATH")"
+            DRY_RUN="$(jq -r '.inputs.dry_run // "false"' "$GITHUB_EVENT_PATH")"
           else
             RUN_DATE=""
             DRY_RUN="false"
@@ -144,10 +119,31 @@ PY
 
           IFS=',' read -ra TASKS <<< "$TASKS_CSV"
           FAILED=0
+          NOW_UTC="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          TEMP_OUTPUT_ROOT="${RUNNER_TEMP}/youtube-data"
+          mkdir -p "$TEMP_OUTPUT_ROOT"
 
           for TASK in "${TASKS[@]}"; do
             echo "Executing task: ${TASK}"
-            ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root data)
+
+            PLAN_ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root data --now-utc "$NOW_UTC")
+            if [[ -n "$RUN_DATE" ]]; then
+              PLAN_ARGS+=(--run-date "$RUN_DATE")
+            fi
+
+            if ! PLAN_JSON="$(uv run python scripts/youtube_automation.py plan "${PLAN_ARGS[@]}")"; then
+              echo "Task planning failed: ${TASK}"
+              FAILED=1
+              continue
+            fi
+
+            BRANCH="$(jq -er '.result.branch' <<<"$PLAN_JSON")"
+            RUN_DAY="$(jq -er '.result.date' <<<"$PLAN_JSON")"
+            REPO_OUTPUT_DIR="$(jq -er '.result.output_dir' <<<"$PLAN_JSON")"
+
+            TASK_OUTPUT_ROOT="${TEMP_OUTPUT_ROOT}/${TASK}"
+            mkdir -p "$TASK_OUTPUT_ROOT"
+            ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root "$TASK_OUTPUT_ROOT" --now-utc "$NOW_UTC")
             if [[ -n "$RUN_DATE" ]]; then
               ARGS+=(--run-date "$RUN_DATE")
             fi
@@ -157,49 +153,17 @@ PY
               FAILED=1
               continue
             fi
-            export RESULT_JSON
 
-            BRANCH="$(python - <<'PY'
-import json
-import os
-payload = json.loads(os.environ["RESULT_JSON"])
-if not payload.get("ok"):
-    raise SystemExit(payload.get("error", {}).get("message", "task run failed"))
-print(payload["result"]["branch"])
-PY
-)"
+            RESULT_BRANCH="$(jq -er '.result.branch' <<<"$RESULT_JSON")"
+            OUTPUT_DIR="$(jq -er '.result.output_dir' <<<"$RESULT_JSON")"
+            CHANNELS_OK="$(jq -er '.result.summary.channels_ok // 0' <<<"$RESULT_JSON")"
+            CHANNELS_TOTAL="$(jq -er '.result.summary.channels_total // 0' <<<"$RESULT_JSON")"
 
-            OUTPUT_DIR="$(python - <<'PY'
-import json
-import os
-payload = json.loads(os.environ["RESULT_JSON"])
-print(payload["result"]["output_dir"])
-PY
-)"
-
-            RUN_DAY="$(python - <<'PY'
-import json
-import os
-payload = json.loads(os.environ["RESULT_JSON"])
-print(payload["result"]["date"])
-PY
-)"
-
-            CHANNELS_OK="$(python - <<'PY'
-import json
-import os
-payload = json.loads(os.environ["RESULT_JSON"])
-print(payload["result"]["summary"].get("channels_ok", 0))
-PY
-)"
-
-            CHANNELS_TOTAL="$(python - <<'PY'
-import json
-import os
-payload = json.loads(os.environ["RESULT_JSON"])
-print(payload["result"]["summary"].get("channels_total", 0))
-PY
-)"
+            if [[ "$RESULT_BRANCH" != "$BRANCH" ]]; then
+              echo "Planned branch and result branch mismatch for ${TASK}."
+              FAILED=1
+              continue
+            fi
 
             if [[ "$CHANNELS_TOTAL" -gt 0 && "$CHANNELS_OK" -eq 0 ]]; then
               echo "Task ${TASK} has zero successful channels."
@@ -218,7 +182,11 @@ PY
               git checkout -B "$BRANCH" "$DEFAULT_BRANCH"
             fi
 
-            git add "$OUTPUT_DIR"
+            mkdir -p "$(dirname "$REPO_OUTPUT_DIR")"
+            rm -rf "$REPO_OUTPUT_DIR"
+            cp -R "$OUTPUT_DIR" "$REPO_OUTPUT_DIR"
+
+            git add "$REPO_OUTPUT_DIR"
             if git diff --cached --quiet; then
               echo "No data change for ${TASK} on ${RUN_DAY}."
             else
@@ -230,4 +198,3 @@ PY
           done
 
           exit "$FAILED"
-
