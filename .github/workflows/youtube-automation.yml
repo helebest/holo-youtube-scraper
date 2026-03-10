@@ -171,6 +171,7 @@ jobs:
             if [[ "$CHANNELS_TOTAL" -gt 0 && "$CHANNELS_OK" -eq 0 ]]; then
               echo "Task ${TASK} has zero successful channels."
               FAILED=1
+              continue
             fi
 
             if [[ "$DRY_RUN" == "true" ]]; then
