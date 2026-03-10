@@ -101,6 +101,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Run tasks and publish branches
+        id: run
         if: steps.select.outputs.task_count != '0'
         shell: bash
         env:
@@ -203,4 +204,37 @@ jobs:
             git checkout "$DEFAULT_BRANCH"
           done
 
+          # Record output root for subsequent steps
+          echo "output_root=${TEMP_OUTPUT_ROOT}" >> "$GITHUB_OUTPUT"
+          echo "has_data=$([ -d "$TEMP_OUTPUT_ROOT" ] && [ "$(ls -A "$TEMP_OUTPUT_ROOT" 2>/dev/null)" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
           exit "$FAILED"
+
+      - name: Generate artifact metadata
+        id: metadata
+        if: always() && steps.select.outputs.task_count != '0' && steps.run.outputs.has_data == 'true'
+        shell: bash
+        env:
+          OUTPUT_ROOT: ${{ steps.run.outputs.output_root }}
+          TASKS_CSV: ${{ steps.select.outputs.tasks_csv }}
+        run: |
+          cat > "${OUTPUT_ROOT}/metadata.json" <<METAEOF
+          {
+            "run_id": ${{ github.run_id }},
+            "run_attempt": ${{ github.run_attempt }},
+            "sha": "${{ github.sha }}",
+            "ref": "${{ github.ref_name }}",
+            "event": "${{ github.event_name }}",
+            "tasks": "${TASKS_CSV}",
+            "generated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          }
+          METAEOF
+
+      - name: Upload data artifact
+        if: always() && steps.metadata.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-data-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ steps.run.outputs.output_root }}
+          retention-days: 7
+          if-no-files-found: warn
