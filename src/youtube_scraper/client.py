@@ -1,5 +1,7 @@
 """YouTube Data API v3 client using the quota-friendly playlistItems + videos strategy."""
 
+import re
+
 import httplib2
 from googleapiclient.discovery import build
 
@@ -13,6 +15,16 @@ from youtube_scraper.config import (
     get_api_key,
 )
 from youtube_scraper.models import ChannelInfo, VideoInfo
+
+
+def sanitize_error_message(message: str) -> str:
+    """Redact API keys and other obvious secrets from error messages."""
+    if not message:
+        return message
+
+    sanitized = re.sub(r"([?&]key=)[^&\s\"'>]+", r"\1[REDACTED]", message)
+    sanitized = re.sub(r"AIza[0-9A-Za-z_-]{20,}", "[REDACTED_API_KEY]", sanitized)
+    return sanitized
 
 
 def _build_service(timeout: float = API_REQUEST_TIMEOUT_SECONDS):

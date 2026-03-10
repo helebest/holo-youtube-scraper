@@ -18,6 +18,7 @@ from youtube_scraper.client import (
     get_channel_videos,
     get_popular_videos,
     get_video_details,
+    sanitize_error_message,
 )
 from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS, get_api_key
 from youtube_scraper.models import TranscriptResult, VideoWithTranscript
@@ -564,7 +565,7 @@ def execute_task(
             summary["channels_failed"] += 1
             channel_payload["error"] = {
                 "code": type(exc).__name__,
-                "message": str(exc),
+                "message": sanitize_error_message(str(exc)),
             }
         _write_json(channels_dir / f"{file_name}.json", channel_payload)
 
@@ -639,7 +640,7 @@ def _emit_error(message: str, *, error_type: str = "AutomationError") -> None:
                 "ok": False,
                 "error": {
                     "type": error_type,
-                    "message": message,
+                    "message": sanitize_error_message(message),
                 },
                 "meta": {"generated_at": _utc_iso()},
             },

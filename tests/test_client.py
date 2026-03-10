@@ -3,10 +3,12 @@
 import pytest
 
 from youtube_scraper.client import (
+    _build_service,
     get_channel_info,
     get_channel_videos,
     get_video_details,
     get_popular_videos,
+    sanitize_error_message,
 )
 from youtube_scraper.config import API_REQUEST_RETRIES
 from youtube_scraper.models import ChannelInfo, VideoInfo
@@ -283,4 +285,48 @@ class TestRequestReliability:
 
         with pytest.raises(TimeoutError, match="network/proxy"):
             get_channel_info("UC_timeout", service=service)
+
+
+class TestSanitizeErrorMessage:
+    def test_redacts_key_query_parameter(self):
+        raw = (
+            'HttpError 403 when requesting '
+            'https://youtube.googleapis.com/youtube/v3/channels?part=id&key=AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U&alt=json'
+        )
+
+        sanitized = sanitize_error_message(raw)
+
+        assert 'AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U' not in sanitized
+        assert 'key=[REDACTED]' in sanitized
+
+    def test_redacts_standalone_google_api_key(self):
+        raw = 'Leaked key: AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U'
+
+        sanitized = sanitize_error_message(raw)
+
+        assert sanitized == 'Leaked key: [REDACTED_API_KEY]'
+
+    def test_preserves_empty_messages(self):
+        assert sanitize_error_message('') == ''
+
+
+class TestBuildService:
+    def test_build_service_uses_api_key_and_timeout(self, monkeypatch):
+        captured = {}
+
+        def fake_build(*args, **kwargs):
+            captured['args'] = args
+            captured['kwargs'] = kwargs
+            return 'service'
+
+        monkeypatch.setattr('youtube_scraper.client.get_api_key', lambda: 'test-key')
+        monkeypatch.setattr('youtube_scraper.client.build', fake_build)
+
+        result = _build_service(timeout=12.5)
+
+        assert result == 'service'
+        assert captured['args'] == ('youtube', 'v3')
+        assert captured['kwargs']['developerKey'] == 'test-key'
+        assert captured['kwargs']['cache_discovery'] is False
+        assert captured['kwargs']['http'].timeout == 12.5
 
