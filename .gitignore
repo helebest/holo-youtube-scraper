@@ -28,3 +28,7 @@ output/
 # OS
 .DS_Store
 Thumbs.db
+
+# Data outputs
+data/
+output/
