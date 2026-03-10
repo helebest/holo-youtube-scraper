@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from youtube_scraper.client import get_popular_videos
+from youtube_scraper.client import get_popular_videos, sanitize_error_message
 from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS
 from youtube_scraper.models import VideoWithTranscript
 from youtube_scraper.transcript import get_transcript, get_transcripts_batch
@@ -374,7 +374,7 @@ def main() -> None:
             input_data=_base_input(args),
             error_type=type(exc).__name__,
             error_code="UNEXPECTED_ERROR",
-            message=str(exc),
+            message=sanitize_error_message(str(exc)),
         )
         _emit_payload(payload)
         raise SystemExit(1)

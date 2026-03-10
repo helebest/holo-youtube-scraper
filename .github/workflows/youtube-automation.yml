@@ -103,10 +103,12 @@ jobs:
       - name: Run tasks and publish branches
         if: steps.select.outputs.task_count != '0'
         shell: bash
+        env:
+          TASKS_CSV_INPUT: ${{ steps.select.outputs.tasks_csv }}
         run: |
           set -euo pipefail
 
-          TASKS_CSV="${{ steps.select.outputs.tasks_csv }}"
+          TASKS_CSV="${TASKS_CSV_INPUT}"
           if [[ -z "$TASKS_CSV" ]]; then
             echo "No tasks selected."
             exit 0

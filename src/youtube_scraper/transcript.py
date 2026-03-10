@@ -14,6 +14,7 @@ from youtube_transcript_api._errors import (
 
 from googleapiclient.discovery import build
 
+from youtube_scraper.client import sanitize_error_message
 from youtube_scraper import config as youtube_config
 from youtube_scraper.models import TranscriptResult
 
@@ -115,7 +116,8 @@ def _normalize_error(exc: Exception) -> tuple[str, str]:
         return "INVALID_VIDEO_ID", "Invalid YouTube video ID."
     if isinstance(exc, CouldNotRetrieveTranscript):
         return "TRANSCRIPT_UNAVAILABLE", "Could not retrieve transcript for this video."
-    return "UNKNOWN_ERROR", str(exc) or "Unexpected error while fetching transcript."
+    raw = str(exc)
+    return "UNKNOWN_ERROR", sanitize_error_message(raw) if raw else "Unexpected error while fetching transcript."
 
 
 def get_transcript(

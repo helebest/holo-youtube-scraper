@@ -291,16 +291,16 @@ class TestSanitizeErrorMessage:
     def test_redacts_key_query_parameter(self):
         raw = (
             'HttpError 403 when requesting '
-            'https://youtube.googleapis.com/youtube/v3/channels?part=id&key=AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U&alt=json'
+            'https://youtube.googleapis.com/youtube/v3/channels?part=id&key=AIzaFAKE-KEY_FOR_UNIT_TESTS_00000&alt=json'
         )
 
         sanitized = sanitize_error_message(raw)
 
-        assert 'AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U' not in sanitized
+        assert 'AIzaFAKE-KEY_FOR_UNIT_TESTS_00000' not in sanitized
         assert 'key=[REDACTED]' in sanitized
 
     def test_redacts_standalone_google_api_key(self):
-        raw = 'Leaked key: AIzaSyDEIw5nYQtSVcgz86Irpx_AcxoHflPSn5U'
+        raw = 'Leaked key: AIzaFAKE-KEY_FOR_UNIT_TESTS_00000'
 
         sanitized = sanitize_error_message(raw)
 
