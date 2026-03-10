@@ -45,25 +45,25 @@ tasks:
         handle: "@google"
       - name: Matt Wolfe
         tier: news_tools
-        status: pending
+        handle: "@mreflow"
       - name: AI Explained
         tier: news_tools
-        status: pending
+        handle: "@aiexplained-official"
       - name: Wes Roth
         tier: news_tools
-        status: pending
+        handle: "@WesRoth"
       - name: Yannic Kilcher
         tier: research_visualization
-        status: pending
+        handle: "@YannicKilcher"
       - name: 3Blue1Brown
         tier: education_fundamentals
-        status: pending
+        handle: "@3Blue1Brown"
       - name: Andrej Karpathy
         tier: education_fundamentals
-        status: pending
+        handle: "@AndrejKarpathy"
       - name: Tina Huang
         tier: education_fundamentals
-        status: pending
+        handle: "@TinaHuang1"
       - name: World Economic Forum (Davos)
         tier: tier1_forum
-        status: pending
+        handle: "@wef"
