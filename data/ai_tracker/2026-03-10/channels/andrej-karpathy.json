@@ -1,5 +1,5 @@
 {
-  "ok": true,
+  "ok": false,
   "task": "ai_tracker",
   "mode": "latest_full",
   "channel": {
@@ -12,86 +12,13 @@
     "resolved_channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"
   },
   "date": "2026-03-10",
-  "result": [
-    {
-      "id": "EWvNQjAaOHw",
-      "title": "How I use LLMs",
-      "channel_title": "Andrej Karpathy",
-      "published_at": "2025-02-27T22:29:56Z",
-      "description": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.\n\nChapters\n00:00:00 Intro into the growing LLM ecosystem\n00:02:54 ChatGPT interaction under the hood\n00:13:12 Basic LLM interactions examples\n00:18:03 Be aware of the model you're using, pricing tiers\n00:22:54 Thinking models and when to use them\n00:31:00 Tool use: internet search\n00:42:04 Tool use: deep research\n00:50:57 File uploads, adding documents to context\n00:59:00 Tool use: python interpreter, messiness of the ecosystem\n01:04:35 ChatGPT Advanced Data Analysis, figures, plots\n01:09:00 Claude Artifacts, apps, diagrams\n01:14:02 Cursor: Composer, writing code\n01:22:28 Audio (Speech) Input/Output\n01:27:37 Advanced Voice Mode aka true audio inside the model\n01:37:09 NotebookLM, podcast generation\n01:40:20 Image input, OCR\n01:47:02 Image output, DALL-E, Ideogram, etc.\n01:49:14 Video input, point and talk on app\n01:52:23 Video output, Sora, Veo 2, etc etc.\n01:53:29 ChatGPT memory, custom instructions\n01:58:38 Custom GPTs\n02:06:30 Summary\n\nLinks\n- Tiktokenizer https://tiktokenizer.vercel.app/\n- OpenAI's ChatGPT https://chatgpt.com/\n- Anthropic's Claude https://claude.ai/\n- Google's Gemini https://gemini.google.com/\n- xAI's Grok https://grok.com/\n- Perplexity https://www.perplexity.ai/\n- Google's NotebookLM https://notebooklm.google.com/\n- Cursor https://www.cursor.com/\n- Histories of Mysteries AI podcast on Spotify  https://open.spotify.com/show/3K4LRyMCP44kBbiOziwJjb\n\n- The visualization UI I was using in the video: https://excalidraw.com/\n- The specific file of Excalidraw we built up: https://drive.google.com/file/d/1DN3LU3MbKI00udxoS-W5ckCHq99V0Uqs/view?usp=sharing\n- Discord channel for Eureka Labs and this video: https://discord.gg/3zy8kqD9Cp\n\nEducational Use Licensing\nThis video is freely available for educational and internal training purposes. Educators, students, schools, universities, nonprofit institutions, businesses, and individual learners may use this content freely for lessons, courses, internal training, and learning activities, provided they do not engage in commercial resale, redistribution, external commercial use, or modify content to misrepresent its intent.",
-      "duration": "PT2H11M12S",
-      "view_count": 2298973,
-      "like_count": 60612,
-      "comment_count": 2212,
-      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
-    },
-    {
-      "id": "7xTGNNLPyMI",
-      "title": "Deep Dive into LLMs like ChatGPT",
-      "channel_title": "Andrej Karpathy",
-      "published_at": "2025-02-05T18:23:47Z",
-      "description": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental models of how to think about their \"psychology\", and how to get the best use them in practical applications. I have one \"Intro to LLMs\" video already from ~year ago, but that is just a re-recording of a random talk, so I wanted to loop around and do a lot more comprehensive version.\n\nInstructor\nAndrej was a founding member at OpenAI (2015) and then Sr. Director of AI at Tesla (2017-2022), and is now a founder at Eureka Labs, which is building an AI-native school. His goal in this video is to raise knowledge and understanding of the state of the art in AI, and empower people to effectively use the latest and greatest in their work.\nFind more at https://karpathy.ai/ and https://x.com/karpathy\n\nChapters\n00:00:00 introduction\n00:01:00 pretraining data (internet)\n00:07:47 tokenization\n00:14:27 neural network I/O\n00:20:11 neural network internals\n00:26:01 inference\n00:31:09 GPT-2: training and inference\n00:42:52 Llama 3.1 base model inference\n00:59:23 pretraining to post-training\n01:01:06 post-training data (conversations)\n01:20:32 hallucinations, tool use, knowledge/working memory\n01:41:46 knowledge of self\n01:46:56 models need tokens to think\n02:01:11 tokenization revisited: models struggle with spelling\n02:04:53 jagged intelligence\n02:07:28 supervised finetuning to reinforcement learning\n02:14:42 reinforcement learning\n02:27:47 DeepSeek-R1\n02:42:07 AlphaGo\n02:48:26 reinforcement learning from human feedback (RLHF)\n03:09:39 preview of things to come\n03:15:15 keeping track of LLMs\n03:18:34 where to find LLMs\n03:21:46 grand summary\n\nLinks\n- ChatGPT https://chatgpt.com/\n- FineWeb (pretraining dataset): https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1\n- Tiktokenizer: https://tiktokenizer.vercel.app/\n- Transformer Neural Net 3D visualizer: https://bbycroft.net/llm\n- llm.c Let's Reproduce GPT-2 https://github.com/karpathy/llm.c/discussions/677\n- Llama 3 paper from Meta: https://arxiv.org/abs/2407.21783\n- Hyperbolic, for inference of base model: https://app.hyperbolic.xyz/\n- InstructGPT paper on SFT: https://arxiv.org/abs/2203.02155\n- HuggingFace inference playground: https://huggingface.co/spaces/huggingface/inference-playground\n- DeepSeek-R1 paper: https://arxiv.org/abs/2501.12948\n- TogetherAI Playground for open model inference: https://api.together.xyz/playground\n- AlphaGo paper (PDF): https://discovery.ucl.ac.uk/id/eprint/10045895/1/agz_unformatted_nature.pdf\n- AlphaGo Move 37 video: https://www.youtube.com/watch?v=HT-UZkiOLv8\n- LM Arena for model rankings: https://lmarena.ai/\n- AI News Newsletter: https://buttondown.com/ainews\n- LMStudio for local inference https://lmstudio.ai/\n\n- The visualization UI I was using in the video: https://excalidraw.com/\n- The specific file of Excalidraw we built up: https://drive.google.com/file/d/1EZh5hNDzxMMy05uLhVryk061QYQGTxiN/view?usp=sharing\n- Discord channel for Eureka Labs and this video: https://discord.gg/3zy8kqD9Cp\n\nEducational Use Licensing\nThis video is freely available for educational and internal training purposes. Educators, students, schools, universities, nonprofit institutions, businesses, and individual learners may use this content freely for lessons, courses, internal training, and learning activities, provided they do not engage in commercial resale, redistribution, external commercial use, or modify content to misrepresent its intent.",
-      "duration": "PT3H31M24S",
-      "view_count": 5803211,
-      "like_count": 106262,
-      "comment_count": 3647,
-      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
-    },
-    {
-      "id": "l8pRSuU81PU",
-      "title": "Let's reproduce GPT-2 (124M)",
-      "channel_title": "Andrej Karpathy",
-      "published_at": "2024-06-09T23:31:35Z",
-      "description": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see our results, and enjoy some amusing model generations. Keep in mind that in some places this video builds on the knowledge from earlier videos in the Zero to Hero Playlist (see my channel). You could also see this video as building my nanoGPT repo, which by the end is about 90% similar.\n\nLinks:\n- build-nanogpt GitHub repo, with all the changes in this video as individual commits: https://github.com/karpathy/build-nanogpt\n- nanoGPT repo: https://github.com/karpathy/nanoGPT\n- llm.c repo: https://github.com/karpathy/llm.c\n- my website: https://karpathy.ai\n- my twitter: https://twitter.com/karpathy\n- our Discord channel: https://discord.gg/3zy8kqD9Cp\n\nSupplementary links:\n- Attention is All You Need paper: https://arxiv.org/abs/1706.03762\n- OpenAI GPT-3 paper: https://arxiv.org/abs/2005.14165 - OpenAI GPT-2 paper: https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf- The GPU I'm training the model on is from Lambda GPU Cloud, I think the best and easiest way to spin up an on-demand GPU instance in the cloud that you can ssh to: https://lambdalabs.com \n\nChapters:\n00:00:00 intro: Let’s reproduce GPT-2 (124M)\n00:03:39 exploring the GPT-2 (124M) OpenAI checkpoint\n00:13:47 SECTION 1: implementing the GPT-2 nn.Module\n00:28:08 loading the huggingface/GPT-2 parameters\n00:31:00 implementing the forward pass to get logits\n00:33:31 sampling init, prefix tokens, tokenization\n00:37:02 sampling loop\n00:41:47 sample, auto-detect the device\n00:45:50 let’s train: data batches (B,T) → logits (B,T,C)\n00:52:53 cross entropy loss\n00:56:42 optimization loop: overfit a single batch\n01:02:00 data loader lite\n01:06:14 parameter sharing wte and lm_head\n01:13:47 model initialization: std 0.02, residual init\n01:22:18 SECTION 2: Let’s make it fast. GPUs, mixed precision, 1000ms\n01:28:14 Tensor Cores, timing the code, TF32 precision, 333ms\n01:39:38 float16, gradient scalers, bfloat16, 300ms\n01:48:15 torch.compile, Python overhead, kernel fusion, 130ms\n02:00:18 flash attention, 96ms\n02:06:54 nice/ugly numbers. vocab size 50257 → 50304, 93ms\n02:14:55 SECTION 3: hyperpamaters, AdamW, gradient clipping\n02:21:06 learning rate scheduler: warmup + cosine decay\n02:26:21 batch size schedule, weight decay, FusedAdamW, 90ms\n02:34:09 gradient accumulation\n02:46:52 distributed data parallel (DDP)\n03:10:21 datasets used in GPT-2, GPT-3, FineWeb (EDU)\n03:23:10 validation data split, validation loss, sampling revive\n03:28:23 evaluation: HellaSwag, starting the run\n03:43:05 SECTION 4: results in the morning! GPT-2, GPT-3 repro\n03:56:21 shoutout to llm.c, equivalent but faster code in raw C/CUDA\n03:59:39 summary, phew, build-nanogpt github repo\n\nCorrections:\nI will post all errata and followups to the build-nanogpt GitHub repo (link above)\n\nSuperThanks:\nI experimentally enabled them on my channel yesterday. Totally optional and only use if rich. All revenue goes to to supporting my work in AI + Education.",
-      "duration": "PT4H1M26S",
-      "view_count": 1022437,
-      "like_count": 29970,
-      "comment_count": 1167,
-      "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
-    },
-    {
-      "id": "zduSFxRajkE",
-      "title": "Let's build the GPT Tokenizer",
-      "channel_title": "Andrej Karpathy",
-      "published_at": "2024-02-20T17:11:35Z",
-      "description": "The Tokenizer is a necessary and pervasive component of Large Language Models (LLMs), where it translates between strings and tokens (text chunks). Tokenizers are a completely separate stage of the LLM pipeline: they have their own training sets, training algorithms (Byte Pair Encoding), and after training implement two fundamental functions: encode() from strings to tokens, and decode() back from tokens to strings. In this lecture we build from scratch the Tokenizer used in the GPT series from OpenAI. In the process, we will see that a lot of weird behaviors and problems of LLMs actually trace back to tokenization. We'll go through a number of these issues, discuss why tokenization is at fault, and why someone out there ideally finds a way to delete this stage entirely.\n\nChapters:\n00:00:00 intro: Tokenization, GPT-2 paper, tokenization-related issues\n00:05:50 tokenization by example in a Web UI (tiktokenizer)\n00:14:56 strings in Python, Unicode code points\n00:18:15 Unicode byte encodings, ASCII, UTF-8, UTF-16, UTF-32\n00:22:47 daydreaming: deleting tokenization\n00:23:50 Byte Pair Encoding (BPE) algorithm walkthrough\n00:27:02 starting the implementation\n00:28:35 counting consecutive pairs, finding most common pair\n00:30:36 merging the most common pair\n00:34:58 training the tokenizer: adding the while loop, compression ratio\n00:39:20 tokenizer/LLM diagram: it is a completely separate stage\n00:42:47 decoding tokens to strings\n00:48:21 encoding strings to tokens\n00:57:36 regex patterns to force splits across categories\n01:11:38 tiktoken library intro, differences between GPT-2/GPT-4 regex\n01:14:59 GPT-2 encoder.py released by OpenAI walkthrough\n01:18:26 special tokens, tiktoken handling of, GPT-2/GPT-4 differences\n01:25:28 minbpe exercise time! write your own GPT-4 tokenizer\n01:28:42 sentencepiece library intro, used to train Llama 2 vocabulary\n01:43:27 how to set vocabulary set? revisiting gpt.py transformer\n01:48:11 training new tokens, example of prompt compression\n01:49:58 multimodal [image, video, audio] tokenization with vector quantization\n01:51:41 revisiting and explaining the quirks of LLM tokenization\n02:10:20 final recommendations\n02:12:50 ??? :)\n\nExercises:\n- Advised flow: reference this document and try to implement the steps before I give away the partial solutions in the video. The full solutions if you're getting stuck are in the minbpe code https://github.com/karpathy/minbpe/blob/master/exercise.md\n\nLinks:\n- Google colab for the video: https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing\n- GitHub repo for the video: minBPE https://github.com/karpathy/minbpe\n- Playlist of the whole Zero to Hero series so far: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\n- our Discord channel: https://discord.gg/3zy8kqD9Cp\n- my Twitter: https://twitter.com/karpathy\n\nSupplementary links:\n- tiktokenizer https://tiktokenizer.vercel.app\n- tiktoken from OpenAI: https://github.com/openai/tiktoken\n- sentencepiece from Google https://github.com/google/sentencepiece",
-      "duration": "PT2H13M35S",
-      "view_count": 1046380,
-      "like_count": 26617,
-      "comment_count": 1167,
-      "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
-    },
-    {
-      "id": "zjkBMFhNj_g",
-      "title": "[1hr Talk] Intro to Large Language Models",
-      "channel_title": "Andrej Karpathy",
-      "published_at": "2023-11-23T02:27:48Z",
-      "description": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ChatGPT, Claude, and Bard. What they are, where they are headed, comparisons and analogies to present-day operating systems, and some of the security-related challenges of this new computing paradigm.\nAs of November 2023 (this field moves fast!).\n\nContext: This video is based on the slides of a talk I gave recently at the AI Security Summit. The talk was not recorded but a lot of people came to me after and told me they liked it. Seeing as I had already put in one long weekend of work to make the slides, I decided to just tune them a bit, record this round 2 of the talk and upload it here on YouTube. Pardon the random background, that's my hotel room during the thanksgiving break.\n\n- Slides as PDF: https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?usp=share_link (42MB)\n- Slides. as Keynote: https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view?usp=share_link (140MB)\n\nFew things I wish I said (I'll add items here as they come up):\n- The dreams and hallucinations do not get fixed with finetuning. Finetuning just \"directs\" the dreams into \"helpful assistant dreams\". Always be careful with what LLMs tell you, especially if they are telling you something from memory alone. That said, similar to a human, if the LLM used browsing or retrieval and the answer made its way into the \"working memory\" of its context window, you can trust the LLM a bit more to process that information into the final answer. But TLDR right now, do not trust what LLMs say or do. For example, in the tools section, I'd always recommend double-checking the math/code the LLM did.\n- How does the LLM use a tool like the browser? It emits special words, e.g. |BROWSER|. When the code \"above\" that is inferencing the LLM detects these words it captures the output that follows, sends it off to a tool, comes back with the result and continues the generation. How does the LLM know to emit these special words? Finetuning datasets teach it how and when to browse, by example. And/or the instructions for tool use can also be automatically placed in the context window (in the “system message”).\n- You might also enjoy my 2015 blog post \"Unreasonable Effectiveness of Recurrent Neural Networks\". The way we obtain base models today is pretty much identical on a high level, except the RNN is swapped for a Transformer. http://karpathy.github.io/2015/05/21/rnn-effectiveness/\n- What is in the run.c file? A bit more full-featured 1000-line version hre: https://github.com/karpathy/llama2.c/blob/master/run.c\n\nChapters:\nPart 1: LLMs\n00:00:00 Intro: Large Language Model (LLM) talk\n00:00:20 LLM Inference\n00:04:17 LLM Training\n00:08:58 LLM dreams\n00:11:22 How do they work?\n00:14:14 Finetuning into an Assistant\n00:17:52 Summary so far\n00:21:05 Appendix: Comparisons, Labeling docs, RLHF, Synthetic data, Leaderboard\nPart 2: Future of LLMs\n00:25:43 LLM Scaling Laws\n00:27:43 Tool Use (Browser, Calculator, Interpreter, DALL-E)\n00:33:32 Multimodality (Vision, Audio)\n00:35:00 Thinking, System 1/2\n00:38:02 Self-improvement, LLM AlphaGo\n00:40:45 LLM Customization, GPTs store\n00:42:15 LLM OS\nPart 3: LLM Security\n00:45:43 LLM Security Intro\n00:46:14 Jailbreaks\n00:51:30 Prompt Injection\n00:56:23 Data poisoning\n00:58:37 LLM Security conclusions\nEnd\n00:59:23 Outro\n\nEducational Use Licensing\nThis video is freely available for educational and internal training purposes. Educators, students, schools, universities, nonprofit institutions, businesses, and individual learners may use this content freely for lessons, courses, internal training, and learning activities, provided they do not engage in commercial resale, redistribution, external commercial use, or modify content to misrepresent its intent.",
-      "duration": "PT59M48S",
-      "view_count": 3468170,
-      "like_count": 92386,
-      "comment_count": 4930,
-      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
-    }
-  ],
-  "error": null,
+  "result": [],
+  "error": {
+    "code": "HttpError",
+    "message": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=UCXUPKJO5MZQN11PqgIvyuvQ&key=[REDACTED]&alt=json returned \"The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.\". Details: \"[{'message': 'The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]\">"
+  },
   "meta": {
-    "generated_at": "2026-03-10T08:39:41Z",
-    "count": 5
+    "generated_at": "2026-03-10T13:41:43Z",
+    "count": 0
   }
 }
