@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-03-10",
+  "result": [
+    {
+      "id": "qF_tfIieeE0",
+      "title": "The Physics Bug That Stumped Everyone Is Finally Gone!",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-09T07:49:10Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.geometry.caltech.edu/pubs/LD23.pdf\n\nSource:\nhttps://www.youtube.com/watch?v=VIV7GYOBTfM\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
+      "duration": "PT10M11S",
+      "view_count": 35085,
+      "like_count": 2198,
+      "comment_count": 146,
+      "url": "https://www.youtube.com/watch?v=qF_tfIieeE0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "ssbHkYB0jYM",
+      "title": "How DeepMind’s New AI Predicts What It Cannot See",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-07T14:42:18Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://d4rt-paper.github.io/\n\nOur Gaussian Material Synthesis paper:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/\n\nTweet link: https://x.com/GoogleDeepMind/status/2014352808426807527\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
+      "duration": "PT10M42S",
+      "view_count": 56891,
+      "like_count": 2729,
+      "comment_count": 172,
+      "url": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "j-B8ymGWlIE",
+      "title": "Adobe & NVIDIA’s New Tech Shouldn’t Be Real Time. But It Is.",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-02-22T09:50:35Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://perso.telecom-paristech.fr/boubek/papers/Glinty/\n\nWeb demo:\nhttps://www.shadertoy.com/view/tcdGDl\n\nSources:\nhttps://www.youtube.com/shorts/n07vz6oz78g\nhttps://www.youtube.com/watch?v=vPJoP2yzbv0\nhttps://www.youtube.com/watch?v=u6hYj74RhoQ\nhttps://www.youtube.com/watch?v=ok1ViHVcXYs\nhttps://www.youtube.com/watch?v=jnzhNdWoXMg\nhttps://3dstudio.co/uv-unwrapping-software/\nhttps://www.youtube.com/watch?v=jnzhNdWoXMg\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\n\n#nvidia #adobe",
+      "duration": "PT9M52S",
+      "view_count": 82069,
+      "like_count": 3720,
+      "comment_count": 213,
+      "url": "https://www.youtube.com/watch?v=j-B8ymGWlIE",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "B6GJjvR6txg",
+      "title": "The Most Realistic Fire Simulation Ever",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-02-19T09:55:15Z",
+      "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://helgewrede.github.io/firex/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
+      "duration": "PT11M38S",
+      "view_count": 52358,
+      "like_count": 3122,
+      "comment_count": 189,
+      "url": "https://www.youtube.com/watch?v=B6GJjvR6txg",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "WNsSzX0L4Es",
+      "title": "NVIDIA’s Insane AI Found The Math Of Reality",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-02-15T14:41:41Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/ppisp/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\n\n#nvidia",
+      "duration": "PT9M10S",
+      "view_count": 186597,
+      "like_count": 9334,
+      "comment_count": 416,
+      "url": "https://www.youtube.com/watch?v=WNsSzX0L4Es",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-10T04:55:36Z",
+    "count": 5
+  }
+}

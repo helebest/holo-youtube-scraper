@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-03-10",
+  "result": [
+    {
+      "id": "3yGSaeOUHik",
+      "title": "A Surprisingly Effective Way to Fight Misinformation | Dave Jorgenson | TED",
+      "channel_title": "TED",
+      "published_at": "2026-03-09T15:00:12Z",
+      "description": "What if the best defense against misinformation isn’t panic, but a punchline? Journalist and comedian Dave Jorgenson explores how misinformation has proliferated throughout history — from the age of Plato to the era of viral TikToks. With his own short, absurdist sketches that explain the news, he shows how humor can cut through fear, spark curiosity and explore nuanced truth. (Recorded at TEDNext 2025 on November 9, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/davejorgenson\n\nhttps://youtu.be/3yGSaeOUHik\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Society",
+      "duration": "PT12M35S",
+      "view_count": 9536,
+      "like_count": 423,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=3yGSaeOUHik",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "edveydG99a0",
+      "title": "The weight that women hold — literally and metaphorically — is endless. #IWD2026 #TED",
+      "channel_title": "TED",
+      "published_at": "2026-03-08T17:01:01Z",
+      "description": "With levity and profound insight, artist Maira Kalman reflects on life, death, dinner parties, not knowing the right answers, the joys of eating a hot dog from a street vendor and more. This talk, interwoven with her delightful paintings, is itself an artwork that seems to hold the entirety of life in all its absurd glory.",
+      "duration": "PT1M14S",
+      "view_count": 18454,
+      "like_count": 444,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=edveydG99a0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "isNtk11Z3I4",
+      "title": "A Songwriting Battle with My AI Clone | Jason \"Poo Bear\" Boyd | TED",
+      "channel_title": "TED",
+      "published_at": "2026-03-08T15:01:17Z",
+      "description": "As AI tools get better at making music, will there be a time when machines move people more than musicians? Putting that question to the test, legendary hitmaker Jason \"Poo Bear\" Boyd joins journalist Elise Hu to discuss how new tech is changing the music industry — followed by a live performance where he battles his digital twin to see who can write a catchier song. (Poo Bear is joined onstage by musician Sasha Sirota.) (Recorded at TEDNext 2025 on November 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/poobear\n\nhttps://youtu.be/isNtk11Z3I4\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Music",
+      "duration": "PT33M12S",
+      "view_count": 13230,
+      "like_count": 180,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=isNtk11Z3I4",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "sV-r08N3Ros",
+      "title": "“Stripped of the emotional component, fear is simply information”  @MichelleKhare  #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-03-07T21:00:51Z",
+      "description": "Daredevil Michelle Khare has trained with Olympians, run seven marathons on seven continents in a single week, and even escaped Harry Houdini's deadliest stunt. She shares how embracing fear, failure and an \"amateur’s mindset\" transformed her from a cautious child into someone who proves that daredevils aren't born — they're developed.",
+      "duration": "PT1M53S",
+      "view_count": 26579,
+      "like_count": 657,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=sV-r08N3Ros",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "jULafTEpZc4",
+      "title": "At TED, sustainability isn’t an afterthought — it’s a priority at every event. #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-03-06T20:00:27Z",
+      "description": "The TED community is all about big ideas and making a real impact, especially when it comes to tackling climate change. Learn how TED is prioritizing sustainable event practices and how you can join us at TED2026:\nhttps://conferences.ted.com/ted2026?utm_medium=social&utm_source=youtube&utm_campaign=sustainability",
+      "duration": "PT50S",
+      "view_count": 11632,
+      "like_count": 114,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=jULafTEpZc4",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-10T04:55:30Z",
+    "count": 5
+  }
+}

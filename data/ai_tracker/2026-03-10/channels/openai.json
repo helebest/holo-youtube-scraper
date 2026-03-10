@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-03-10",
+  "result": [
+    {
+      "id": "8hNcRChDrNk",
+      "title": "The Codex app is now on Windows",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T20:55:53Z",
+      "description": "The Codex app is now on Windows.\n\nGet the full Codex app experience on Windows with a native agent sandbox and support for Windows developer environments in PowerShell.\n\nhttps://developers.openai.com/wendows",
+      "duration": "PT1M7S",
+      "view_count": 37384,
+      "like_count": 1109,
+      "comment_count": 184,
+      "url": "https://www.youtube.com/watch?v=8hNcRChDrNk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "qSHMlduU6Lw",
+      "title": "Interrupting and Adding Details in GPT-5.4 Thinking",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T18:20:32Z",
+      "description": "In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns.",
+      "duration": "PT26S",
+      "view_count": 39862,
+      "like_count": 927,
+      "comment_count": 120,
+      "url": "https://www.youtube.com/watch?v=qSHMlduU6Lw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "YICiHiU2GBU",
+      "title": "Computer Use & Frontend UI with GPT-5.4 Thinking",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T18:18:38Z",
+      "description": "OpenAI researcher SQ Mah explains how GPT-5.4 Thinking brings even more powerful capabilities to Codex — with more persistent computer-use (CUA) capabilities that cut token usage by two-thirds in some cases, and stronger image understanding for seamless website UI and image generation.",
+      "duration": "PT3M3S",
+      "view_count": 143996,
+      "like_count": 4157,
+      "comment_count": 421,
+      "url": "https://www.youtube.com/watch?v=YICiHiU2GBU",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "0pmnDimaXnQ",
+      "title": "Improving Web Search Results in GPT-5.3 Instant",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-03T17:57:22Z",
+      "description": "OpenAI researcher Josh McGrath explains how GPT-5.3 Instant’s responses when using web search are more contextual, relevant, and stylistically natural.",
+      "duration": "PT1M48S",
+      "view_count": 37649,
+      "like_count": 1005,
+      "comment_count": 162,
+      "url": "https://www.youtube.com/watch?v=0pmnDimaXnQ",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "DvKutXclQoc",
+      "title": "Reducing Overcaveating in GPT-5.3 Instant",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-03T17:57:19Z",
+      "description": "OpenAI researcher Blair Chen explains how GPT-5.3 Instant reduces unnecessary disclaimers, making ChatGPT more directly helpful and smoother to use.",
+      "duration": "PT1M40S",
+      "view_count": 27636,
+      "like_count": 784,
+      "comment_count": 145,
+      "url": "https://www.youtube.com/watch?v=DvKutXclQoc",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-10T04:56:01Z",
+    "count": 5
+  }
+}

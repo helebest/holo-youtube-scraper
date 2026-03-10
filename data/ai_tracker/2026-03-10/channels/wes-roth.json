@@ -1,0 +1,23 @@
+{
+  "ok": false,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": null,
+    "channel_id": null,
+    "status": "pending",
+    "enabled": true
+  },
+  "date": "2026-03-10",
+  "result": [],
+  "error": {
+    "code": "PENDING_CHANNEL",
+    "message": "Channel is pending and skipped until identifiers are completed."
+  },
+  "meta": {
+    "generated_at": "2026-03-10T04:56:13Z",
+    "count": 0
+  }
+}
