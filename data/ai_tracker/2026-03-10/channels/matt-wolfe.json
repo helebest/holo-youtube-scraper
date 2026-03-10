@@ -1,23 +1,97 @@
 {
-  "ok": false,
+  "ok": true,
   "task": "ai_tracker",
   "mode": "latest_full",
   "channel": {
     "name": "Matt Wolfe",
     "tier": "news_tools",
-    "handle": null,
+    "handle": "@mreflow",
     "channel_id": null,
-    "status": "pending",
-    "enabled": true
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
   },
   "date": "2026-03-10",
-  "result": [],
-  "error": {
-    "code": "PENDING_CHANNEL",
-    "message": "Channel is pending and skipped until identifiers are completed."
-  },
+  "result": [
+    {
+      "id": "njIDEpMolRA",
+      "title": "AI Is Frying Your Brain",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-10T04:10:38Z",
+      "description": "Is AI hurting or helping? Here's some research that explains what's going on.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nhttps://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it\nhttps://hbr.org/2026/03/when-using-ai-leads-to-brain-fry\nhttps://siddhantkhare.com/writing/ai-fatigue-is-real\nhttps://arxiv.org/pdf/2506.08872\nhttps://x.com/mcuban/status/2023750950322889050\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT23M30S",
+      "view_count": 10088,
+      "like_count": 872,
+      "comment_count": 247,
+      "url": "https://www.youtube.com/watch?v=njIDEpMolRA",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "BIp9Q8M2QUw",
+      "title": "The Coolest New Google AI Feature",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-09T14:13:32Z",
+      "description": "Is this the end After Effects?\n\nGoogle just dropped a massive update for NotebookLM with Cinematic Video Overviews.\n\nUnlike the old slideshow-style overviews, this new feature actually bakes real, motion-graphic style animations directly into your videos. Watch to see what it created for me.\n\nRight now, this feature is locked behind the $250/mo Ultra plan, but it should eventually roll out to other tiers.\n\nDo you think NotebookLM did a good job with the graphics? Let me know in the comments! 👇\n\nAnd for the full review of this new feature plus all the new AI models and releases, check out my latest video linked here.\n\n#AI #NotebookLM #AInews #genAI #creativetools",
+      "duration": "PT1M39S",
+      "view_count": 6021,
+      "like_count": 210,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=BIp9Q8M2QUw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "dEH17qq7wJQ",
+      "title": "Is Gemini 3.1 Flash-Lite Hype or Actually Good?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-08T13:27:21Z",
+      "description": "Not every AI update needs to be smartest model ever.\n\nGoogle just rolled out Gemini 3.1 Flash-Lite, and honestly… it’s not trying to be the best model in the world. It’s designed to be fast, efficient, and cheap. \n\nI’ve already used it to build a YouTube thumbnail analyzer and it did everything as advertised: fast, more affordable, and easily accessible. \n\nHave you tried it yet? Let me know in the comments.\n\nAnd for the full breakdown of this and all the biggest AI model releases and news from the past week, go check out my full video linked here.\n\n#Ai #AInews #gemini #google",
+      "duration": "PT53S",
+      "view_count": 7124,
+      "like_count": 159,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=dEH17qq7wJQ",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "g0AxIEMcEfM",
+      "title": "Is GPT-5.4 Worth It?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-07T14:21:10Z",
+      "description": "OpenAI just dropped GPT-5.4... but should you care?\n\nTo be totally honest: If you use ChatGPT for brainstorming or basic questions, you probably won’t notice a huge difference. It’s a marginal upgrade for the average user. \n\nBUT, if you are a coder or power user, this is actually a big deal. It can:\n💻 Navigate desktops better and use your mouse/keyboard to perform tasks.\n⚡️ Perform coding tasks faster and smarter than 5.3 Codex.\n🔎 Perform better web searches.\n📂 Go up to a 1 million token context, which is a massive upgrade for API users.\n\nHave you tried it yet? Let me know in the comments.\n\n\nAnd for the full breakdown of this and all the biggest AI model releases and news from the past week, go check out my full video linked here.\n\n#openai #ai #chatgpt #ainews",
+      "duration": "PT1M29S",
+      "view_count": 10706,
+      "like_count": 259,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=g0AxIEMcEfM",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "W240HYPt38w",
+      "title": "News Update: OpenAI & Anthropic Feud Heats Up",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-06T18:37:43Z",
+      "description": "This story just keeps getting crazier and crazier.\n\nIf you haven't been keeping up with all of this, I do a quick backstory in my latest AI news video linked here, and go into all the updates in more detail than I can fit into this short video. Check it out.\n\n#AI #AInews #pentagon #anthropic #openai",
+      "duration": "PT2M20S",
+      "view_count": 10909,
+      "like_count": 359,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=W240HYPt38w",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
   "meta": {
-    "generated_at": "2026-03-10T07:11:57Z",
-    "count": 0
+    "generated_at": "2026-03-10T08:39:16Z",
+    "count": 5
   }
 }
