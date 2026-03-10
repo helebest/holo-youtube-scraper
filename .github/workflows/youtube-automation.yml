@@ -190,7 +190,7 @@ jobs:
             rm -rf "$REPO_OUTPUT_DIR"
             cp -R "$OUTPUT_DIR" "$REPO_OUTPUT_DIR"
 
-            git add "$REPO_OUTPUT_DIR"
+            git add -f "$REPO_OUTPUT_DIR"
             if git diff --cached --quiet; then
               echo "No data change for ${TASK} on ${RUN_DAY}."
             else
