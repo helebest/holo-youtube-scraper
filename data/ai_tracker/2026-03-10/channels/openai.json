@@ -20,7 +20,7 @@
       "published_at": "2026-03-05T20:55:53Z",
       "description": "The Codex app is now on Windows.\n\nGet the full Codex app experience on Windows with a native agent sandbox and support for Windows developer environments in PowerShell.\n\nhttps://developers.openai.com/wendows",
       "duration": "PT1M7S",
-      "view_count": 37519,
+      "view_count": 37538,
       "like_count": 1111,
       "comment_count": 184,
       "url": "https://www.youtube.com/watch?v=8hNcRChDrNk",
@@ -35,8 +35,8 @@
       "published_at": "2026-03-05T18:20:32Z",
       "description": "In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns.",
       "duration": "PT26S",
-      "view_count": 39938,
-      "like_count": 928,
+      "view_count": 39952,
+      "like_count": 929,
       "comment_count": 120,
       "url": "https://www.youtube.com/watch?v=qSHMlduU6Lw",
       "transcript": null,
@@ -50,7 +50,7 @@
       "published_at": "2026-03-05T18:18:38Z",
       "description": "OpenAI researcher SQ Mah explains how GPT-5.4 Thinking brings even more powerful capabilities to Codex — with more persistent computer-use (CUA) capabilities that cut token usage by two-thirds in some cases, and stronger image understanding for seamless website UI and image generation.",
       "duration": "PT3M3S",
-      "view_count": 144196,
+      "view_count": 144224,
       "like_count": 4161,
       "comment_count": 421,
       "url": "https://www.youtube.com/watch?v=YICiHiU2GBU",
@@ -65,7 +65,7 @@
       "published_at": "2026-03-03T17:57:22Z",
       "description": "OpenAI researcher Josh McGrath explains how GPT-5.3 Instant’s responses when using web search are more contextual, relevant, and stylistically natural.",
       "duration": "PT1M48S",
-      "view_count": 37649,
+      "view_count": 37669,
       "like_count": 1005,
       "comment_count": 162,
       "url": "https://www.youtube.com/watch?v=0pmnDimaXnQ",
@@ -91,7 +91,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-10T06:54:15Z",
+    "generated_at": "2026-03-10T07:11:47Z",
     "count": 5
   }
 }
