@@ -1,4 +1,10 @@
-# YouTube Scraper
+# Holo Youtube Scraper
+
+[![Tests](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
+[![Release](https://img.shields.io/github/v/release/helebest/holo-youtube-scraper?sort=semver)](https://github.com/helebest/holo-youtube-scraper/releases)
+[![License](https://img.shields.io/github/license/helebest/holo-youtube-scraper)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.12%2B-blue)
+![Coverage](https://img.shields.io/badge/coverage-%E2%89%A590%25-brightgreen)
 
 通过 YouTube Data API v3 获取频道热门视频，并提取视频字幕/转录文本。
 
