@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-03-12",
+  "result": [
+    {
+      "id": "rhsSqr0jdFw",
+      "title": "Build Hour: API & Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-10T17:42:29Z",
+      "description": "Build agent-powered workflows for real engineering work with Codex and OpenAI APIs. In this Build Hour, you'll learn how teams are moving beyond pair programming to agentic delegation, where AI systems can take on entire engineering tasks from planning to execution. \n\nCharlie Guo (DevEx), Ryan Lopopolo (Future of Work), Mitch Troyanovsky (Cofounder, Basis) cover how to:\n• Ship new features faster using Codex, with real examples from Basis: https://www.getbasis.ai/\n• Build agent-driven systems using new API capabilities like hosted shell, skills, and websockets\n• Evaluate and improve agents using the Agent Legibility Score framework\n• Apply Harness Engineering techniques to make agent workflows reliable in production\n• Use GPT-5.4 for large-context reasoning, computer-use tasks, and tool-based agent workflows\n• Reduce manual overhead by turning complex logic into reusable agent-driven flows\n\n👉 Codex docs: https://developers.openai.com/codex\n👉 API docs: https://developers.openai.com/api/docs\n👉 Harness Engineering Blog: https://openai.com/index/harness-engineering/ \n👉 GPT-5.4 Blog: https://openai.com/index/introducing-gpt-5-4/ \n👉 Follow along with the code repo: http://github.com/openai/build-hours\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction\n01:58 What's New: Codex\n05:01 What's New: API\n08:33 Demo: Agent Legibility Score\n21:53 Harness Engineering\n32:32 Customer Spotlight: Basis\n47:57 Q&A",
+      "duration": "PT1H59S",
+      "view_count": 16686,
+      "like_count": 419,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=rhsSqr0jdFw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "8hNcRChDrNk",
+      "title": "The Codex app is now on Windows",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T20:55:53Z",
+      "description": "The Codex app is now on Windows.\n\nGet the full Codex app experience on Windows with a native agent sandbox and support for Windows developer environments in PowerShell.\n\nhttps://developers.openai.com/wendows",
+      "duration": "PT1M7S",
+      "view_count": 39521,
+      "like_count": 1140,
+      "comment_count": 189,
+      "url": "https://www.youtube.com/watch?v=8hNcRChDrNk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "qSHMlduU6Lw",
+      "title": "Interrupting and Adding Details in GPT-5.4 Thinking",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T18:20:32Z",
+      "description": "In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns.",
+      "duration": "PT26S",
+      "view_count": 41142,
+      "like_count": 951,
+      "comment_count": 121,
+      "url": "https://www.youtube.com/watch?v=qSHMlduU6Lw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "YICiHiU2GBU",
+      "title": "Computer Use & Frontend UI with GPT-5.4 Thinking",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-05T18:18:38Z",
+      "description": "OpenAI researcher SQ Mah explains how GPT-5.4 Thinking brings even more powerful capabilities to Codex — with more persistent computer-use (CUA) capabilities that cut token usage by two-thirds in some cases, and stronger image understanding for seamless website UI and image generation.",
+      "duration": "PT3M3S",
+      "view_count": 147082,
+      "like_count": 4208,
+      "comment_count": 425,
+      "url": "https://www.youtube.com/watch?v=YICiHiU2GBU",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "0pmnDimaXnQ",
+      "title": "Improving Web Search Results in GPT-5.3 Instant",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-03T17:57:22Z",
+      "description": "OpenAI researcher Josh McGrath explains how GPT-5.3 Instant’s responses when using web search are more contextual, relevant, and stylistically natural.",
+      "duration": "PT1M48S",
+      "view_count": 37994,
+      "like_count": 1009,
+      "comment_count": 164,
+      "url": "https://www.youtube.com/watch?v=0pmnDimaXnQ",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-11T17:14:53Z",
+    "count": 5
+  }
+}

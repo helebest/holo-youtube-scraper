@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-03-12",
+  "result": [
+    {
+      "id": "tUkD0oj92Qg",
+      "title": "this EX-OPENAI RESEARCHER just released it...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-10T13:50:35Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT20M52S",
+      "view_count": 65824,
+      "like_count": 2674,
+      "comment_count": 501,
+      "url": "https://www.youtube.com/watch?v=tUkD0oj92Qg",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "mA8C55NLYzw",
+      "title": "Claude JUST became AWARE",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-09T04:22:31Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT27M28S",
+      "view_count": 112936,
+      "like_count": 3537,
+      "comment_count": 905,
+      "url": "https://www.youtube.com/watch?v=mA8C55NLYzw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "9zVZVtPMU6Y",
+      "title": "GPT 5.4 \"we see no wall\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-06T04:46:58Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT13M15S",
+      "view_count": 52662,
+      "like_count": 1597,
+      "comment_count": 339,
+      "url": "https://www.youtube.com/watch?v=9zVZVtPMU6Y",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "jFIBotuTZT4",
+      "title": "GPT 5.4 leaks",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-05T05:47:49Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT16M40S",
+      "view_count": 46824,
+      "like_count": 1439,
+      "comment_count": 426,
+      "url": "https://www.youtube.com/watch?v=jFIBotuTZT4",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "uWLt81SgM78",
+      "title": "Cal Newport AI takes are WILD...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-04T08:22:16Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT39M39S",
+      "view_count": 39210,
+      "like_count": 1381,
+      "comment_count": 914,
+      "url": "https://www.youtube.com/watch?v=uWLt81SgM78",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-11T17:15:15Z",
+    "count": 5
+  }
+}

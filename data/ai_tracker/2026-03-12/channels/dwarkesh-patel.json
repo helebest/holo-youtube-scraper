@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-12",
+  "result": [
+    {
+      "id": "mbTTdzBdn04",
+      "title": "The Truth Behind Machiavelli's \"The Prince\" - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-10T18:24:32Z",
+      "description": "",
+      "duration": "PT1M47S",
+      "view_count": 114722,
+      "like_count": 3393,
+      "comment_count": 109,
+      "url": "https://www.youtube.com/watch?v=mbTTdzBdn04",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "h1oyu5Z13Fk",
+      "title": "How Italy's Wealth Kept Italy Divided - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-09T21:40:29Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 575037,
+      "like_count": 13352,
+      "comment_count": 199,
+      "url": "https://www.youtube.com/watch?v=h1oyu5Z13Fk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "w7eL5V-KKN0",
+      "title": "Leonardo Da Vinci Was Not A Scientist - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-08T20:00:41Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 198835,
+      "like_count": 4719,
+      "comment_count": 308,
+      "url": "https://www.youtube.com/watch?v=w7eL5V-KKN0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "_-JDgtXEZCs",
+      "title": "The Hidden Story Behind the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-07T20:30:07Z",
+      "description": "",
+      "duration": "PT44S",
+      "view_count": 58787,
+      "like_count": 1900,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=_-JDgtXEZCs",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "eVqgRfRFsMc",
+      "title": "The Library of Alexandria Isn’t Where We Lost Ancient Books - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-06T23:34:56Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 1694495,
+      "like_count": 78487,
+      "comment_count": 1776,
+      "url": "https://www.youtube.com/watch?v=eVqgRfRFsMc",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-11T17:14:18Z",
+    "count": 5
+  }
+}
