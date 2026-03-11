@@ -5,7 +5,10 @@ name: youtube-automation
     branches:
       - main
   schedule:
-    - cron: "23 */6 * * *"
+    # Asia/Shanghai 00:23 = UTC 16:23
+    - cron: "23 16 * * *"
+    # Asia/Shanghai 12:23 = UTC 04:23
+    - cron: "23 4 * * *"
   workflow_dispatch:
     inputs:
       run_mode:
