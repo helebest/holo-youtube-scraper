@@ -451,6 +451,25 @@ def _write_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def compute_task_plan(
+    task: TaskConfig,
+    *,
+    output_root: Path,
+    run_date: date | None = None,
+    now_utc: datetime | None = None,
+) -> dict[str, str]:
+    """Compute date/branch/output_dir consistently for both plan and run."""
+    local_now = (now_utc or _utc_now()).astimezone(_get_timezone(task.schedule.timezone))
+    effective_date = run_date or local_now.date()
+    date_text = effective_date.isoformat()
+    safe_task_name = _safe_component(task.name)
+    return {
+        "date": date_text,
+        "branch": f"data_{safe_task_name}/{date_text}",
+        "output_dir": str(output_root / safe_task_name / date_text),
+    }
+
+
 def execute_task(
     task: TaskConfig,
     *,
@@ -458,9 +477,10 @@ def execute_task(
     run_date: date | None = None,
     now_utc: datetime | None = None,
 ) -> TaskRunResult:
-    local_now = (now_utc or _utc_now()).astimezone(_get_timezone(task.schedule.timezone))
-    effective_date = run_date or local_now.date()
-    date_text = effective_date.isoformat()
+    plan = compute_task_plan(
+        task, output_root=output_root, run_date=run_date, now_utc=now_utc,
+    )
+    date_text = plan["date"]
     safe_task_name = _safe_component(task.name)
 
     output_dir = output_root / safe_task_name / date_text
@@ -472,7 +492,7 @@ def execute_task(
         "task_name": task.name,
         "mode": task.mode,
         "timezone": task.schedule.timezone,
-        "channels_total": len(task.channels),
+        "channels_total": 0,
         "channels_ok": 0,
         "channels_failed": 0,
         "channels_skipped": 0,
@@ -496,9 +516,9 @@ def execute_task(
         return TaskRunResult(
             task=task.name,
             mode=task.mode,
-            date=date_text,
-            branch=f"data_{safe_task_name}/{date_text}",
-            output_dir=str(output_dir),
+            date=plan["date"],
+            branch=plan["branch"],
+            output_dir=plan["output_dir"],
             summary=summary,
         )
 
@@ -569,13 +589,14 @@ def execute_task(
             }
         _write_json(channels_dir / f"{file_name}.json", channel_payload)
 
+    summary["channels_total"] = summary["channels_ok"] + summary["channels_failed"]
     _write_json(output_dir / "manifest.json", summary)
     return TaskRunResult(
         task=task.name,
         mode=task.mode,
-        date=date_text,
-        branch=f"data_{safe_task_name}/{date_text}",
-        output_dir=str(output_dir),
+        date=plan["date"],
+        branch=plan["branch"],
+        output_dir=plan["output_dir"],
         summary=summary,
     )
 
@@ -698,17 +719,17 @@ def main() -> None:
             if not task.enabled:
                 raise AutomationConfigError(f"Task is disabled: {task.name}")
             logical_date = date.fromisoformat(args.run_date) if args.run_date else None
-            # Calculate the planned date and branch without executing
-            run_date = logical_date or date.today()
-            branch = f"data_{task.name}/{run_date.isoformat()}"
-            output_dir = str(Path(args.output_root) / task.name / run_date.isoformat())
+            plan_info = compute_task_plan(
+                task,
+                output_root=Path(args.output_root),
+                run_date=logical_date,
+                now_utc=now_utc,
+            )
             _emit_success({
                 "command": "plan",
                 "result": {
                     "task": task.name,
-                    "date": run_date.isoformat(),
-                    "branch": branch,
-                    "output_dir": output_dir,
+                    **plan_info,
                 },
                 "meta": {"generated_at": _utc_iso()},
             })
