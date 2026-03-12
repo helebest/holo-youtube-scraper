@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-13",
+  "result": [
+    {
+      "id": "U0CSpulfsgI",
+      "title": "We've Been Misreading Machiavelli for 200 Years - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-11T18:57:04Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 177034,
+      "like_count": 4609,
+      "comment_count": 137,
+      "url": "https://www.youtube.com/watch?v=U0CSpulfsgI",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "KBPOTklFTiU",
+      "title": "The Department of War is making a huge mistake.",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-11T18:57:01Z",
+      "description": "My thoughts on the Anthropic and Department of War conflict.\n\nRead the transcript here: https://www.dwarkesh.com/p/dow-anthropic\n\nTIMESTAMPS\n00:00:00 Anthropic vs The Pentagon\n00:04:16 The overhangs of tyranny\n00:05:54 AI structurally favors mass surveillance\n00:08:25 Alignment...to whom?\n00:13:55 Coordination not worth the costs",
+      "duration": "PT24M39S",
+      "view_count": 47915,
+      "like_count": 2786,
+      "comment_count": 427,
+      "url": "https://www.youtube.com/watch?v=KBPOTklFTiU",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "mbTTdzBdn04",
+      "title": "The Truth Behind Machiavelli's \"The Prince\" - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-10T18:24:32Z",
+      "description": "",
+      "duration": "PT1M47S",
+      "view_count": 199293,
+      "like_count": 5294,
+      "comment_count": 152,
+      "url": "https://www.youtube.com/watch?v=mbTTdzBdn04",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "h1oyu5Z13Fk",
+      "title": "How Italy's Wealth Kept Italy Divided - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-09T21:40:29Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 660676,
+      "like_count": 15173,
+      "comment_count": 224,
+      "url": "https://www.youtube.com/watch?v=h1oyu5Z13Fk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "w7eL5V-KKN0",
+      "title": "Leonardo Da Vinci Was Not A Scientist - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-08T20:00:41Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 242074,
+      "like_count": 5446,
+      "comment_count": 342,
+      "url": "https://www.youtube.com/watch?v=w7eL5V-KKN0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-12T17:15:04Z",
+    "count": 5
+  }
+}

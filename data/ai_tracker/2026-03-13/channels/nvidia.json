@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-03-13",
+  "result": [
+    {
+      "id": "8Y6nx4eTvxU",
+      "title": "On the Road With DRIVE AV",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-11T18:41:17Z",
+      "description": "What does comfortable, confident, safe autonomy feel like?\n\nRide through San Francisco with NVIDIA founder and CEO Jensen Huang and NVIDIA VP of Automotive Xinzhou Wu as they discuss the technology powering the next generation of autonomous vehicles.\n\n▶️ Watch now: https://nvda.ws/4cC5b5f",
+      "duration": "PT46S",
+      "view_count": 4567,
+      "like_count": 184,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=8Y6nx4eTvxU",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "ZMpDiGoU4Wg",
+      "title": "On the Road With DRIVE AV",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-11T13:01:33Z",
+      "description": "NVIDIA founder and CEO Jensen Huang joins NVIDIA Vice President of Automotive Xinzhou Wu for a drive through San Francisco, discussing what it takes to deliver autonomous driving that feels comfortable, confident, and safe. \n\nRegister for NVIDIA GTC 2026 🗓️\nAdd Xinzhou Wu’s Automotive Special Address to your schedule: \"Advancing Level 4 Autonomy: The Path to Scalable, Safe AVs and Robotaxis\"\n➡️ https://www.nvidia.com/gtc/session-catalog/?search=S81713&ncid=so-yout-441723-vt03\n\nMore on autonomous driving:\n\n- Read: NVIDIA DRIVE AV defined Mercedes-Benz CLA ➡️ https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform?ncid=so-yout-970401-vt03 \n- Watch: NVIDIA DRIVE AV navigate complex urban environments with Sarah Tariq ▶️ https://youtu.be/XH9N1SIJ7Dg   \n- Learn: NVIDIA’s Halos Safety System ➡️ https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/?ncid=so-yout-843727-vt03",
+      "duration": "PT22M38S",
+      "view_count": 24778,
+      "like_count": 1145,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ZMpDiGoU4Wg",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "GpCxAWu4hsY",
+      "title": "NVIDIA GTC Keynote Teaser",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-09T18:33:32Z",
+      "description": "He’s back. The leather jacket, the vision, and the unmatched energy that only our CEO Jensen Huang brings to the stage.\n\nJoin us live from the SAP Center for the #NVIDIAGTC 2026 keynote as he unveils the next chapter of AI. \n\n📅 Monday, March 16 | 11:00 a.m. PT\n\n➡️ https://nvda.ws/4sxeM1P",
+      "duration": "PT30S",
+      "view_count": 12832,
+      "like_count": 345,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=GpCxAWu4hsY",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "L9VAR1Rqt4g",
+      "title": "NVIDIA GTC 2026 Keynote Teaser",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-06T16:37:44Z",
+      "description": "Our CEO Jensen Huang returns to the SAP Center stage for the NVIDIA GTC 2026 keynote, and the energy is already building.\n\nAt the heart of GTC is this must-see moment: a deep dive into the breakthroughs in accelerated computing, AI, and transformative technology that will define our industry.\n\nJoin us live on Monday, March 16 at 11 a.m. PDT. ➡️ https://nvda.ws/4sqJ8TJ\n\nIt all starts at #NVIDIAGTC.",
+      "duration": "PT30S",
+      "view_count": 8885,
+      "like_count": 326,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=L9VAR1Rqt4g",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "x8lsdIoQfjg",
+      "title": "Disney Characters Coming to Life at NVIDIA GTC 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-05T19:17:23Z",
+      "description": "Ever wondered how Disney's characters make it from the screen to reality? 🎬\n\nBehind the magic is physical AI:\n- Newton & Kamino: Leveraging the open-source, GPU-accelerated Newton framework and Disney’s Kamino solver for artist-centric reinforcement learning. \n- Expressive Motion: Training motion diffusion models and policies to push robotic characters to perform at the limits of hardware.\n- Believable Autonomy: Utilizing onboard perception for autonomous navigation and unique, engaging guest interactions with authentic character motion.\n\nCome join Moritz Baecher at #NVIDIAGTC to see how physical AI enables Disney to bring characters to life in the real world within months.\n\n Tues, Mar 17 | 9:00 AM PT\nAdd to schedule 🔗 https://nvda.ws/4rOy82t",
+      "duration": "PT16S",
+      "view_count": 9667,
+      "like_count": 210,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=x8lsdIoQfjg",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-12T17:15:36Z",
+    "count": 5
+  }
+}

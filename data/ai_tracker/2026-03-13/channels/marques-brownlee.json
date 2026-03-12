@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-03-13",
+  "result": [
+    {
+      "id": "iGeXGdYE7UE",
+      "title": "Macbook Neo Review: Better than you Think!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-10T23:40:30Z",
+      "description": "Macbook Neo is only $600 bucks, but it's incredibly capable and compelling at this price\n\nCheck out dbrand skins for your MacBook at https://dbrand.com/retro-macbooks\n\nThat shirt! http://shop.MKBHD.com\n\n(Affiliate Link) MacBook Neo: https://geni.us/JGI8B3f\n\nPodcast: http://youtube.com/Waveform\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nMacBook Neo provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M53S",
+      "view_count": 2752108,
+      "like_count": 104852,
+      "comment_count": 6043,
+      "url": "https://www.youtube.com/watch?v=iGeXGdYE7UE",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "yWI33R4xyIc",
+      "title": "Apple Studio Display XDR Review: We're All Pros Now!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-09T20:01:01Z",
+      "description": "The Studio Display XDR is really good. And really expensive.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nApple Studio Display XDR: https://geni.us/eVYQk (Affiliate Link)\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nDisplay provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M42S",
+      "view_count": 1608348,
+      "like_count": 48680,
+      "comment_count": 2547,
+      "url": "https://www.youtube.com/watch?v=yWI33R4xyIc",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "nfHRMqqO578",
+      "title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-06T20:14:58Z",
+      "description": "The price is the most \"ultra\" thing about the S26 Ultra\n\nMKBHD Merch: http://MKBHD.com\n\nSamsung Galaxy S26 Ultra: https://geni.us/6Bh61 (Affiliate Link)\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Samsung for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M36S",
+      "view_count": 2823333,
+      "like_count": 93978,
+      "comment_count": 5748,
+      "url": "https://www.youtube.com/watch?v=nfHRMqqO578",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "kBX5WH9b4M4",
+      "title": "Macbook Neo Impressions: Reincarnated!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-04T22:26:34Z",
+      "description": "The new $599 Macbook is a good deal - and it's the computer Apple tried to make 10 years ago.\nSave up to 40% off during Ridge’s anniversary sale at https://geni.us/RidgeMKBHD\nThat shirt: http://shop.MKBHD.com\n\nAffiliate Links:\nMacBook Neo: https://geni.us/JGI8B3f\nMacBook Pro M5: https://geni.us/TINvV0\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT8M48S",
+      "view_count": 7152722,
+      "like_count": 196167,
+      "comment_count": 11324,
+      "url": "https://www.youtube.com/watch?v=kBX5WH9b4M4",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "wRaDbRjVrc4",
+      "title": "Samsung Galaxy Buds 4 Pro Review: Better than AirPods!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-02-28T22:55:15Z",
+      "description": "Galaxy Buds 4 Pro are sneaky winners!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nAffiliate Link: Galaxy Buds 4 Pro - https://geni.us/Ek9oru\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nEarbuds provided by Samsung for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT8M51S",
+      "view_count": 2088870,
+      "like_count": 72996,
+      "comment_count": 3343,
+      "url": "https://www.youtube.com/watch?v=wRaDbRjVrc4",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-12T17:15:30Z",
+    "count": 5
+  }
+}
