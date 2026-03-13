@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-14",
+  "result": [
+    {
+      "id": "mDG_Hx3BSUE",
+      "title": "Dylan Patel — The Single Biggest Bottleneck to Scaling AI Compute",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-13T16:26:57Z",
+      "description": "Dylan Patel, founder of SemiAnalysis, provides a deep dive into the 3 big bottlenecks to scaling AI compute: logic, memory, and power.\n\nAnd walks through the economics of labs, hyperscalers, foundries, and fab equipment manufacturers.\n\nLearned a ton about every single level of the stack. Enjoy!\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/dylan-patel\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/dylan-patel-deep-dive-on-the-3-big-bottlenecks-to/id1516093381?i=1000755126873\n* Spotify: https://open.spotify.com/episode/5qiibwoBWY5rXyflK7WJzH?si=SX4ajSKXT-KeNtaHsiTNzw\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Mercury has already saved me a bunch of time this tax season. Last year, I used Mercury to request W-9s from all the contractors I worked with. Then, when it came time to issue 1099s this year, I literally just clicked a button and Mercury sent them out. Learn more at https://mercury.com\n- Labelbox noticed that even when voice models appear to take interruptions in stride, their performance degrades. To figure out why, they built a new evaluation pipeline called EchoChain. EchoChain diagnoses voice models’ specific failure modes, letting you understand what your model needs to truly handle interruptions. Check it out at https://labelbox.com/dwarkesh\n- Jane Street is basically a research lab with a trading desk attached – and their infrastructure backs this up. They’ve got tens of thousands of GPUs, hundreds of thousands of CPU cores, and exabytes of storage. This is what it takes to find subtle signals hidden deep within noisy market data. If this sounds interesting, you can explore open positions at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Why an H100 is worth more today than 3 years ago\n00:24:52 – Nvidia secured TSMC allocation early; Google is getting squeezed\n00:34:34 – ASML will be the #1 constraint for AI compute scaling by 2030\n00:56:06 – Can’t we just use TSMC’s older fabs?\n01:05:56 – When will China outscale the West in semis?\n01:16:20 – The enormous incoming memory crunch\n01:42:53 – Scaling power in the US will not be a problem\n01:55:03 – Space GPUs aren't happening this decade\n02:14:26 – Why aren’t more hedge funds making the AGI trade?\n02:18:49 – Will TSMC kick Apple out from N2?\n02:24:35 – Robots and Taiwan risk",
+      "duration": "PT2H31M4S",
+      "view_count": 2249,
+      "like_count": 158,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=mDG_Hx3BSUE",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "aHxQjuSoYkY",
+      "title": "Why Great Leaders Raise Terrible Sons - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-12T22:03:29Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 281975,
+      "like_count": 9348,
+      "comment_count": 281,
+      "url": "https://www.youtube.com/watch?v=aHxQjuSoYkY",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "U0CSpulfsgI",
+      "title": "We've Been Misreading Machiavelli for 200 Years - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-11T18:57:04Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 257645,
+      "like_count": 6582,
+      "comment_count": 216,
+      "url": "https://www.youtube.com/watch?v=U0CSpulfsgI",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "KBPOTklFTiU",
+      "title": "The Department of War is making a huge mistake.",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-11T18:57:01Z",
+      "description": "My thoughts on the Anthropic and Department of War conflict.\n\nRead the transcript here: https://www.dwarkesh.com/p/dow-anthropic\n\nTIMESTAMPS\n00:00:00 Anthropic vs The Pentagon\n00:04:16 The overhangs of tyranny\n00:05:54 AI structurally favors mass surveillance\n00:08:25 Alignment...to whom?\n00:13:55 Coordination not worth the costs",
+      "duration": "PT24M39S",
+      "view_count": 64204,
+      "like_count": 3489,
+      "comment_count": 487,
+      "url": "https://www.youtube.com/watch?v=KBPOTklFTiU",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "mbTTdzBdn04",
+      "title": "The Truth Behind Machiavelli's \"The Prince\" - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-10T18:24:32Z",
+      "description": "",
+      "duration": "PT1M47S",
+      "view_count": 237690,
+      "like_count": 6383,
+      "comment_count": 168,
+      "url": "https://www.youtube.com/watch?v=mbTTdzBdn04",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-13T17:02:24Z",
+    "count": 5
+  }
+}
