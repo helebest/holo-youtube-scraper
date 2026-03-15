@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-03-16",
+  "result": [
+    {
+      "id": "_HKnEzkxrHo",
+      "title": "Can AI help solve the NHS backlog?",
+      "channel_title": "Google",
+      "published_at": "2026-03-13T17:11:22Z",
+      "description": "Breast cancer affects 1 in 8 women, and in the UK, staff shortages lead to a backlog of people waiting for mammography scans. Google partnered with Imperial College London and three NHS trusts to see if AI can help reduce the overall workload for radiologists, allowing them to focus their care on patients who need it the most.\n\nThis is an investigational AI tool not yet approved for clinical use; it is not intended to replace professional medical judgment. All imagery has been de-identified per data protection legislation.",
+      "duration": "PT1M17S",
+      "view_count": 11538,
+      "like_count": 381,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=_HKnEzkxrHo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "vZe0wfzMP34",
+      "title": "Group trip planning made easy with Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-03-12T23:44:44Z",
+      "description": "Planning a group trip can be taxing. There’s so much coordination to do across different docs, emails, and… personalities. Here’s how Gemini in Google Docs can make planning the vacation actually feel like vacation. #GoogleGemini #GoogleDocs",
+      "duration": "PT31S",
+      "view_count": 5879,
+      "like_count": 95,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=vZe0wfzMP34",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "Lb4jpHoZTjs",
+      "title": "Platform 37: Google’s New AI Innovation Space in London",
+      "channel_title": "Google",
+      "published_at": "2026-03-12T16:04:15Z",
+      "description": "Today, we’re unveiling the name of Google’s landmark King’s Cross building in London, Platform 37, and plans for The AI Exchange, a new public space dedicated to deepening understanding of artificial intelligence.\n\nThe name is a nod to the building’s location next to Kings Cross station—and to ‘Move 37’, a pivotal play made by DeepMind’s AI system AlphaGo in a now legendary 2016 match against Go world champion Lee Sae Dol. Go is incredibly complex, with more possible board configurations than the number of atoms in the known universe, and has long been a proving ground for AI research. \n\nPlatform 37 is Google’s most ambitious and innovative building to date. Learn more: https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange/\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M47S",
+      "view_count": 36131,
+      "like_count": 1344,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=Lb4jpHoZTjs",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "rZyUyOzNY8A",
+      "title": "Can AI help Imperial College of London and the NHS improve the mammography screening process?",
+      "channel_title": "Google",
+      "published_at": "2026-03-11T16:59:49Z",
+      "description": "Google partnered with Imperial College London and three NHS trusts on the Artificial Intelligence in Mammography Screening (AIMS) study to explore how an AI reader, integrated in place of a second human reader in the UK’s existing two reader plus arbitration system, performs in a real-world setting.\n\nThis is an investigational AI tool not yet approved for clinical use; it is not intended to replace professional medical judgment. All imagery has been de-identified per data protection legislation.",
+      "duration": "PT45S",
+      "view_count": 9821,
+      "like_count": 210,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=rZyUyOzNY8A",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "4BzoMc3acOY",
+      "title": "Helping Radiologists Detect Breast Cancer with AI",
+      "channel_title": "Google",
+      "published_at": "2026-03-10T20:45:28Z",
+      "description": "Breast cancer affects 1 in 8 women worldwide, and in the UK, a shortage of radiologists puts immense pressure on staff in radiology departments to deal with the backlog of people waiting for scans. To help reduce the burden on resources and staff, new ways of screening need to be investigated. \n\nGoogle partnered with Imperial College London and three NHS trusts on the Artificial Intelligence in Mammography Screening (AIMS) study to explore how an AI reader, integrated in place of a second human reader in the UK’s existing two reader plus arbitration system, performs in a real-world setting.\n\nResults of the AIMS study, recently published in “Nature Cancer,” showed that an AI reader could successfully integrate in to the UK’s existing system in place of a human reader, reducing the overall workload of radiologists and allowing them to focus their time and care on patients who needed it the most. \n\nNote: The patients featured in this video did not participate in the study and are sharing their personal experiences with the mammography process. They were compensated for their time.\n\nTo learn more about the AIMS study, visit https://www.nature.com/articles/s43018-026-01128-z   \n\nTo learn more about how AI can improve breast cancer detection in the UK, check out The Keyword: https://blog.google/innovation-and-ai/technology/health/google-ai-breast-cancer-detection/\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://www.twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT3M59S",
+      "view_count": 29363,
+      "like_count": 1189,
+      "comment_count": 107,
+      "url": "https://www.youtube.com/watch?v=4BzoMc3acOY",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-15T16:53:23Z",
+    "count": 5
+  }
+}
