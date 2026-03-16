@@ -150,7 +150,7 @@ jobs:
             RUN_DAY="$(jq -er '.result.date' <<<"$PLAN_JSON")"
             REPO_OUTPUT_DIR="$(jq -er '.result.output_dir' <<<"$PLAN_JSON")"
 
-            TASK_OUTPUT_ROOT="${TEMP_OUTPUT_ROOT}/${TASK}"
+            TASK_OUTPUT_ROOT="${TEMP_OUTPUT_ROOT}"
             mkdir -p "$TASK_OUTPUT_ROOT"
             ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root "$TASK_OUTPUT_ROOT" --now-utc "$NOW_UTC")
             if [[ -n "$RUN_DATE" ]]; then
