@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-03-17",
+  "result": [
+    {
+      "id": "VAzryGwnJW8",
+      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-16T17:00:00Z",
+      "description": "Healthcare systems around the world are under strain, and both patients and clinicians are feeling the impact. OpenAI's Head of Health Dr. Nate Gross and Karan Singhal, who leads Health AI Research, discuss how AI can help address the biggest challenges. They cover how OpenAI is training models to handle sensitive health questions in collaboration with physicians, and how that foundation is unlocking a new generation of tools for patients, clinicians, and healthcare systems.\n\nChapters:\n00:00:38 – Origins of Nate and Karan’s interest in AI and healthcare\n00:05:01 – Strategy for building AI tools for clinicians\n00:06:57 – How AI models are trained for health use cases\n00:10:15 – How OpenAI is able to score well on health evals\n00:14:21 – Key challenges deploying AI in healthcare\n00:21:05 – Collaboration with hospitals and healthcare systems\n00:23:05 – Practical everyday uses of AI health assistants\n00:26:43 – Biggest “wow” moment during development\n00:28:46 – Feedback from clinicians and early users",
+      "duration": "PT30M55S",
+      "view_count": 1410,
+      "like_count": 50,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "qh93rLRPw80",
+      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-13T20:08:30Z",
+      "description": "We’re introducing Skills in beta for ChatGPT Business and Enterprise.\n\nSkills are reusable, shareable workflows that tell ChatGPT exactly how to do a specific task, enabling ChatGPT to do that task better and more consistently. A skill can bundle instructions, examples, and even code. Once a skill has been created and installed, ChatGPT can automatically use a skill (or multiple skills) when it’s helpful.\n\nA skill can include instructions and supporting resources you want ChatGPT to use whenever you ask it to do a specific task. And for more structured work, skills can include a set of steps that run the same way every time.\n\nSkills are available in beta in ChatGPT Business and Enterprise. Skills are also supported in Codex and the API. While they don’t sync across products yet, OpenAI skills follow the Agent Skills open standard—so you can download them from one product and install them in another.",
+      "duration": "PT1M2S",
+      "view_count": 27140,
+      "like_count": 612,
+      "comment_count": 78,
+      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "gZQQR_tDGuM",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-11T20:11:20Z",
+      "description": "Rakuten operates one of the world’s largest digital ecosystems across e-commerce, fintech, and mobile services. Shipping fast without sacrificing reliability is critical.\n\nTeams use OpenAI Codex to support incident response, code review, and development workflows. The agent works inside monitoring systems and CI/CD pipelines to diagnose issues, review changes against internal standards, and advance projects from partial specifications.\n\nThe result is faster recovery and faster shipping. Rakuten reports up to a 50% reduction in mean time to recovery, and projects that once took a quarter can now ship in weeks.\n\nAs Codex handles more generation, engineers focus on clearer specifications and rigorous verification. The shift helps teams move quickly while keeping safety built into every release.\n\nLearn more: https://openai.com/index/rakuten/",
+      "duration": "PT1M11S",
+      "view_count": 10636,
+      "like_count": 259,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "fyQHPEAFJG8",
+      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-11T19:57:25Z",
+      "description": "We sat down with Yusuke Kaji, General Manager of AI for Business at Rakuten, to hear how Codex is empowering his engineers, reducing app vulnerabilities, and driving real impact across revenue streams. Check out the full video in our playlist: https://youtu.be/gZQQR_tDGuM",
+      "duration": "PT9S",
+      "view_count": 11096,
+      "like_count": 100,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=fyQHPEAFJG8",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "rhsSqr0jdFw",
+      "title": "Build Hour: API & Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-10T17:42:29Z",
+      "description": "Build agent-powered workflows for real engineering work with Codex and OpenAI APIs. In this Build Hour, you'll learn how teams are moving beyond pair programming to agentic delegation, where AI systems can take on entire engineering tasks from planning to execution. \n\nCharlie Guo (DevEx), Ryan Lopopolo (Future of Work), Mitch Troyanovsky (Cofounder, Basis) cover how to:\n• Ship new features faster using Codex, with real examples from Basis: https://www.getbasis.ai/\n• Build agent-driven systems using new API capabilities like hosted shell, skills, and websockets\n• Evaluate and improve agents using the Agent Legibility Score framework\n• Apply Harness Engineering techniques to make agent workflows reliable in production\n• Use GPT-5.4 for large-context reasoning, computer-use tasks, and tool-based agent workflows\n• Reduce manual overhead by turning complex logic into reusable agent-driven flows\n\n👉 Codex docs: https://developers.openai.com/codex\n👉 API docs: https://developers.openai.com/api/docs\n👉 Harness Engineering Blog: https://openai.com/index/harness-engineering/ \n👉 GPT-5.4 Blog: https://openai.com/index/introducing-gpt-5-4/ \n👉 Follow along with the code repo: http://github.com/openai/build-hours\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction\n01:58 What's New: Codex\n05:01 What's New: API\n08:33 Demo: Agent Legibility Score\n21:53 Harness Engineering\n32:32 Customer Spotlight: Basis\n47:57 Q&A",
+      "duration": "PT1H59S",
+      "view_count": 24040,
+      "like_count": 525,
+      "comment_count": 78,
+      "url": "https://www.youtube.com/watch?v=rhsSqr0jdFw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-16T17:32:48Z",
+    "count": 5
+  }
+}
