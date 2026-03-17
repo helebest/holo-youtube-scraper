@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-03-18",
+  "result": [
+    {
+      "id": "nc0oIVfpSqo",
+      "title": "Perplexity’s New “Computer” Feature is Kind of Insane",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-17T14:50:08Z",
+      "description": "Perplexity is apparently giving people a dedicated Mac Mini to run their AI agents on 24/7.\n\nIt's available now on the paid plans, and this video shows just a teaser of all the cool things you can build with it.\n\nWhat would you build with Perplexity Computer?\n\n#AI #AItools #Ainews #Perplexity",
+      "duration": "PT1M9S",
+      "view_count": 1088,
+      "like_count": 29,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=nc0oIVfpSqo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "JyWdgDcsmbk",
+      "title": "The REAL Story from NVIDIA GTC This Week!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-17T06:27:28Z",
+      "description": "Sharing what I found interesting from Day 1 of NVIDIA GTC.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT10M12S",
+      "view_count": 8859,
+      "like_count": 517,
+      "comment_count": 73,
+      "url": "https://www.youtube.com/watch?v=JyWdgDcsmbk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "W4iSvbg4f68",
+      "title": "Claude Just Dropped A Huge New Feature",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-16T13:05:30Z",
+      "description": "Send this to someone who would find it useful!\n\nClaude can now generate interactive charts, timelines, and visualizations from a single prompt.\n\nYou can adjust sliders, explore data, and interact with the results.\n\nAnd yes — you can even use it on the free plan.\n\nBut just make sure to fact-check the numbers...\n\nFor all the latest AI updates, releases, and news, check out my latest AI news video on YouTube (link in bio).\n\n#ai #ainews #claude #datatools",
+      "duration": "PT1M2S",
+      "view_count": 10239,
+      "like_count": 336,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=W4iSvbg4f68",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "Yd10X5VyMng",
+      "title": "This New Feature Is A Big Deal For Creatives",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-15T12:59:24Z",
+      "description": "This new AI feature from Canva is actually amazing for creatives.\n\nThey just launched Magic Layers — and it can take ANY image and automatically break it into editable layers.\n\nSo if you have a real or AI generated image, Canva can separate things like the background, objects, people, or individual elements.\n\nThen you can rearrange, resize, or completely recompose the image like it was originally built in layers.\n\nThat means you can generate one AI image and then turn it into multiple thumbnails, ads, or designs without starting over.\n\nHonestly, if you make YouTube thumbnails, ads, or social content, this is a feature you’ll want to know about.\n\n#ai #canva #aitools #contentcreation #ainews",
+      "duration": "PT57S",
+      "view_count": 18085,
+      "like_count": 770,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=Yd10X5VyMng",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "3B1c6Kq_aY0",
+      "title": "Claude Just Rolled Out 2 Big New Features",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-13T20:04:18Z",
+      "description": "Claude just rolled out 2 new features for developers. \n\nYou can now run scheduled tasks and do AI-powered code reviews inside Claude Code.\n\nThe new review system actually sends a team of AI agents to analyze your code and finding bugs, verify them, then rank them by severity.\n\nApparently this is the same system Anthropic has been using internally for months to review their own code.\n\nWould you use either of these new features? \n\n#ai #claude #anthropic #ainews #developertools",
+      "duration": "PT47S",
+      "view_count": 15004,
+      "like_count": 306,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=3B1c6Kq_aY0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-17T17:33:06Z",
+    "count": 5
+  }
+}
