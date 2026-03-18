@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Lex Fridman",
+    "tier": "tier1_kol_interview",
+    "handle": "@lexfridman",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCSHZKyawb77ixDdsGog4iWA"
+  },
+  "date": "2026-03-19",
+  "result": [
+    {
+      "id": "H9rF1CSSh-w",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "channel_title": "Lex Fridman",
+      "published_at": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama - available to wishlist on Steam today, with alpha later in March.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep493-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/jeff-kaplan-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nThe Legend of California (Steam Page): https://store.steampowered.com/app/2550530/The_Legend_of_California\nJeff's Game Studio: https://www.kintsugiyama.com/\n\n*SPONSORS:*\nTo support this podcast, check out our sponsors & get discounts:\n*Fin:* AI agent for customer service.\nGo to https://lexfridman.com/s/fin-ep493-sb\n*Blitzy:* AI agent for large enterprise codebases.\nGo to https://lexfridman.com/s/blitzy-ep493-sb\n*BetterHelp:* Online therapy and counseling.\nGo to https://lexfridman.com/s/betterhelp-ep493-sb\n*Shopify:* Sell stuff online.\nGo to https://lexfridman.com/s/shopify-ep493-sb\n*CodeRabbit:* AI-powered code reviews.\nGo to https://lexfridman.com/s/coderabbit-ep493-sb\n*Perplexity:* AI-powered answer engine.\nGo to https://lexfridman.com/s/perplexity-ep493-sb\n\n*OUTLINE:*\n0:00 - Episode highlight\n1:27 - Introduction\n4:07 - Early games: Pac-Man, Zork, Doom, Quake\n18:33 - Writing career - 170 rejection letters\n34:06 - EverQuest obsession\n47:04 - Getting hired at Blizzard\n1:02:32 - Lowest point in Jeff's life\n1:08:37 - One of Us\n1:12:54 - Early Blizzard culture\n1:32:36 - Building World of Warcraft\n1:50:20 - How WoW changed video games\n2:07:42 - Single-player vs Multi-player\n2:28:35 - How Blizzard made great video games\n2:54:25 - Online toxicity\n3:01:59 - Why Titan failed\n3:19:09 - Overwatch in six weeks\n3:46:07 - Best Overwatch heroes\n3:54:37 - The challenge of matchmaking\n3:58:01 - Rust\n4:08:22 - Why Jeff left Blizzard\n4:30:35 - Diablo IV\n4:32:03 - Getting back to making video games\n4:40:59 - The Legend of California\n4:54:44 - Greatest video game of all time\n5:02:51 - AI and future of video games\n\n*PODCAST LINKS:*\n- Podcast Website: https://lexfridman.com/podcast\n- Apple Podcasts: https://apple.co/2lwqZIr\n- Spotify: https://spoti.fi/2nEwCF8\n- RSS: https://lexfridman.com/feed/podcast/\n- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n- Clips Channel: https://www.youtube.com/lexclips\n\n*SOCIAL LINKS:*\n- X: https://x.com/lexfridman\n- Instagram: https://instagram.com/lexfridman\n- TikTok: https://tiktok.com/@lexfridman\n- LinkedIn: https://linkedin.com/in/lexfridman\n- Facebook: https://facebook.com/lexfridman\n- Patreon: https://patreon.com/lexfridman\n- Telegram: https://t.me/lexfridman\n- Reddit: https://reddit.com/r/lexfridman",
+      "duration": "PT5H10M12S",
+      "view_count": 588165,
+      "like_count": 21472,
+      "comment_count": 3402,
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "SHlrUAkkWI0",
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "channel_title": "Lex Fridman",
+      "published_at": "2026-03-03T12:30:21Z",
+      "description": "Training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was truly an honor for me 🙏 Full video is on YouTube.",
+      "duration": "PT2M57S",
+      "view_count": 43743,
+      "like_count": 1046,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "1SJiTwbSI58",
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "channel_title": "Lex Fridman",
+      "published_at": "2026-03-01T03:37:44Z",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello & piano. His incredible YouTube channel celebrates great musicians & musical ideas, and helps millions of people fall in love with great music all over again.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep492-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/rick-beato-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nRick's YouTube: https://youtube.com/RickBeato\nRick's X: https://x.com/rickbeato\nRick's Instagram: https://instagram.com/rickbeato1\nRick's Website: https://rickbeato.com\nRick's Ear Training: https://beatoeartraining.com\nThe Beato Book: https://beatobook.com\n\n*SPONSORS:*\nTo support this podcast, check out our sponsors & get discounts:\n*UPLIFT Desk:* Standing desks and office ergonomics.\nGo to https://lexfridman.com/s/uplift_desk-ep492-sb\n*BetterHelp:* Online therapy and counseling.\nGo to https://lexfridman.com/s/betterhelp-ep492-sb\n*LMNT:* Zero-sugar electrolyte drink mix.\nGo to https://lexfridman.com/s/lmnt-ep492-sb\n*Fin:* AI agent for customer service.\nGo to https://lexfridman.com/s/fin-ep492-sb\n*Shopify:* Sell stuff online.\nGo to https://lexfridman.com/s/shopify-ep492-sb\n*Perplexity:* AI-powered answer engine.\nGo to https://lexfridman.com/s/perplexity-ep492-sb\n\n*OUTLINE:*\n0:00 - Introduction\n0:44 - Guitar solos\n4:43 - Gypsy jazz and Django Reinhardt\n6:14 - Bebop jazz\n10:27 - Perfect pitch vs relative pitch\n15:04 - Learning to play guitar\n38:34 - Miles Davis\n44:01 - Bass guitar\n45:08 - Greatest guitar solos of all time\n1:14:23 - 27 Club\n1:19:04 - Elton John\n1:22:18 - Metallica\n1:26:48 - Tom Waits\n1:32:39 - Greatest rock stars\n1:36:02 - Beethoven\n1:42:37 - Bach\n1:45:27 - AI in music\n1:59:18 - Sabrina Carpenter\n2:02:49 - YouTube copyright strikes\n2:08:26 - Spotify\n2:19:18 - Guitars\n2:23:40 - Advice\n\n*PODCAST LINKS:*\n- Podcast Website: https://lexfridman.com/podcast\n- Apple Podcasts: https://apple.co/2lwqZIr\n- Spotify: https://spoti.fi/2nEwCF8\n- RSS: https://lexfridman.com/feed/podcast/\n- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n- Clips Channel: https://www.youtube.com/lexclips\n\n*SOCIAL LINKS:*\n- X: https://x.com/lexfridman\n- Instagram: https://instagram.com/lexfridman\n- TikTok: https://tiktok.com/@lexfridman\n- LinkedIn: https://linkedin.com/in/lexfridman\n- Facebook: https://facebook.com/lexfridman\n- Patreon: https://patreon.com/lexfridman\n- Telegram: https://t.me/lexfridman\n- Reddit: https://reddit.com/r/lexfridman",
+      "duration": "PT2H33M48S",
+      "view_count": 385012,
+      "like_count": 12146,
+      "comment_count": 1763,
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "KGVpKPNUdzA",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "channel_title": "Lex Fridman",
+      "published_at": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was truly an honor for me 🙏\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/mv577-sb\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nKhabib's Instagram: https://www.instagram.com/khabib_nurmagomedov/\nKhabib's YouTube: https://www.youtube.com/@KhabibTheEagle\nKhabib's X: https://x.com/TeamKhabib\nKhabib's Telegram: https://t.me/khabib_nurmagomedov\nKhabib's Facebook: https://facebook.com/KhabibTheEagle\nDominance MMA: https://dominancemma.com/\nUFC PI: https://www.ufcpi.com/\n\n*SPONSORS:*\nTo support this podcast, check out our sponsors & get discounts:\n*LMNT:* Zero-sugar electrolyte drink mix.\nGo to https://lexfridman.com/s/lmnt-mv577-sb\n\n*OUTLINE:*\n0:00 - Training with Khabib Nurmagomedov\n1:18 - Lex training with Khabib - Round 1\n9:11 - Khabib vs Glover Teixeira\n9:45 - Lex training with Khabib - Round 2\n18:09 - Khabib training philosophy\n\n*PODCAST LINKS:*\n- Podcast Website: https://lexfridman.com/podcast\n- Apple Podcasts: https://apple.co/2lwqZIr\n- Spotify: https://spoti.fi/2nEwCF8\n- RSS: https://lexfridman.com/feed/podcast/\n- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n- Clips Channel: https://www.youtube.com/lexclips\n\n*SOCIAL LINKS:*\n- X: https://x.com/lexfridman\n- Instagram: https://instagram.com/lexfridman\n- TikTok: https://tiktok.com/@lexfridman\n- LinkedIn: https://linkedin.com/in/lexfridman\n- Facebook: https://facebook.com/lexfridman\n- Patreon: https://patreon.com/lexfridman\n- Telegram: https://t.me/lexfridman\n- Reddit: https://reddit.com/r/lexfridman",
+      "duration": "PT22M9S",
+      "view_count": 621254,
+      "like_count": 18345,
+      "comment_count": 2262,
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "YFjfBk8HI5o",
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "channel_title": "Lex Fridman",
+      "published_at": "2026-02-12T03:07:03Z",
+      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub history.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep491-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/peter-steinberger-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nPeter's X: https://x.com/steipete\nPeter's GitHub: https://github.com/steipete\nPeter's Website: https://steipete.com\nPeter's LinkedIn: https://www.linkedin.com/in/steipete\nOpenClaw Website: https://openclaw.ai\nOpenClaw GitHub: https://github.com/openclaw/openclaw\nOpenClaw Discord: https://discord.gg/openclaw\n\n*SPONSORS:*\nTo support this podcast, check out our sponsors & get discounts:\n*Perplexity:* AI-powered answer engine.\nGo to https://lexfridman.com/s/perplexity-ep491-sb\n*Quo:* Phone system (calls, texts, contacts) for businesses.\nGo to https://lexfridman.com/s/quo-ep491-sb\n*CodeRabbit:* AI-powered code reviews.\nGo to https://lexfridman.com/s/coderabbit-ep491-sb\n*Fin:* AI agent for customer service.\nGo to https://lexfridman.com/s/fin-ep491-sb\n*Blitzy:* AI agent for large enterprise codebases.\nGo to https://lexfridman.com/s/blitzy-ep491-sb\n*Shopify:* Sell stuff online.\nGo to https://lexfridman.com/s/shopify-ep491-sb\n*LMNT:* Zero-sugar electrolyte drink mix.\nGo to https://lexfridman.com/s/lmnt-ep491-sb\n\n*OUTLINE:*\n0:00 - Episode highlight\n1:30 - Introduction\n5:36 - OpenClaw origin story\n8:55 - Mind-blowing moment\n18:22 - Why OpenClaw went viral\n22:19 - Self-modifying AI agent\n27:04 - Name-change drama\n44:15 - Moltbook saga\n52:34 - OpenClaw security concerns\n1:01:14 - How to code with AI agents\n1:32:09 - Programming setup\n1:38:52 - GPT Codex 5.3 vs Claude Opus 4.6\n1:47:59 - Best AI agent for programming\n2:09:59 - Life story and career advice\n2:13:56 - Money and happiness\n2:17:49 - Acquisition offers from OpenAI and Meta\n2:34:58 - How OpenClaw works\n2:46:17 - AI slop\n2:52:20 - AI agents will replace 80% of apps\n3:00:57 - Will AI replace programmers?\n3:12:57 - Future of OpenClaw community\n\n*PODCAST LINKS:*\n- Podcast Website: https://lexfridman.com/podcast\n- Apple Podcasts: https://apple.co/2lwqZIr\n- Spotify: https://spoti.fi/2nEwCF8\n- RSS: https://lexfridman.com/feed/podcast/\n- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n- Clips Channel: https://www.youtube.com/lexclips\n\n*SOCIAL LINKS:*\n- X: https://x.com/lexfridman\n- Instagram: https://instagram.com/lexfridman\n- TikTok: https://tiktok.com/@lexfridman\n- LinkedIn: https://linkedin.com/in/lexfridman\n- Facebook: https://facebook.com/lexfridman\n- Patreon: https://patreon.com/lexfridman\n- Telegram: https://t.me/lexfridman\n- Reddit: https://reddit.com/r/lexfridman",
+      "duration": "PT3H15M52S",
+      "view_count": 1034175,
+      "like_count": 20058,
+      "comment_count": 2254,
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-18T17:33:21Z",
+    "count": 5
+  }
+}

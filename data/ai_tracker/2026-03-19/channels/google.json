@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-03-19",
+  "result": [
+    {
+      "id": "62UIFZXHDBE",
+      "title": "The Check Up with Google 2026",
+      "channel_title": "Google",
+      "published_at": "2026-03-17T16:35:51Z",
+      "description": "Hear from our Chief Health Officer Dr. Michael Howell and teams across Google will share how we’re bringing together new AI research, technological innovations, and partnerships to help address some of the world's most pressing health challenges.\n\nLearn more: https://health.google/the-check-up/\n\nWatch more videos from Google on Health and subscribe to our channel: https://yt.be/health-playlist",
+      "duration": "PT1H22M",
+      "view_count": 28321,
+      "like_count": 1308,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=62UIFZXHDBE",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "CpaGFQJ0rQo",
+      "title": "Happy St. Patrick’s Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-03-17T16:09:24Z",
+      "description": "Happy St. Patrick’s Day ☘️ Whether it’s honoring history or enjoying the communal spirit, today’s #GoogleDoodle is all about celebrating Irish pride.",
+      "duration": "PT7S",
+      "view_count": 2531,
+      "like_count": 73,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=CpaGFQJ0rQo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "_HKnEzkxrHo",
+      "title": "Can AI help solve the NHS backlog?",
+      "channel_title": "Google",
+      "published_at": "2026-03-13T17:11:22Z",
+      "description": "Breast cancer affects 1 in 8 women, and in the UK, staff shortages lead to a backlog of people waiting for mammography scans. Google partnered with Imperial College London and three NHS trusts to see if AI can help reduce the overall workload for radiologists, allowing them to focus their care on patients who need it the most.\n\nThis is an investigational AI tool not yet approved for clinical use; it is not intended to replace professional medical judgment. All imagery has been de-identified per data protection legislation.",
+      "duration": "PT1M17S",
+      "view_count": 15775,
+      "like_count": 437,
+      "comment_count": 59,
+      "url": "https://www.youtube.com/watch?v=_HKnEzkxrHo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "vZe0wfzMP34",
+      "title": "Group trip planning made easy with Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-03-12T23:44:44Z",
+      "description": "Planning a group trip can be taxing. There’s so much coordination to do across different docs, emails, and… personalities. Here’s how Gemini in Google Docs can make planning the vacation actually feel like vacation. #GoogleGemini #GoogleDocs",
+      "duration": "PT31S",
+      "view_count": 8966,
+      "like_count": 135,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=vZe0wfzMP34",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "Lb4jpHoZTjs",
+      "title": "Platform 37: Google’s New AI Innovation Space in London",
+      "channel_title": "Google",
+      "published_at": "2026-03-12T16:04:15Z",
+      "description": "Today, we’re unveiling the name of Google’s landmark King’s Cross building in London, Platform 37, and plans for The AI Exchange, a new public space dedicated to deepening understanding of artificial intelligence.\n\nThe name is a nod to the building’s location next to Kings Cross station—and to ‘Move 37’, a pivotal play made by DeepMind’s AI system AlphaGo in a now legendary 2016 match against Go world champion Lee Sae Dol. Go is incredibly complex, with more possible board configurations than the number of atoms in the known universe, and has long been a proving ground for AI research. \n\nPlatform 37 is Google’s most ambitious and innovative building to date. Learn more: https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange/\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M47S",
+      "view_count": 42456,
+      "like_count": 1510,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=Lb4jpHoZTjs",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-18T17:34:06Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-19",
+  "result": [
+    {
+      "id": "d2311ela3C8",
+      "title": "The Medici Were Too Scared to Walk Their Own Streets - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-17T23:12:34Z",
+      "description": "",
+      "duration": "PT1M46S",
+      "view_count": 319882,
+      "like_count": 13499,
+      "comment_count": 263,
+      "url": "https://www.youtube.com/watch?v=d2311ela3C8",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "K7_0_WfILIs",
+      "title": "How the Medici Family Controlled Florence - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-16T19:09:19Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 125071,
+      "like_count": 3830,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=K7_0_WfILIs",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "bGM-pmPjANk",
+      "title": "The Internet Revolution Has Happened Before - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-15T22:19:55Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 53508,
+      "like_count": 2303,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=bGM-pmPjANk",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "EFJMTj7z-Hw",
+      "title": "Why the Vatican Never Conquered Italy - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-14T18:35:56Z",
+      "description": "",
+      "duration": "PT1M24S",
+      "view_count": 179241,
+      "like_count": 5868,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=EFJMTj7z-Hw",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "B23p6O_GIMA",
+      "title": "The Biggest Myth About Technological Progress - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-13T19:44:51Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 83953,
+      "like_count": 1934,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=B23p6O_GIMA",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-18T17:33:27Z",
+    "count": 5
+  }
+}
