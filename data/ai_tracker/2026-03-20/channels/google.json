@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-03-20",
+  "result": [
+    {
+      "id": "2PTGSlb4sPg",
+      "title": "3 clever ways to learn new skills using your webcam and Gemini.",
+      "channel_title": "Google",
+      "published_at": "2026-03-18T21:43:47Z",
+      "description": "From sign language tutors to live stream simulators, here are 3 clever ways the community is building with Gemini to learn new skills.  #GoogleGemini #Gemini3",
+      "duration": "PT52S",
+      "view_count": 4794,
+      "like_count": 211,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=2PTGSlb4sPg",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "62UIFZXHDBE",
+      "title": "The Check Up with Google 2026",
+      "channel_title": "Google",
+      "published_at": "2026-03-17T16:35:51Z",
+      "description": "Hear from our Chief Health Officer Dr. Michael Howell and teams across Google will share how we’re bringing together new AI research, technological innovations, and partnerships to help address some of the world's most pressing health challenges.\n\nLearn more: https://health.google/the-check-up/\n\nWatch more videos from Google on Health and subscribe to our channel: https://yt.be/health-playlist",
+      "duration": "PT1H22M",
+      "view_count": 37344,
+      "like_count": 1405,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=62UIFZXHDBE",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "CpaGFQJ0rQo",
+      "title": "Happy St. Patrick’s Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-03-17T16:09:24Z",
+      "description": "Happy St. Patrick’s Day ☘️ Whether it’s honoring history or enjoying the communal spirit, today’s #GoogleDoodle is all about celebrating Irish pride.",
+      "duration": "PT7S",
+      "view_count": 4491,
+      "like_count": 127,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=CpaGFQJ0rQo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "_HKnEzkxrHo",
+      "title": "Can AI help solve the NHS backlog?",
+      "channel_title": "Google",
+      "published_at": "2026-03-13T17:11:22Z",
+      "description": "Breast cancer affects 1 in 8 women, and in the UK, staff shortages lead to a backlog of people waiting for mammography scans. Google partnered with Imperial College London and three NHS trusts to see if AI can help reduce the overall workload for radiologists, allowing them to focus their care on patients who need it the most.\n\nThis is an investigational AI tool not yet approved for clinical use; it is not intended to replace professional medical judgment. All imagery has been de-identified per data protection legislation.",
+      "duration": "PT1M17S",
+      "view_count": 17021,
+      "like_count": 454,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=_HKnEzkxrHo",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    },
+    {
+      "id": "vZe0wfzMP34",
+      "title": "Group trip planning made easy with Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-03-12T23:44:44Z",
+      "description": "Planning a group trip can be taxing. There’s so much coordination to do across different docs, emails, and… personalities. Here’s how Gemini in Google Docs can make planning the vacation actually feel like vacation. #GoogleGemini #GoogleDocs",
+      "duration": "PT31S",
+      "view_count": 9771,
+      "like_count": 148,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=vZe0wfzMP34",
+      "transcript": null,
+      "transcript_language": null,
+      "transcript_error": "Transcript requests are blocked from the current IP."
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-19T17:29:36Z",
+    "count": 5
+  }
+}
