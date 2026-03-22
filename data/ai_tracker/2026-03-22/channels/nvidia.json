@@ -20,8 +20,8 @@
       "published_at": "2026-03-20T23:28:23Z",
       "description": "Catch up on how CEO Jensen Huang’s keynote lit the fuse on a new era of token-powered, full‑stack AI — from CUDA to Vera Rubin, Feynman and OpenClaw.\n\nFrom the inflection point of inference to agentic AI to the data center, get the highlights of Jensen’s talk and the go deep by watching full replay or GTC sessions on demand.\n\nwww.nvidia.com/gtc/keynote\n\n#NVIDIAGTC #AgenticAI #NVIDIAAI",
       "duration": "PT4M42S",
-      "view_count": 15219,
-      "like_count": 373,
+      "view_count": 15227,
+      "like_count": 372,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=kDd24YOeqQQ"
     },
@@ -44,7 +44,7 @@
       "published_at": "2026-03-20T20:54:02Z",
       "description": "At GTC, NVIDIA made NVQLink publicly available through a new application programming interface (API) called cudaq-realtime — and shared demonstrations advancing the state-of-the-art in quantum error correction. Hear Nicholas Harrigan, product marketing manager for quantum computing at NVIDIA, explain why quantum processors needs GPU supercomputers.",
       "duration": "PT1M49S",
-      "view_count": 11948,
+      "view_count": 11950,
       "like_count": 383,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=CYLn56Vc2XA"
@@ -56,7 +56,7 @@
       "published_at": "2026-03-20T15:56:53Z",
       "description": "This video showcases four capabilities of NVIDIA Alpamayo, the reasoning vision language action model:\n\n- Chain-of-Thought: Alpamayo continuously reasons through its observations, conclusions, and decisions, improving driving while making its decision process more transparent.\n- Verbalized Reasoning: In complex situations, the car selectively explains its reasoning aloud, giving passengers insight into the AI’s decisions and helping to build trust.\n- Natural Language Q&A: Riders can ask questions about the car’s behavior or the surrounding environment, and Alpamayo responds in real time.\n- Language Instructions and Commands: Passengers can request actions such as changing lanes, speeding up, taking a detour, or pulling over, and Alpamayo performs them naturally.\n\nTogether, these capabilities create a safe, transparent, and interactive driving experience.\n\nLearn More: https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/\n\n#AutonomousVehicles #PhysicalAI #NVIDIADRIVE",
       "duration": "PT3M45S",
-      "view_count": 6455,
+      "view_count": 6457,
       "like_count": 337,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=5EEYgxoT8kc"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-22T11:29:10Z",
+    "generated_at": "2026-03-22T11:33:43Z",
     "count": 5
   }
 }
