@@ -23,10 +23,7 @@
       "view_count": 408,
       "like_count": 5,
       "comment_count": 1,
-      "url": "https://www.youtube.com/watch?v=sY6aClejCcw",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
+      "url": "https://www.youtube.com/watch?v=sY6aClejCcw"
     },
     {
       "id": "Xm7tBQP8lCY",
@@ -38,10 +35,7 @@
       "view_count": 220,
       "like_count": 1,
       "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=Xm7tBQP8lCY",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
+      "url": "https://www.youtube.com/watch?v=Xm7tBQP8lCY"
     },
     {
       "id": "Hvirsnbogwg",
@@ -53,10 +47,7 @@
       "view_count": 139,
       "like_count": 2,
       "comment_count": 1,
-      "url": "https://www.youtube.com/watch?v=Hvirsnbogwg",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
+      "url": "https://www.youtube.com/watch?v=Hvirsnbogwg"
     },
     {
       "id": "k5Ia7t3JoMw",
@@ -68,10 +59,7 @@
       "view_count": 1352,
       "like_count": 1,
       "comment_count": 2,
-      "url": "https://www.youtube.com/watch?v=k5Ia7t3JoMw",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
+      "url": "https://www.youtube.com/watch?v=k5Ia7t3JoMw"
     },
     {
       "id": "T2E4ctldKuU",
@@ -83,15 +71,12 @@
       "view_count": 25,
       "like_count": 0,
       "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=T2E4ctldKuU",
-      "transcript": null,
-      "transcript_language": null,
-      "transcript_error": "Transcript requests are blocked from the current IP."
+      "url": "https://www.youtube.com/watch?v=T2E4ctldKuU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-22T05:35:26Z",
+    "generated_at": "2026-03-22T09:21:26Z",
     "count": 5
   }
 }
