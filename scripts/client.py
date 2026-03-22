@@ -5,16 +5,28 @@ import re
 import httplib2
 from googleapiclient.discovery import build
 
-from youtube_scraper.config import (
-    API_REQUEST_RETRIES,
-    API_REQUEST_TIMEOUT_SECONDS,
-    PLAYLIST_PAGE_SIZE,
-    VIDEO_BATCH_SIZE,
-    DEFAULT_MAX_RESULTS,
-    DEFAULT_TOP_N,
-    get_api_key,
-)
-from youtube_scraper.models import ChannelInfo, VideoInfo
+try:
+    from .config import (
+        API_REQUEST_RETRIES,
+        API_REQUEST_TIMEOUT_SECONDS,
+        DEFAULT_MAX_RESULTS,
+        DEFAULT_TOP_N,
+        PLAYLIST_PAGE_SIZE,
+        VIDEO_BATCH_SIZE,
+        get_api_key,
+    )
+    from .models import ChannelInfo, VideoInfo
+except ImportError:  # pragma: no cover - direct script execution path
+    from config import (  # type: ignore
+        API_REQUEST_RETRIES,
+        API_REQUEST_TIMEOUT_SECONDS,
+        DEFAULT_MAX_RESULTS,
+        DEFAULT_TOP_N,
+        PLAYLIST_PAGE_SIZE,
+        VIDEO_BATCH_SIZE,
+        get_api_key,
+    )
+    from models import ChannelInfo, VideoInfo  # type: ignore
 
 
 def sanitize_error_message(message: str) -> str:

@@ -1,17 +1,13 @@
-"""Tests for scripts/youtube_automation.py."""
+"""Tests for automation/youtube_automation.py."""
 
 import json
-import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 from unittest.mock import patch
 
 import pytest
 
-# The script lives under scripts/ which isn't a package; import helpers directly.
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
-
-from youtube_automation import (
+from automation.youtube_automation import (
     AutomationConfigError,
     ChannelTarget,
     FetchConfig,
@@ -95,8 +91,8 @@ class TestTimezoneDateCalculation:
         now_utc = datetime(2026, 3, 11, 20, 0, 0, tzinfo=timezone.utc)
 
         with (
-            patch("youtube_automation._build_service"),
-            patch("youtube_automation._latest_full_for_channel", return_value=[]),
+            patch("automation.youtube_automation._build_service"),
+            patch("automation.youtube_automation._latest_full_for_channel", return_value=[]),
         ):
             result = execute_task(
                 task,
@@ -106,7 +102,7 @@ class TestTimezoneDateCalculation:
 
         assert result.date == "2026-03-12"
 
-        from youtube_automation import compute_task_plan
+        from automation.youtube_automation import compute_task_plan
 
         plan = compute_task_plan(task, output_root=Path("/tmp/test"), now_utc=now_utc)
         assert plan["date"] == result.date
@@ -120,13 +116,13 @@ class TestPlanRunConsistency:
         task = _make_task(name=task_name)
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
 
-        from youtube_automation import compute_task_plan
+        from automation.youtube_automation import compute_task_plan
 
         plan = compute_task_plan(task, output_root=tmp_path, now_utc=now_utc)
 
         with (
-            patch("youtube_automation._build_service"),
-            patch("youtube_automation._latest_full_for_channel", return_value=[]),
+            patch("automation.youtube_automation._build_service"),
+            patch("automation.youtube_automation._latest_full_for_channel", return_value=[]),
         ):
             result = execute_task(task, output_root=tmp_path, now_utc=now_utc)
 
@@ -139,13 +135,13 @@ class TestPlanRunConsistency:
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
         override = date(2026, 1, 1)
 
-        from youtube_automation import compute_task_plan
+        from automation.youtube_automation import compute_task_plan
 
         plan = compute_task_plan(task, output_root=tmp_path, run_date=override, now_utc=now_utc)
 
         with (
-            patch("youtube_automation._build_service"),
-            patch("youtube_automation._latest_full_for_channel", return_value=[]),
+            patch("automation.youtube_automation._build_service"),
+            patch("automation.youtube_automation._latest_full_for_channel", return_value=[]),
         ):
             result = execute_task(task, output_root=tmp_path, run_date=override, now_utc=now_utc)
 
@@ -163,7 +159,7 @@ class TestChannelsAllSkipped:
         task = _make_task(name="pending_test", mode="popular_full", channels=channels, video_ids=())
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
 
-        with patch("youtube_automation._build_service"):
+        with patch("automation.youtube_automation._build_service"):
             result = execute_task(task, output_root=tmp_path, now_utc=now_utc)
 
         s = result.summary
@@ -179,7 +175,7 @@ class TestChannelsAllSkipped:
         task = _make_task(name="disabled_test", mode="latest_full", channels=channels, video_ids=())
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
 
-        with patch("youtube_automation._build_service"):
+        with patch("automation.youtube_automation._build_service"):
             result = execute_task(task, output_root=tmp_path, now_utc=now_utc)
 
         s = result.summary
@@ -196,8 +192,8 @@ class TestChannelsAllSkipped:
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
 
         with (
-            patch("youtube_automation._build_service"),
-            patch("youtube_automation._popular_full_for_channel", return_value=[]),
+            patch("automation.youtube_automation._build_service"),
+            patch("automation.youtube_automation._popular_full_for_channel", return_value=[]),
         ):
             result = execute_task(task, output_root=tmp_path, now_utc=now_utc)
 
@@ -211,8 +207,8 @@ class TestAutomationPayloads:
     @pytest.mark.parametrize(
         ("mode", "patch_target"),
         [
-            ("latest_full", "youtube_automation._latest_full_for_channel"),
-            ("popular_full", "youtube_automation._popular_full_for_channel"),
+            ("latest_full", "automation.youtube_automation._latest_full_for_channel"),
+            ("popular_full", "automation.youtube_automation._popular_full_for_channel"),
         ],
     )
     def test_channel_payload_excludes_transcript_fields(self, mode, patch_target, tmp_path):
@@ -224,7 +220,7 @@ class TestAutomationPayloads:
         )
         now_utc = datetime(2026, 3, 11, 12, 0, 0, tzinfo=timezone.utc)
 
-        with patch("youtube_automation._build_service"), patch(
+        with patch("automation.youtube_automation._build_service"), patch(
             patch_target, return_value=[_make_video_payload()]
         ):
             result = execute_task(task, output_root=tmp_path, now_utc=now_utc)

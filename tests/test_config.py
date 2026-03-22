@@ -1,11 +1,11 @@
-"""Tests for youtube_scraper.config module."""
+"""Tests for scripts.config."""
 
 import os
 
 import pytest
 
-import youtube_scraper.config as cfg
-from youtube_scraper.config import get_api_key, _load_dotenv
+import scripts.config as cfg
+from scripts.config import _load_dotenv, get_api_key
 
 
 class TestGetApiKey:
@@ -14,37 +14,37 @@ class TestGetApiKey:
         assert get_api_key() == "my-secret-key"
 
     def test_raises_when_key_missing(self, tmp_path, monkeypatch):
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)  # Avoid loading real .env
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
         with pytest.raises(RuntimeError, match="YOUTUBE_API_KEY not set"):
             get_api_key()
 
     def test_raises_when_key_empty(self, tmp_path, monkeypatch):
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.setenv("YOUTUBE_API_KEY", "")
         with pytest.raises(RuntimeError, match="not set"):
             get_api_key()
 
-    def test_reads_dotenv_from_project_root_not_cwd(self, tmp_path, monkeypatch):
-        project_root = tmp_path / "project"
+    def test_reads_dotenv_from_skill_root_not_cwd(self, tmp_path, monkeypatch):
+        skill_root = tmp_path / "skill"
         other_dir = tmp_path / "other"
-        project_root.mkdir()
+        skill_root.mkdir()
         other_dir.mkdir()
-        (project_root / ".env").write_text("YOUTUBE_API_KEY=from-project-root\n")
+        (skill_root / ".env").write_text("YOUTUBE_API_KEY=from-skill-root\n")
         (other_dir / ".env").write_text("YOUTUBE_API_KEY=from-cwd\n")
 
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", project_root)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", skill_root)
         monkeypatch.chdir(other_dir)
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
 
-        assert get_api_key() == "from-project-root"
+        assert get_api_key() == "from-skill-root"
 
 
 class TestLoadDotenv:
     def test_loads_only_youtube_api_key(self, tmp_path, monkeypatch):
         env_file = tmp_path / ".env"
         env_file.write_text("YOUTUBE_API_KEY=from-file\nOTHER_KEY=should_not_be_loaded\n")
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
         monkeypatch.delenv("OTHER_KEY", raising=False)
 
@@ -55,7 +55,7 @@ class TestLoadDotenv:
     def test_does_not_override_existing_env(self, tmp_path, monkeypatch):
         env_file = tmp_path / ".env"
         env_file.write_text("YOUTUBE_API_KEY=from-file\n")
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.setenv("YOUTUBE_API_KEY", "from-env")
 
         _load_dotenv()
@@ -63,7 +63,7 @@ class TestLoadDotenv:
 
     def test_strips_quotes(self, tmp_path, monkeypatch):
         env_file = tmp_path / ".env"
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         # Only YOUTUBE_API_KEY should be loaded from .env
         env_file.write_text('YOUTUBE_API_KEY="double_quoted"\nUNUSED=\'single_quoted\'\n')
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
@@ -76,14 +76,14 @@ class TestLoadDotenv:
         monkeypatch.delenv("UNUSED", raising=False)
 
     def test_no_env_file_is_fine(self, tmp_path, monkeypatch):
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         _load_dotenv()  # Should not raise
 
     def test_idempotent(self, tmp_path, monkeypatch):
         """Calling _load_dotenv twice should not re-read the file."""
         env_file = tmp_path / ".env"
         env_file.write_text("YOUTUBE_API_KEY=first\n")
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
 
         _load_dotenv()
@@ -102,7 +102,7 @@ class TestLoadDotenv:
         """get_api_key() should lazily load .env."""
         env_file = tmp_path / ".env"
         env_file.write_text("YOUTUBE_API_KEY=from-dotenv\n")
-        monkeypatch.setattr(cfg, "PROJECT_ROOT", tmp_path)
+        monkeypatch.setattr(cfg, "SKILL_ROOT", tmp_path)
         monkeypatch.delenv("YOUTUBE_API_KEY", raising=False)
 
         assert get_api_key() == "from-dotenv"

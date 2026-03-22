@@ -1,54 +1,31 @@
-# GitHub Automation Tasks
+# GitHub Automation
 
-This project supports task-based YouTube monitoring in GitHub Actions.
+This repository keeps GitHub Actions automation separate from the deployed skill bundle.
 
-## Config file
+## Paths
 
-Task config is stored in `.github/youtube-tasks.yml`.
+- Workflow: `.github/workflows/youtube-automation.yml`
+- Runner: `automation/youtube_automation.py`
+- Config: `automation/tasks.yml`
 
-Current first task:
+## Supported task modes
 
-- `name`: `ai_tracker`
-- `mode`: `latest_full`
-- `schedule`: daily `21:00` (`Asia/Shanghai`)
-- `fetch.top_n`: `5` (per channel)
+- `latest_full`: fetch the newest uploads per channel
+- `popular_full`: fetch the most-viewed videos per channel
 
-## Mode options
-
-- `latest_full`: latest uploads per channel + transcripts.
-- `popular_full`: most-viewed videos per channel + transcripts.
-- `transcript_only`: transcript fetch for explicit `video_ids`.
+Automation no longer fetches transcripts and no longer supports `transcript_only`.
 
 ## Trigger modes
 
-Workflow: `.github/workflows/youtube-automation.yml`
+- `run_mode=all`: run all enabled tasks
+- `run_mode=due`: run only tasks whose schedule matches the current time
+- `run_mode=task`: run one named task
 
-Runner: `scripts/youtube_automation.py`
+## Output
 
-- `schedule`: hourly cron (`0 * * * *`), then task-level due check.
-- `workflow_dispatch` inputs:
-  - `run_mode`: `due | task | all`
-  - `task_name`: used when `run_mode=task`
-  - `run_date`: optional `YYYY-MM-DD`
-  - `dry_run`: run without branch push
-
-## Data branch strategy
-
-For each task run, target branch name is:
-
-- `data_<task_name>/<date>`
-
-For `ai_tracker` on `2026-03-08`:
-
-- `data_ai_tracker/2026-03-08`
-
-Output files are written to:
+Each task run writes:
 
 - `data/<task_name>/<date>/manifest.json`
 - `data/<task_name>/<date>/channels/*.json`
 
-## Required secret
-
-Set repository secret:
-
-- `YOUTUBE_API_KEY`
+The workflow also uploads artifact metadata as `metadata.json`.

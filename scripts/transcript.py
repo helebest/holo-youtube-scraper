@@ -1,5 +1,7 @@
 """Transcript extraction using youtube-transcript-api with YouTube Data API v3 fallback."""
 
+from __future__ import annotations
+
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import (
     AgeRestricted,
@@ -14,9 +16,14 @@ from youtube_transcript_api._errors import (
 
 from googleapiclient.discovery import build
 
-from youtube_scraper.client import sanitize_error_message
-from youtube_scraper import config as youtube_config
-from youtube_scraper.models import TranscriptResult
+try:
+    from . import config as youtube_config
+    from .client import sanitize_error_message
+    from .models import TranscriptResult
+except ImportError:  # pragma: no cover - direct script execution path
+    import config as youtube_config  # type: ignore
+    from client import sanitize_error_message  # type: ignore
+    from models import TranscriptResult  # type: ignore
 
 
 DEFAULT_LANGUAGES = ["zh-Hans", "zh", "en", "ja"]
@@ -80,9 +87,14 @@ def _get_transcript_via_api(video_id: str, languages: list[str]) -> TranscriptRe
 
         # Simple extraction: remove timestamps
         import re
+
         # Remove timestamp lines (00:00:00,000 --> 00:00:01,000)
-        cleaned_text = re.sub(r'\d{2}:\d{2}:\d{2},\d{3}\s*-->\s*\d{2}:\d{2}:\d{2},\d{3}\r?\n?', '', text)
-        cleaned_text = re.sub(r'\r?\n\r?\n', ' ', cleaned_text)
+        cleaned_text = re.sub(
+            r"\d{2}:\d{2}:\d{2},\d{3}\s*-->\s*\d{2}:\d{2}:\d{2},\d{3}\r?\n?",
+            "",
+            text,
+        )
+        cleaned_text = re.sub(r"\r?\n\r?\n", " ", cleaned_text)
         cleaned_text = cleaned_text.strip()
 
         if not cleaned_text:
@@ -95,7 +107,7 @@ def _get_transcript_via_api(video_id: str, languages: list[str]) -> TranscriptRe
             segments=[],
         )
 
-    except Exception as e:
+    except Exception:
         # Fallback failed too
         return None
 
@@ -149,8 +161,8 @@ def get_transcript(
             text=full_text,
             segments=segments,
         )
-    except Exception as e:
-        error_code, error_message = _normalize_error(e)
+    except Exception as exc:
+        error_code, error_message = _normalize_error(exc)
 
         # If blocked by IP, try fallback to YouTube Data API v3
         if error_code in ("REQUEST_BLOCKED", "IP_BLOCKED"):

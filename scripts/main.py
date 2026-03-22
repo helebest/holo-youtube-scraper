@@ -1,5 +1,7 @@
 """CLI entry point for youtube-scraper."""
 
+from __future__ import annotations
+
 import argparse
 import json
 import re
@@ -7,14 +9,29 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qs, urlparse
 
-from youtube_scraper.client import get_popular_videos, sanitize_error_message
-from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS
-from youtube_scraper.models import VideoWithTranscript
-from youtube_scraper.transcript import get_transcript, get_transcripts_batch
+try:
+    from .client import get_popular_videos, sanitize_error_message
+    from .config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS
+    from .models import VideoWithTranscript
+    from .transcript import get_transcript, get_transcripts_batch
+except ImportError:  # pragma: no cover - direct script execution path
+    from client import get_popular_videos, sanitize_error_message  # type: ignore
+    from config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS  # type: ignore
+    from models import VideoWithTranscript  # type: ignore
+    from transcript import get_transcript, get_transcripts_batch  # type: ignore
 
 DEFAULT_OUTPUT_DIR = "output"
 VALID_COMMANDS = {"popular", "transcript", "full"}
+VIDEO_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]{4,}$")
+YOUTUBE_HOSTS = {
+    "youtube.com",
+    "www.youtube.com",
+    "m.youtube.com",
+    "music.youtube.com",
+}
+SHORT_HOSTS = {"youtu.be", "www.youtu.be"}
 
 
 class CliFailure(Exception):
@@ -97,6 +114,16 @@ def _save_json(data: Any, output_dir: str, prefix: str) -> Path:
     return filepath
 
 
+def _save_text(text: str, output_dir: str, prefix: str) -> Path:
+    out_dir = Path(output_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"{_sanitize_filename_component(prefix)}_{timestamp}.txt"
+    filepath = out_dir / filename
+    filepath.write_text(text, encoding="utf-8")
+    return filepath
+
+
 def _build_meta(*, saved_to: Path | None = None, count: int | None = None) -> dict[str, Any]:
     meta: dict[str, Any] = {"generated_at": _utc_now_iso()}
     if saved_to is not None:
@@ -148,6 +175,45 @@ def _base_input(args: argparse.Namespace) -> dict[str, Any]:
     return {k: v for k, v in vars(args).items() if k != "command"}
 
 
+def _extract_video_id_from_url(value: str) -> str | None:
+    parsed = urlparse(value)
+    if parsed.scheme not in {"http", "https"}:
+        return None
+
+    host = parsed.netloc.lower()
+    path_parts = [part for part in parsed.path.split("/") if part]
+
+    if host in SHORT_HOSTS:
+        return path_parts[0] if path_parts else None
+
+    if host not in YOUTUBE_HOSTS:
+        return None
+
+    if parsed.path == "/watch":
+        query = parse_qs(parsed.query)
+        video_id = query.get("v", [None])[0]
+        return video_id
+
+    if len(path_parts) >= 2 and path_parts[0] == "shorts":
+        return path_parts[1]
+
+    return None
+
+
+def resolve_video_reference(video_ref: str) -> str:
+    value = video_ref.strip()
+    if not value:
+        raise ValueError("video reference cannot be empty")
+    if VIDEO_ID_PATTERN.fullmatch(value):
+        return value
+
+    resolved = _extract_video_id_from_url(value)
+    if resolved and VIDEO_ID_PATTERN.fullmatch(resolved):
+        return resolved
+
+    raise ValueError(f"Could not extract a video ID from '{video_ref}'.")
+
+
 def cmd_popular(args: argparse.Namespace) -> dict[str, Any]:
     videos = get_popular_videos(
         args.channel_id,
@@ -184,10 +250,25 @@ def cmd_popular(args: argparse.Namespace) -> dict[str, Any]:
 
 def cmd_transcript(args: argparse.Namespace) -> dict[str, Any]:
     languages = _parse_languages(args.lang)
-    transcript = get_transcript(args.video_id, languages=languages)
+    try:
+        resolved_video_id = resolve_video_reference(args.video_ref)
+    except ValueError as exc:
+        raise CliFailure(
+            _error_payload(
+                command="transcript",
+                input_data={"video_ref": args.video_ref},
+                error_type="ArgumentError",
+                error_code="INVALID_ARGUMENTS",
+                message=str(exc),
+            ),
+            exit_code=2,
+        ) from exc
+
+    transcript = get_transcript(resolved_video_id, languages=languages)
 
     input_data = {
-        "video_id": args.video_id,
+        "video_ref": args.video_ref,
+        "video_id": resolved_video_id,
         "languages": languages,
         "output_dir": (args.output or DEFAULT_OUTPUT_DIR) if args.output is not None else None,
         "json": args.json,
@@ -209,7 +290,7 @@ def cmd_transcript(args: argparse.Namespace) -> dict[str, Any]:
     saved_to: Path | None = None
     if args.output is not None:
         output_dir = args.output or DEFAULT_OUTPUT_DIR
-        saved_to = _save_json(result, output_dir, f"transcript_{args.video_id}")
+        saved_to = _save_text(transcript.text or "", output_dir, f"transcript_{resolved_video_id}")
 
     return _success_payload(
         "transcript",
@@ -272,7 +353,7 @@ def _build_parser() -> JsonArgumentParser:
         epilog=(
             "Examples:\n"
             "  youtube-scraper popular <CHANNEL_ID> --top 5\n"
-            "  youtube-scraper transcript <VIDEO_ID> --lang <LANG_CODES>\n"
+            "  youtube-scraper transcript <VIDEO_ID_OR_URL> --lang <LANG_CODES>\n"
             "  youtube-scraper full <CHANNEL_ID> --top 3 --lang <LANG_CODES>\n"
         ),
     )
@@ -308,16 +389,26 @@ def _build_parser() -> JsonArgumentParser:
     p_transcript = subparsers.add_parser(
         "transcript",
         help="Fetch transcript for a video",
-        description="Fetch transcript for <VIDEO_ID>.",
+        description="Fetch transcript for <VIDEO_ID_OR_URL>.",
     )
-    p_transcript.add_argument("video_id", metavar="<VIDEO_ID>", help="YouTube video ID")
+    p_transcript.add_argument(
+        "video_ref",
+        metavar="<VIDEO_ID_OR_URL>",
+        help="YouTube video ID or video URL",
+    )
     p_transcript.add_argument("--lang", default=None, help="Comma-separated language codes, e.g. en,zh")
     p_transcript.add_argument(
         "--json",
         action="store_true",
         help="No-op flag kept for compatibility. Output is always JSON envelope.",
     )
-    p_transcript.add_argument("--output", nargs="?", const="", default=None, help="Save raw result JSON to directory")
+    p_transcript.add_argument(
+        "--output",
+        nargs="?",
+        const="",
+        default=None,
+        help="Save transcript text to directory",
+    )
 
     p_full = subparsers.add_parser(
         "full",

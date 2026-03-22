@@ -1,13 +1,14 @@
-"""Tests for youtube_scraper.cli module."""
+"""Tests for scripts.main."""
 
 import json
+from pathlib import Path
 from unittest.mock import patch
 
 import pytest
 
-from youtube_scraper.cli import main
-from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS
-from youtube_scraper.models import TranscriptResult, VideoInfo
+from scripts.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS
+from scripts.main import main, resolve_video_reference
+from scripts.models import TranscriptResult, VideoInfo
 
 
 def _make_video_info(**overrides) -> VideoInfo:
@@ -28,7 +29,7 @@ def _make_video_info(**overrides) -> VideoInfo:
 
 
 class TestCliEnvelopePopular:
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_popular_videos")
     def test_success_envelope(self, mock_popular, capsys):
         mock_popular.return_value = [_make_video_info()]
         with patch("sys.argv", ["youtube-scraper", "popular", "UC_TEST", "--top", "1"]):
@@ -43,7 +44,7 @@ class TestCliEnvelopePopular:
         assert payload["meta"]["count"] == 1
         assert "generated_at" in payload["meta"]
 
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_popular_videos")
     def test_output_metadata_and_file(self, mock_popular, tmp_path, capsys):
         mock_popular.return_value = [_make_video_info()]
         with patch(
@@ -57,7 +58,7 @@ class TestCliEnvelopePopular:
         assert payload["meta"]["saved_to"]
         assert len(list(tmp_path.glob("*.json"))) == 1
 
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_popular_videos")
     def test_unexpected_error_envelope(self, mock_popular, capsys):
         mock_popular.side_effect = RuntimeError("boom")
         with patch("sys.argv", ["youtube-scraper", "popular", "UC_TEST"]):
@@ -72,7 +73,7 @@ class TestCliEnvelopePopular:
         assert payload["error"]["code"] == "UNEXPECTED_ERROR"
         assert payload["error"]["message"] == "boom"
 
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_popular_videos")
     def test_default_and_custom_network_args(self, mock_popular, capsys):
         mock_popular.return_value = []
         with patch("sys.argv", ["youtube-scraper", "popular", "UC_A"]):
@@ -104,7 +105,7 @@ class TestCliEnvelopePopular:
 
 
 class TestCliEnvelopeTranscript:
-    @patch("youtube_scraper.cli.get_transcript")
+    @patch("scripts.main.get_transcript")
     def test_success_envelope(self, mock_transcript, capsys):
         mock_transcript.return_value = TranscriptResult(
             video_id="vid1",
@@ -118,12 +119,77 @@ class TestCliEnvelopeTranscript:
         payload = json.loads(capsys.readouterr().out)
         assert payload["ok"] is True
         assert payload["command"] == "transcript"
+        assert payload["input"]["video_ref"] == "vid1"
         assert payload["input"]["video_id"] == "vid1"
         assert payload["input"]["languages"] == ["en", "ja"]
         assert payload["result"]["text"] == "hello"
         mock_transcript.assert_called_once_with("vid1", languages=["en", "ja"])
 
-    @patch("youtube_scraper.cli.get_transcript")
+    @patch("scripts.main.get_transcript")
+    def test_accepts_youtube_url(self, mock_transcript, capsys):
+        mock_transcript.return_value = TranscriptResult(
+            video_id="abc123def45",
+            language="en",
+            text="hello",
+            segments=[],
+        )
+        with patch(
+            "sys.argv",
+            [
+                "youtube-scraper",
+                "transcript",
+                "https://www.youtube.com/watch?v=abc123def45",
+                "--lang",
+                "en",
+            ],
+        ):
+            main()
+
+        payload = json.loads(capsys.readouterr().out)
+        assert payload["ok"] is True
+        assert payload["input"]["video_ref"] == "https://www.youtube.com/watch?v=abc123def45"
+        assert payload["input"]["video_id"] == "abc123def45"
+        mock_transcript.assert_called_once_with("abc123def45", languages=["en"])
+
+    @patch("scripts.main.get_transcript")
+    def test_transcript_output_writes_txt(self, mock_transcript, tmp_path, capsys):
+        mock_transcript.return_value = TranscriptResult(
+            video_id="abc123def45",
+            language="en",
+            text="hello world",
+            segments=[],
+        )
+        with patch("sys.argv", ["youtube-scraper", "transcript", "abc123def45", "--output", str(tmp_path)]):
+            main()
+
+        payload = json.loads(capsys.readouterr().out)
+        saved_to = payload["meta"]["saved_to"]
+        assert saved_to.endswith(".txt")
+        assert Path(saved_to).read_text(encoding="utf-8") == "hello world"
+        assert len(list(tmp_path.glob("*.txt"))) == 1
+
+    def test_resolve_video_reference_variants(self):
+        assert resolve_video_reference("abc123def45") == "abc123def45"
+        assert (
+            resolve_video_reference("https://youtu.be/abc123def45?t=12")
+            == "abc123def45"
+        )
+        assert (
+            resolve_video_reference("https://www.youtube.com/shorts/abc123def45")
+            == "abc123def45"
+        )
+
+    def test_invalid_video_reference_is_argument_error(self, capsys):
+        with patch("sys.argv", ["youtube-scraper", "transcript", "https://www.youtube.com/channel/UC_TEST"]):
+            with pytest.raises(SystemExit) as exc_info:
+                main()
+            assert exc_info.value.code == 2
+
+        payload = json.loads(capsys.readouterr().out)
+        assert payload["ok"] is False
+        assert payload["error"]["code"] == "INVALID_ARGUMENTS"
+
+    @patch("scripts.main.get_transcript")
     def test_transcript_missing_envelope(self, mock_transcript, capsys):
         mock_transcript.return_value = TranscriptResult(video_id="vid1", error="No transcript")
         with patch("sys.argv", ["youtube-scraper", "transcript", "vid1"]):
@@ -139,8 +205,8 @@ class TestCliEnvelopeTranscript:
 
 
 class TestCliEnvelopeFull:
-    @patch("youtube_scraper.cli.get_transcripts_batch")
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_transcripts_batch")
+    @patch("scripts.main.get_popular_videos")
     def test_success_envelope(self, mock_popular, mock_transcripts, capsys):
         mock_popular.return_value = [_make_video_info()]
         mock_transcripts.return_value = [
@@ -157,7 +223,7 @@ class TestCliEnvelopeFull:
         assert payload["result"][0]["transcript"] == "Transcript text"
         assert payload["meta"]["count"] == 1
 
-    @patch("youtube_scraper.cli.get_popular_videos")
+    @patch("scripts.main.get_popular_videos")
     def test_unexpected_error_envelope(self, mock_popular, capsys):
         mock_popular.side_effect = ValueError("bad channel")
         with patch("sys.argv", ["youtube-scraper", "full", "UC_BAD"]):
@@ -211,4 +277,4 @@ class TestCliArgParsing:
 
         output = capsys.readouterr().out
         assert "<CHANNEL_ID>" in output
-        assert "<VIDEO_ID>" in output
+        assert "<VIDEO_ID_OR_URL>" in output

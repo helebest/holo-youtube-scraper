@@ -1,6 +1,6 @@
-"""Tests for youtube_scraper.models module."""
+"""Tests for scripts.models."""
 
-from youtube_scraper.models import (
+from scripts.models import (
     ChannelInfo,
     VideoInfo,
     TranscriptResult,

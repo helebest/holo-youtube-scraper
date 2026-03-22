@@ -14,7 +14,8 @@ def _set_api_key(monkeypatch):
 @pytest.fixture(autouse=True)
 def _reset_dotenv_state():
     """Reset the _dotenv_loaded flag so each test starts clean."""
-    import youtube_scraper.config as cfg
+    import scripts.config as cfg
+
     cfg._dotenv_loaded = False
     yield
     cfg._dotenv_loaded = False

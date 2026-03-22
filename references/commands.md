@@ -1,45 +1,53 @@
-# 命令参考
+# Commands
 
-## 通用格式
+## `popular <CHANNEL_ID>`
 
-```bash
-bash {baseDir}/scripts/youtube.sh <command> [args...]
-```
-
-## 1) popular
+Fetch the most-viewed videos from a channel.
 
 ```bash
-bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> [--top <N>] [--scan <N>] [--timeout <SECONDS>] [--retries <N>] [--output [<DIR>]]
+python scripts/main.py popular <CHANNEL_ID> --top 5 --scan 200 --output <DIR>
 ```
 
-说明：
-- 获取频道内观看量最高的视频集合。
-- 默认按 `top=10` 返回。
+Options:
 
-## 2) transcript
+- `--top <N>`: number of videos returned. Default `10`.
+- `--scan <N>`: number of uploads scanned before sorting by views. Default `500`.
+- `--timeout <SECONDS>`: YouTube Data API timeout. Default `30`.
+- `--retries <N>`: retry attempts for Data API requests. Default `3`.
+- `--output [<DIR>]`: save the result JSON file. Default directory is `output/` when the flag is present without a value.
+
+## `transcript <VIDEO_ID_OR_URL>`
+
+Fetch a transcript from a raw video ID or a supported YouTube URL.
 
 ```bash
-bash {baseDir}/scripts/youtube.sh transcript <VIDEO_ID> [--lang <LANG_CODES>] [--output [<DIR>]]
+python scripts/main.py transcript <VIDEO_ID_OR_URL> --lang en,zh --output <DIR>
 ```
 
-说明：
-- 拉取单视频字幕。
-- `--lang` 支持逗号分隔语言代码，例如：`en,zh`。
+Supported URL forms:
 
-## 3) full
+- `https://www.youtube.com/watch?v=<VIDEO_ID>`
+- `https://youtu.be/<VIDEO_ID>`
+- `https://www.youtube.com/shorts/<VIDEO_ID>`
+
+Options:
+
+- `--lang <LANG_CODES>`: comma-separated language priority list.
+- `--output [<DIR>]`: save transcript text as a `.txt` file. Default directory is `output/` when the flag is present without a value.
+
+## `full <CHANNEL_ID>`
+
+Fetch popular videos and attach transcript results for each video.
 
 ```bash
-bash {baseDir}/scripts/youtube.sh full <CHANNEL_ID> [--top <N>] [--scan <N>] [--lang <LANG_CODES>] [--timeout <SECONDS>] [--retries <N>] [--output [<DIR>]]
+python scripts/main.py full <CHANNEL_ID> --top 3 --lang en,zh --output <DIR>
 ```
 
-说明：
-- 返回热门视频及其字幕信息。
-- 某些视频可能无字幕，结果中会包含 `transcript_error`。
+Options:
 
-## 示例
-
-```bash
-bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> --top 5
-bash {baseDir}/scripts/youtube.sh transcript <VIDEO_ID> --lang <LANG_CODES>
-bash {baseDir}/scripts/youtube.sh full <CHANNEL_ID> --top 3 --lang <LANG_CODES> --output <DIR>
-```
+- `--top <N>`: number of videos returned. Default `5`.
+- `--scan <N>`: number of uploads scanned before sorting by views. Default `500`.
+- `--lang <LANG_CODES>`: comma-separated language priority list.
+- `--timeout <SECONDS>`: YouTube Data API timeout. Default `30`.
+- `--retries <N>`: retry attempts for Data API requests. Default `3`.
+- `--output [<DIR>]`: save the combined JSON file. Default directory is `output/` when the flag is present without a value.

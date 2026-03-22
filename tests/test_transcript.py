@@ -1,12 +1,12 @@
-"""Tests for youtube_scraper.transcript module."""
+"""Tests for scripts.transcript."""
 
 from unittest.mock import MagicMock
 
 import pytest
 from youtube_transcript_api._errors import RequestBlocked, TranscriptsDisabled
 
-from youtube_scraper.models import TranscriptResult
-from youtube_scraper.transcript import get_transcript, get_transcripts_batch, DEFAULT_LANGUAGES
+from scripts.models import TranscriptResult
+from scripts.transcript import DEFAULT_LANGUAGES, get_transcript, get_transcripts_batch
 
 
 def _make_snippet(text="test", start=0.0, duration=1.0):

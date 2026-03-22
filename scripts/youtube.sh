@@ -54,7 +54,7 @@ Usage:
 
 Commands:
   popular <CHANNEL_ID> [--top <N>] [--scan <N>] [--timeout <SECONDS>] [--retries <N>] [--output [<DIR>]]
-  transcript <VIDEO_ID> [--lang <LANG_CODES>] [--output [<DIR>]]
+  transcript <VIDEO_ID_OR_URL> [--lang <LANG_CODES>] [--output [<DIR>]]
   full <CHANNEL_ID> [--top <N>] [--scan <N>] [--lang <LANG_CODES>] [--timeout <SECONDS>] [--retries <N>] [--output [<DIR>]]
 
 Output Contract:
@@ -64,35 +64,58 @@ Output Contract:
 
 Examples:
   bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> --top 5
-  bash {baseDir}/scripts/youtube.sh transcript <VIDEO_ID> --lang <LANG_CODES>
+  bash {baseDir}/scripts/youtube.sh transcript <VIDEO_ID_OR_URL> --lang <LANG_CODES>
   bash {baseDir}/scripts/youtube.sh full <CHANNEL_ID> --top 3 --lang <LANG_CODES>
 EOF
 }
 
-run_python_cli() {
-    if command -v uv >/dev/null 2>&1; then
-        (cd "$BASE_DIR" && uv run python -m youtube_scraper "$@")
-        return $?
+resolve_python() {
+    local global_venv="${HOME}/.openclaw/.venv"
+    local candidates=()
+
+    if [ -n "${YOUTUBE_PYTHON:-}" ]; then
+        candidates+=("${YOUTUBE_PYTHON}")
     fi
 
+    candidates+=(
+        "${global_venv}/bin/python"
+        "${global_venv}/Scripts/python.exe"
+        "${global_venv}/Scripts/python"
+    )
+
+    local candidate
+    for candidate in "${candidates[@]}"; do
+        if [ -n "$candidate" ] && [ -x "$candidate" ]; then
+            printf '%s\n' "$candidate"
+            return 0
+        fi
+    done
+
     if command -v python3 >/dev/null 2>&1; then
-        (
-            cd "$BASE_DIR"
-            PYTHONPATH="$BASE_DIR/src${PYTHONPATH:+:$PYTHONPATH}" python3 -m youtube_scraper "$@"
-        )
-        return $?
+        command -v python3
+        return 0
     fi
 
     if command -v python >/dev/null 2>&1; then
-        (
-            cd "$BASE_DIR"
-            PYTHONPATH="$BASE_DIR/src${PYTHONPATH:+:$PYTHONPATH}" python -m youtube_scraper "$@"
-        )
-        return $?
+        command -v python
+        return 0
     fi
 
-    emit_error_json "PYTHON_RUNTIME_MISSING" "Neither uv nor python runtime is available." "$1"
     return 1
+}
+
+run_python_cli() {
+    local python_bin
+    if ! python_bin="$(resolve_python)"; then
+        emit_error_json "PYTHON_RUNTIME_MISSING" "No Python runtime found. Set YOUTUBE_PYTHON or install the OpenClaw global venv/python3/python." "$1"
+        return 1
+    fi
+
+    (
+        cd "$BASE_DIR"
+        "$python_bin" "$BASE_DIR/scripts/main.py" "$@"
+    )
+    return $?
 }
 
 main() {

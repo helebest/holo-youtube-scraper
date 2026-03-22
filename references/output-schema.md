@@ -1,47 +1,68 @@
-# 输出结构
+# Output Schema
 
-所有命令都输出单个 JSON 对象。
+Every command writes one JSON object to stdout.
 
-## 成功
+## Success envelope
 
 ```json
 {
   "ok": true,
-  "command": "popular|transcript|full",
+  "command": "transcript",
   "input": {},
   "result": {},
   "meta": {
-    "generated_at": "<ISO_8601_UTC>",
-    "count": 0,
-    "saved_to": "<OPTIONAL_PATH>"
+    "generated_at": "2026-03-22T00:00:00Z"
   }
 }
 ```
 
-说明：
-- `meta.count` 主要用于列表结果。
-- `meta.saved_to` 仅在使用 `--output` 时出现。
+Fields:
 
-## 失败
+- `ok`: `true`
+- `command`: `popular`, `transcript`, or `full`
+- `input`: normalized command input
+- `result`: command payload
+- `meta.generated_at`: UTC timestamp
+- `meta.count`: present on collection-oriented results
+- `meta.saved_to`: present when `--output` is used
+
+## Error envelope
 
 ```json
 {
   "ok": false,
-  "command": "popular|transcript|full|null",
+  "command": "transcript",
   "input": {},
   "error": {
-    "type": "<ERROR_TYPE>",
-    "code": "<ERROR_CODE>",
-    "message": "<ERROR_MESSAGE>"
+    "type": "ArgumentError",
+    "code": "INVALID_ARGUMENTS",
+    "message": "Could not extract a video ID from '<VIDEO_ID_OR_URL>'."
   },
   "meta": {
-    "generated_at": "<ISO_8601_UTC>"
+    "generated_at": "2026-03-22T00:00:00Z"
   }
 }
 ```
 
-常见 `error.code`：
-- `INVALID_ARGUMENTS`
-- `TRANSCRIPT_UNAVAILABLE`
-- `UNEXPECTED_ERROR`
-- `INVALID_COMMAND`（bash 入口层）
+## Command-specific notes
+
+### `popular`
+
+- `input.channel_id`: requested channel ID
+- `result`: array of video objects
+- `meta.count`: number of returned videos
+- `meta.saved_to`: path to the saved JSON file when `--output` is used
+
+### `transcript`
+
+- `input.video_ref`: original raw input
+- `input.video_id`: resolved video ID after URL normalization
+- `result`: transcript object with `video_id`, `language`, `text`, `segments`, `error`, and `error_code`
+- `meta.saved_to`: path to the saved `.txt` transcript when `--output` is used
+
+### `full`
+
+- `input.channel_id`: requested channel ID
+- `result`: array of video objects enriched with `transcript`, `transcript_language`, and `transcript_error`
+- `meta.count`: number of returned items
+- `meta.saved_to`: path to the saved JSON file when `--output` is used

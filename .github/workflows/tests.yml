@@ -35,9 +35,10 @@ jobs:
 
       - name: CLI smoke checks
         run: |
-          uv run python -m youtube_scraper --help
-          uv run python -m youtube_scraper popular --help
-          uv run python -m youtube_scraper transcript --help
-          uv run python -m youtube_scraper full --help
-          uv run python scripts/youtube_automation.py list --help
+          uv run python scripts/main.py --help
+          uv run python scripts/main.py popular --help
+          uv run python scripts/main.py transcript --help
+          uv run python scripts/main.py full --help
+          bash scripts/youtube.sh help
+          uv run python automation/youtube_automation.py list --help
 

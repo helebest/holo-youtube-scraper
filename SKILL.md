@@ -1,37 +1,50 @@
 ---
 name: holo-youtube-scraper
-description: 用于获取 YouTube 频道热门视频与字幕的技能。适用于频道内容调研、视频候选筛选、字幕抓取与结构化输出场景。
+description: Fetch YouTube popular videos and transcripts as a skill-friendly JSON workflow.
 ---
 
 # Holo YouTube Scraper
 
-## 快速入口
+## When to use
 
-1. 先确认依赖：`bash` 与可用的 Python 运行时（优先 `uv`）。
-2. 在技能目录执行：`bash {baseDir}/scripts/youtube.sh <command> [args...]`。
-3. 所有命令输出统一 JSON 信封，适合 LLM 解析。
+- You need the most-viewed videos from a YouTube channel.
+- You need a transcript for a single video ID or a YouTube URL.
+- You need a combined video list with transcript results attached.
 
-详细命令见 [references/commands.md](references/commands.md)。
-输出字段见 [references/output-schema.md](references/output-schema.md)。
-
-## 命令选择
-
-- 只要频道热门视频：`popular <CHANNEL_ID>`。
-- 只要字幕文本：`transcript <VIDEO_ID>`。
-- 频道热门视频 + 字幕：`full <CHANNEL_ID>`。
-
-## 常见失败处理
-
-- 参数错误：先执行 `bash {baseDir}/scripts/youtube.sh help` 对照占位符。
-- API 失败：检查 `YOUTUBE_API_KEY` 与网络可达性。
-- 运行时缺失：安装 `uv` 或 `python3`。
-
-完整排障见 [references/troubleshooting.md](references/troubleshooting.md)。
-
-## 最小示例
+## Entry point
 
 ```bash
-bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> --top 5
-bash {baseDir}/scripts/youtube.sh transcript <VIDEO_ID> --lang <LANG_CODES>
-bash {baseDir}/scripts/youtube.sh full <CHANNEL_ID> --top 3 --lang <LANG_CODES>
+bash {baseDir}/scripts/youtube.sh <command> [args...]
 ```
+
+## Commands
+
+- `popular <CHANNEL_ID>`
+  - Returns the most-viewed videos for a channel.
+- `transcript <VIDEO_ID_OR_URL>`
+  - Accepts a raw video ID or a YouTube URL.
+  - Supports `youtube.com/watch?v=...`, `youtu.be/...`, and `youtube.com/shorts/...`.
+  - `--output` writes a `.txt` transcript file while stdout stays JSON.
+- `full <CHANNEL_ID>`
+  - Returns popular videos with transcript results merged into each item.
+
+## Output contract
+
+- Success envelope: `{"ok": true, "command": ..., "input": ..., "result": ..., "meta": ...}`
+- Error envelope: `{"ok": false, "command": ..., "input": ..., "error": ..., "meta": ...}`
+
+Use [references/commands.md](references/commands.md) for command details and [references/output-schema.md](references/output-schema.md) for schema details.
+
+## Required configuration
+
+- `YOUTUBE_API_KEY`
+  - Set it in the environment, or in `{baseDir}/.env`.
+
+## Common failures
+
+- `INVALID_ARGUMENTS`
+  - The command arguments are malformed, such as an unsupported YouTube URL.
+- `PYTHON_RUNTIME_MISSING`
+  - The shell wrapper could not find `YOUTUBE_PYTHON`, the OpenClaw global venv, `python3`, or `python`.
+- Transcript errors such as `TRANSCRIPT_UNAVAILABLE`, `NO_TRANSCRIPT_FOUND`, `TRANSCRIPTS_DISABLED`, or `REQUEST_BLOCKED`
+  - The video does not expose subtitles or transcript access is blocked.

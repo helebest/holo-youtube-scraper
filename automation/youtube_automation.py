@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -14,13 +15,17 @@ from zoneinfo import ZoneInfo
 import httplib2
 from googleapiclient.discovery import build
 
-from youtube_scraper.client import (
+REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from scripts.client import (
     get_channel_videos,
     get_popular_videos,
     get_video_details,
     sanitize_error_message,
 )
-from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS, get_api_key
+from scripts.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS, get_api_key
 
 SUPPORTED_MODES = {"latest_full", "popular_full"}
 SUPPORTED_SCHEDULES = {"daily", "weekly", "manual"}
@@ -568,7 +573,7 @@ def _build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     p_list = subparsers.add_parser("list", help="List selected task names.")
-    p_list.add_argument("--config", default=".github/youtube-tasks.yml", help="Path to task config.")
+    p_list.add_argument("--config", default="automation/tasks.yml", help="Path to task config.")
     p_list.add_argument("--run-mode", choices=["due", "all", "task"], required=True)
     p_list.add_argument("--task-name", default=None, help="Task name for run-mode=task.")
     p_list.add_argument(
@@ -578,7 +583,7 @@ def _build_parser() -> argparse.ArgumentParser:
     )
 
     p_run = subparsers.add_parser("run", help="Run a single task and write output data.")
-    p_run.add_argument("--config", default=".github/youtube-tasks.yml", help="Path to task config.")
+    p_run.add_argument("--config", default="automation/tasks.yml", help="Path to task config.")
     p_run.add_argument("--task-name", required=True, help="Task name to execute.")
     p_run.add_argument("--output-root", default="data", help="Root output folder.")
     p_run.add_argument("--run-date", default=None, help="Override logical run date (YYYY-MM-DD).")
@@ -589,7 +594,7 @@ def _build_parser() -> argparse.ArgumentParser:
     )
 
     p_plan = subparsers.add_parser("plan", help="Plan task execution (get branch/date info).")
-    p_plan.add_argument("--config", default=".github/youtube-tasks.yml", help="Path to task config.")
+    p_plan.add_argument("--config", default="automation/tasks.yml", help="Path to task config.")
     p_plan.add_argument("--task-name", required=True, help="Task name to plan.")
     p_plan.add_argument("--output-root", default="data", help="Root output folder.")
     p_plan.add_argument("--run-date", default=None, help="Override logical run date (YYYY-MM-DD).")

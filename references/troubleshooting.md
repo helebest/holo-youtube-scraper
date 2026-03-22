@@ -1,34 +1,51 @@
-# 排障指南
+# Troubleshooting
 
-## 参数错误
+## `YOUTUBE_API_KEY not set`
 
-现象：返回 `error.code = INVALID_ARGUMENTS`。
+- Set `YOUTUBE_API_KEY` in the environment.
+- Or create `<skill-root>/.env` with:
 
-处理：
-- 运行 `bash {baseDir}/scripts/youtube.sh help`。
-- 检查必填占位符：`<CHANNEL_ID>`、`<VIDEO_ID>`。
-- 检查正数参数：`--top`、`--scan`、`--timeout`、`--retries`。
+```bash
+YOUTUBE_API_KEY=<YOUR_API_KEY>
+```
 
-## 字幕不可用
+## `PYTHON_RUNTIME_MISSING`
 
-现象：返回 `error.code = TRANSCRIPT_UNAVAILABLE`。
+The shell wrapper checks Python in this order:
 
-处理：
-- 视频可能没有字幕或受区域限制。
-- 尝试切换 `--lang <LANG_CODES>`。
+1. `YOUTUBE_PYTHON`
+2. `~/.openclaw/.venv`
+3. `python3`
+4. `python`
 
-## API 或网络异常
+If the wrapper still fails, deploy the skill again so dependencies are installed into the OpenClaw global venv.
 
-现象：返回 `error.code = UNEXPECTED_ERROR`，message 含请求失败信息。
+## `INVALID_ARGUMENTS`
 
-处理：
-- 确认 `YOUTUBE_API_KEY` 已设置。
-- 检查网络与 API 配额状态。
-- 调整 `--timeout` 与 `--retries`。
+Common causes:
 
-## 运行时缺失
+- `popular` or `full` received an invalid `<CHANNEL_ID>`
+- `transcript` received an unsupported URL instead of `<VIDEO_ID_OR_URL>`
+- numeric flags such as `--top`, `--scan`, `--timeout`, or `--retries` were zero or negative
 
-现象：bash 层返回 `error.code = PYTHON_RUNTIME_MISSING`。
+## Transcript-specific failures
 
-处理：
-- 安装 `uv`，或保证 `python3/python` 可用。
+- `NO_TRANSCRIPT_FOUND`
+  - No transcript exists for the requested language preference.
+- `TRANSCRIPTS_DISABLED`
+  - The video owner disabled subtitles.
+- `TRANSCRIPT_UNAVAILABLE`
+  - Transcript retrieval failed without a more specific typed error.
+- `REQUEST_BLOCKED`
+  - Transcript requests were blocked from the current IP.
+- `INVALID_VIDEO_ID`
+  - The resolved video ID is invalid.
+
+## GitHub automation
+
+Automation is repository-only:
+
+- runner: `automation/youtube_automation.py`
+- config: `automation/tasks.yml`
+
+If automation breaks, check `.github/workflows/youtube-automation.yml` and `docs/automation.md`.

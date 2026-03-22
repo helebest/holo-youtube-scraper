@@ -1,8 +1,8 @@
-"""Tests for youtube_scraper.client module."""
+"""Tests for scripts.client."""
 
 import pytest
 
-from youtube_scraper.client import (
+from scripts.client import (
     _build_service,
     get_channel_info,
     get_channel_videos,
@@ -10,8 +10,8 @@ from youtube_scraper.client import (
     get_popular_videos,
     sanitize_error_message,
 )
-from youtube_scraper.config import API_REQUEST_RETRIES
-from youtube_scraper.models import ChannelInfo, VideoInfo
+from scripts.config import API_REQUEST_RETRIES
+from scripts.models import ChannelInfo, VideoInfo
 from tests.conftest import (
     make_channel_response,
     make_playlist_items_response,
@@ -319,8 +319,8 @@ class TestBuildService:
             captured['kwargs'] = kwargs
             return 'service'
 
-        monkeypatch.setattr('youtube_scraper.client.get_api_key', lambda: 'test-key')
-        monkeypatch.setattr('youtube_scraper.client.build', fake_build)
+        monkeypatch.setattr("scripts.client.get_api_key", lambda: "test-key")
+        monkeypatch.setattr("scripts.client.build", fake_build)
 
         result = _build_service(timeout=12.5)
 

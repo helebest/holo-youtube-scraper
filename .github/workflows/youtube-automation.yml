@@ -80,7 +80,7 @@ jobs:
             TASK_NAME=""
           fi
 
-          ARGS=(--config .github/youtube-tasks.yml --run-mode "$RUN_MODE")
+          ARGS=(--config automation/tasks.yml --run-mode "$RUN_MODE")
           if [[ "$RUN_MODE" == "task" ]]; then
             if [[ -z "$TASK_NAME" ]]; then
               echo "run_mode=task requires task_name"
@@ -89,7 +89,7 @@ jobs:
             ARGS+=(--task-name "$TASK_NAME")
           fi
 
-          LIST_JSON="$(uv run python scripts/youtube_automation.py list "${ARGS[@]}")"
+          LIST_JSON="$(uv run python automation/youtube_automation.py list "${ARGS[@]}")"
 
           TASKS_CSV="$(jq -er 'if .ok then (.tasks | join(",")) else error(.error.message // "list command failed") end' <<<"$LIST_JSON")"
           TASK_COUNT="$(jq -er '.tasks | length' <<<"$LIST_JSON")"
@@ -135,12 +135,12 @@ jobs:
           for TASK in "${TASKS[@]}"; do
             echo "Executing task: ${TASK}"
 
-            PLAN_ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root data --now-utc "$NOW_UTC")
+            PLAN_ARGS=(--config automation/tasks.yml --task-name "$TASK" --output-root data --now-utc "$NOW_UTC")
             if [[ -n "$RUN_DATE" ]]; then
               PLAN_ARGS+=(--run-date "$RUN_DATE")
             fi
 
-            if ! PLAN_JSON="$(uv run python scripts/youtube_automation.py plan "${PLAN_ARGS[@]}")"; then
+            if ! PLAN_JSON="$(uv run python automation/youtube_automation.py plan "${PLAN_ARGS[@]}")"; then
               echo "Task planning failed: ${TASK}"
               FAILED=1
               continue
@@ -152,12 +152,12 @@ jobs:
 
             TASK_OUTPUT_ROOT="${TEMP_OUTPUT_ROOT}"
             mkdir -p "$TASK_OUTPUT_ROOT"
-            ARGS=(--config .github/youtube-tasks.yml --task-name "$TASK" --output-root "$TASK_OUTPUT_ROOT" --now-utc "$NOW_UTC")
+            ARGS=(--config automation/tasks.yml --task-name "$TASK" --output-root "$TASK_OUTPUT_ROOT" --now-utc "$NOW_UTC")
             if [[ -n "$RUN_DATE" ]]; then
               ARGS+=(--run-date "$RUN_DATE")
             fi
 
-            if ! RESULT_JSON="$(uv run python scripts/youtube_automation.py run "${ARGS[@]}")"; then
+            if ! RESULT_JSON="$(uv run python automation/youtube_automation.py run "${ARGS[@]}")"; then
               echo "Task execution failed: ${TASK}"
               FAILED=1
               continue

@@ -1,98 +1,88 @@
-# Holo Youtube Scraper
+# Holo YouTube Scraper
 
 [![Tests](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
-[![Release](https://img.shields.io/github/v/release/helebest/holo-youtube-scraper?sort=semver)](https://github.com/helebest/holo-youtube-scraper/releases)
-[![License](https://img.shields.io/github/license/helebest/holo-youtube-scraper)](LICENSE)
-![Python](https://img.shields.io/badge/python-3.12%2B-blue)
-![Coverage](https://img.shields.io/badge/coverage-%E2%89%A590%25-brightgreen)
 
-通过 YouTube Data API v3 获取频道热门视频，并提取视频字幕/转录文本。
+This repository is organized around a deployable YouTube skill. Runtime code lives in `scripts/`, skill-facing docs live in `SKILL.md`, `README.md`, and `references/`, and GitHub automation stays under `automation/`.
 
-## 功能
+## Skill commands
 
-- 热门视频：获取指定频道播放量最高的视频，按观看数排序
-- 字幕提取：获取视频字幕文本（支持多语言）
-- 一站式：热门视频 + 字幕一次获取
-- 统一输出：CLI 默认输出 LLM 友好的 JSON 信封
+- `popular <CHANNEL_ID>`
+  - Fetch the most-viewed videos from a channel.
+  - Supports `--top`, `--scan`, `--timeout`, `--retries`, and `--output`.
+- `transcript <VIDEO_ID_OR_URL>`
+  - Fetch a transcript from a YouTube video ID or URL.
+  - Supports `watch`, `youtu.be`, and `shorts` URLs.
+  - Supports `--lang` and `--output`.
+  - `--output` writes a `.txt` transcript file.
+- `full <CHANNEL_ID>`
+  - Fetch popular videos and attach transcript results for each video.
+  - Supports `--top`, `--scan`, `--lang`, `--timeout`, `--retries`, and `--output`.
 
-## 快速开始
+All commands write a single JSON envelope to stdout.
 
-### 1. 安装
+## Runtime requirements
+
+- `YOUTUBE_API_KEY` must be set in the environment or in `<skill-root>/.env`.
+- The shell wrapper looks for Python in this order:
+  1. `YOUTUBE_PYTHON`
+  2. OpenClaw global venv at `~/.openclaw/.venv`
+  3. `python3`
+  4. `python`
+
+## Local usage
 
 ```bash
-uv sync
+python scripts/main.py --help
+python scripts/main.py popular <CHANNEL_ID> --top 5
+python scripts/main.py transcript <VIDEO_ID_OR_URL> --lang en,zh --output <DIR>
+python scripts/main.py full <CHANNEL_ID> --top 3 --lang en
 ```
 
-### 2. 配置 API Key
-
-在 [Google Cloud Console](https://console.cloud.google.com/apis/credentials) 创建 API 密钥并启用 YouTube Data API v3，然后：
+Shell entrypoint:
 
 ```bash
-cp .env.example .env
-# 编辑 .env，填入你的 API Key
+bash scripts/youtube.sh help
+bash scripts/youtube.sh transcript <VIDEO_ID_OR_URL> --lang <LANG_CODES>
 ```
 
-### 3. 使用
+## Deployment
+
+Deploy to the default OpenClaw skill location:
 
 ```bash
-# 获取频道热门视频（默认 top 10）
-uv run python -m youtube_scraper popular <CHANNEL_ID> --top 5
-
-# 获取视频字幕
-uv run python -m youtube_scraper transcript <VIDEO_ID>
-
-# 热门视频 + 字幕（一站式）
-uv run python -m youtube_scraper full <CHANNEL_ID> --top 3 --lang <LANG_CODES>
-
-# 可选保存原始结果到目录
-uv run python -m youtube_scraper popular <CHANNEL_ID> --output <DIR>
-```
-
-## OpenClaw Skill 部署
-
-```bash
-# 默认部署到 ~/.openclaw/skills/holo-youtube-scraper
 bash openclaw_deploy_skill.sh
+```
 
-# 或部署到自定义绝对路径
+Deploy to a specific absolute path:
+
+```bash
 bash openclaw_deploy_skill.sh <ABS_TARGET_PATH>
 ```
 
-部署内容：`SKILL.md`、`scripts/`、`references/`、`src/`、`pyproject.toml`、`uv.lock`、`.env.example`。
+The deployed skill bundle contains:
 
-技能入口：
-
-```bash
-bash {baseDir}/scripts/youtube.sh help
-bash {baseDir}/scripts/youtube.sh popular <CHANNEL_ID> --top 5
+```text
+<skill-target>/
+  SKILL.md
+  README.md
+  scripts/
+  references/
 ```
 
-## 输出契约
+The deploy script installs runtime dependencies into the OpenClaw global venv at `~/.openclaw/.venv`.
 
-CLI 与 bash 入口统一输出单个 JSON 信封：
+## Repository-only automation
 
-- 成功：`ok=true`，包含 `command/input/result/meta`
-- 失败：`ok=false`，包含 `command/input/error/meta`
+- Runner: `automation/youtube_automation.py`
+- Config: `automation/tasks.yml`
+- Workflow: `.github/workflows/youtube-automation.yml`
 
-详见：`references/output-schema.md`
+Automation is kept in the repository for GitHub Actions and is not copied into the deployed skill directory.
 
-## 编程接口
-
-可直接作为 Python 库使用：
-
-```python
-from youtube_scraper import get_popular_videos, get_transcript
-
-videos = get_popular_videos("<CHANNEL_ID>", top_n=5)
-transcript = get_transcript("<VIDEO_ID>")
-```
-
-所有函数返回类型化 dataclass，支持 `.to_dict()` 序列化。
-
-## 开发
+## Tests
 
 ```bash
 uv run pytest
 ```
 
-测试包含覆盖率门禁：`youtube_scraper` 包行覆盖率需 >= 90%。
+Coverage is measured against `scripts/` and `automation/`.
