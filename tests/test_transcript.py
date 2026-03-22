@@ -1,10 +1,20 @@
 """Tests for scripts.transcript."""
 
-from unittest.mock import MagicMock
+from unittest.mock import MagicMock, patch
 
 import pytest
-from youtube_transcript_api._errors import RequestBlocked, TranscriptsDisabled
+from youtube_transcript_api._errors import (
+    AgeRestricted,
+    CouldNotRetrieveTranscript,
+    InvalidVideoId,
+    IpBlocked,
+    NoTranscriptFound,
+    RequestBlocked,
+    TranscriptsDisabled,
+    VideoUnavailable,
+)
 
+import scripts.transcript as transcript_mod
 from scripts.models import TranscriptResult
 from scripts.transcript import DEFAULT_LANGUAGES, get_transcript, get_transcripts_batch
 
@@ -83,6 +93,26 @@ class TestGetTranscript:
         assert result.error_code == "REQUEST_BLOCKED"
         assert result.error == "Transcript requests are blocked from the current IP."
 
+    @pytest.mark.parametrize(
+        ("exc", "code"),
+        [
+            (NoTranscriptFound("vid1", ["en"], []), "NO_TRANSCRIPT_FOUND"),
+            (VideoUnavailable("vid1"), "VIDEO_UNAVAILABLE"),
+            (AgeRestricted("vid1"), "AGE_RESTRICTED"),
+            (InvalidVideoId("vid1"), "INVALID_VIDEO_ID"),
+            (CouldNotRetrieveTranscript("vid1"), "TRANSCRIPT_UNAVAILABLE"),
+            (IpBlocked("vid1"), "REQUEST_BLOCKED"),
+        ],
+    )
+    def test_maps_other_typed_exceptions(self, exc, code):
+        api = MagicMock()
+        api.list.side_effect = exc
+
+        result = get_transcript("vid1", api=api)
+
+        assert result.ok is False
+        assert result.error_code == code
+
     def test_uses_default_languages(self):
         api = _make_mock_api("en")
         get_transcript("vid1", api=api)
@@ -135,6 +165,88 @@ class TestGetTranscript:
         assert d["error"] == "fail"
         assert d["error_code"] == "UNKNOWN_ERROR"
 
+    def test_request_blocked_uses_api_fallback_when_available(self):
+        api = MagicMock()
+        api.list.side_effect = RequestBlocked("vid1")
+        fallback = TranscriptResult(video_id="vid1", language="en", text="fallback", segments=[])
+
+        with patch("scripts.transcript._get_transcript_via_api", return_value=fallback):
+            result = get_transcript("vid1", languages=["en"], api=api)
+
+        assert result.text == "fallback"
+
+
+class TestTranscriptApiFallback:
+    def test_get_youtube_api_uses_api_key(self, monkeypatch):
+        captured = {}
+
+        def fake_build(*args, **kwargs):
+            captured["args"] = args
+            captured["kwargs"] = kwargs
+            return "youtube"
+
+        monkeypatch.setattr(transcript_mod.youtube_config, "get_api_key", lambda: "test-key")
+        monkeypatch.setattr(transcript_mod, "build", fake_build)
+
+        assert transcript_mod._get_youtube_api() == "youtube"
+        assert captured["args"] == ("youtube", "v3")
+        assert captured["kwargs"]["developerKey"] == "test-key"
+
+    def test_get_youtube_transcript_api_returns_instance(self):
+        api = transcript_mod._get_youtube_transcript_api()
+        assert isinstance(api, transcript_mod.YouTubeTranscriptApi)
+
+    def test_fallback_returns_none_when_no_captions(self):
+        service = MagicMock()
+        service.captions().list.return_value.execute.return_value = {"items": []}
+
+        with patch("scripts.transcript._get_youtube_api", return_value=service):
+            assert transcript_mod._get_transcript_via_api("vid1", ["en"]) is None
+
+    def test_fallback_returns_none_when_language_not_found(self):
+        service = MagicMock()
+        service.captions().list.return_value.execute.return_value = {
+            "items": [{"id": "cap1", "snippet": {"language": "ja"}}]
+        }
+
+        with patch("scripts.transcript._get_youtube_api", return_value=service):
+            assert transcript_mod._get_transcript_via_api("vid1", ["en"]) is None
+
+    def test_fallback_returns_none_when_cleaned_text_empty(self):
+        service = MagicMock()
+        service.captions().list.return_value.execute.return_value = {
+            "items": [{"id": "cap1", "snippet": {"language": "en"}}]
+        }
+        service.captions().download.return_value.execute.return_value = b"00:00:00,000 --> 00:00:01,000\n\n"
+
+        with patch("scripts.transcript._get_youtube_api", return_value=service):
+            assert transcript_mod._get_transcript_via_api("vid1", ["en"]) is None
+
+    def test_fallback_returns_successful_result(self):
+        service = MagicMock()
+        service.captions().list.return_value.execute.return_value = {
+            "items": [{"id": "cap1", "snippet": {"language": "en"}}]
+        }
+        service.captions().download.return_value.execute.return_value = (
+            b"00:00:00,000 --> 00:00:01,000\nHello\n\n00:00:01,000 --> 00:00:02,000\nWorld"
+        )
+
+        with patch("scripts.transcript._get_youtube_api", return_value=service):
+            result = transcript_mod._get_transcript_via_api("vid1", ["en"])
+
+        assert result is not None
+        assert result.text == "Hello World"
+        assert result.language == "en"
+
+    def test_fallback_returns_none_on_exception(self):
+        with patch("scripts.transcript._get_youtube_api", side_effect=RuntimeError("boom")):
+            assert transcript_mod._get_transcript_via_api("vid1", ["en"]) is None
+
+    def test_normalize_error_handles_empty_message(self):
+        code, message = transcript_mod._normalize_error(Exception(""))
+        assert code == "UNKNOWN_ERROR"
+        assert message == "Unexpected error while fetching transcript."
+
 
 class TestGetTranscriptsBatch:
     def test_batch_returns_list(self):
@@ -170,3 +282,15 @@ class TestGetTranscriptsBatch:
     def test_empty_batch(self):
         results = get_transcripts_batch([])
         assert results == []
+
+    def test_batch_reuses_shared_api_instance(self):
+        shared_api = MagicMock()
+        with patch("scripts.transcript._get_youtube_transcript_api", return_value=shared_api), patch(
+            "scripts.transcript.get_transcript",
+            return_value=TranscriptResult(video_id="v1", text="ok"),
+        ) as mocked_get:
+            results = get_transcripts_batch(["v1", "v2"], languages=["en"])
+
+        assert len(results) == 2
+        mocked_get.assert_any_call("v1", ["en"], api=shared_api)
+        mocked_get.assert_any_call("v2", ["en"], api=shared_api)
