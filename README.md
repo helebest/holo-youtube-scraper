@@ -1,6 +1,9 @@
 # Holo YouTube Scraper
 
 [![Tests](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/helebest/holo-youtube-scraper/actions/workflows/tests.yml)
+[![Release](https://img.shields.io/github/v/release/helebest/holo-youtube-scraper?sort=semver)](https://github.com/helebest/holo-youtube-scraper/releases)
+[![License](https://img.shields.io/github/license/helebest/holo-youtube-scraper)](LICENSE)
+[![Website](https://img.shields.io/badge/website-readme-blue)](https://github.com/helebest/holo-youtube-scraper#readme)
 
 This repository is organized around a deployable YouTube skill. Runtime code lives in `scripts/`, skill-facing docs live in `SKILL.md`, `README.md`, and `references/`, and GitHub automation stays under `automation/`.
 

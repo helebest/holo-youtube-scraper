@@ -1,6 +1,6 @@
 [project]
 name = "holo-youtube-scraper"
-version = "0.3.0"
+version = "1.2.0"
 description = "Skill-first YouTube channel video and transcript tooling"
 readme = "README.md"
 requires-python = ">=3.12"
