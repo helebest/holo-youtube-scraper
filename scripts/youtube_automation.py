@@ -21,10 +21,8 @@ from youtube_scraper.client import (
     sanitize_error_message,
 )
 from youtube_scraper.config import API_REQUEST_RETRIES, API_REQUEST_TIMEOUT_SECONDS, get_api_key
-from youtube_scraper.models import TranscriptResult, VideoWithTranscript
-from youtube_scraper.transcript import get_transcripts_batch
 
-SUPPORTED_MODES = {"latest_full", "popular_full", "transcript_only"}
+SUPPORTED_MODES = {"latest_full", "popular_full"}
 SUPPORTED_SCHEDULES = {"daily", "weekly", "manual"}
 DEFAULT_TIMEZONE = "Asia/Shanghai"
 FALLBACK_TIMEZONES = {
@@ -129,6 +127,7 @@ def _get_timezone(name: str):
         if fallback is not None:
             return fallback
         raise exc
+
 
 def _parse_hhmm(value: str) -> tuple[int, int]:
     match = re.fullmatch(r"(\d{2}):(\d{2})", value or "")
@@ -273,6 +272,10 @@ def load_tasks(config_path: Path) -> dict[str, TaskConfig]:
 
         mode = str(raw_task.get("mode", "")).strip().lower()
         if mode not in SUPPORTED_MODES:
+            if mode == "transcript_only":
+                raise AutomationConfigError(
+                    f"tasks[{name}].mode 'transcript_only' is no longer supported by automation."
+                )
             raise AutomationConfigError(
                 f"tasks[{name}].mode must be one of {sorted(SUPPORTED_MODES)}."
             )
@@ -293,9 +296,6 @@ def load_tasks(config_path: Path) -> dict[str, TaskConfig]:
         if not isinstance(video_ids_raw, list):
             raise AutomationConfigError(f"tasks[{name}].video_ids must be a list.")
         video_ids = tuple(str(item).strip() for item in video_ids_raw if str(item).strip())
-
-        if mode == "transcript_only" and not video_ids:
-            raise AutomationConfigError(f"tasks[{name}] transcript_only requires video_ids.")
 
         tasks[name] = TaskConfig(
             name=name,
@@ -400,16 +400,7 @@ def _latest_full_for_channel(
     )
     videos.sort(key=lambda item: item.published_at, reverse=True)
     selected = videos[: fetch.top_n]
-    transcripts = get_transcripts_batch(
-        [video.id for video in selected],
-        languages=list(fetch.languages) or None,
-    )
-    transcript_by_video_id = {result.video_id: result for result in transcripts}
-    merged = [
-        VideoWithTranscript(video=video, transcript=transcript_by_video_id[video.id]).to_dict()
-        for video in selected
-    ]
-    return merged
+    return [video.to_dict() for video in selected]
 
 
 def _popular_full_for_channel(
@@ -426,24 +417,7 @@ def _popular_full_for_channel(
         retries=fetch.retries,
         timeout=fetch.timeout,
     )
-    transcripts = get_transcripts_batch(
-        [video.id for video in videos],
-        languages=list(fetch.languages) or None,
-    )
-    transcript_by_video_id = {result.video_id: result for result in transcripts}
-    merged = [
-        VideoWithTranscript(video=video, transcript=transcript_by_video_id[video.id]).to_dict()
-        for video in videos
-    ]
-    return merged
-
-
-def _transcript_only(task: TaskConfig, *, fetch: FetchConfig) -> list[dict[str, Any]]:
-    transcripts: list[TranscriptResult] = get_transcripts_batch(
-        list(task.video_ids),
-        languages=list(fetch.languages) or None,
-    )
-    return [item.to_dict() for item in transcripts]
+    return [video.to_dict() for video in videos]
 
 
 def _write_json(path: Path, payload: Any) -> None:
@@ -498,29 +472,6 @@ def execute_task(
         "channels_skipped": 0,
         "videos_total": 0,
     }
-
-    if task.mode == "transcript_only":
-        transcripts = _transcript_only(task, fetch=task.fetch)
-        payload = {
-            "ok": True,
-            "task": task.name,
-            "mode": task.mode,
-            "date": date_text,
-            "result": transcripts,
-            "meta": {"count": len(transcripts), "generated_at": _utc_iso()},
-        }
-        _write_json(output_dir / "transcripts.json", payload)
-        summary["videos_total"] = len(transcripts)
-        summary["channels_total"] = 0
-        _write_json(output_dir / "manifest.json", summary)
-        return TaskRunResult(
-            task=task.name,
-            mode=task.mode,
-            date=plan["date"],
-            branch=plan["branch"],
-            output_dir=plan["output_dir"],
-            summary=summary,
-        )
 
     service = _build_service(timeout=task.fetch.timeout)
     for channel in task.channels:
