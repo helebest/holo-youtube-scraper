@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-03-23",
+  "result": [
+    {
+      "id": "lX2V8p-hByE",
+      "title": "Will AI Take Your Job in the Next 10 Years? Wrong Question | Vinciane Beauchene | TED",
+      "channel_title": "TED",
+      "published_at": "2026-03-22T15:01:14Z",
+      "description": "As AI agents take over more tasks at work, the question isn’t whether or not humans matter — it’s how we make our impact count. Leadership expert Vinciane Beauchene challenges some commonly held assumptions about how AI will transform the workplace, sharing a blueprint for leaders to design organizations where people can focus on what truly makes a difference. (Recorded at TED@BCG on October 23, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/vincianebeauchene\n\nhttps://youtu.be/lX2V8p-hByE\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT12M18S",
+      "view_count": 3193,
+      "like_count": 250,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=lX2V8p-hByE"
+    },
+    {
+      "id": "ai51iK5X1B8",
+      "title": "Did you know: The same tech that drills for oil and gas can be used to tap into clean energy?",
+      "channel_title": "TED",
+      "published_at": "2026-03-20T17:00:07Z",
+      "description": "Deep beneath the Earth sits 50,000 times more energy than all the world's fossil fuel reserves, but accessing it requires using the same controversial technology that oil companies spent trillions to develop: fracking. Cindy Taff left Shell to prove that drilling for geothermal heat instead of hydrocarbons can deliver what solar, wind and fossil fuels can't — clean, renewable power at all times, regardless of weather. Could this be the breakthrough that finally solves our energy challenges?",
+      "duration": "PT1M26S",
+      "view_count": 43866,
+      "like_count": 941,
+      "comment_count": 101,
+      "url": "https://www.youtube.com/watch?v=ai51iK5X1B8"
+    },
+    {
+      "id": "C81xJ3OioB8",
+      "title": "A Different Way to Measure Success in Health Care | Andrew Bastawrous | TED",
+      "channel_title": "TED",
+      "published_at": "2026-03-20T15:00:17Z",
+      "description": "After building a smartphone app to bring eye care to millions of people in remote areas, eye surgeon and TED Fellow Andrew Bastawrous confronted a new question: What do we lose when health care chases speed and efficiency? He offers a quiet provocation for how to get better outcomes for patients and health care workers alike. (Recorded at TED Fellows on April 8, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/andrewbastawrous26\n\nhttps://youtu.be/C81xJ3OioB8\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Healthcare",
+      "duration": "PT6M17S",
+      "view_count": 11559,
+      "like_count": 328,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=C81xJ3OioB8"
+    },
+    {
+      "id": "SFwaMcQDngY",
+      "title": "Exploring the ocean isn’t as easy as TV and movies make it look #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-03-19T22:15:02Z",
+      "description": "",
+      "duration": "PT1M28S",
+      "view_count": 18392,
+      "like_count": 389,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=SFwaMcQDngY"
+    },
+    {
+      "id": "YJc-3AGX1JA",
+      "title": "How to Make Your Idea Unforgettable | London | TED Idea Search",
+      "channel_title": "TED",
+      "published_at": "2026-03-19T15:30:31Z",
+      "description": "Watch the full talks from the TEDxLondon Idea Search: https://www.youtube.com/playlist?list=PLOGi5-fAu8bEnurLsbdzS10p7FDuggba5\n\nThe most interesting ideas often come from the most unexpected places. We searched the globe for ideas with the power to inspire, motivate and change lives — and we found them at  @TEDx   events around the world. The TED Idea Search follows extraordinary speakers from 9 countries competing for a spot on the TED main stage in Vancouver this April.\n\n00:00 - Intro\n2:04 - Meet the Speakers\n9:04 - Rehearsals\n20:55 - The Talks \n41:22- Deliberation\n44:05 - The Winner Is…\n\nA WING London production for TED\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/[firstnamelastname]\n\n[YouTube video URL: https://www.youtube.com/####]\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks",
+      "duration": "PT46M26S",
+      "view_count": 15838,
+      "like_count": 234,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=YJc-3AGX1JA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-22T16:50:54Z",
+    "count": 5
+  }
+}
