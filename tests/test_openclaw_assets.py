@@ -82,6 +82,19 @@ def test_deploy_script_declares_skill_bundle_items() -> None:
     assert '".env.example"' not in deploy_script
 
 
+def test_release_workflow_publishes_skill_bundle() -> None:
+    workflow = (REPO_ROOT / ".github" / "workflows" / "release.yml").read_text(
+        encoding="utf-8"
+    )
+    assert "uv build" not in workflow
+    assert "Build skill bundle" in workflow
+    assert 'cp SKILL.md README.md "$BUNDLE_ROOT/"' in workflow
+    assert 'cp -R scripts references "$BUNDLE_ROOT/"' in workflow
+    assert 'holo-youtube-scraper-skill-${RELEASE_TAG}.tar.gz' in workflow
+    assert 'holo-youtube-scraper-skill-${RELEASE_TAG}.zip' in workflow
+    assert "dist/*" in workflow
+
+
 @pytest.mark.skipif(_bash_path() is None, reason="bash is not available")
 def test_deploy_script_rejects_relative_path() -> None:
     bash = _bash_path()

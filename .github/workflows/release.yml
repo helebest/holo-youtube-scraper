@@ -62,8 +62,27 @@ jobs:
       - name: Run tests with coverage gate
         run: uv run pytest
 
-      - name: Build distributions
-        run: uv build
+      - name: Build skill bundle
+        shell: bash
+        env:
+          RELEASE_TAG: ${{ steps.meta.outputs.tag }}
+        run: |
+          set -euo pipefail
+
+          BUNDLE_ROOT="bundle/holo-youtube-scraper"
+          rm -rf bundle dist
+          mkdir -p "$BUNDLE_ROOT" dist
+
+          cp SKILL.md README.md "$BUNDLE_ROOT/"
+          cp -R scripts references "$BUNDLE_ROOT/"
+
+          find "$BUNDLE_ROOT" -type d -name "__pycache__" -prune -exec rm -rf {} +
+
+          tar -czf "dist/holo-youtube-scraper-skill-${RELEASE_TAG}.tar.gz" -C bundle holo-youtube-scraper
+          (
+            cd bundle
+            zip -qr "../dist/holo-youtube-scraper-skill-${RELEASE_TAG}.zip" holo-youtube-scraper
+          )
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
