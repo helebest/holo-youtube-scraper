@@ -20,8 +20,8 @@
       "published_at": "2026-03-20T23:28:23Z",
       "description": "Catch up on how CEO Jensen Huang’s keynote lit the fuse on a new era of token-powered, full‑stack AI — from CUDA to Vera Rubin, Feynman and OpenClaw.\n\nFrom the inflection point of inference to agentic AI to the data center, get the highlights of Jensen’s talk and the go deep by watching full replay or GTC sessions on demand.\n\nwww.nvidia.com/gtc/keynote\n\n#NVIDIAGTC #AgenticAI #NVIDIAAI",
       "duration": "PT4M42S",
-      "view_count": 14690,
-      "like_count": 365,
+      "view_count": 15187,
+      "like_count": 373,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=kDd24YOeqQQ"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-03-20T22:21:35Z",
       "description": "Experience the magic of NVIDIA GTC 2026 featuring GTC Live pregame, CEO Jensen Huang’s keynote, a packed exhibit hall with hundreds of sponsors, hands-on training, technology plus fun at GTC Park, and so much more. \n\nFeel the excitement of our packed exhibit hall showing off cutting-edge demos, attendees at expert-led sessions, and ecosystem collaborations across AI and accelerated computing. Thank you to all the attendees, developers, creators, and sponsors who made GTC unforgettable. Watch and celebrate the moments that brought GTC to life!\n\nwww.nvidia.com/gtc\n#NVIDIAGTC, #AgenticAI, #NVIDIAAI",
       "duration": "PT1M24S",
-      "view_count": 2055,
-      "like_count": 102,
+      "view_count": 2106,
+      "like_count": 103,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=zMvr3mZHiW8"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-03-20T20:54:02Z",
       "description": "At GTC, NVIDIA made NVQLink publicly available through a new application programming interface (API) called cudaq-realtime — and shared demonstrations advancing the state-of-the-art in quantum error correction. Hear Nicholas Harrigan, product marketing manager for quantum computing at NVIDIA, explain why quantum processors needs GPU supercomputers.",
       "duration": "PT1M49S",
-      "view_count": 11666,
-      "like_count": 382,
+      "view_count": 11922,
+      "like_count": 383,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=CYLn56Vc2XA"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-03-20T15:56:53Z",
       "description": "This video showcases four capabilities of NVIDIA Alpamayo, the reasoning vision language action model:\n\n- Chain-of-Thought: Alpamayo continuously reasons through its observations, conclusions, and decisions, improving driving while making its decision process more transparent.\n- Verbalized Reasoning: In complex situations, the car selectively explains its reasoning aloud, giving passengers insight into the AI’s decisions and helping to build trust.\n- Natural Language Q&A: Riders can ask questions about the car’s behavior or the surrounding environment, and Alpamayo responds in real time.\n- Language Instructions and Commands: Passengers can request actions such as changing lanes, speeding up, taking a detour, or pulling over, and Alpamayo performs them naturally.\n\nTogether, these capabilities create a safe, transparent, and interactive driving experience.\n\nLearn More: https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/\n\n#AutonomousVehicles #PhysicalAI #NVIDIADRIVE",
       "duration": "PT3M45S",
-      "view_count": 6342,
-      "like_count": 331,
+      "view_count": 6450,
+      "like_count": 337,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=5EEYgxoT8kc"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-03-18T22:45:34Z",
       "description": "Gather around the campfire with Jensen and a cast of robots from the GTC keynote as they sing their way through this year’s biggest announcements. From breakthrough AI to accelerated computing, it’s a lighthearted recap of the innovations shaping the future.\n\n#NVIDIAGTC",
       "duration": "PT3M56S",
-      "view_count": 15281,
-      "like_count": 563,
+      "view_count": 16058,
+      "like_count": 564,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=aDT9bBt9HxM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-22T09:21:27Z",
+    "generated_at": "2026-03-22T11:18:03Z",
     "count": 5
   }
 }
