@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-03-25",
+  "result": [
+    {
+      "id": "DfiCs2oW0DQ",
+      "title": "Sara Imari Walker  \"AI is Life\" | Simulations, the Universe and the Origins of Life",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-24T02:42:52Z",
+      "description": "Professor Sara Walker is an astrobiologist and theoretical physicist whose research focuses on the origins of life, artificial life, and the detection of life on other worlds. \n\nShe is the author of “Life as No One Knows It: The Physics of Life’s Emergence.”\n\nhttps://search.asu.edu/profile/1731899\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT1H45M14S",
+      "view_count": 11092,
+      "like_count": 410,
+      "comment_count": 201,
+      "url": "https://www.youtube.com/watch?v=DfiCs2oW0DQ"
+    },
+    {
+      "id": "dtcgzGAeUZA",
+      "title": "Cursor is CAUGHT red handed...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-23T04:18:03Z",
+      "description": "full story: https://natural20.beehiiv.com/p/cursor-got-caught-using-a-chinese-ai-model-and-didn-t-tell-anyone\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 – Cursor Composer 2\n04:05 – Kimi k2.5\n08:55 – China\n13:58 – Self-Summarization\n18:22 – Doom on MIPS\n\n\n#ai #openai #llm",
+      "duration": "PT22M48S",
+      "view_count": 29407,
+      "like_count": 860,
+      "comment_count": 191,
+      "url": "https://www.youtube.com/watch?v=dtcgzGAeUZA"
+    },
+    {
+      "id": "gVbD5cQ1GC8",
+      "title": "no one saw what APPLE just did...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-20T08:40:21Z",
+      "description": "check out the entire write up of this in my newsletter: https://natural20.beehiiv.com/p/apple-goes-to-war-against-vibecoding\n\nThe latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT17M3S",
+      "view_count": 46805,
+      "like_count": 1197,
+      "comment_count": 261,
+      "url": "https://www.youtube.com/watch?v=gVbD5cQ1GC8"
+    },
+    {
+      "id": "TzZqFkBNnZA",
+      "title": "M2.7 broke the industry | NemoClaw | Grok 4.20 | Jensen calls out Anthropic | Wes & Dylan Pod",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-19T22:15:56Z",
+      "description": "M2.7 broke the industry | NemoClaw | Grok 4.20 | Jensen calls out Anthropic | Wes & Dylan Pod\n\n#ai #openai #llm",
+      "duration": "PT2H4M23S",
+      "view_count": 11419,
+      "like_count": 302,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=TzZqFkBNnZA"
+    },
+    {
+      "id": "LvU1CACAPq8",
+      "title": "M2.7 broke the industry | NemoClaw | Grok 4.20 | Jensen calls out Anthropic | Wes & Dylan Pod",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-03-19T22:12:12Z",
+      "description": "M2.7 broke the industry | NemoClaw | Grok 4.20 | Jensen calls out Anthropic | Wes & Dylan Pod\n\n#ai #openai #llm",
+      "duration": "P0D",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=LvU1CACAPq8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-24T17:28:30Z",
+    "count": 5
+  }
+}
