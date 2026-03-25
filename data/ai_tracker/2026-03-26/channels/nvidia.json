@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-03-26",
+  "result": [
+    {
+      "id": "LS_MDioeAAc",
+      "title": "Building Autonomous Networks with Agentic AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-25T15:23:40Z",
+      "description": "Automation executes. Autonomy reasons. 🧠\n\nWatch how NVIDIA and its global partners are ushering in the era of the Autonomous Network. Using Agentic AI, operators are now deploying intelligent agents that can self-optimize, self-heal, and self-configure.\n\nThe future of connectivity isn't just fast—it’s smart. \n\nLearn more: https://nvda.ws/4bB9Zph\n\n#NVIDIA #AgenticAI #AutonomousNetworks #TelcoAI #6GReady",
+      "duration": "PT2M",
+      "view_count": 881,
+      "like_count": 97,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=LS_MDioeAAc"
+    },
+    {
+      "id": "cxiOhp9BJTs",
+      "title": "NVIDIA GTC Telecom Special Address: The AI Grid—Intelligently Connecting AI Infrastructure",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-24T20:18:57Z",
+      "description": "At NVIDIA GTC 2026, NVIDIA Telecom SVP Ronnie Vasishta delivered the Telecom Special address, exploring how telcos can build a distributed AI grid to power new AI services and applications.\n\nIn this talk, he shares a first look at NVIDIA’s reference architecture, highlights edge AI applications that run best on this grid, and announces partners already on this journey.\n\nLearn more about AI Grids: https://www.nvidia.com/en-us/industries/telecommunications/ai-grid/",
+      "duration": "PT40M57S",
+      "view_count": 4360,
+      "like_count": 167,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=cxiOhp9BJTs"
+    },
+    {
+      "id": "DhxG8LC6x1E",
+      "title": "Jensen Huang on How He reasons Toward What Must Exist, Then Builds Toward It",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-24T19:20:41Z",
+      "description": "Curiosity first. Conviction next.\n\nOn the latest Lex Fridman podcast, NVIDIA CEO Jensen Huang shares how he reasons toward what must exist, then builds toward it.\n\nWatch the full episode with Lex Fridman ➡️ https://nvda.ws/4v4FVvk",
+      "duration": "PT1M21S",
+      "view_count": 5782,
+      "like_count": 251,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=DhxG8LC6x1E"
+    },
+    {
+      "id": "kDd24YOeqQQ",
+      "title": "NVIDIA GTC 2026 Keynote with Jensen Huang Highlights",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-20T23:28:23Z",
+      "description": "Catch up on how CEO Jensen Huang’s keynote lit the fuse on a new era of token-powered, full‑stack AI — from CUDA to Vera Rubin, Feynman and OpenClaw.\n\nFrom the inflection point of inference to agentic AI to the data center, get the highlights of Jensen’s talk and the go deep by watching full replay or GTC sessions on demand.\n\nwww.nvidia.com/gtc/keynote\n\n#NVIDIAGTC #AgenticAI #NVIDIAAI",
+      "duration": "PT4M42S",
+      "view_count": 26902,
+      "like_count": 526,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=kDd24YOeqQQ"
+    },
+    {
+      "id": "zMvr3mZHiW8",
+      "title": "NVIDIA GTC 2026 Event Moments: Innovation, Energy and Community",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-20T22:21:35Z",
+      "description": "Experience the magic of NVIDIA GTC 2026 featuring GTC Live pregame, CEO Jensen Huang’s keynote, a packed exhibit hall with hundreds of sponsors, hands-on training, technology plus fun at GTC Park, and so much more. \n\nFeel the excitement of our packed exhibit hall showing off cutting-edge demos, attendees at expert-led sessions, and ecosystem collaborations across AI and accelerated computing. Thank you to all the attendees, developers, creators, and sponsors who made GTC unforgettable. Watch and celebrate the moments that brought GTC to life!\n\nwww.nvidia.com/gtc\n#NVIDIAGTC, #AgenticAI, #NVIDIAAI",
+      "duration": "PT1M24S",
+      "view_count": 3406,
+      "like_count": 132,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=zMvr3mZHiW8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-25T17:31:03Z",
+    "count": 5
+  }
+}

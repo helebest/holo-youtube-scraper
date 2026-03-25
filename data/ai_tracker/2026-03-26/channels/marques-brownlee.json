@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-03-26",
+  "result": [
+    {
+      "id": "D4QyStJWgCc",
+      "title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-19T13:01:11Z",
+      "description": "Nothing isn't making a flagship phone this year. But these phones are their bread and butter.\n\nMKBHD Merch: http://shop.MKBHD.com\n\n(Affiliate Link) Nothing 4a Pro: https://geni.us/NKQo\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhones provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M4S",
+      "view_count": 2186555,
+      "like_count": 67245,
+      "comment_count": 2729,
+      "url": "https://www.youtube.com/watch?v=D4QyStJWgCc"
+    },
+    {
+      "id": "j2rszuZ-9PY",
+      "title": "Reviewing Everything on my Desk! (2026)",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-14T20:55:28Z",
+      "description": "Everything I've had on my desk for years in 1 video.\n\nBudget version of the same setup: https://youtu.be/fMp3TPlEBQg?si=jF9Nd5sxVvsoEPeI\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nLinks (Affiliate):\nXDesk Air Pro: https://www.xdesk.com/air-pro\nHerman Miller Embody: https://amzn.to/4dl29m3\nMac Pro: https://www.apple.com/mac-pro/\nPro Display XDR: https://www.apple.com/studio-display-xdr/\nGrovemade monitor shelf: https://grovemade.com/product/wood-desk-shelf/?initial=342\nApollo Twin Gen 2: https://amzn.to/4bFlYmZ\nYamaha HS8: https://amzn.to/4rC9NMD\nSennheiser HD650: https://amzn.to/4rvf2gM\nBelkin charging station: https://amzn.to/4luFXbq\nRainy 75 Lite keyboard: https://amzn.to/3N10KGU\nMX Master 4: https://amzn.to/46XKYTP\nArtisan mousepad: https://amzn.to/414YXUo\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M31S",
+      "view_count": 1505026,
+      "like_count": 49442,
+      "comment_count": 2044,
+      "url": "https://www.youtube.com/watch?v=j2rszuZ-9PY"
+    },
+    {
+      "id": "iGeXGdYE7UE",
+      "title": "Macbook Neo Review: Better than you Think!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-10T23:40:30Z",
+      "description": "Macbook Neo is only $600 bucks, but it's incredibly capable and compelling at this price\n\nCheck out dbrand skins for your MacBook at https://dbrand.com/retro-macbooks\n\nThat shirt! http://shop.MKBHD.com\n\n(Affiliate Link) MacBook Neo: https://geni.us/JGI8B3f\n\nPodcast: http://youtube.com/Waveform\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nMacBook Neo provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M53S",
+      "view_count": 4080755,
+      "like_count": 133055,
+      "comment_count": 7137,
+      "url": "https://www.youtube.com/watch?v=iGeXGdYE7UE"
+    },
+    {
+      "id": "yWI33R4xyIc",
+      "title": "Apple Studio Display XDR Review: We're All Pros Now!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-09T20:01:01Z",
+      "description": "The Studio Display XDR is really good. And really expensive.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nApple Studio Display XDR: https://geni.us/eVYQk (Affiliate Link)\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nDisplay provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M42S",
+      "view_count": 1836101,
+      "like_count": 53184,
+      "comment_count": 2700,
+      "url": "https://www.youtube.com/watch?v=yWI33R4xyIc"
+    },
+    {
+      "id": "nfHRMqqO578",
+      "title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-06T20:14:58Z",
+      "description": "The price is the most \"ultra\" thing about the S26 Ultra\n\nMKBHD Merch: http://MKBHD.com\n\nSamsung Galaxy S26 Ultra: https://geni.us/6Bh61 (Affiliate Link)\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Samsung for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M36S",
+      "view_count": 3096418,
+      "like_count": 99302,
+      "comment_count": 5930,
+      "url": "https://www.youtube.com/watch?v=nfHRMqqO578"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-25T17:31:02Z",
+    "count": 5
+  }
+}

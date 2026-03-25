@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-03-26",
+  "result": [
+    {
+      "id": "0DRDJ01COqo",
+      "title": "Visualizing World Models with Project Genie | Vibe Coding with Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-03-25T16:01:26Z",
+      "description": "How do you visualize the concept of a world model? Coders Kaloyan Kolev and Arden Schager share how they used Google AI Studio to vibe code custom design tools for Project Genie. They demonstrate how hands-on tools like 3D physics sliders and custom animation timelines enable teams of designers and engineers to work together to explore new ideas together. \n\nTry vibe coding in Google AI Studio yourself: https://aistudio.google.com/apps  \n\n#BuildWithGemini #VibeCoding #GoogleAIStudio\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT5M29S",
+      "view_count": 2033,
+      "like_count": 162,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=0DRDJ01COqo"
+    },
+    {
+      "id": "9SwoIrZMIPk",
+      "title": "Search “Hannah Montana” for something iconic",
+      "channel_title": "Google",
+      "published_at": "2026-03-24T18:07:36Z",
+      "description": "Everybody make mistakes…but searching “Hannah Montana” isn’t one of them 💁🏼‍♀️",
+      "duration": "PT10S",
+      "view_count": 8759,
+      "like_count": 155,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=9SwoIrZMIPk"
+    },
+    {
+      "id": "lwOP_7pSFio",
+      "title": "Identify tax scams fast with Circle to Search & Lens.",
+      "channel_title": "Google",
+      "published_at": "2026-03-20T19:15:09Z",
+      "description": "Don’t let 2026 be the year you fall for a tax scam. Using Circle to Search and Lens, we’re making it easier than ever to quickly identify scam messages so you know what’s real and what’s not. \n\nLearn how to use these features below and send this to your friends and family who may need the reminder.\n\n#GoogleSearch #CircleToSearch",
+      "duration": "PT33S",
+      "view_count": 15165,
+      "like_count": 338,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=lwOP_7pSFio"
+    },
+    {
+      "id": "1PD6R62esRg",
+      "title": "A message from @BTS  just washed ashore! 💌",
+      "channel_title": "Google",
+      "published_at": "2026-03-20T13:32:33Z",
+      "description": "Search “BTS” to see what’s inside.\n\n @BTS 로부터의 메세지가 해안가로 떠밀려 왔어요 💌 안에 무엇이 들어있는지 구글에 \"BTS\"를 검색해서 확인해 보세요!\n\n@BTS  からのメッセージが海岸に流れ着きました！💌 Googleで「BTS」と検索して、中身をチェックしてみてくださいね。",
+      "duration": "PT10S",
+      "view_count": 30852,
+      "like_count": 511,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=1PD6R62esRg"
+    },
+    {
+      "id": "2PTGSlb4sPg",
+      "title": "3 clever ways to learn new skills using your webcam and Gemini.",
+      "channel_title": "Google",
+      "published_at": "2026-03-18T21:43:47Z",
+      "description": "From sign language tutors to live stream simulators, here are 3 clever ways the community is building with Gemini to learn new skills.  #GoogleGemini #Gemini3",
+      "duration": "PT52S",
+      "view_count": 14366,
+      "like_count": 341,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=2PTGSlb4sPg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-25T17:31:05Z",
+    "count": 5
+  }
+}
