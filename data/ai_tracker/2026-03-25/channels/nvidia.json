@@ -14,14 +14,38 @@
   "date": "2026-03-25",
   "result": [
     {
+      "id": "cxiOhp9BJTs",
+      "title": "NVIDIA GTC Telecom Special Address: The AI Grid—Intelligently Connecting AI Infrastructure",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-24T20:18:57Z",
+      "description": "At NVIDIA GTC 2026, NVIDIA Telecom SVP Ronnie Vasishta delivered the Telecom Special address, exploring how telcos can build a distributed AI grid to power new AI services and applications.\n\nIn this talk, he shares a first look at NVIDIA’s reference architecture, highlights edge AI applications that run best on this grid, and announces partners already on this journey.\n\nLearn more about AI Grids: https://www.nvidia.com/en-us/industries/telecommunications/ai-grid/",
+      "duration": "PT40M57S",
+      "view_count": 2374,
+      "like_count": 128,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=cxiOhp9BJTs"
+    },
+    {
+      "id": "DhxG8LC6x1E",
+      "title": "Jensen Huang on How He reasons Toward What Must Exist, Then Builds Toward It",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-24T19:20:41Z",
+      "description": "Curiosity first. Conviction next.\n\nOn the latest Lex Fridman podcast, NVIDIA CEO Jensen Huang shares how he reasons toward what must exist, then builds toward it.\n\nWatch the full episode with Lex Fridman ➡️ https://nvda.ws/4v4FVvk",
+      "duration": "PT1M21S",
+      "view_count": 3291,
+      "like_count": 172,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=DhxG8LC6x1E"
+    },
+    {
       "id": "kDd24YOeqQQ",
       "title": "NVIDIA GTC 2026 Keynote with Jensen Huang Highlights",
       "channel_title": "NVIDIA",
       "published_at": "2026-03-20T23:28:23Z",
       "description": "Catch up on how CEO Jensen Huang’s keynote lit the fuse on a new era of token-powered, full‑stack AI — from CUDA to Vera Rubin, Feynman and OpenClaw.\n\nFrom the inflection point of inference to agentic AI to the data center, get the highlights of Jensen’s talk and the go deep by watching full replay or GTC sessions on demand.\n\nwww.nvidia.com/gtc/keynote\n\n#NVIDIAGTC #AgenticAI #NVIDIAAI",
       "duration": "PT4M42S",
-      "view_count": 25201,
-      "like_count": 501,
+      "view_count": 26100,
+      "like_count": 515,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=kDd24YOeqQQ"
     },
@@ -32,8 +56,8 @@
       "published_at": "2026-03-20T22:21:35Z",
       "description": "Experience the magic of NVIDIA GTC 2026 featuring GTC Live pregame, CEO Jensen Huang’s keynote, a packed exhibit hall with hundreds of sponsors, hands-on training, technology plus fun at GTC Park, and so much more. \n\nFeel the excitement of our packed exhibit hall showing off cutting-edge demos, attendees at expert-led sessions, and ecosystem collaborations across AI and accelerated computing. Thank you to all the attendees, developers, creators, and sponsors who made GTC unforgettable. Watch and celebrate the moments that brought GTC to life!\n\nwww.nvidia.com/gtc\n#NVIDIAGTC, #AgenticAI, #NVIDIAAI",
       "duration": "PT1M24S",
-      "view_count": 3201,
-      "like_count": 126,
+      "view_count": 3319,
+      "like_count": 130,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=zMvr3mZHiW8"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-03-20T20:54:02Z",
       "description": "At GTC, NVIDIA made NVQLink publicly available through a new application programming interface (API) called cudaq-realtime — and shared demonstrations advancing the state-of-the-art in quantum error correction. Hear Nicholas Harrigan, product marketing manager for quantum computing at NVIDIA, explain why quantum processors needs GPU supercomputers.",
       "duration": "PT1M49S",
-      "view_count": 16476,
-      "like_count": 448,
+      "view_count": 16702,
+      "like_count": 451,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=CYLn56Vc2XA"
-    },
-    {
-      "id": "5EEYgxoT8kc",
-      "title": "NVIDIA Alpamayo In-Car Reasoning: AI That Drives, Explains Decisions, and Responds to Passengers",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-03-20T15:56:53Z",
-      "description": "This video showcases four capabilities of NVIDIA Alpamayo, the reasoning vision language action model:\n\n- Chain-of-Thought: Alpamayo continuously reasons through its observations, conclusions, and decisions, improving driving while making its decision process more transparent.\n- Verbalized Reasoning: In complex situations, the car selectively explains its reasoning aloud, giving passengers insight into the AI’s decisions and helping to build trust.\n- Natural Language Q&A: Riders can ask questions about the car’s behavior or the surrounding environment, and Alpamayo responds in real time.\n- Language Instructions and Commands: Passengers can request actions such as changing lanes, speeding up, taking a detour, or pulling over, and Alpamayo performs them naturally.\n\nTogether, these capabilities create a safe, transparent, and interactive driving experience.\n\nLearn More: https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/\n\n#AutonomousVehicles #PhysicalAI #NVIDIADRIVE",
-      "duration": "PT3M45S",
-      "view_count": 8627,
-      "like_count": 396,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=5EEYgxoT8kc"
-    },
-    {
-      "id": "aDT9bBt9HxM",
-      "title": "Official Keynote Closing Video | GTC 2026",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-03-18T22:45:34Z",
-      "description": "Gather around the campfire with Jensen and a cast of robots from the GTC keynote as they sing their way through this year’s biggest announcements. From breakthrough AI to accelerated computing, it’s a lighthearted recap of the innovations shaping the future.\n\n#NVIDIAGTC",
-      "duration": "PT3M56S",
-      "view_count": 22462,
-      "like_count": 624,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=aDT9bBt9HxM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-24T17:28:26Z",
+    "generated_at": "2026-03-25T05:41:30Z",
     "count": 5
   }
 }

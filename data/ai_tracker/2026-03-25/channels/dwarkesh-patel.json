@@ -14,15 +14,27 @@
   "date": "2026-03-25",
   "result": [
     {
+      "id": "dPqo0YbgbNI",
+      "title": "How Banking for the Pope Made the Medicis Unstoppable - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-24T19:16:23Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 68363,
+      "like_count": 2529,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
+    },
+    {
       "id": "blsTU-FKZuI",
       "title": "Why Italian Cities Survived After Rome Fell - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-23T17:35:51Z",
       "description": "",
       "duration": "PT1M21S",
-      "view_count": 246759,
-      "like_count": 8588,
-      "comment_count": 186,
+      "view_count": 304954,
+      "like_count": 10364,
+      "comment_count": 224,
       "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-22T17:07:52Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 162019,
-      "like_count": 6156,
-      "comment_count": 69,
+      "view_count": 173127,
+      "like_count": 6543,
+      "comment_count": 74,
       "url": "https://www.youtube.com/watch?v=8diO8Mm01FA"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-22T00:47:06Z",
       "description": "",
       "duration": "PT1M31S",
-      "view_count": 156789,
-      "like_count": 4612,
-      "comment_count": 171,
+      "view_count": 183119,
+      "like_count": 5131,
+      "comment_count": 179,
       "url": "https://www.youtube.com/watch?v=fXFmnIZhE08"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-20T21:26:11Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 349549,
-      "like_count": 10605,
-      "comment_count": 291,
+      "view_count": 365385,
+      "like_count": 11053,
+      "comment_count": 302,
       "url": "https://www.youtube.com/watch?v=a9c5uO1D248"
-    },
-    {
-      "id": "Q8Fkpi18QXU",
-      "title": "Terence Tao – How the world’s top mathematician uses AI",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-20T16:29:48Z",
-      "description": "We begin the episode with the absolutely ingenious and surprising way in which Kepler discovered the laws of planetary motion.\n\nPeople sometimes say that AI will make especially fast progress at scientific discovery because of tight verification loops. But the story of how we discovered the shape of our solar system shows how the verification loop for correct ideas can be decades (or even millennia) long.\n\nDuring this time, what we know today as the better theory can often actually make worse predictions (Copernicus's model of circular orbits around the sun was actually less accurate than Ptolemy's geocentric model). And the reasons it survives this epistemic hell is some mixture of judgment and heuristics that we don’t even understand well enough to actually articulate, much less codify into an RL loop.\n\nHope you enjoy!\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/terence-tao\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/terence-tao-kepler-newton-and-the-true/id1516093381?i=1000756353875\n* Spotify: https://open.spotify.com/episode/24xF8YGra2w3HXZYbhgVKU?si=U5V-SgvSQ8eVIcG2Z86wfQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Jane Street loves challenging my audience with different creative puzzles. One of my listeners, Shawn, solved Jane Street’s ResNet challenge and posted a great walk-through on X ( https://x.com/hynwprk/status/2026376546286711206 ). If you want to try one of these puzzles yourself, there’s one live now at https://janestreet.com/dwarkesh\n- Labelbox can get you rubric-based evals, no matter your domain. These rubrics allow you to give your model feedback on all the dimensions you care about, so you can train how it thinks, not just what it thinks. Whatever you’re focused on—math, physics, finance, psychology or something else—Labelbox can help. Learn more at https://labelbox.com/dwarkesh\n- Mercury just released a new feature called Insights. Insights summarizes your money in and out, showing you your biggest transactions and calling out anything worth paying attention to. It’s a super low-friction way to stay on top of your business. Learn more at https://mercury.com/insights\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Kepler was a high temperature LLM\n00:11:44 – How would we know if there’s a new unifying concept within heaps of AI slop?\n00:26:10 – The deductive overhang\n00:30:31 – Selection bias in reported AI discoveries\n00:46:43 – AI makes papers richer and broader, but not deeper\n00:53:00 – If AI solves a problem, can humans get understanding out of it?\n00:59:20 – We need a semi-formal language for the way that scientists actually talk to each other\n01:09:48 – How Terry uses his time\n01:17:05 – Human-AI hybrids will dominate math for a lot longer",
-      "duration": "PT1H23M44S",
-      "view_count": 230481,
-      "like_count": 5478,
-      "comment_count": 394,
-      "url": "https://www.youtube.com/watch?v=Q8Fkpi18QXU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-24T17:28:23Z",
+    "generated_at": "2026-03-25T05:41:27Z",
     "count": 5
   }
 }

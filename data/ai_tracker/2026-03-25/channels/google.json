@@ -14,14 +14,26 @@
   "date": "2026-03-25",
   "result": [
     {
+      "id": "9SwoIrZMIPk",
+      "title": "Search “Hannah Montana” for something iconic",
+      "channel_title": "Google",
+      "published_at": "2026-03-24T18:07:36Z",
+      "description": "Everybody make mistakes…but searching “Hannah Montana” isn’t one of them 💁🏼‍♀️",
+      "duration": "PT10S",
+      "view_count": 5208,
+      "like_count": 109,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=9SwoIrZMIPk"
+    },
+    {
       "id": "lwOP_7pSFio",
       "title": "Identify tax scams fast with Circle to Search & Lens.",
       "channel_title": "Google",
       "published_at": "2026-03-20T19:15:09Z",
       "description": "Don’t let 2026 be the year you fall for a tax scam. Using Circle to Search and Lens, we’re making it easier than ever to quickly identify scam messages so you know what’s real and what’s not. \n\nLearn how to use these features below and send this to your friends and family who may need the reminder.\n\n#GoogleSearch #CircleToSearch",
       "duration": "PT33S",
-      "view_count": 13468,
-      "like_count": 316,
+      "view_count": 14297,
+      "like_count": 329,
       "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=lwOP_7pSFio"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-03-20T13:32:33Z",
       "description": "Search “BTS” to see what’s inside.\n\n @BTS 로부터의 메세지가 해안가로 떠밀려 왔어요 💌 안에 무엇이 들어있는지 구글에 \"BTS\"를 검색해서 확인해 보세요!\n\n@BTS  からのメッセージが海岸に流れ着きました！💌 Googleで「BTS」と検索して、中身をチェックしてみてくださいね。",
       "duration": "PT10S",
-      "view_count": 28150,
-      "like_count": 470,
+      "view_count": 29571,
+      "like_count": 495,
       "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=1PD6R62esRg"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-03-18T21:43:47Z",
       "description": "From sign language tutors to live stream simulators, here are 3 clever ways the community is building with Gemini to learn new skills.  #GoogleGemini #Gemini3",
       "duration": "PT52S",
-      "view_count": 13335,
-      "like_count": 324,
+      "view_count": 13862,
+      "like_count": 329,
       "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=2PTGSlb4sPg"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-03-17T16:35:51Z",
       "description": "Hear from our Chief Health Officer Dr. Michael Howell and teams across Google will share how we’re bringing together new AI research, technological innovations, and partnerships to help address some of the world's most pressing health challenges.\n\nLearn more: https://health.google/the-check-up/\n\nWatch more videos from Google on Health and subscribe to our channel: https://yt.be/health-playlist",
       "duration": "PT1H22M",
-      "view_count": 51551,
-      "like_count": 1558,
+      "view_count": 52209,
+      "like_count": 1561,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=62UIFZXHDBE"
-    },
-    {
-      "id": "CpaGFQJ0rQo",
-      "title": "Happy St. Patrick’s Day #GoogleDoodle",
-      "channel_title": "Google",
-      "published_at": "2026-03-17T16:09:24Z",
-      "description": "Happy St. Patrick’s Day ☘️ Whether it’s honoring history or enjoying the communal spirit, today’s #GoogleDoodle is all about celebrating Irish pride.",
-      "duration": "PT7S",
-      "view_count": 10480,
-      "like_count": 206,
-      "comment_count": 34,
-      "url": "https://www.youtube.com/watch?v=CpaGFQJ0rQo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-24T17:28:28Z",
+    "generated_at": "2026-03-25T05:41:32Z",
     "count": 5
   }
 }
