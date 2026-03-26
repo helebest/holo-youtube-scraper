@@ -14,15 +14,27 @@
   "date": "2026-03-26",
   "result": [
     {
+      "id": "oJBcOsyuHvw",
+      "title": "How a Lost Book Launched the Scientific Revolution  - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-25T21:50:44Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 27462,
+      "like_count": 1921,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
+    },
+    {
       "id": "dPqo0YbgbNI",
       "title": "How Banking for the Pope Made the Medicis Unstoppable - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-24T19:16:23Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 109350,
-      "like_count": 3569,
-      "comment_count": 74,
+      "view_count": 134655,
+      "like_count": 4239,
+      "comment_count": 86,
       "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-23T17:35:51Z",
       "description": "",
       "duration": "PT1M21S",
-      "view_count": 320346,
-      "like_count": 10947,
-      "comment_count": 243,
+      "view_count": 332680,
+      "like_count": 11435,
+      "comment_count": 250,
       "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-22T17:07:52Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 179066,
-      "like_count": 6721,
-      "comment_count": 75,
+      "view_count": 186043,
+      "like_count": 6883,
+      "comment_count": 79,
       "url": "https://www.youtube.com/watch?v=8diO8Mm01FA"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-22T00:47:06Z",
       "description": "",
       "duration": "PT1M31S",
-      "view_count": 198114,
-      "like_count": 5634,
-      "comment_count": 190,
+      "view_count": 215773,
+      "like_count": 6231,
+      "comment_count": 196,
       "url": "https://www.youtube.com/watch?v=fXFmnIZhE08"
-    },
-    {
-      "id": "a9c5uO1D248",
-      "title": "Why No One Cared When Columbus Discovered The Americas - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-20T21:26:11Z",
-      "description": "",
-      "duration": "PT1M8S",
-      "view_count": 372506,
-      "like_count": 11220,
-      "comment_count": 309,
-      "url": "https://www.youtube.com/watch?v=a9c5uO1D248"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-25T17:30:59Z",
+    "generated_at": "2026-03-26T05:53:58Z",
     "count": 5
   }
 }
