@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-03-27",
+  "result": [
+    {
+      "id": "yUjfp2DlfCA",
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-26T17:18:07Z",
+      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.\n\nSo Ryan, what has Codex unlocked for you?\n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/\n\n#shorts #openaicodex  #coding #startup #melbourne",
+      "duration": "PT1M12S",
+      "view_count": 465,
+      "like_count": 34,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA"
+    },
+    {
+      "id": "4_P7R8Fjrg8",
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-26T17:07:55Z",
+      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.  \n\nSo Ryan, what has Codex unlocked for you? \n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/",
+      "duration": "PT1M12S",
+      "view_count": 588,
+      "like_count": 36,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8"
+    },
+    {
+      "id": "H8GMRxG8suw",
+      "title": "Episode 15 - Inside the Model Spec",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-25T16:55:00Z",
+      "description": "The more AI can do, the more we need to ask what it should and shouldn’t do. In this episode, OpenAI researcher Jason Wolfe joins host Andrew Mayne to talk about the Model Spec, the public framework that defines intended model behavior. They discuss how the Model Spec works in practice, including how the chain of command handles conflicts between instructions, and how OpenAI evolves it based on feedback, real-world use, and new model capabilities.\n\nMore on our approach to the Model Spec: https://openai.com/index/our-approach-to-the-model-spec/\n\nChapters\n\n00:00 Introduction\n01:10 What is the Model Spec?\n03:55 How does the Model Spec work in practice?\n06:26 Transparency: Where to read the Model Spec & give feedback\n07:51 How did the Model Spec originate?\n10:02 How does the spec translate into model behavior?\n11:26 What is the hierarchy / chain of command?\n13:35 Handling edge cases like Santa Claus\n17:41 How does the Model Spec evolve over time?\n19:59 What happens when models disagree with the spec?\n22:05 How do smaller models follow the spec?\n23:16 Is chain-of-thought useful for alignment?\n24:16 Model Spec vs Anthropic’s Constitution\n26:28 What surprised you most?\n26:56 How do you define the scope of the spec?\n27:44 What is the future of the Model Spec?\n31:16 How should developers think about the spec?\n34:44 Asimov’s laws vs Model Spec\n37:16 Could AI write a Human Spec?",
+      "duration": "PT37M27S",
+      "view_count": 5975,
+      "like_count": 167,
+      "comment_count": 62,
+      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw"
+    },
+    {
+      "id": "qHEUIXGSxxg",
+      "title": "What Codex Unlocks for Notion",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-24T17:21:07Z",
+      "description": "Hey Ryan Nystrom (Notion), what has Codex unlocked for you? \n\n“The fact that I can build this feature solo while still supporting my team is crazy.” \n\nRyan built Notion AI Voice Input in one shot, while managing a team.\n\nMore: https://openai.com/codex/\n\n#shorts #shortvideo #openaicodex  #notion",
+      "duration": "PT59S",
+      "view_count": 4691,
+      "like_count": 63,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=qHEUIXGSxxg"
+    },
+    {
+      "id": "bxJkxBUFeEE",
+      "title": "What Codex Unlocks for Notion",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-24T17:01:54Z",
+      "description": "Hey Ryan Nystrom @ Notion, what has Codex unlocked for you? \n\n“The fact that I can build this feature solo while still supporting my team is crazy.” \n\nRyan built Notion AI Voice Input in one shot, while managing a team, blindfolded. Maybe not blindfolded, but the rest is true. \n\nMore: https://openai.com/codex/",
+      "duration": "PT59S",
+      "view_count": 15766,
+      "like_count": 432,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=bxJkxBUFeEE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-26T17:32:40Z",
+    "count": 5
+  }
+}
