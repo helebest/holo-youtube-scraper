@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-28",
+  "result": [
+    {
+      "id": "O--rUvPZWCo",
+      "title": "History Was Never Slow - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-26T23:36:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 60945,
+      "like_count": 3134,
+      "comment_count": 79,
+      "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
+    },
+    {
+      "id": "oJBcOsyuHvw",
+      "title": "How a Lost Book Launched the Scientific Revolution  - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-25T21:50:44Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 78943,
+      "like_count": 3940,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
+    },
+    {
+      "id": "dPqo0YbgbNI",
+      "title": "How Banking for the Pope Made the Medicis Unstoppable - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-24T19:16:23Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 157042,
+      "like_count": 5098,
+      "comment_count": 101,
+      "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
+    },
+    {
+      "id": "blsTU-FKZuI",
+      "title": "Why Italian Cities Survived After Rome Fell - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-23T17:35:51Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 369027,
+      "like_count": 13198,
+      "comment_count": 279,
+      "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
+    },
+    {
+      "id": "8diO8Mm01FA",
+      "title": "Why The Italians Cosplayed The Romans - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-22T17:07:52Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 201975,
+      "like_count": 7470,
+      "comment_count": 83,
+      "url": "https://www.youtube.com/watch?v=8diO8Mm01FA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-27T17:13:47Z",
+    "count": 5
+  }
+}
