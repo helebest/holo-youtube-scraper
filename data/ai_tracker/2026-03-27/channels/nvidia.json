@@ -20,8 +20,8 @@
       "published_at": "2026-03-25T21:18:49Z",
       "description": "Autonomous vehicles (AVs) are emerging as the first mass-deployed physical AI agents, reshaping mobility and driving new demands in AI, safety, and scalable development. This special address explores the industry’s path to Level 4 autonomy and how NVIDIA is helping accelerate it. With the DRIVE Hyperion architecture, manufacturers (OEMs) and AV developers can build scalable, safety-certified autonomy solutions. NVIDIA will present its cloud-to-car platform—spanning training, simulation, and in-vehicle compute—to support developing and validating next-generation drive-policy models. The session will also touch on how agentic AI is poised to transform AVs end to end, from automating data-driven development and validation to enabling more intelligent, adaptive in-car experiences. Gain insights into L4 software architectures, the DRIVE Hyperion platform, and ecosystem collaboration across OEMs, AV developers, mobility providers, and robotaxi companies.",
       "duration": "PT43M21S",
-      "view_count": 4571,
-      "like_count": 170,
+      "view_count": 6269,
+      "like_count": 194,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=7N38fD4ksnI"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-03-25T19:22:37Z",
       "description": "Different voices. Same answer: open models.\n\nNVIDIA Founder and CEO Jensen Huang sat down with the leaders from Mistral,  Black Forest Labs, Cursor, LangChain, Perplexity, Reflection AI, Thinking Machines Lab, Ai2 & AMP PBC to discuss the rapid rise of open frontier models.\n\nGet the top takeaways from the frontier of AI\n\nhttps://nvda.ws/4lWcmbe",
       "duration": "PT29S",
-      "view_count": 6552,
-      "like_count": 215,
+      "view_count": 8053,
+      "like_count": 240,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=VWM-Cw-P6cI"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-03-25T19:00:41Z",
       "description": "We are no longer just building models; we are building a new industry. Join top AI leaders and pioneers as they break down the rapidly evolving tech landscape.\n\nIn this panel, experts move past the \"open vs. closed\" model debate, revealing how the true future of AI lies in an ecosystem where both thrive. Discover why the industry is shifting from raw foundation models to complex orchestration systems, \"compound agents,\" and specialized AI that mirrors the specialized shape of human society.\n\nLearn more:\nhttps://nvda.ws/4lWcmbe",
       "duration": "PT22M13S",
-      "view_count": 6494,
-      "like_count": 217,
+      "view_count": 8112,
+      "like_count": 236,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=H26xnpL-ei0"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-03-25T15:23:40Z",
       "description": "Automation executes. Autonomy reasons. 🧠\n\nWatch how NVIDIA and its global partners are ushering in the era of the Autonomous Network. Using Agentic AI, operators are now deploying intelligent agents that can self-optimize, self-heal, and self-configure.\n\nThe future of connectivity isn't just fast—it’s smart. \n\nLearn more: https://nvda.ws/4bB9Zph\n\n#NVIDIA #AgenticAI #AutonomousNetworks #TelcoAI #6GReady",
       "duration": "PT2M",
-      "view_count": 3969,
-      "like_count": 237,
+      "view_count": 4472,
+      "like_count": 254,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=LS_MDioeAAc"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-03-24T20:18:57Z",
       "description": "At NVIDIA GTC 2026, NVIDIA Telecom SVP Ronnie Vasishta delivered the Telecom Special address, exploring how telcos can build a distributed AI grid to power new AI services and applications.\n\nIn this talk, he shares a first look at NVIDIA’s reference architecture, highlights edge AI applications that run best on this grid, and announces partners already on this journey.\n\nLearn more about AI Grids: https://www.nvidia.com/en-us/industries/telecommunications/ai-grid/",
       "duration": "PT40M57S",
-      "view_count": 8809,
-      "like_count": 185,
+      "view_count": 9880,
+      "like_count": 189,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=cxiOhp9BJTs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-26T17:32:39Z",
+    "generated_at": "2026-03-27T05:54:10Z",
     "count": 5
   }
 }
