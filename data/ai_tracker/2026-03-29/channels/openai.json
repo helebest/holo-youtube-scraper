@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-03-29",
+  "result": [
+    {
+      "id": "th8u0bqYsQk",
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T20:55:13Z",
+      "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit. \n\nYou can browse visually, upload images as inspiration for similar items, and refine results conversationally until you land on the right option.",
+      "duration": "PT53S",
+      "view_count": 4960,
+      "like_count": 162,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+    },
+    {
+      "id": "jM1oSEXssOE",
+      "title": "Design your dream room by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T17:27:04Z",
+      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.",
+      "duration": "PT39S",
+      "view_count": 6245,
+      "like_count": 179,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE"
+    },
+    {
+      "id": "7IB1KBVm7HE",
+      "title": "Shopping in ChatGPT just got a whole lot more helpful",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T17:12:13Z",
+      "description": "",
+      "duration": "PT2M50S",
+      "view_count": 5266,
+      "like_count": 178,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE"
+    },
+    {
+      "id": "fFboNpWweyE",
+      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-26T20:31:28Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 4643,
+      "like_count": 103,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=fFboNpWweyE"
+    },
+    {
+      "id": "yUjfp2DlfCA",
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-26T17:18:07Z",
+      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.\n\nSo Ryan, what has Codex unlocked for you?\n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/\n\n#shorts #openaicodex  #coding #startup #melbourne",
+      "duration": "PT1M12S",
+      "view_count": 7476,
+      "like_count": 188,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-28T16:55:13Z",
+    "count": 5
+  }
+}

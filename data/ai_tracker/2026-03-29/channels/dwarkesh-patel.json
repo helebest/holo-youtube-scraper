@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-29",
+  "result": [
+    {
+      "id": "rViklYOjwq8",
+      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-27T23:46:44Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 78895,
+      "like_count": 3447,
+      "comment_count": 85,
+      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
+    },
+    {
+      "id": "O--rUvPZWCo",
+      "title": "History Was Never Slow - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-26T23:36:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 95981,
+      "like_count": 4476,
+      "comment_count": 110,
+      "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
+    },
+    {
+      "id": "oJBcOsyuHvw",
+      "title": "How a Lost Book Launched the Scientific Revolution  - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-25T21:50:44Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 86571,
+      "like_count": 4292,
+      "comment_count": 124,
+      "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
+    },
+    {
+      "id": "dPqo0YbgbNI",
+      "title": "How Banking for the Pope Made the Medicis Unstoppable - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-24T19:16:23Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 163367,
+      "like_count": 5308,
+      "comment_count": 102,
+      "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
+    },
+    {
+      "id": "blsTU-FKZuI",
+      "title": "Why Italian Cities Survived After Rome Fell - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-23T17:35:51Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 387409,
+      "like_count": 14102,
+      "comment_count": 291,
+      "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-28T16:55:09Z",
+    "count": 5
+  }
+}
