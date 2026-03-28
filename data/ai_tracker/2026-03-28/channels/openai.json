@@ -14,15 +14,39 @@
   "date": "2026-03-28",
   "result": [
     {
+      "id": "th8u0bqYsQk",
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T20:55:13Z",
+      "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit. \n\nYou can browse visually, upload images as inspiration for similar items, and refine results conversationally until you land on the right option.",
+      "duration": "PT53S",
+      "view_count": 3055,
+      "like_count": 127,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+    },
+    {
+      "id": "jM1oSEXssOE",
+      "title": "Design your dream room by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T17:27:04Z",
+      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.",
+      "duration": "PT39S",
+      "view_count": 4737,
+      "like_count": 163,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE"
+    },
+    {
       "id": "7IB1KBVm7HE",
       "title": "Shopping in ChatGPT just got a whole lot more helpful",
       "channel_title": "OpenAI",
       "published_at": "2026-03-27T17:12:13Z",
       "description": "",
       "duration": "PT2M50S",
-      "view_count": 0,
-      "like_count": 19,
-      "comment_count": 4,
+      "view_count": 4024,
+      "like_count": 165,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-03-26T20:31:28Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 3284,
-      "like_count": 88,
-      "comment_count": 9,
+      "view_count": 4294,
+      "like_count": 99,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=fFboNpWweyE"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-03-26T17:18:07Z",
       "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.\n\nSo Ryan, what has Codex unlocked for you?\n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/\n\n#shorts #openaicodex  #coding #startup #melbourne",
       "duration": "PT1M12S",
-      "view_count": 5745,
-      "like_count": 153,
+      "view_count": 6858,
+      "like_count": 172,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA"
-    },
-    {
-      "id": "4_P7R8Fjrg8",
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
-      "channel_title": "OpenAI",
-      "published_at": "2026-03-26T17:07:55Z",
-      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.  \n\nSo Ryan, what has Codex unlocked for you? \n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/",
-      "duration": "PT1M12S",
-      "view_count": 5888,
-      "like_count": 217,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8"
-    },
-    {
-      "id": "H8GMRxG8suw",
-      "title": "Episode 15 - Inside the Model Spec",
-      "channel_title": "OpenAI",
-      "published_at": "2026-03-25T16:55:00Z",
-      "description": "The more AI can do, the more we need to ask what it should and shouldn’t do. In this episode, OpenAI researcher Jason Wolfe joins host Andrew Mayne to talk about the Model Spec, the public framework that defines intended model behavior. They discuss how the Model Spec works in practice, including how the chain of command handles conflicts between instructions, and how OpenAI evolves it based on feedback, real-world use, and new model capabilities.\n\nMore on our approach to the Model Spec: https://openai.com/index/our-approach-to-the-model-spec/\n\nChapters\n\n00:00 Introduction\n01:10 What is the Model Spec?\n03:55 How does the Model Spec work in practice?\n06:26 Transparency: Where to read the Model Spec & give feedback\n07:51 How did the Model Spec originate?\n10:02 How does the spec translate into model behavior?\n11:26 What is the hierarchy / chain of command?\n13:35 Handling edge cases like Santa Claus\n17:41 How does the Model Spec evolve over time?\n19:59 What happens when models disagree with the spec?\n22:05 How do smaller models follow the spec?\n23:16 Is chain-of-thought useful for alignment?\n24:16 Model Spec vs Anthropic’s Constitution\n26:28 What surprised you most?\n26:56 How do you define the scope of the spec?\n27:44 What is the future of the Model Spec?\n31:16 How should developers think about the spec?\n34:44 Asimov’s laws vs Model Spec\n37:16 Could AI write a Human Spec?",
-      "duration": "PT37M27S",
-      "view_count": 7316,
-      "like_count": 187,
-      "comment_count": 74,
-      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-27T17:13:51Z",
+    "generated_at": "2026-03-28T05:37:41Z",
     "count": 5
   }
 }

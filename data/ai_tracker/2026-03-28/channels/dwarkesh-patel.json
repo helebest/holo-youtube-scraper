@@ -14,15 +14,27 @@
   "date": "2026-03-28",
   "result": [
     {
+      "id": "rViklYOjwq8",
+      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-27T23:46:44Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 27877,
+      "like_count": 1674,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
+    },
+    {
       "id": "O--rUvPZWCo",
       "title": "History Was Never Slow - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-26T23:36:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 60945,
-      "like_count": 3134,
-      "comment_count": 79,
+      "view_count": 85992,
+      "like_count": 4067,
+      "comment_count": 99,
       "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-25T21:50:44Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 78943,
-      "like_count": 3940,
-      "comment_count": 111,
+      "view_count": 83374,
+      "like_count": 4150,
+      "comment_count": 114,
       "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-03-24T19:16:23Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 157042,
-      "like_count": 5098,
+      "view_count": 161377,
+      "like_count": 5233,
       "comment_count": 101,
       "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-03-23T17:35:51Z",
       "description": "",
       "duration": "PT1M21S",
-      "view_count": 369027,
-      "like_count": 13198,
-      "comment_count": 279,
+      "view_count": 378585,
+      "like_count": 13728,
+      "comment_count": 280,
       "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
-    },
-    {
-      "id": "8diO8Mm01FA",
-      "title": "Why The Italians Cosplayed The Romans - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-22T17:07:52Z",
-      "description": "",
-      "duration": "PT1M7S",
-      "view_count": 201975,
-      "like_count": 7470,
-      "comment_count": 83,
-      "url": "https://www.youtube.com/watch?v=8diO8Mm01FA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-27T17:13:47Z",
+    "generated_at": "2026-03-28T05:37:37Z",
     "count": 5
   }
 }
