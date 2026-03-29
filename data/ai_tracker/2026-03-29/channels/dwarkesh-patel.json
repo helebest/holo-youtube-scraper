@@ -14,15 +14,27 @@
   "date": "2026-03-29",
   "result": [
     {
+      "id": "pIpyXMxJm-I",
+      "title": "Why the Past Feels Slower Than It Was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-28T19:57:19Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 46196,
+      "like_count": 2145,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
+    },
+    {
       "id": "rViklYOjwq8",
       "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-27T23:46:44Z",
       "description": "",
       "duration": "PT2M12S",
-      "view_count": 78895,
-      "like_count": 3447,
-      "comment_count": 85,
+      "view_count": 131284,
+      "like_count": 4913,
+      "comment_count": 137,
       "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-26T23:36:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 95981,
-      "like_count": 4476,
-      "comment_count": 110,
+      "view_count": 104663,
+      "like_count": 4834,
+      "comment_count": 120,
       "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-25T21:50:44Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 86571,
-      "like_count": 4292,
-      "comment_count": 124,
+      "view_count": 89316,
+      "like_count": 4422,
+      "comment_count": 131,
       "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-24T19:16:23Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 163367,
-      "like_count": 5308,
-      "comment_count": 102,
+      "view_count": 165262,
+      "like_count": 5369,
+      "comment_count": 103,
       "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
-    },
-    {
-      "id": "blsTU-FKZuI",
-      "title": "Why Italian Cities Survived After Rome Fell - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-23T17:35:51Z",
-      "description": "",
-      "duration": "PT1M21S",
-      "view_count": 387409,
-      "like_count": 14102,
-      "comment_count": 291,
-      "url": "https://www.youtube.com/watch?v=blsTU-FKZuI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-28T16:55:09Z",
+    "generated_at": "2026-03-29T05:55:00Z",
     "count": 5
   }
 }
