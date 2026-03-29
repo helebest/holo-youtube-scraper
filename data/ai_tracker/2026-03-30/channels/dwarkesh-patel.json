@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-03-30",
+  "result": [
+    {
+      "id": "pIpyXMxJm-I",
+      "title": "Why the Past Feels Slower Than It Was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-28T19:57:19Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 101745,
+      "like_count": 3579,
+      "comment_count": 115,
+      "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
+    },
+    {
+      "id": "rViklYOjwq8",
+      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-27T23:46:44Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 154189,
+      "like_count": 5655,
+      "comment_count": 153,
+      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
+    },
+    {
+      "id": "O--rUvPZWCo",
+      "title": "History Was Never Slow - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-26T23:36:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 110699,
+      "like_count": 5106,
+      "comment_count": 128,
+      "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
+    },
+    {
+      "id": "oJBcOsyuHvw",
+      "title": "How a Lost Book Launched the Scientific Revolution  - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-25T21:50:44Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 90755,
+      "like_count": 4487,
+      "comment_count": 133,
+      "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
+    },
+    {
+      "id": "dPqo0YbgbNI",
+      "title": "How Banking for the Pope Made the Medicis Unstoppable - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-24T19:16:23Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 167710,
+      "like_count": 5453,
+      "comment_count": 104,
+      "url": "https://www.youtube.com/watch?v=dPqo0YbgbNI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-29T16:57:09Z",
+    "count": 5
+  }
+}
