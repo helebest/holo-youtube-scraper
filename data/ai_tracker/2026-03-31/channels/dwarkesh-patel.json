@@ -14,15 +14,27 @@
   "date": "2026-03-31",
   "result": [
     {
+      "id": "fRpynA_dYtc",
+      "title": "How AI Is Killing Cheap Smartphones - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-30T19:55:21Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 26337,
+      "like_count": 432,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
+    },
+    {
       "id": "i9-0Iowgtu4",
       "title": "Why You Need Distraction in Your Life - Terence Tao",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-29T19:13:06Z",
       "description": "",
       "duration": "PT1M27S",
-      "view_count": 28542,
-      "like_count": 1410,
-      "comment_count": 41,
+      "view_count": 39564,
+      "like_count": 1747,
+      "comment_count": 46,
       "url": "https://www.youtube.com/watch?v=i9-0Iowgtu4"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-28T19:57:19Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 179762,
-      "like_count": 5114,
-      "comment_count": 144,
+      "view_count": 198613,
+      "like_count": 5473,
+      "comment_count": 157,
       "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-27T23:46:44Z",
       "description": "",
       "duration": "PT2M12S",
-      "view_count": 200306,
-      "like_count": 6884,
-      "comment_count": 197,
+      "view_count": 219253,
+      "like_count": 7411,
+      "comment_count": 204,
       "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-26T23:36:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 123218,
-      "like_count": 5630,
-      "comment_count": 146,
+      "view_count": 127783,
+      "like_count": 5857,
+      "comment_count": 151,
       "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
-    },
-    {
-      "id": "oJBcOsyuHvw",
-      "title": "How a Lost Book Launched the Scientific Revolution  - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-25T21:50:44Z",
-      "description": "",
-      "duration": "PT1M25S",
-      "view_count": 94730,
-      "like_count": 4682,
-      "comment_count": 135,
-      "url": "https://www.youtube.com/watch?v=oJBcOsyuHvw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-03-30T17:15:35Z",
+    "generated_at": "2026-03-31T05:57:56Z",
     "count": 5
   }
 }
