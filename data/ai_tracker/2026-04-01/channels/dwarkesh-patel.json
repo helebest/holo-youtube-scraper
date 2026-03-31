@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-01",
+  "result": [
+    {
+      "id": "fRpynA_dYtc",
+      "title": "How AI Is Killing Cheap Smartphones - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-30T19:55:21Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 39215,
+      "like_count": 567,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
+    },
+    {
+      "id": "i9-0Iowgtu4",
+      "title": "Why Great Thinking Needs Distraction - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-29T19:13:06Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 44018,
+      "like_count": 1940,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=i9-0Iowgtu4"
+    },
+    {
+      "id": "pIpyXMxJm-I",
+      "title": "Why the Past Feels Slower Than It Was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-28T19:57:19Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 208653,
+      "like_count": 5691,
+      "comment_count": 162,
+      "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
+    },
+    {
+      "id": "rViklYOjwq8",
+      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-27T23:46:44Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 228732,
+      "like_count": 7775,
+      "comment_count": 210,
+      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
+    },
+    {
+      "id": "O--rUvPZWCo",
+      "title": "History Was Never Slow - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-26T23:36:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 131154,
+      "like_count": 5993,
+      "comment_count": 155,
+      "url": "https://www.youtube.com/watch?v=O--rUvPZWCo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-31T17:29:04Z",
+    "count": 5
+  }
+}

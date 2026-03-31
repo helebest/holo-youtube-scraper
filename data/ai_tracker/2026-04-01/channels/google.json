@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-01",
+  "result": [
+    {
+      "id": "bF3RqqV4xzI",
+      "title": "Change your Google Account username in a few simple steps",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T16:25:56Z",
+      "description": "You asked, we delivered. If you’re a U.S. Google user, you can now change your account username to log in to tools like Gmail, Photos, Drive and more — while keeping your emails, data and account history. Here’s what to know: \n\n1️⃣ You can choose any available @gmail.com username. \n2️⃣ Your old username will become an alias, so you won’t lose access to it. You can still sign in and send and receive emails with both usernames. Plus, you can also revert to your old username.\n3️⃣ You can choose a new username once a year — up to three times total.",
+      "duration": "PT31S",
+      "view_count": 2510,
+      "like_count": 85,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=bF3RqqV4xzI"
+    },
+    {
+      "id": "euiGMQURy0U",
+      "title": "Gemini Instant Replay | New Fit",
+      "channel_title": "Google",
+      "published_at": "2026-03-27T13:26:07Z",
+      "description": "Try anything on with unlimited free image uploads in Google Gemini. Snap a pic, add screenshots of clothes, and ask to see how they’d look on you. #GoogleGemini \n\nCatch more Gemini Instant Replay Tips here: https://www.youtube.com/playlist?list=PL590L5WQmH8d0CMiAhgbfirDg1GZu8Jxg\n\nTry it now: https://gemini.google.com/\nLearn more about Gemini 3: https://gemini.google/about/\nFollow Gemini on Instagram: https://www.instagram.com/googlegemini/\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 22944,
+      "like_count": 217,
+      "comment_count": 53,
+      "url": "https://www.youtube.com/watch?v=euiGMQURy0U"
+    },
+    {
+      "id": "xCkIxdJZ8fU",
+      "title": "How to Vibe Code a Website in 10 Minutes",
+      "channel_title": "Google",
+      "published_at": "2026-03-26T18:39:37Z",
+      "description": "Learn how to build a professional website in 10 minutes using Google AI Studio. From mood boards to a live site, see how easy web design and vibe coding can be. \n\n0:00 – Define Vibe: Mood Board to Aesthetic \n0:44 – Prompt to Code: Wireframe and Structure  \n1:21 – Custom Branding: Swap Your Product Images \n1:44 – Go Live: Share and Publish Website\n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep and eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: https://ai.google.dev/gemini-api/docs/aistudio-build-mode\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nMore information on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\n#BuildWithGemini #VibeCoding #BuildAWebsite \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M25S",
+      "view_count": 53110,
+      "like_count": 847,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=xCkIxdJZ8fU"
+    },
+    {
+      "id": "lr6Cw5uc5Bw",
+      "title": "Search Live is global 🌍 Talk to Search with voice and video in your language",
+      "channel_title": "Google",
+      "published_at": "2026-03-26T16:07:41Z",
+      "description": "Search Live is global! 🌍 Now in 200+ countries and territories, you can use voice & video to talk with Search in your preferred language. \n\n#GoogleSearch #SearchLive",
+      "duration": "PT1M4S",
+      "view_count": 20572,
+      "like_count": 545,
+      "comment_count": 67,
+      "url": "https://www.youtube.com/watch?v=lr6Cw5uc5Bw"
+    },
+    {
+      "id": "0DRDJ01COqo",
+      "title": "Visualizing World Models with Project Genie | Vibe Coding with Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-03-25T16:01:26Z",
+      "description": "How do you visualize the concept of a world model? Coders Kaloyan Kolev and Arden Schager share how they used Google AI Studio to vibe code custom design tools for Project Genie. They demonstrate how hands-on tools like 3D physics sliders and custom animation timelines enable teams of designers and engineers to work together to explore new ideas together. \n\nTry vibe coding in Google AI Studio yourself: https://aistudio.google.com/apps  \n\n#BuildWithGemini #VibeCoding #GoogleAIStudio\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT5M29S",
+      "view_count": 22664,
+      "like_count": 448,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=0DRDJ01COqo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-31T17:29:10Z",
+    "count": 5
+  }
+}

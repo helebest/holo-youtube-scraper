@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-04-01",
+  "result": [
+    {
+      "id": "lBNHFR41GgY",
+      "title": "NVIDIA GTC Studio with Insights from Schneider Electric",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-30T21:55:23Z",
+      "description": "Pankaj Sharma, Executive Vice President of Software and Services at Schneider Electric, outlines the challenges of scaling AI infrastructure, emphasizing energy as the foundation of the five-layer AI cake. As AI adoption accelerates, he points to growing pressure on power, grid capacity, and sustainable energy—while highlighting the opportunity to use AI to optimize and expand energy systems for the next generation of AI.",
+      "duration": "PT17M5S",
+      "view_count": 1363,
+      "like_count": 58,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=lBNHFR41GgY"
+    },
+    {
+      "id": "MyNEr7tf-WQ",
+      "title": "NVIDIA GTC Studio with Insights from Vertiv",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-30T21:55:20Z",
+      "description": "Scott Armul, Chief Product and Technology Officer at Vertiv, explains how Vertiv meets AI infrastructure demands at scale—delivering the power and cooling systems behind modern data centers and developing the solutions to streamline the design and deployment of next-generation AI factories.",
+      "duration": "PT12M5S",
+      "view_count": 943,
+      "like_count": 62,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=MyNEr7tf-WQ"
+    },
+    {
+      "id": "WlOU88LQlHY",
+      "title": "Healthcare Pioneers and Their Breakthroughs for a Healthier Future",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-30T16:00:47Z",
+      "description": "For generations, doctors and scientists have dedicated their lives to understanding and decoding disease. They uncovered how cells work, how genes are structured, and how life itself functions. Now, accelerated computing is helping extend their vision for a healthier humanity, helping us understand the language of biology, design and run digital labs, connect scientists to AI agents, and robots that work side-by-side with doctors and nurses 24/7. \n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT2M5S",
+      "view_count": 4421,
+      "like_count": 263,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=WlOU88LQlHY"
+    },
+    {
+      "id": "7N38fD4ksnI",
+      "title": "NVIDIA GTC Automotive Special Address",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-25T21:18:49Z",
+      "description": "Autonomous vehicles (AVs) are emerging as the first mass-deployed physical AI agents, reshaping mobility and driving new demands in AI, safety, and scalable development. This special address explores the industry’s path to Level 4 autonomy and how NVIDIA is helping accelerate it. With the DRIVE Hyperion architecture, manufacturers (OEMs) and AV developers can build scalable, safety-certified autonomy solutions. NVIDIA will present its cloud-to-car platform—spanning training, simulation, and in-vehicle compute—to support developing and validating next-generation drive-policy models. The session will also touch on how agentic AI is poised to transform AVs end to end, from automating data-driven development and validation to enabling more intelligent, adaptive in-car experiences. Gain insights into L4 software architectures, the DRIVE Hyperion platform, and ecosystem collaboration across OEMs, AV developers, mobility providers, and robotaxi companies.",
+      "duration": "PT43M21S",
+      "view_count": 11636,
+      "like_count": 252,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=7N38fD4ksnI"
+    },
+    {
+      "id": "VWM-Cw-P6cI",
+      "title": "NVIDIA GTC 2026 Open Models Panel Highlights with Jensen Huang",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-25T19:22:37Z",
+      "description": "Different voices. Same answer: open models.\n\nNVIDIA Founder and CEO Jensen Huang sat down with the leaders from Mistral,  Black Forest Labs, Cursor, LangChain, Perplexity, Reflection AI, Thinking Machines Lab, Ai2 & AMP PBC to discuss the rapid rise of open frontier models.\n\nGet the top takeaways from the frontier of AI\n\nhttps://nvda.ws/4lWcmbe",
+      "duration": "PT29S",
+      "view_count": 10496,
+      "like_count": 302,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=VWM-Cw-P6cI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-03-31T17:29:08Z",
+    "count": 5
+  }
+}
