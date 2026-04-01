@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-02",
+  "result": [
+    {
+      "id": "lXUpXYU_1PU",
+      "title": "This NASA-inspired G is ready for launch 🛰️",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T22:04:58Z",
+      "description": "Celebrating @NASA's Artemis II launch with this futuristic G.",
+      "duration": "PT12S",
+      "view_count": 3718,
+      "like_count": 147,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=lXUpXYU_1PU"
+    },
+    {
+      "id": "U-HnWcXvLVI",
+      "title": "Is the moon just the beginning? NASA answers all your top searched Artemis II questions.",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T21:01:38Z",
+      "description": "We teamed up with @NASA to give you a behind-the-scenes look at their test facilities, and get all your top Artemis II questions answered 🚀",
+      "duration": "PT1M37S",
+      "view_count": 20599,
+      "like_count": 1459,
+      "comment_count": 74,
+      "url": "https://www.youtube.com/watch?v=U-HnWcXvLVI"
+    },
+    {
+      "id": "bF3RqqV4xzI",
+      "title": "Change your Google Account username in a few simple steps",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T16:25:56Z",
+      "description": "You asked, we delivered. If you’re a U.S. Google user, you can now change your account username to log in to tools like Gmail, Photos, Drive and more — while keeping your emails, data and account history. Here’s what to know: \n\n1️⃣ You can choose any available @gmail.com username. \n2️⃣ Your old username will become an alias, so you won’t lose access to it. You can still sign in and send and receive emails with both usernames. Plus, you can also revert to your old username.\n3️⃣ You can choose a new username once a year — up to three times total.",
+      "duration": "PT31S",
+      "view_count": 21615,
+      "like_count": 458,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=bF3RqqV4xzI"
+    },
+    {
+      "id": "euiGMQURy0U",
+      "title": "Gemini Instant Replay | New Fit",
+      "channel_title": "Google",
+      "published_at": "2026-03-27T13:26:07Z",
+      "description": "Try anything on with unlimited free image uploads in Google Gemini. Snap a pic, add screenshots of clothes, and ask to see how they’d look on you. #GoogleGemini \n\nCatch more Gemini Instant Replay Tips here: https://www.youtube.com/playlist?list=PL590L5WQmH8d0CMiAhgbfirDg1GZu8Jxg\n\nTry it now: https://gemini.google.com/\nLearn more about Gemini 3: https://gemini.google/about/\nFollow Gemini on Instagram: https://www.instagram.com/googlegemini/\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 24157,
+      "like_count": 251,
+      "comment_count": 59,
+      "url": "https://www.youtube.com/watch?v=euiGMQURy0U"
+    },
+    {
+      "id": "xCkIxdJZ8fU",
+      "title": "How to Vibe Code a Website",
+      "channel_title": "Google",
+      "published_at": "2026-03-26T18:39:37Z",
+      "description": "Learn how to build a professional website in 10 minutes using Google AI Studio. From mood boards to a live site, see how easy web design and vibe coding can be. \n\n0:00 – Define Vibe: Mood Board to Aesthetic \n0:44 – Prompt to Code: Wireframe and Structure  \n1:21 – Custom Branding: Swap Your Product Images \n1:44 – Go Live: Share and Publish Website\n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep and eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: https://ai.google.dev/gemini-api/docs/aistudio-build-mode\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nMore information on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\n#BuildWithGemini #VibeCoding #BuildAWebsite \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M25S",
+      "view_count": 61689,
+      "like_count": 885,
+      "comment_count": 78,
+      "url": "https://www.youtube.com/watch?v=xCkIxdJZ8fU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-01T17:15:03Z",
+    "count": 5
+  }
+}

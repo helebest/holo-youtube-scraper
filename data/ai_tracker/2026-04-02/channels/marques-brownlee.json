@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-04-02",
+  "result": [
+    {
+      "id": "Hc0aqOEU2w8",
+      "title": "The Ultimate Minimal Phone",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-01T14:10:50Z",
+      "description": "It's called the Bluey phone by VTech. It really commits to the idea of a minimal phone.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT4M23S",
+      "view_count": 193294,
+      "like_count": 33800,
+      "comment_count": 3845,
+      "url": "https://www.youtube.com/watch?v=Hc0aqOEU2w8"
+    },
+    {
+      "id": "eFUB_jL_XcM",
+      "title": "So This is Peak Foldable",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-30T20:56:18Z",
+      "description": "Oppo Find N6 has done it. Now what?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M47S",
+      "view_count": 3825953,
+      "like_count": 112145,
+      "comment_count": 5924,
+      "url": "https://www.youtube.com/watch?v=eFUB_jL_XcM"
+    },
+    {
+      "id": "pvjivZ6C6CA",
+      "title": "Every iPhone Camera vs LOW Light",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-30T16:42:18Z",
+      "description": "Anything can handle broad daylight",
+      "duration": "PT49S",
+      "view_count": 614850,
+      "like_count": 27866,
+      "comment_count": 1140,
+      "url": "https://www.youtube.com/watch?v=pvjivZ6C6CA"
+    },
+    {
+      "id": "jru9Gsz3kJY",
+      "title": "Every iPhone Ever. SAME photo!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-27T20:07:08Z",
+      "description": "iPhone 1 through 17 generation takes the same photo",
+      "duration": "PT46S",
+      "view_count": 3630322,
+      "like_count": 111299,
+      "comment_count": 3465,
+      "url": "https://www.youtube.com/watch?v=jru9Gsz3kJY"
+    },
+    {
+      "id": "eXa2ndhmatI",
+      "title": "The Windows Laptop Problem",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-25T18:25:28Z",
+      "description": "There are really good Windows laptops - but how can they compete?\n\nMKBHD Color Picker Sticker Pack: https://geni.us/tAIya9\n\n(Affiliate Links)\nMacBook Neo: https://geni.us/AATWro\nMacBook Pro M5 16”: https://geni.us/6RMSTm\nDell XPS 14: https://howl.link/suo5v5pd7a9ra\nAcer Aspire 16: https://geni.us/NSQ3Rg7\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M49S",
+      "view_count": 3970548,
+      "like_count": 133115,
+      "comment_count": 9690,
+      "url": "https://www.youtube.com/watch?v=eXa2ndhmatI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-01T17:15:01Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-02",
+  "result": [
+    {
+      "id": "x21Sac_RnyE",
+      "title": "Huawei Was About to Beat NVIDIA - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-31T17:54:45Z",
+      "description": "",
+      "duration": "PT38S",
+      "view_count": 16578,
+      "like_count": 289,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=x21Sac_RnyE"
+    },
+    {
+      "id": "fRpynA_dYtc",
+      "title": "How AI Is Killing Cheap Smartphones - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-30T19:55:21Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 45161,
+      "like_count": 642,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
+    },
+    {
+      "id": "i9-0Iowgtu4",
+      "title": "Why Great Thinking Needs Distraction - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-29T19:13:06Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 51966,
+      "like_count": 2288,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=i9-0Iowgtu4"
+    },
+    {
+      "id": "pIpyXMxJm-I",
+      "title": "Why the Past Feels Slower Than It Was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-28T19:57:19Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 224348,
+      "like_count": 6028,
+      "comment_count": 170,
+      "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
+    },
+    {
+      "id": "rViklYOjwq8",
+      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-27T23:46:44Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 243293,
+      "like_count": 8377,
+      "comment_count": 228,
+      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-01T17:14:58Z",
+    "count": 5
+  }
+}
