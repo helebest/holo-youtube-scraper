@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-03",
+  "result": [
+    {
+      "id": "BodGtkvX3FY",
+      "title": "A Behind the Scenes Tour of a NASA Complex",
+      "channel_title": "Google",
+      "published_at": "2026-04-02T16:56:24Z",
+      "description": "Have a look behind-the-scenes of our visit to @NASA. We got all your top-searched Artemis II questions answered, and we swear we didn’t press any buttons 🕹️",
+      "duration": "PT1M4S",
+      "view_count": 1060,
+      "like_count": 112,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=BodGtkvX3FY"
+    },
+    {
+      "id": "P8cfYd7XsU4",
+      "title": "3, 2, 1… Artemis II is ready for liftoff #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-01T21:59:49Z",
+      "description": "Today’s #GoogleDoodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the moon and back for the first time in over 50 years. During the approximately 10-day voyage, the crew will test the spacecraft’s systems while traveling farther into deep space than any human has gone since the Apollo program. This critical test flight brings us one step closer to a long-term return to the moon and future missions to Mars.",
+      "duration": "PT13S",
+      "view_count": 10784,
+      "like_count": 409,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=P8cfYd7XsU4"
+    },
+    {
+      "id": "lXUpXYU_1PU",
+      "title": "This NASA-inspired G is ready for launch 🛰️",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T22:04:58Z",
+      "description": "Celebrating @NASA's Artemis II launch with this futuristic G.",
+      "duration": "PT12S",
+      "view_count": 7864,
+      "like_count": 244,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=lXUpXYU_1PU"
+    },
+    {
+      "id": "U-HnWcXvLVI",
+      "title": "Is the moon just the beginning? NASA answers all your top searched Artemis II questions.",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T21:01:38Z",
+      "description": "We teamed up with @NASA to give you a behind-the-scenes look at their test facilities, and get all your top Artemis II questions answered 🚀",
+      "duration": "PT1M37S",
+      "view_count": 49074,
+      "like_count": 3644,
+      "comment_count": 125,
+      "url": "https://www.youtube.com/watch?v=U-HnWcXvLVI"
+    },
+    {
+      "id": "bF3RqqV4xzI",
+      "title": "Change your Google Account username in a few simple steps",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T16:25:56Z",
+      "description": "You asked, we delivered. If you’re a U.S. Google user, you can now change your account username to log in to tools like Gmail, Photos, Drive and more — while keeping your emails, data and account history. Here’s what to know: \n\n1️⃣ You can choose any available @gmail.com username. \n2️⃣ Your old username will become an alias, so you won’t lose access to it. You can still sign in and send and receive emails with both usernames. Plus, you can also revert to your old username.\n3️⃣ You can choose a new username once a year — up to three times total.",
+      "duration": "PT31S",
+      "view_count": 29614,
+      "like_count": 598,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=bF3RqqV4xzI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-02T17:13:13Z",
+    "count": 5
+  }
+}
