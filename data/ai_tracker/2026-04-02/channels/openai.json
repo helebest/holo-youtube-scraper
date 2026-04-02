@@ -14,14 +14,38 @@
   "date": "2026-04-02",
   "result": [
     {
+      "id": "yNNTLllVbiE",
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-01T21:12:13Z",
+      "description": "Gradient Labs is giving every bank customer an AI account manager, with CSAT up to 98% and over 50% resolution on day one.\n\nIn banking support, even simple issues like a declined payment can trigger multiple teams, handoffs, and delays. \n\nGradient Labs replaces that with a single agent that handles the full workflow. Identity checks, card actions, and follow-ups happen in one continuous conversation.\n\nRead their full story here: https://lnkd.in/emSndtkx",
+      "duration": "PT1M5S",
+      "view_count": 3658,
+      "like_count": 114,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE"
+    },
+    {
+      "id": "ZXEAuZOSLs0",
+      "title": "What Codex Unlocks for Ramp",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-01T20:21:48Z",
+      "description": "\"Codex code review is industry gold standard.\" \n\nWe checked in with Ramp to hear how the AI Dev X team is leveraging Codex to build an AI-driven on-call helper to take the burden off engineers. \n\n\" Codex with GPT 5.4 is adept at dealing with complexity in a way that would have required a lot mental effort...but Codex handles it like its nothing\" \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M2S",
+      "view_count": 4941,
+      "like_count": 165,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0"
+    },
+    {
       "id": "th8u0bqYsQk",
       "title": "Find the perfect gift by shopping with ChatGPT",
       "channel_title": "OpenAI",
       "published_at": "2026-03-27T20:55:13Z",
       "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit. \n\nYou can browse visually, upload images as inspiration for similar items, and refine results conversationally until you land on the right option.",
       "duration": "PT53S",
-      "view_count": 8959,
-      "like_count": 225,
+      "view_count": 9129,
+      "like_count": 229,
       "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
     },
@@ -32,8 +56,8 @@
       "published_at": "2026-03-27T17:27:04Z",
       "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.",
       "duration": "PT39S",
-      "view_count": 9604,
-      "like_count": 225,
+      "view_count": 9739,
+      "like_count": 227,
       "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=jM1oSEXssOE"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-03-27T17:12:13Z",
       "description": "",
       "duration": "PT2M50S",
-      "view_count": 7802,
-      "like_count": 227,
-      "comment_count": 37,
+      "view_count": 7953,
+      "like_count": 229,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE"
-    },
-    {
-      "id": "fFboNpWweyE",
-      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
-      "channel_title": "OpenAI",
-      "published_at": "2026-03-26T20:31:28Z",
-      "description": "",
-      "duration": "PT40S",
-      "view_count": 6257,
-      "like_count": 138,
-      "comment_count": 14,
-      "url": "https://www.youtube.com/watch?v=fFboNpWweyE"
-    },
-    {
-      "id": "yUjfp2DlfCA",
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
-      "channel_title": "OpenAI",
-      "published_at": "2026-03-26T17:18:07Z",
-      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn’t possible 6 months ago.\n\nSo Ryan, what has Codex unlocked for you?\n\n“It unlocks my afternoons. I can spend time with my team discussing product, meeting with customers, being more hands on.”\n\nMore: https://openai.com/codex/\n\n#shorts #openaicodex  #coding #startup #melbourne",
-      "duration": "PT1M12S",
-      "view_count": 9899,
-      "like_count": 257,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-01T17:15:02Z",
+    "generated_at": "2026-04-02T05:53:49Z",
     "count": 5
   }
 }

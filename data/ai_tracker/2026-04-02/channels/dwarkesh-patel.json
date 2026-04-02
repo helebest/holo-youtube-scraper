@@ -14,15 +14,27 @@
   "date": "2026-04-02",
   "result": [
     {
+      "id": "NvOn-o7g7A4",
+      "title": "Machiavelli Chose Loyalty Over Power - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-01T20:20:28Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 47381,
+      "like_count": 1572,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=NvOn-o7g7A4"
+    },
+    {
       "id": "x21Sac_RnyE",
       "title": "Huawei Was About to Beat NVIDIA - Dylan Patel",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-03-31T17:54:45Z",
       "description": "",
       "duration": "PT38S",
-      "view_count": 16578,
-      "like_count": 289,
-      "comment_count": 65,
+      "view_count": 20420,
+      "like_count": 343,
+      "comment_count": 70,
       "url": "https://www.youtube.com/watch?v=x21Sac_RnyE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-30T19:55:21Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 45161,
-      "like_count": 642,
-      "comment_count": 34,
+      "view_count": 46952,
+      "like_count": 666,
+      "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-03-29T19:13:06Z",
       "description": "",
       "duration": "PT1M27S",
-      "view_count": 51966,
-      "like_count": 2288,
+      "view_count": 54728,
+      "like_count": 2363,
       "comment_count": 55,
       "url": "https://www.youtube.com/watch?v=i9-0Iowgtu4"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-03-28T19:57:19Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 224348,
-      "like_count": 6028,
-      "comment_count": 170,
+      "view_count": 230432,
+      "like_count": 6137,
+      "comment_count": 174,
       "url": "https://www.youtube.com/watch?v=pIpyXMxJm-I"
-    },
-    {
-      "id": "rViklYOjwq8",
-      "title": "Why Heliocentrism Was Actually Wrong At First - Terence Tao",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-27T23:46:44Z",
-      "description": "",
-      "duration": "PT2M12S",
-      "view_count": 243293,
-      "like_count": 8377,
-      "comment_count": 228,
-      "url": "https://www.youtube.com/watch?v=rViklYOjwq8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-01T17:14:58Z",
+    "generated_at": "2026-04-02T05:53:45Z",
     "count": 5
   }
 }
