@@ -14,14 +14,26 @@
   "date": "2026-04-03",
   "result": [
     {
+      "id": "wWUGm8wIfEs",
+      "title": "\"The inflection point for inference has arrived.\"",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-02T18:13:20Z",
+      "description": "\"The inflection point for inference has arrived.\" — Jensen Huang, Founder & CEO of NVIDIA\n \nWe’ve officially crossed a new milestone in the inference era — where widespread adoption of AI shifts from learning to doing.\n\nThe breakthrough: extreme codesign across hardware and software driving down cost per token.\n\nLower cost → more inference\nMore inference → more users and applications\nMore users and applications → exponential AI revenue growth\n\n🔗 https://nvda.ws/4bYSCij",
+      "duration": "PT42S",
+      "view_count": 2754,
+      "like_count": 55,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=wWUGm8wIfEs"
+    },
+    {
       "id": "Pn4kKCjCFMc",
       "title": "Why Do Performance Benchmarks Matter?",
       "channel_title": "NVIDIA",
       "published_at": "2026-04-01T19:11:55Z",
       "description": "Delivered performance, not peak chip specifications, drives AI factory productivity.\n\nRigorous benchmarks are the only way to see past the noise. In MLPerf Inference v6.0, NVIDIA extreme co-design delivered the highest token output across the broadest range of models and scenarios. \n\nMaximizing token output drives down token cost and maximizes AI factory productivity.\n\nRead the blog post to dive into the details: https://nvda.ws/48kdWOc",
       "duration": "PT44S",
-      "view_count": 1875,
-      "like_count": 52,
+      "view_count": 2331,
+      "like_count": 66,
       "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=Pn4kKCjCFMc"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-03-30T21:55:23Z",
       "description": "Pankaj Sharma, Executive Vice President of Software and Services at Schneider Electric, outlines the challenges of scaling AI infrastructure, emphasizing energy as the foundation of the five-layer AI cake. As AI adoption accelerates, he points to growing pressure on power, grid capacity, and sustainable energy—while highlighting the opportunity to use AI to optimize and expand energy systems for the next generation of AI.",
       "duration": "PT17M5S",
-      "view_count": 2095,
-      "like_count": 68,
+      "view_count": 2232,
+      "like_count": 69,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=lBNHFR41GgY"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-03-30T21:55:20Z",
       "description": "Scott Armul, Chief Product and Technology Officer at Vertiv, explains how Vertiv meets AI infrastructure demands at scale—delivering the power and cooling systems behind modern data centers and developing the solutions to streamline the design and deployment of next-generation AI factories.",
       "duration": "PT12M5S",
-      "view_count": 1530,
-      "like_count": 72,
+      "view_count": 1591,
+      "like_count": 71,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MyNEr7tf-WQ"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-03-30T16:00:47Z",
       "description": "For generations, doctors and scientists have dedicated their lives to understanding and decoding disease. They uncovered how cells work, how genes are structured, and how life itself functions. Now, accelerated computing is helping extend their vision for a healthier humanity, helping us understand the language of biology, design and run digital labs, connect scientists to AI agents, and robots that work side-by-side with doctors and nurses 24/7. \n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT2M5S",
-      "view_count": 5431,
-      "like_count": 287,
+      "view_count": 5482,
+      "like_count": 294,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=WlOU88LQlHY"
-    },
-    {
-      "id": "7N38fD4ksnI",
-      "title": "NVIDIA GTC Automotive Special Address",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-03-25T21:18:49Z",
-      "description": "Autonomous vehicles (AVs) are emerging as the first mass-deployed physical AI agents, reshaping mobility and driving new demands in AI, safety, and scalable development. This special address explores the industry’s path to Level 4 autonomy and how NVIDIA is helping accelerate it. With the DRIVE Hyperion architecture, manufacturers (OEMs) and AV developers can build scalable, safety-certified autonomy solutions. NVIDIA will present its cloud-to-car platform—spanning training, simulation, and in-vehicle compute—to support developing and validating next-generation drive-policy models. The session will also touch on how agentic AI is poised to transform AVs end to end, from automating data-driven development and validation to enabling more intelligent, adaptive in-car experiences. Gain insights into L4 software architectures, the DRIVE Hyperion platform, and ecosystem collaboration across OEMs, AV developers, mobility providers, and robotaxi companies.",
-      "duration": "PT43M21S",
-      "view_count": 11924,
-      "like_count": 258,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=7N38fD4ksnI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-02T17:13:11Z",
+    "generated_at": "2026-04-03T05:53:42Z",
     "count": 5
   }
 }
