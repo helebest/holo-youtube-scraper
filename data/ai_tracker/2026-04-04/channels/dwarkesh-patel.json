@@ -14,15 +14,27 @@
   "date": "2026-04-04",
   "result": [
     {
+      "id": "B37saIexYr4",
+      "title": "Why Florence's Top Cop Was Always a Foreigner - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-03T21:17:16Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 33146,
+      "like_count": 1717,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=B37saIexYr4"
+    },
+    {
       "id": "9-STuFQD9RY",
       "title": "Why Medieval Workers Didn't Need Government Safety Nets - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-02T17:02:33Z",
       "description": "",
       "duration": "PT51S",
-      "view_count": 69434,
-      "like_count": 2516,
-      "comment_count": 87,
+      "view_count": 87898,
+      "like_count": 3120,
+      "comment_count": 103,
       "url": "https://www.youtube.com/watch?v=9-STuFQD9RY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-01T20:20:28Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 133442,
-      "like_count": 3101,
-      "comment_count": 61,
+      "view_count": 141648,
+      "like_count": 3306,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=NvOn-o7g7A4"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-03-31T17:54:45Z",
       "description": "",
       "duration": "PT38S",
-      "view_count": 25762,
-      "like_count": 411,
+      "view_count": 26953,
+      "like_count": 423,
       "comment_count": 88,
       "url": "https://www.youtube.com/watch?v=x21Sac_RnyE"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-03-30T19:55:21Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 50376,
-      "like_count": 714,
-      "comment_count": 35,
+      "view_count": 51102,
+      "like_count": 720,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
-    },
-    {
-      "id": "i9-0Iowgtu4",
-      "title": "Why Great Thinking Needs Distraction - Terence Tao",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-29T19:13:06Z",
-      "description": "",
-      "duration": "PT1M27S",
-      "view_count": 57791,
-      "like_count": 2453,
-      "comment_count": 58,
-      "url": "https://www.youtube.com/watch?v=i9-0Iowgtu4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-03T17:00:38Z",
+    "generated_at": "2026-04-04T05:37:40Z",
     "count": 5
   }
 }
