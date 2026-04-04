@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-05",
+  "result": [
+    {
+      "id": "B37saIexYr4",
+      "title": "Why Florence's Top Cop Was Always a Foreigner - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-03T21:17:16Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 91900,
+      "like_count": 3026,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=B37saIexYr4"
+    },
+    {
+      "id": "9-STuFQD9RY",
+      "title": "Why Medieval Workers Didn't Need Government Safety Nets - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-02T17:02:33Z",
+      "description": "",
+      "duration": "PT51S",
+      "view_count": 99915,
+      "like_count": 3630,
+      "comment_count": 115,
+      "url": "https://www.youtube.com/watch?v=9-STuFQD9RY"
+    },
+    {
+      "id": "NvOn-o7g7A4",
+      "title": "Machiavelli Chose Loyalty Over Power - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-01T20:20:28Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 148926,
+      "like_count": 3516,
+      "comment_count": 66,
+      "url": "https://www.youtube.com/watch?v=NvOn-o7g7A4"
+    },
+    {
+      "id": "x21Sac_RnyE",
+      "title": "Huawei Was About to Beat NVIDIA - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-31T17:54:45Z",
+      "description": "",
+      "duration": "PT38S",
+      "view_count": 27822,
+      "like_count": 433,
+      "comment_count": 88,
+      "url": "https://www.youtube.com/watch?v=x21Sac_RnyE"
+    },
+    {
+      "id": "fRpynA_dYtc",
+      "title": "How AI Is Killing Cheap Smartphones - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-03-30T19:55:21Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 51636,
+      "like_count": 725,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=fRpynA_dYtc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-04T16:58:05Z",
+    "count": 5
+  }
+}
