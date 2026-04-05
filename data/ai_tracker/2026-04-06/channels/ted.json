@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-04-06",
+  "result": [
+    {
+      "id": "93ocNhHyGVo",
+      "title": "The New Science of Eyewitness Memory | John Wixted | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-05T15:00:25Z",
+      "description": "We've built a legal system that distrusts eyewitness memory — backed by cautionary science and high-profile exonerations. John Wixted, a leading psychology researcher, challenges this conventional wisdom with a counterintuitive finding: the problem might not be memory itself but how (and when) courts test it. (Recorded at TEDxUCSanDiego on May 17, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/johnwixted\n\nhttps://youtu.be/93ocNhHyGVo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Memory",
+      "duration": "PT17M24S",
+      "view_count": 1756,
+      "like_count": 125,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=93ocNhHyGVo"
+    },
+    {
+      "id": "Upz0RbC0Yxk",
+      "title": "\"Autism is not a disease; it's just another way of thinking\" #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-04T18:45:02Z",
+      "description": "\"Autism is not a disease; it's just another way of thinking,\" says Ethan Lisi. Offering a glimpse into the way he experiences the world, Lisi breaks down misleading stereotypes about autism, shares insights into common behaviors like stimming and masking and promotes a more inclusive understanding of the spectrum.",
+      "duration": "PT1M28S",
+      "view_count": 28359,
+      "like_count": 1230,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=Upz0RbC0Yxk"
+    },
+    {
+      "id": "YibgtQOdbs8",
+      "title": "How a Viral Choreographer Makes His Moves | Sean Bankhead | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-04T15:00:53Z",
+      "description": "In a swaggering performance, choreographer Sean Bankhead and his students perform the viral dance he designed for Victoria Monét's hit song \"On My Mama.\" Rooted in Black culture and inspired by generations of iconic artists, Bankhead blends expertise with at least one move everyone can try — showing how choreography doesn't just reflect culture, it drives it forward. (Recorded at TEDNext 2025 on November 9, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/seanbankhead\n\nhttps://youtu.be/YibgtQOdbs8\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Performance",
+      "duration": "PT6M40S",
+      "view_count": 9866,
+      "like_count": 180,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=YibgtQOdbs8"
+    },
+    {
+      "id": "i3CA9osjYPo",
+      "title": "The Story You’re Not Hearing About AI Data Centers | Ayșe Coskun | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-03T15:01:15Z",
+      "description": "The race to build smarter AI is crashing into a physical limitation: the power grid simply can't keep up with the energy demands of data centers. Computer scientist Ayșe Coskun shows how we could turn this problem on its head, transforming AI facilities into virtual batteries that help stabilize the grid and accelerate clean energy. Learn why the technology causing this crisis might be the only thing smart enough to fix it. (Recorded at TEDAI San Francisco on October 21, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/aysecoskun\n\nhttps://youtu.be/i3CA9osjYPo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Technology",
+      "duration": "PT11M58S",
+      "view_count": 32988,
+      "like_count": 883,
+      "comment_count": 119,
+      "url": "https://www.youtube.com/watch?v=i3CA9osjYPo"
+    },
+    {
+      "id": "altQuGQpA3U",
+      "title": "Studying the universe for a living? Sounds like a pretty big job #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-02T20:00:01Z",
+      "description": "The universe started with a bang -- but how will it end? With astonishing visuals, cosmologist and TED Fellow Katie Mack takes us to the theoretical end of everything, some trillions of years in the future, in a profound meditation on existence, wonder and the legacy of humanity within the immensity of time and space.",
+      "duration": "PT1M42S",
+      "view_count": 20669,
+      "like_count": 653,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=altQuGQpA3U"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-05T16:58:19Z",
+    "count": 5
+  }
+}
