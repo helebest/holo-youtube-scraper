@@ -20,9 +20,9 @@
       "published_at": "2026-04-03T19:39:34Z",
       "description": "“NVIDIA’s cost per token is the lowest in the world.” — Jensen Huang, Founder & CEO of NVIDIA \n\nToken generation cost is a direct result of architecture excellence and extreme co-design, not just compute cost. Lowest cost per token and highest performance per watt are definitive measures of AI economics and the key to unlocking maximum profitability and AI revenue.\n\n➡️ https://nvda.ws/3POj5Ig",
       "duration": "PT50S",
-      "view_count": 10786,
-      "like_count": 343,
-      "comment_count": 20,
+      "view_count": 14262,
+      "like_count": 414,
+      "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=-x65tGsrIs4"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-04-02T18:13:20Z",
       "description": "\"The inflection point for inference has arrived.\" — Jensen Huang, Founder & CEO of NVIDIA\n \nWe’ve officially crossed a new milestone in the inference era — where widespread adoption of AI shifts from learning to doing.\n\nThe breakthrough: extreme codesign across hardware and software driving down cost per token.\n\nLower cost → more inference\nMore inference → more users and applications\nMore users and applications → exponential AI revenue growth\n\n🔗 https://nvda.ws/4bYSCij",
       "duration": "PT42S",
-      "view_count": 5956,
-      "like_count": 212,
-      "comment_count": 6,
+      "view_count": 6872,
+      "like_count": 262,
+      "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=wWUGm8wIfEs"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-04-01T19:11:55Z",
       "description": "Delivered performance, not peak chip specifications, drives AI factory productivity.\n\nRigorous benchmarks are the only way to see past the noise. In MLPerf Inference v6.0, NVIDIA extreme co-design delivered the highest token output across the broadest range of models and scenarios. \n\nMaximizing token output drives down token cost and maximizes AI factory productivity.\n\nRead the blog post to dive into the details: https://nvda.ws/48kdWOc",
       "duration": "PT44S",
-      "view_count": 3434,
-      "like_count": 95,
+      "view_count": 3680,
+      "like_count": 102,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=Pn4kKCjCFMc"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-03-30T21:55:23Z",
       "description": "Pankaj Sharma, Executive Vice President of Software and Services at Schneider Electric, outlines the challenges of scaling AI infrastructure, emphasizing energy as the foundation of the five-layer AI cake. As AI adoption accelerates, he points to growing pressure on power, grid capacity, and sustainable energy—while highlighting the opportunity to use AI to optimize and expand energy systems for the next generation of AI.",
       "duration": "PT17M5S",
-      "view_count": 2580,
-      "like_count": 72,
+      "view_count": 2667,
+      "like_count": 73,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=lBNHFR41GgY"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-03-30T21:55:20Z",
       "description": "Scott Armul, Chief Product and Technology Officer at Vertiv, explains how Vertiv meets AI infrastructure demands at scale—delivering the power and cooling systems behind modern data centers and developing the solutions to streamline the design and deployment of next-generation AI factories.",
       "duration": "PT12M5S",
-      "view_count": 1679,
-      "like_count": 74,
+      "view_count": 1702,
+      "like_count": 75,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MyNEr7tf-WQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-04T16:58:09Z",
+    "generated_at": "2026-04-05T05:57:05Z",
     "count": 5
   }
 }
