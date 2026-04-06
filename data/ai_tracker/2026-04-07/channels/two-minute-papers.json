@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-04-07",
+  "result": [
+    {
+      "id": "7YVrb3-ABYE",
+      "title": "Google’s New AI Just Broke My Brain",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-01T14:21:33Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The TurboQuant paper is available here:\nhttps://arxiv.org/abs/2504.19874\n\nReproductions: \nhttps://github.com/tonbistudio/turboquant-pytorch\nhttps://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1s73yby/implemented_turboquant_in_python_over_weekend/\nhttps://x.com/AlicanKiraz0/status/2038245538865275274\nI'll note that I have found several reproductions and benchmarks with all kinds of results, so take each of these as just one data point, not definitive yet (thanks for the feedback Alon Torres). Some later tests even better at KV-cache compression!\n\nKV-cache source: https://huggingface.co/blog/not-lain/kv-caching\n\nReviews and criticisms of the paper:\nhttps://openreview.net/forum?id=tO3ASKZlok\nhttps://x.com/gaoj0017/status/2037532673812443214\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "duration": "PT8M34S",
+      "view_count": 149693,
+      "like_count": 9860,
+      "comment_count": 956,
+      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE"
+    },
+    {
+      "id": "Io_GqmbNBbY",
+      "title": "DeepMind’s New AI Just Changed Science Forever",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-27T16:00:57Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.10177\n\nSource:\nhttps://www.youtube.com/watch?v=6evUpgCHtOQ\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "duration": "PT10M8S",
+      "view_count": 233628,
+      "like_count": 17588,
+      "comment_count": 1609,
+      "url": "https://www.youtube.com/watch?v=Io_GqmbNBbY"
+    },
+    {
+      "id": "XL5bq8DRn64",
+      "title": "The Algorithm That Made Me Cry",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-26T15:47:12Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nFree course on Ray Tracing:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\nSong only version: https://www.youtube.com/watch?v=KzLsB4W8zMY\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "duration": "PT7M50S",
+      "view_count": 31966,
+      "like_count": 2563,
+      "comment_count": 299,
+      "url": "https://www.youtube.com/watch?v=XL5bq8DRn64"
+    },
+    {
+      "id": "DmtoVnTkQnM",
+      "title": "DeepSeek Just Fixed One Of The Biggest Problems With AI",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-24T15:17:49Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The #DeepSeek paper is available here:\nhttps://github.com/deepseek-ai/Engram\nhttps://arxiv.org/abs/2601.07372\n\nLarry Wheels comment in this video:\nhttps://www.youtube.com/watch?v=7SM816P5G9s&lc=Ugz7yiDrr_8YD7w8gaN4AaABAg\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
+      "duration": "PT9M47S",
+      "view_count": 162477,
+      "like_count": 8095,
+      "comment_count": 563,
+      "url": "https://www.youtube.com/watch?v=DmtoVnTkQnM"
+    },
+    {
+      "id": "RDQ4vHAPNls",
+      "title": "This Physics Breakthrough Looks Impossible",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-03-12T18:16:27Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf\n\nSources:\nhttps://www.youtube.com/watch?v=CfEg7fucVYg\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
+      "duration": "PT9M38S",
+      "view_count": 88719,
+      "like_count": 3798,
+      "comment_count": 169,
+      "url": "https://www.youtube.com/watch?v=RDQ4vHAPNls"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-06T17:09:37Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-04-07",
+  "result": [
+    {
+      "id": "upwFLq7KOv8",
+      "title": "Jermaine Dupri on the Art of Making a Hit | On the Spot | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-06T15:01:29Z",
+      "description": "Legendary music producer Jermaine Dupri pulls back the curtain on how hit songs really get made in TED’s rapid-fire Q&A format, “On the Spot.” Answering a stream of unexpected questions, he covers what makes a good hook, why he doesn’t chase “cool,” how he helped build Atlanta’s sound and more. (Recorded at TEDNext 2025 on November 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/jermainedupri\n\nhttps://youtu.be/upwFLq7KOv8\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #OnTheSpot",
+      "duration": "PT11M1S",
+      "view_count": 1378,
+      "like_count": 80,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=upwFLq7KOv8"
+    },
+    {
+      "id": "zZ1YMArLl0Y",
+      "title": "Boys experience more violence when they’re young than you think. Here’s how things change #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-05T19:00:43Z",
+      "description": "Urging us to turn away from voices perpetuating harmful stereotypes, gender equality advocate Gary Barker shares three insights on fostering a culture of care, compassion and connection among men. \"We are the most wired-to-care species on the planet,\" he says. \"But if you don't use it ... you don't get good at it.\"",
+      "duration": "PT1M15S",
+      "view_count": 18634,
+      "like_count": 527,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=zZ1YMArLl0Y"
+    },
+    {
+      "id": "93ocNhHyGVo",
+      "title": "The New Science of Eyewitness Memory | John Wixted | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-05T15:00:25Z",
+      "description": "We've built a legal system that distrusts eyewitness memory — backed by cautionary science and high-profile exonerations. John Wixted, a leading psychology researcher, challenges this conventional wisdom with a counterintuitive finding: the problem might not be memory itself but how (and when) courts test it. (Recorded at TEDxUCSanDiego on May 17, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/johnwixted\n\nhttps://youtu.be/93ocNhHyGVo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Memory",
+      "duration": "PT17M24S",
+      "view_count": 13422,
+      "like_count": 386,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=93ocNhHyGVo"
+    },
+    {
+      "id": "Upz0RbC0Yxk",
+      "title": "\"Autism is not a disease; it's just another way of thinking\" #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-04T18:45:02Z",
+      "description": "\"Autism is not a disease; it's just another way of thinking,\" says Ethan Lisi. Offering a glimpse into the way he experiences the world, Lisi breaks down misleading stereotypes about autism, shares insights into common behaviors like stimming and masking and promotes a more inclusive understanding of the spectrum.",
+      "duration": "PT1M28S",
+      "view_count": 38739,
+      "like_count": 1449,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=Upz0RbC0Yxk"
+    },
+    {
+      "id": "YibgtQOdbs8",
+      "title": "How a Viral Choreographer Makes His Moves | Sean Bankhead | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-04T15:00:53Z",
+      "description": "In a swaggering performance, choreographer Sean Bankhead and his students perform the viral dance he designed for Victoria Monét's hit song \"On My Mama.\" Rooted in Black culture and inspired by generations of iconic artists, Bankhead blends expertise with at least one move everyone can try — showing how choreography doesn't just reflect culture, it drives it forward. (Recorded at TEDNext 2025 on November 9, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/seanbankhead\n\nhttps://youtu.be/YibgtQOdbs8\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Performance",
+      "duration": "PT6M40S",
+      "view_count": 12847,
+      "like_count": 211,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=YibgtQOdbs8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-06T17:09:37Z",
+    "count": 5
+  }
+}

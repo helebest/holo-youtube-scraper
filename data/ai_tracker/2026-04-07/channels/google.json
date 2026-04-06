@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-07",
+  "result": [
+    {
+      "id": "tYhgWRJeYzs",
+      "title": "What is Vibe Coding?",
+      "channel_title": "Google",
+      "published_at": "2026-04-02T21:25:37Z",
+      "description": "We’re diving into vibe coding, where natural language and creativity combine with the power of AI to turn ideas into tangible tools. \n\nWe explore:\n0:00 - What is Vibe Coding?\n0:15 - Intro to Google AI Studio\n0:23 - Example Builds: Game, Web, & App\n1:10 - Explore the App Gallery\n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep an eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: https://ai.google.dev/gemini-api/docs/aistudio-build-mode\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nMore information on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\nInfo on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\n#BuildWithGemini #VibeCoding #AIStudio \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M35S",
+      "view_count": 49573,
+      "like_count": 843,
+      "comment_count": 86,
+      "url": "https://www.youtube.com/watch?v=tYhgWRJeYzs"
+    },
+    {
+      "id": "BodGtkvX3FY",
+      "title": "A Behind the Scenes Tour of a NASA Complex",
+      "channel_title": "Google",
+      "published_at": "2026-04-02T16:56:24Z",
+      "description": "Have a look behind-the-scenes of our visit to @NASA. We got all your top-searched Artemis II questions answered, and we swear we didn’t press any buttons 🕹️",
+      "duration": "PT1M4S",
+      "view_count": 23188,
+      "like_count": 995,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=BodGtkvX3FY"
+    },
+    {
+      "id": "P8cfYd7XsU4",
+      "title": "3, 2, 1… Artemis II is ready for liftoff #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-01T21:59:49Z",
+      "description": "Today’s #GoogleDoodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the moon and back for the first time in over 50 years. During the approximately 10-day voyage, the crew will test the spacecraft’s systems while traveling farther into deep space than any human has gone since the Apollo program. This critical test flight brings us one step closer to a long-term return to the moon and future missions to Mars.",
+      "duration": "PT13S",
+      "view_count": 45531,
+      "like_count": 997,
+      "comment_count": 49,
+      "url": "https://www.youtube.com/watch?v=P8cfYd7XsU4"
+    },
+    {
+      "id": "lXUpXYU_1PU",
+      "title": "This NASA-inspired G is ready for launch 🛰️",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T22:04:58Z",
+      "description": "Celebrating @NASA's Artemis II launch with this futuristic G.",
+      "duration": "PT12S",
+      "view_count": 15764,
+      "like_count": 407,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=lXUpXYU_1PU"
+    },
+    {
+      "id": "U-HnWcXvLVI",
+      "title": "Is the moon just the beginning? NASA answers all your top searched Artemis II questions.",
+      "channel_title": "Google",
+      "published_at": "2026-03-31T21:01:38Z",
+      "description": "We teamed up with @NASA to give you a behind-the-scenes look at their test facilities, and get all your top Artemis II questions answered 🚀",
+      "duration": "PT1M37S",
+      "view_count": 102933,
+      "like_count": 6921,
+      "comment_count": 190,
+      "url": "https://www.youtube.com/watch?v=U-HnWcXvLVI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-06T17:09:41Z",
+    "count": 5
+  }
+}
