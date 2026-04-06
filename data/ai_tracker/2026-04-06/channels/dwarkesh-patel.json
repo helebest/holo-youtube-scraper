@@ -14,15 +14,27 @@
   "date": "2026-04-06",
   "result": [
     {
+      "id": "BreAmnFp4vI",
+      "title": "Why Italy Didn't Have an Industrial Revolution - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-05T18:34:11Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 54487,
+      "like_count": 2331,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=BreAmnFp4vI"
+    },
+    {
       "id": "wwgL64WOo74",
       "title": "The Time Florence Had Enough of Its Nobles - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-04T17:01:44Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 105968,
-      "like_count": 3755,
-      "comment_count": 108,
+      "view_count": 134080,
+      "like_count": 4547,
+      "comment_count": 137,
       "url": "https://www.youtube.com/watch?v=wwgL64WOo74"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-03T21:17:16Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 139676,
-      "like_count": 4066,
-      "comment_count": 62,
+      "view_count": 150416,
+      "like_count": 4377,
+      "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=B37saIexYr4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-02T17:02:33Z",
       "description": "",
       "duration": "PT51S",
-      "view_count": 124194,
-      "like_count": 4369,
-      "comment_count": 150,
+      "view_count": 131409,
+      "like_count": 4628,
+      "comment_count": 156,
       "url": "https://www.youtube.com/watch?v=9-STuFQD9RY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-01T20:20:28Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 167007,
-      "like_count": 3924,
-      "comment_count": 69,
+      "view_count": 175408,
+      "like_count": 4091,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=NvOn-o7g7A4"
-    },
-    {
-      "id": "x21Sac_RnyE",
-      "title": "Huawei Was About to Beat NVIDIA - Dylan Patel",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-03-31T17:54:45Z",
-      "description": "",
-      "duration": "PT38S",
-      "view_count": 29105,
-      "like_count": 447,
-      "comment_count": 88,
-      "url": "https://www.youtube.com/watch?v=x21Sac_RnyE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-05T16:58:18Z",
+    "generated_at": "2026-04-06T06:12:50Z",
     "count": 5
   }
 }
