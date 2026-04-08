@@ -14,15 +14,27 @@
   "date": "2026-04-08",
   "result": [
     {
+      "id": "as_NEJAP8ew",
+      "title": "Every Samsung Phone. SAME Photo!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-07T21:06:16Z",
+      "description": "Holy HDR",
+      "duration": "PT43S",
+      "view_count": 308506,
+      "like_count": 19978,
+      "comment_count": 745,
+      "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
+    },
+    {
       "id": "Hc0aqOEU2w8",
       "title": "Bluey Phone Review",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-04-01T14:10:50Z",
       "description": "It's called the Bluey phone by VTech. It really commits to the idea of a minimal phone.\n\n(Affiliate Link) VTech Bluey Ring Phone: https://geni.us/HpXH \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT4M23S",
-      "view_count": 2325000,
-      "like_count": 104403,
-      "comment_count": 8265,
+      "view_count": 2574580,
+      "like_count": 105622,
+      "comment_count": 8322,
       "url": "https://www.youtube.com/watch?v=Hc0aqOEU2w8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-03-30T20:56:18Z",
       "description": "Oppo Find N6 has done it. Now what?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M47S",
-      "view_count": 5099633,
-      "like_count": 131160,
-      "comment_count": 6699,
+      "view_count": 5142823,
+      "like_count": 131664,
+      "comment_count": 6729,
       "url": "https://www.youtube.com/watch?v=eFUB_jL_XcM"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-30T16:42:18Z",
       "description": "Anything can handle broad daylight",
       "duration": "PT49S",
-      "view_count": 852341,
-      "like_count": 34298,
-      "comment_count": 1302,
+      "view_count": 867013,
+      "like_count": 34775,
+      "comment_count": 1317,
       "url": "https://www.youtube.com/watch?v=pvjivZ6C6CA"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-27T20:07:08Z",
       "description": "iPhone 1 through 17 generation takes the same photo",
       "duration": "PT46S",
-      "view_count": 3842967,
-      "like_count": 115859,
-      "comment_count": 3629,
+      "view_count": 3852829,
+      "like_count": 116171,
+      "comment_count": 3643,
       "url": "https://www.youtube.com/watch?v=jru9Gsz3kJY"
-    },
-    {
-      "id": "eXa2ndhmatI",
-      "title": "The Windows Laptop Problem",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-03-25T18:25:28Z",
-      "description": "There are really good Windows laptops - but how can they compete?\n\nMKBHD Color Picker Sticker Pack: https://geni.us/tAIya9\n\n(Affiliate Links)\nMacBook Neo: https://geni.us/AATWro\nMacBook Pro M5 16”: https://geni.us/6RMSTm\nDell XPS 14: https://howl.link/suo5v5pd7a9ra\nAcer Aspire 16: https://geni.us/NSQ3Rg7\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT10M49S",
-      "view_count": 4243398,
-      "like_count": 138631,
-      "comment_count": 9980,
-      "url": "https://www.youtube.com/watch?v=eXa2ndhmatI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-07T17:30:06Z",
+    "generated_at": "2026-04-08T06:00:45Z",
     "count": 5
   }
 }
