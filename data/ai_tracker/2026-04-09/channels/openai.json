@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-09",
+  "result": [
+    {
+      "id": "ZpUKNYcgM-E",
+      "title": "Sam Altman on Building the Future of AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-07T20:36:27Z",
+      "description": "AI is advancing faster than most people realize. In this OpenAI Forum conversation, Sam Altman joins Josh Achiam and Adrien Ecoffet to talk about what’s coming next.\n\nThey discuss the pace of progress toward more capable AI systems, what these tools could unlock—from scientific breakthroughs to new ways of building companies—and the challenges society needs to prepare for. The conversation also looks at who gets access to AI, how to make sure the benefits are widely shared, and what it will take for institutions and individuals to keep up.",
+      "duration": "PT46M11S",
+      "view_count": 21238,
+      "like_count": 833,
+      "comment_count": 172,
+      "url": "https://www.youtube.com/watch?v=ZpUKNYcgM-E"
+    },
+    {
+      "id": "2g1e1QUiY8s",
+      "title": "LG Uplus Creates Next Gen AICC",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-06T15:19:08Z",
+      "description": "OpenAI and LG Uplus engineers collaborated to create a next-generation AICC, “Agentic AICC,” which is positioned to become a new standard for enterprise AI customer service.\n\nLG Uplus plans to introduce an agent service featuring ultra-low-latency AI customer support built on the OpenAI Realtime API, along with a Planning Agent that can resolve issues on its own using checklist-based workflows.\n\n#LGUplus #OpenAI #AICC #AIContactCenter #AgenticAICC #LLM #AgenticCallBot",
+      "duration": "PT3M40S",
+      "view_count": 20106,
+      "like_count": 463,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s"
+    },
+    {
+      "id": "yNNTLllVbiE",
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-01T21:12:13Z",
+      "description": "Gradient Labs is giving every bank customer an AI account manager, with CSAT up to 98% and over 50% resolution on day one.\n\nIn banking support, even simple issues like a declined payment can trigger multiple teams, handoffs, and delays. \n\nGradient Labs replaces that with a single agent that handles the full workflow. Identity checks, card actions, and follow-ups happen in one continuous conversation.\n\nRead their full story here: https://lnkd.in/emSndtkx",
+      "duration": "PT1M5S",
+      "view_count": 9425,
+      "like_count": 210,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE"
+    },
+    {
+      "id": "ZXEAuZOSLs0",
+      "title": "What Codex Unlocks for Ramp",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-01T20:21:48Z",
+      "description": "\"Codex code review is industry gold standard.\" \n\nWe checked in with Ramp to hear how the AI Dev X team is leveraging Codex to build an AI-driven on-call helper to take the burden off engineers. \n\n\" Codex with GPT 5.4 is adept at dealing with complexity in a way that would have required a lot mental effort...but Codex handles it like its nothing\" \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M2S",
+      "view_count": 11718,
+      "like_count": 287,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0"
+    },
+    {
+      "id": "th8u0bqYsQk",
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-03-27T20:55:13Z",
+      "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit. \n\nYou can browse visually, upload images as inspiration for similar items, and refine results conversationally until you land on the right option.",
+      "duration": "PT53S",
+      "view_count": 9858,
+      "like_count": 246,
+      "comment_count": 53,
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-08T17:36:58Z",
+    "count": 5
+  }
+}

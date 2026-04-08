@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-04-09",
+  "result": [
+    {
+      "id": "DIIteghPGx4",
+      "title": "Advancing AI and HPC Competency in Higher Education Through Faculty Instructional Enablement",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-07T21:33:28Z",
+      "description": "NVIDIA’s developer training programs support faculty teaching students and researchers through downloadable teaching kits, a cloud-based GPU-accelerated platform, and technical certification exams. Instructional content spans foundational topics—deep learning, accelerated computing, and data science—and advanced areas including agentic AI, natural language processing, and generative AI. Online courses and instructor-led workshops with project-based assessments help faculty align coursework with certifications and support students in earning recognized qualifications. We highlight ECPI integrating GPU-accelerated AI into student projects, and Lebanese American University using hands-on, faculty-led workshops to advance applied learning and prepare students for real-world AI applications and industry pathways.",
+      "duration": "PT36M50S",
+      "view_count": 1666,
+      "like_count": 72,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=DIIteghPGx4"
+    },
+    {
+      "id": "-x65tGsrIs4",
+      "title": "“NVIDIA’s cost per token is the lowest in the world.”",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-03T19:39:34Z",
+      "description": "“NVIDIA’s cost per token is the lowest in the world.” — Jensen Huang, Founder & CEO of NVIDIA \n\nToken generation cost is a direct result of architecture excellence and extreme co-design, not just compute cost. Lowest cost per token and highest performance per watt are definitive measures of AI economics and the key to unlocking maximum profitability and AI revenue.\n\n➡️ https://nvda.ws/3POj5Ig",
+      "duration": "PT50S",
+      "view_count": 19420,
+      "like_count": 527,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=-x65tGsrIs4"
+    },
+    {
+      "id": "wWUGm8wIfEs",
+      "title": "\"The inflection point for inference has arrived.\"",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-02T18:13:20Z",
+      "description": "\"The inflection point for inference has arrived.\" — Jensen Huang, Founder & CEO of NVIDIA\n \nWe’ve officially crossed a new milestone in the inference era — where widespread adoption of AI shifts from learning to doing.\n\nThe breakthrough: extreme codesign across hardware and software driving down cost per token.\n\nLower cost → more inference\nMore inference → more users and applications\nMore users and applications → exponential AI revenue growth\n\n🔗 https://nvda.ws/4bYSCij",
+      "duration": "PT42S",
+      "view_count": 10180,
+      "like_count": 435,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=wWUGm8wIfEs"
+    },
+    {
+      "id": "Pn4kKCjCFMc",
+      "title": "Why Do Performance Benchmarks Matter?",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-01T19:11:55Z",
+      "description": "Delivered performance, not peak chip specifications, drives AI factory productivity.\n\nRigorous benchmarks are the only way to see past the noise. In MLPerf Inference v6.0, NVIDIA extreme co-design delivered the highest token output across the broadest range of models and scenarios. \n\nMaximizing token output drives down token cost and maximizes AI factory productivity.\n\nRead the blog post to dive into the details: https://nvda.ws/48kdWOc",
+      "duration": "PT44S",
+      "view_count": 4409,
+      "like_count": 121,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=Pn4kKCjCFMc"
+    },
+    {
+      "id": "lBNHFR41GgY",
+      "title": "NVIDIA GTC Studio with Insights from Schneider Electric",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-03-30T21:55:23Z",
+      "description": "Pankaj Sharma, Executive Vice President of Software and Services at Schneider Electric, outlines the challenges of scaling AI infrastructure, emphasizing energy as the foundation of the five-layer AI cake. As AI adoption accelerates, he points to growing pressure on power, grid capacity, and sustainable energy—while highlighting the opportunity to use AI to optimize and expand energy systems for the next generation of AI.",
+      "duration": "PT17M5S",
+      "view_count": 3496,
+      "like_count": 82,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=lBNHFR41GgY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-08T17:36:57Z",
+    "count": 5
+  }
+}

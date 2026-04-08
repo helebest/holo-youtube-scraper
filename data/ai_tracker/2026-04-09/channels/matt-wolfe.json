@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-04-09",
+  "result": [
+    {
+      "id": "-lRnSrhTXDc",
+      "title": "OpenAI Just Made History (Holy Sh*t?!)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-08T14:16:58Z",
+      "description": "OpenAI just made history with the largest raise by any company ever. \n\nThey recently raised $122 billion at a staggering $852 billion valuation, reportedly generating $2 billion in revenue every month.\n\nAt the same time, reports revealed that Sora was losing roughly $1 million per day—totaling over a third of a billion dollars—before it was shut down a couple weeks ago.\n\nThese two pieces of news coming out at the same time is kind of giving me whiplash, but I'm also not surprised by either. \n\nTo stay up-to-date with all the latest AI news each week, check out my latest YouTube video for more!\n\n#OpenAI #AI #TechNews #AInews",
+      "duration": "PT54S",
+      "view_count": 1570,
+      "like_count": 32,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=-lRnSrhTXDc"
+    },
+    {
+      "id": "QymmGOKO5sk",
+      "title": "WTF Is OpenAI Doing??",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-07T14:01:35Z",
+      "description": "I thought this was an April Fools joke.\n\nOpenAI officially acquired the media company TBPN, AKA the “ESPN of Tech Business.” \n\nFor a company that said they weren’t doing “side quests” anymore, this is a wild pivot into podcasting, live-streaming and video news.\n\nIs OpenAI trying to become a media powerhouse? And what implications while this have on TBPN editorially? \n\n#OpenAI #TechUpdate #AI #AInews",
+      "duration": "PT49S",
+      "view_count": 2392,
+      "like_count": 16,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=QymmGOKO5sk"
+    },
+    {
+      "id": "4-XNvaV2KPk",
+      "title": "Claude's Source Code Got Leaked Across The Whole Internet",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-06T21:55:19Z",
+      "description": "🚨 Anthropic’s Claude source code just leaked across the internet, and it's revealing some major secrets about how the AI actually works. \n\nThis is just one of the major discoveries from the leak, but I go over all the biggest takeaways in my latest AI news video up on YouTube (link in bio). \n\nAre you surprised by this leak? Or was it bound to happen at some point? 👇\n\n#AI #AInews #anthropic #claude",
+      "duration": "PT52S",
+      "view_count": 10365,
+      "like_count": 159,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=4-XNvaV2KPk"
+    },
+    {
+      "id": "BZ1hs2ZcnJc",
+      "title": "AI News: Anthropic Leak Shows Us The Future of AI",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-03T15:00:00Z",
+      "description": "Here's the AI News you probably missed this week. Try Recraft V4 now and experience an image generation model with exceptional visual taste 👉https://go.recraft.ai/MattWolfe\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nClaude Code Leak: https://x.com/fried_rice/status/2038894956459290963\nClaude Code Leak Discussion: https://x.com/DavidWilliams/status/2039071679633150297\nClaude Code Leak Analysis: https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know\nClaude Code Leak Response: https://x.com/bcherny/status/2039210700657307889\nOpenAI $122B Raise: https://openai.com/index/accelerating-the-next-phase-ai/\nSora's Sudden Fall: https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9\nMicrosoft MAI-Transcribe-1: https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/\nMicrosoft MAI Models: https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/\nGoogle Veo 3.1 Lite: https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/\nGmail AI Inbox: https://x.com/gmail/status/2039107985281008078\nGoogle Gemma 4: https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\nQwen Update: https://x.com/Alibaba_Qwen/status/2038636335272194241\nQwen Update 2: https://x.com/alibaba_qwen/status/2039705104723611829\nArcee Trinity-Large-Thinking: https://www.arcee.ai/blog/trinity-large-thinking\nClaude Code Computer Use: https://x.com/claudeai/status/2038663014098899416\nCodex Plugin Claude Code: https://community.openai.com/t/introducing-codex-plugin-for-claude-code/1378186\nChatGPT CarPlay Launch: https://9to5mac.com/2026/03/31/chatgpt-app-launches-for-carplay-on-ios-26-4/\nOpenAI Acquires TBPN: https://openai.com/index/openai-acquires-tbpn/\nPerplexity Computer For Taxes: https://www.perplexity.ai/hub/blog/introducing-computer-for-taxes\nSlack Agentic Slackbot: https://www.salesforce.com/slack/slackbot/agent-orchestration/\nGM AI Concept Cars: https://www.businessinsider.com/gm-ai-concept-cars-design-speeds-2026-3\nInstacart Physical AI Carts: https://retail-insider.com/retail-insider/2026/03/instacart-introduces-physical-ai-smart-carts-to-influence-grocery-shopping-in-real-time/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:23 Claude Code Leak\n6:43 Recraft AI\n8:37 OpenAI Largest Raise Ever\n9:32 OpenAI SuperApp\n11:20 Sora Lost $1M Per Day\n11:43 Microsodt MAI-Transcribe-1\n13:43 New Tools in Microsoft Foundry\n14:04 Veo 3.1 Lite\n15:25 Google AI Inbox\n16:21 Gemma 4\n17:15 Two New Qwen Models\n19:15 Arcee Trinity-Large-Thinking\n22:11 Computer Use in Claude Code\n22:34 Codex in Claude Code\n23:05 ChatGPT in CarPlay\n23:18 OpenAI buys TBPN\n24:31 Perplexity Computer for Taxes\n25:14 New AI Slackbot\n26:37 Using AI to Design Cars\n27:30 AI Powered Shopping Carts?\n28:51 Final Thoughts\n30:45 WTF?",
+      "duration": "PT31M5S",
+      "view_count": 94628,
+      "like_count": 3619,
+      "comment_count": 264,
+      "url": "https://www.youtube.com/watch?v=BZ1hs2ZcnJc"
+    },
+    {
+      "id": "osycm8ZK7iY",
+      "title": "How AI Gets Data Wrong (and how to fix it)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-03-31T20:46:22Z",
+      "description": "Most people think the biggest factor in AI performance is the model.\n\nBut often in enterprise settings, the architecture behind how internal data is connected matters even more.\n\nA new benchmark from CData found a ~25% accuracy gap between different MCP server approaches.\n\nBasically, two AI systems using the same model could return very different answers depending on how they access your data and what approach to MCP they use.\n\nIf you’re building AI agents, copilots, or internal tools that connect to CRM or project management systems… this is worth understanding.\n\nYou can check out the full benchmark, methodology & results from CData here: https://bit.ly/4s4o9p0\n\n#AI #AItools #AIagents \n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #ArtificialIntelligence",
+      "duration": "PT1M21S",
+      "view_count": 13095,
+      "like_count": 315,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=osycm8ZK7iY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-08T17:37:00Z",
+    "count": 5
+  }
+}

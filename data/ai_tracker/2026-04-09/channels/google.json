@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-09",
+  "result": [
+    {
+      "id": "2W46qLKoqKc",
+      "title": "@nicolasvans is learning how to be the perfect @Coachella boyfriend with Google Search ❤️‍🔥",
+      "channel_title": "Google",
+      "published_at": "2026-04-08T17:17:45Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 274,
+      "like_count": 7,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=2W46qLKoqKc"
+    },
+    {
+      "id": "i2kXouPuNxk",
+      "title": "Want a peek at @KarolG plans for@Coachella? It starts with Google Search",
+      "channel_title": "Google",
+      "published_at": "2026-04-08T15:59:46Z",
+      "description": "Ready to see @KarolG make @Coachella history? 👀 Watch for performance hints 🪐\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 1621410,
+      "like_count": 154,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=i2kXouPuNxk"
+    },
+    {
+      "id": "jqHpMup3St8",
+      "title": "Best friends don’t let each other go to @Coachella without checking Google 🤝 #Sponsored",
+      "channel_title": "Google",
+      "published_at": "2026-04-07T18:37:00Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 7680,
+      "like_count": 316,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=jqHpMup3St8"
+    },
+    {
+      "id": "4wxXkihLx8I",
+      "title": "Your inbox is your business. Here’s how we keep your Gmail secure with all our new Gemini features.",
+      "channel_title": "Google",
+      "published_at": "2026-04-07T16:21:42Z",
+      "description": "When you use Gemini in Gmail — for example, to summarize a lengthy email — Gemini only “clocks in” for its assigned task and then leaves your inbox, along with all your private data. Gemini in Gmail doesn’t store your info and we don’t use it for training. \n\nBlake Barnes, our VP of product at Gmail, shares more below about how Gemini actually works in your email.\n\n#GoogleGemini",
+      "duration": "PT1M24S",
+      "view_count": 9088,
+      "like_count": 457,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=4wxXkihLx8I"
+    },
+    {
+      "id": "tYhgWRJeYzs",
+      "title": "What is Vibe Coding?",
+      "channel_title": "Google",
+      "published_at": "2026-04-02T21:25:37Z",
+      "description": "We’re diving into vibe coding, where natural language and creativity combine with the power of AI to turn ideas into tangible tools. \n\nWe explore:\n0:00 - What is Vibe Coding?\n0:15 - Intro to Google AI Studio\n0:23 - Example Builds: Game, Web, & App\n1:10 - Explore the App Gallery\n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep an eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: https://ai.google.dev/gemini-api/docs/aistudio-build-mode\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nMore information on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\nInfo on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\n#BuildWithGemini #VibeCoding #AIStudio \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M35S",
+      "view_count": 309751,
+      "like_count": 942,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=tYhgWRJeYzs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-08T17:36:59Z",
+    "count": 5
+  }
+}
