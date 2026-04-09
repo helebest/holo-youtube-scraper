@@ -14,15 +14,27 @@
   "date": "2026-04-09",
   "result": [
     {
+      "id": "s3DrGkDvgNw",
+      "title": "Every Google Phone Ever VS HDR!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-08T20:43:49Z",
+      "description": "All Pixel and Nexus phones",
+      "duration": "PT49S",
+      "view_count": 193742,
+      "like_count": 13114,
+      "comment_count": 576,
+      "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
+    },
+    {
       "id": "as_NEJAP8ew",
       "title": "Every Samsung Phone. SAME Photo!",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-04-07T21:06:16Z",
       "description": "Holy HDR",
       "duration": "PT43S",
-      "view_count": 609453,
-      "like_count": 32541,
-      "comment_count": 1124,
+      "view_count": 748172,
+      "like_count": 38278,
+      "comment_count": 1272,
       "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-01T14:10:50Z",
       "description": "It's called the Bluey phone by VTech. It really commits to the idea of a minimal phone.\n\n(Affiliate Link) VTech Bluey Ring Phone: https://geni.us/HpXH \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT4M23S",
-      "view_count": 2866418,
-      "like_count": 106537,
-      "comment_count": 8367,
+      "view_count": 2992545,
+      "like_count": 107334,
+      "comment_count": 8387,
       "url": "https://www.youtube.com/watch?v=Hc0aqOEU2w8"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-03-30T20:56:18Z",
       "description": "Oppo Find N6 has done it. Now what?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M47S",
-      "view_count": 5171110,
-      "like_count": 132079,
-      "comment_count": 6744,
+      "view_count": 5211705,
+      "like_count": 132545,
+      "comment_count": 6778,
       "url": "https://www.youtube.com/watch?v=eFUB_jL_XcM"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-03-30T16:42:18Z",
       "description": "Anything can handle broad daylight",
       "duration": "PT49S",
-      "view_count": 880052,
-      "like_count": 35157,
-      "comment_count": 1322,
+      "view_count": 893862,
+      "like_count": 35618,
+      "comment_count": 1330,
       "url": "https://www.youtube.com/watch?v=pvjivZ6C6CA"
-    },
-    {
-      "id": "jru9Gsz3kJY",
-      "title": "Every iPhone Ever. SAME photo!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-03-27T20:07:08Z",
-      "description": "iPhone 1 through 17 generation takes the same photo",
-      "duration": "PT46S",
-      "view_count": 3860425,
-      "like_count": 116349,
-      "comment_count": 3649,
-      "url": "https://www.youtube.com/watch?v=jru9Gsz3kJY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-08T17:36:56Z",
+    "generated_at": "2026-04-09T06:00:13Z",
     "count": 5
   }
 }
