@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-04-11",
+  "result": [
+    {
+      "id": "s3DrGkDvgNw",
+      "title": "Every Google Phone Ever VS HDR!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-08T20:43:49Z",
+      "description": "All Pixel and Nexus phones",
+      "duration": "PT49S",
+      "view_count": 515361,
+      "like_count": 25732,
+      "comment_count": 877,
+      "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
+    },
+    {
+      "id": "as_NEJAP8ew",
+      "title": "Every Samsung Phone. SAME Photo!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-07T21:06:16Z",
+      "description": "Holy HDR",
+      "duration": "PT43S",
+      "view_count": 892838,
+      "like_count": 44658,
+      "comment_count": 1503,
+      "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
+    },
+    {
+      "id": "Hc0aqOEU2w8",
+      "title": "Bluey Phone Review",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-01T14:10:50Z",
+      "description": "It's called the Bluey phone by VTech. It really commits to the idea of a minimal phone.\n\n(Affiliate Link) VTech Bluey Ring Phone: https://geni.us/HpXH \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT4M23S",
+      "view_count": 3222649,
+      "like_count": 109082,
+      "comment_count": 8467,
+      "url": "https://www.youtube.com/watch?v=Hc0aqOEU2w8"
+    },
+    {
+      "id": "eFUB_jL_XcM",
+      "title": "So This is Peak Foldable",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-30T20:56:18Z",
+      "description": "Oppo Find N6 has done it. Now what?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M47S",
+      "view_count": 5310402,
+      "like_count": 133711,
+      "comment_count": 6830,
+      "url": "https://www.youtube.com/watch?v=eFUB_jL_XcM"
+    },
+    {
+      "id": "pvjivZ6C6CA",
+      "title": "Every iPhone Camera vs LOW Light",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-03-30T16:42:18Z",
+      "description": "Anything can handle broad daylight",
+      "duration": "PT49S",
+      "view_count": 918686,
+      "like_count": 36414,
+      "comment_count": 1357,
+      "url": "https://www.youtube.com/watch?v=pvjivZ6C6CA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-10T17:10:29Z",
+    "count": 5
+  }
+}
