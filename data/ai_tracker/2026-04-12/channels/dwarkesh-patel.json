@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-12",
+  "result": [
+    {
+      "id": "OfHnP7N5g04",
+      "title": "Why Many Great Scientists Believed in Magic – Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-10T14:22:06Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 47333,
+      "like_count": 1601,
+      "comment_count": 138,
+      "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
+    },
+    {
+      "id": "T0-bsviW4RI",
+      "title": "Darwin's Theory Was Easy. So Why Did It Take So Long? - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-09T19:19:55Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 65613,
+      "like_count": 1407,
+      "comment_count": 101,
+      "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
+    },
+    {
+      "id": "uyRvEHh0-e8",
+      "title": "Astrology Funded Everything We Know About Space - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-08T20:29:44Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 30446,
+      "like_count": 941,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=uyRvEHh0-e8"
+    },
+    {
+      "id": "Wop2Ko5_yuI",
+      "title": "AlphaFold isn’t about AI - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-07T18:18:36Z",
+      "description": "",
+      "duration": "PT37S",
+      "view_count": 29774,
+      "like_count": 725,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=Wop2Ko5_yuI"
+    },
+    {
+      "id": "myP8UjAM1pk",
+      "title": "Michael Nielsen – Why aliens will have a different tech stack than us",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-07T16:33:36Z",
+      "description": "Really enjoyed chatting with Michael Nielsen about how we recognize scientific progress. It’s especially relevant for closing the RL verification loop for scientific discovery. But it’s also a surprisingly mysterious and elusive question when you look at the history of human science.\n\nWe approach this question stories like Einstein (who claimed that he hadn't even heard of the famous Michelson-Morley experiment, which is supposed to have motivated special relativity, until after he had come up with the theory), Darwin (why did it take till 1859 to lay out an idea whose essence every farmer since antiquity must have observed?), Prout (how do you recognize that isotopes exist if you cannot chemically separate them?), and many others.\n\nThe verification loop on scientific ideas is often extremely long and weirdly hostile. Ancient Athenians dismissed Aristarchus’s heliocentrism in the 3rd century BC because it would imply that the stars should shift in the sky as the Earth orbits the sun. The first successful measurement of stellar parallax was in 1838. That’s a 2,000-year verification loop.\n\nBut clearly human science is able to make progress faster than raw experimental falsification/verification would imply, and in cases where experiments are very ambiguous. How?\n\nMichael has some very deep and provocative hypotheses about the nature of progress. One I found especially thought-provoking is that aliens will likely have a VERY different science + tech stack than us. Which contradicts the common sense picture of a linear tech tree that I was assuming. And has some interesting implications about how future civilizations might trade and cooperate with each other.\n\n+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/michael-nielsen\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/michael-nielsen-how-science-actually-progresses/id1516093381?i=1000760075027\n* Spotify: https://open.spotify.com/episode/1JTv7Le8s5Mf0hDcXDOJYl\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Labelbox researchers built a new safety benchmark. Why? Well, current safety benchmarks claim that attacks on top models are successful only a few percent of the time, but the prompts in those benchmarks don't reflect how real bad actors actually write. You can read Labelbox's research here: https://labelbox.com/blog/the-ai-safety-illusion-why-current-safety-datasets-fool-us-on-model-safety/. If this could be useful for your work, reach out at https://labelbox.com/dwarkesh\n- Mercury has an MCP that lets you give an LLM access to your full transaction history, including things like attached receipts and internal notes. I just used it to categorize my 2025 transactions, and it worked shockingly well. Modern functionality like this is exactly why I use Mercury. Learn more at https://mercury.com\n- Jane Street's ML engineers presented some of their GPU optimization workflows at GTC, showing how they use CUDA graphs, streams, and custom kernels to shave real time off their training runs. You can watch the full talk here: https://www.nvidia.com/en-us/on-demand/session/gtc26-s82065/. And they open-sourced all the relevant code: https://github.com/janestreet/gtc2026/. If this kind of stuff excites you, Jane Street is hiring — learn more at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – How scientific progress outpaces its verification loops\n00:17:51 – Newton was the last of the magicians\n00:23:26 – Why wasn’t natural selection obvious much earlier?\n00:29:52 – Could gradient descent have discovered general relativity?\n00:50:54 – Why aliens will have a different tech stack than us\n01:15:26 – Are there infinitely many deep scientific principles left to discover?\n01:26:25 – What drew Michael to quantum computing so early?\n01:35:29 – Does science need a new way to assign credit?\n01:43:57 – Prolificness versus depth\n01:49:17 – What it takes to actually internalize what you learn",
+      "duration": "PT2H3M4S",
+      "view_count": 84859,
+      "like_count": 1602,
+      "comment_count": 194,
+      "url": "https://www.youtube.com/watch?v=myP8UjAM1pk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-11T16:59:34Z",
+    "count": 5
+  }
+}
