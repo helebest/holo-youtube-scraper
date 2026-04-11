@@ -20,9 +20,9 @@
       "published_at": "2026-04-10T17:08:14Z",
       "description": "Celebrate #NationalRoboticsWeek with a look back at NVIDIA GTC. From autonomous humanoids mastering complex 3D navigation to highly precise surgical arms and real-time conversational delivery bots, the next era of physical AI has arrived. \n\nWhich robotic application are you most excited for, drop your thoughts below! 👇",
       "duration": "PT31S",
-      "view_count": 4,
-      "like_count": 1,
-      "comment_count": 0,
+      "view_count": 4301,
+      "like_count": 168,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=ffk5ncHHW6Y"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-04-09T17:30:02Z",
       "description": "As AI becomes the definitive engine of economic and academic growth, the race is on to democratize access to high performance computing across the United States. This panel explores \"The 50-State Plan,\" a strategic roadmap for building robust, statewide AI infrastructure through innovative public-private partnerships. The session brings together visionary tech-industry pioneers, leaders from the National Science Foundation (NSF), and executives from top-tier research universities to discuss the shift from isolated pockets of innovation to unified strategies for university transformation and mission success in the age of AI.\n\nLearn how your organization can participate in this nationwide effort to bridge the digital divide and accelerate the next era of discovery.",
       "duration": "PT53M2S",
-      "view_count": 1272,
-      "like_count": 76,
+      "view_count": 1428,
+      "like_count": 80,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=uv8va8bIqus"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-04-09T16:54:22Z",
       "description": "AI literacy has moved from a \"nice-to-have\" to a readiness requirement. The open question is execution: how schools build access that scales, supports educators, and reaches students across different learning paths, geographies, and resources.\n\nThis panel brings together education leaders and practitioners shaping that execution from four angles: classroom and school implementation, learning science and workforce-relevant skill-building, platform-level delivery at scale, and institutional systems that connect education to long-term opportunity.\n\nTogether, the panel will share practical approaches to expand AI literacy and access without turning schools into pilot sites. You'll leave with a clear view of what to teach, how to equip educators, how to deploy tools responsibly, and how to build pathways that connect early literacy to real-world readiness over time.",
       "duration": "PT40M4S",
-      "view_count": 790,
-      "like_count": 49,
+      "view_count": 899,
+      "like_count": 51,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=BAhI87RS-DQ"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-04-07T21:33:28Z",
       "description": "NVIDIA’s developer training programs support faculty teaching students and researchers through downloadable teaching kits, a cloud-based GPU-accelerated platform, and technical certification exams. Instructional content spans foundational topics—deep learning, accelerated computing, and data science—and advanced areas including agentic AI, natural language processing, and generative AI. Online courses and instructor-led workshops with project-based assessments help faculty align coursework with certifications and support students in earning recognized qualifications. We highlight ECPI integrating GPU-accelerated AI into student projects, and Lebanese American University using hands-on, faculty-led workshops to advance applied learning and prepare students for real-world AI applications and industry pathways.",
       "duration": "PT36M50S",
-      "view_count": 2325,
-      "like_count": 89,
+      "view_count": 2349,
+      "like_count": 90,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=DIIteghPGx4"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-04-03T19:39:34Z",
       "description": "“NVIDIA’s cost per token is the lowest in the world.” — Jensen Huang, Founder & CEO of NVIDIA \n\nToken generation cost is a direct result of architecture excellence and extreme co-design, not just compute cost. Lowest cost per token and highest performance per watt are definitive measures of AI economics and the key to unlocking maximum profitability and AI revenue.\n\n➡️ https://nvda.ws/3POj5Ig",
       "duration": "PT50S",
-      "view_count": 20626,
-      "like_count": 557,
+      "view_count": 21054,
+      "like_count": 572,
       "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=-x65tGsrIs4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-10T17:10:29Z",
+    "generated_at": "2026-04-11T05:42:34Z",
     "count": 5
   }
 }
