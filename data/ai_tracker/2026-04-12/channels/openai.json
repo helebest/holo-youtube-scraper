@@ -20,9 +20,9 @@
       "published_at": "2026-04-10T17:30:00Z",
       "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things. \n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Ashe Magalhaes, founder of Hearth AI. Ashe talks about moving fast with Codex, finding beauty in tools, and gives a keen look into her agentic personal operating systems that enable her to feel more present, connected, and intentional.\n\nChapters:\n00:00 Intro\n00:10 Early agents and Hearth AI\n05:43 AI and human connection\n08:44 Build in public\n12:17 Ashe’s agentic workflow",
       "duration": "PT33M39S",
-      "view_count": 5306,
-      "like_count": 160,
-      "comment_count": 20,
+      "view_count": 6139,
+      "like_count": 171,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=flweA_I-VKE"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-04-09T23:35:45Z",
       "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.",
       "duration": "PT43S",
-      "view_count": 8160,
-      "like_count": 213,
-      "comment_count": 32,
+      "view_count": 8526,
+      "like_count": 218,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=1PiLUnxd1b8"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-04-09T22:44:27Z",
       "description": "When GitLab co-founder Sid Sijbrandij was diagnosed with a rare and aggressive cancer, he approached it like an engineering problem. In this conversation, Sid joins geneticist Jacob Stern to share how they used ChatGPT, advanced diagnostics, and real-time research to better understand his tumor and explore personalized treatment options—building a faster feedback loop between patients, doctors, and scientific literature. \n\nAbout OpenAI Forum:\nThe OpenAI Forum is a global community that brings together leaders across industries to share how AI is being used in the real world—what’s working, what we’re learning, and how we can shape its impact together. Learn more: https://forum.openai.com/",
       "duration": "PT48M27S",
-      "view_count": 5361,
-      "like_count": 165,
+      "view_count": 5861,
+      "like_count": 172,
       "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=OAlHiQLsYQM"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-04-09T17:09:11Z",
       "description": "“The really cool thing with Codex is that we get to iterate and ideate on feature requests with the customer in real time.” \n\nAnkur Goyal, founder & CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. \n\nLearn more: https://openai.com/codex/\n\n#Codex #openaicodex #shorts",
       "duration": "PT25S",
-      "view_count": 4201,
-      "like_count": 71,
+      "view_count": 4715,
+      "like_count": 81,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=AIZ_v_Xfb2k"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-04-09T17:04:48Z",
       "description": "\"The really cool thing with Codex, is that we get to iterate and ideate on feature requests with the customer in real time.”\n\nAnkur Goyal, founder & CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. \n\nLearn more: https://openai.com/codex/",
       "duration": "PT1M2S",
-      "view_count": 7170,
-      "like_count": 227,
+      "view_count": 7422,
+      "like_count": 231,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=pLyVlqhaieI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-11T16:59:39Z",
+    "generated_at": "2026-04-12T06:06:51Z",
     "count": 5
   }
 }

@@ -15,14 +15,14 @@
   "result": [
     {
       "id": "mFSFvKquXwI",
-      "title": "NVIDIA’s New AI: The Biggest Leap In Robot Learning Yet",
+      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-04-11T16:23:48Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://dreamdojo-world.github.io/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#NVIDIA",
       "duration": "PT9M9S",
-      "view_count": 1927,
-      "like_count": 227,
-      "comment_count": 30,
+      "view_count": 27579,
+      "like_count": 1887,
+      "comment_count": 143,
       "url": "https://www.youtube.com/watch?v=mFSFvKquXwI"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-04-07T17:38:09Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The #NVIDIA paper on Nemotron 3 Super is available here:\nhttps://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf\nhttps://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT8M11S",
-      "view_count": 166844,
-      "like_count": 10316,
-      "comment_count": 852,
+      "view_count": 169089,
+      "like_count": 10279,
+      "comment_count": 856,
       "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-04-01T14:21:33Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The TurboQuant paper is available here:\nhttps://arxiv.org/abs/2504.19874\n\nReproductions: \nhttps://github.com/tonbistudio/turboquant-pytorch\nhttps://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1s73yby/implemented_turboquant_in_python_over_weekend/\nhttps://x.com/AlicanKiraz0/status/2038245538865275274\nI'll note that I have found several reproductions and benchmarks with all kinds of results, so take each of these as just one data point, not definitive yet (thanks for the feedback Alon Torres). Some later tests even better at KV-cache compression!\n\nKV-cache source: https://huggingface.co/blog/not-lain/kv-caching\n\nReviews and criticisms of the paper:\nhttps://openreview.net/forum?id=tO3ASKZlok\nhttps://x.com/gaoj0017/status/2037532673812443214\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT8M34S",
-      "view_count": 159689,
-      "like_count": 10276,
+      "view_count": 160098,
+      "like_count": 10285,
       "comment_count": 976,
       "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-03-27T16:00:57Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.10177\n\nSource:\nhttps://www.youtube.com/watch?v=6evUpgCHtOQ\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT10M8S",
-      "view_count": 236426,
-      "like_count": 17703,
+      "view_count": 236705,
+      "like_count": 17711,
       "comment_count": 1621,
       "url": "https://www.youtube.com/watch?v=Io_GqmbNBbY"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-03-26T15:47:12Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nFree course on Ray Tracing:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\nSong only version: https://www.youtube.com/watch?v=KzLsB4W8zMY\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT7M50S",
-      "view_count": 33190,
-      "like_count": 2618,
+      "view_count": 33311,
+      "like_count": 2620,
       "comment_count": 301,
       "url": "https://www.youtube.com/watch?v=XL5bq8DRn64"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-11T16:59:36Z",
+    "generated_at": "2026-04-12T06:06:49Z",
     "count": 5
   }
 }
