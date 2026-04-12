@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-13",
+  "result": [
+    {
+      "id": "fOyJ17MA5wA",
+      "title": "Why Quantum Computing Was Delayed by 30 Years - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-11T19:34:22Z",
+      "description": "",
+      "duration": "PT1M23S",
+      "view_count": 28909,
+      "like_count": 822,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=fOyJ17MA5wA"
+    },
+    {
+      "id": "OfHnP7N5g04",
+      "title": "Why Many Great Scientists Believed in Magic – Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-10T14:22:06Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 69970,
+      "like_count": 2446,
+      "comment_count": 187,
+      "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
+    },
+    {
+      "id": "T0-bsviW4RI",
+      "title": "Darwin's Theory Was Easy. So Why Did It Take So Long? - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-09T19:19:55Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 73084,
+      "like_count": 1546,
+      "comment_count": 106,
+      "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
+    },
+    {
+      "id": "uyRvEHh0-e8",
+      "title": "Astrology Funded Everything We Know About Space - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-08T20:29:44Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 32334,
+      "like_count": 974,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=uyRvEHh0-e8"
+    },
+    {
+      "id": "Wop2Ko5_yuI",
+      "title": "AlphaFold isn’t about AI - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-07T18:18:36Z",
+      "description": "",
+      "duration": "PT37S",
+      "view_count": 31410,
+      "like_count": 743,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=Wop2Ko5_yuI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-12T17:00:14Z",
+    "count": 5
+  }
+}

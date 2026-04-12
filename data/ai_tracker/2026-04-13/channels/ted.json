@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-04-13",
+  "result": [
+    {
+      "id": "FvV8vMV105E",
+      "title": "4 Relationship Traps That Lead to Burnout | Eric Quintane | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-12T15:00:22Z",
+      "description": "Are your workplace relationships quietly burning you out? Drawing on large-scale research across industries, organizational behavior researcher Eric Quintane reveals four hidden relational traps woven into the fabric of work — and explores how connection shapes resilience, vulnerability and burnout. (Recorded at TEDxESMTBerlin on February 1, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/ericquintane\n\nhttps://youtu.be/FvV8vMV105E\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Relationships",
+      "duration": "PT16M32S",
+      "view_count": 1900,
+      "like_count": 106,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=FvV8vMV105E"
+    },
+    {
+      "id": "pCDO1wHY9H8",
+      "title": "Could exposing kids to their fears help them thrive later on in life? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-11T19:00:42Z",
+      "description": "Could exposing kids to their fears help them thrive later on in life? Exploring the science of exposure therapy, pediatric psychologist Kathryn Hecht shows how encouraging children to handle discomfort builds confidence and resilience. Through personal stories and practical strategies, she shares the secret for raising kids ready to meet life’s challenges.",
+      "duration": "PT1M54S",
+      "view_count": 16409,
+      "like_count": 541,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=pCDO1wHY9H8"
+    },
+    {
+      "id": "lXifoci-Upo",
+      "title": "What to Do When You’re Told There’s Nothing Left to Try | David Fajgenbaum, Kiah Williams | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-10T15:01:29Z",
+      "description": "What do you do when the world declares something impossible? When physician-scientist David Fajgenbaum was dying from a rare disease and social entrepreneur Kiah Williams was confronting the realities of economic hardship, they began asking a different question: What can I do today? In this conversation, they discuss how turning hope into action can drive meaningful change — one step at a time. (This conversation is hosted by The Audacious Project’s Alexandra Tillmann) (Recorded at TEDNext 2025 on November 10, 2025.)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/davidandkiah\n\nhttps://youtu.be/lXifoci-Upo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Change",
+      "duration": "PT28M41S",
+      "view_count": 11803,
+      "like_count": 264,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=lXifoci-Upo"
+    },
+    {
+      "id": "49zF4kZYtlI",
+      "title": "Being surrounded by puppies all day and helping people in need? Talk about a DREAM job! #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-09T19:00:08Z",
+      "description": "",
+      "duration": "PT1M51S",
+      "view_count": 30568,
+      "like_count": 1324,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=49zF4kZYtlI"
+    },
+    {
+      "id": "zj1gx0yrz8o",
+      "title": "Which Idea Wins Over 4,000 People? | Amman | TED Idea Search",
+      "channel_title": "TED",
+      "published_at": "2026-04-09T15:30:41Z",
+      "description": "The TED Idea Search wraps up in Amman, Jordan, in a 2,000-year-old Roman amphitheater and in front of a crowd of 4,000. What unfolds inside those stone walls is something the series hasn't quite seen before: speakers shaped by the weight of living in a region the world tends to define for itself. From a mountaineer who turned grief into motivation to a therapist rewriting the Arab world's language around mental health, the final city makes the strongest case yet that the best ideas can come from anywhere.\n\nWatch the full talks from the TEDxAmman Idea Search: https://www.youtube.com/playlist?list=PLOGi5-fAu8bEdhi3ZlUzC0evriPF121Qm\n\n00:00 - Intro\n3:24 - Rehearsals\n16:00 - The Talks \n36:28 - Deliberation\n38:48 - The Winner Is…\n\nThe most interesting ideas often come from the most unexpected places. We searched the globe for ideas with the power to inspire, motivate and change lives — and we found them at  @TEDx  events around the world. The TED Idea Search follows extraordinary speakers from 9 countries competing for a spot on the TED main stage in Vancouver this April.\n\nA WING London production for TED\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nhttps://youtu.be/zj1gx0yrz8o\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #TEDIdeaSearch",
+      "duration": "PT43M30S",
+      "view_count": 17208,
+      "like_count": 261,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=zj1gx0yrz8o"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-12T17:00:15Z",
+    "count": 5
+  }
+}
