@@ -14,15 +14,27 @@
   "date": "2026-04-13",
   "result": [
     {
+      "id": "EHoOowJDIrg",
+      "title": "How Machiavelli Became a Diplomat at 29 - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-12T20:16:18Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 27360,
+      "like_count": 1102,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=EHoOowJDIrg"
+    },
+    {
       "id": "fOyJ17MA5wA",
       "title": "Why Quantum Computing Was Delayed by 30 Years - Michael Nielsen",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-11T19:34:22Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 28909,
-      "like_count": 822,
-      "comment_count": 17,
+      "view_count": 35390,
+      "like_count": 947,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=fOyJ17MA5wA"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-10T14:22:06Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 69970,
-      "like_count": 2446,
-      "comment_count": 187,
+      "view_count": 77434,
+      "like_count": 2749,
+      "comment_count": 206,
       "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-04-09T19:19:55Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 73084,
-      "like_count": 1546,
+      "view_count": 75638,
+      "like_count": 1605,
       "comment_count": 106,
       "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-04-08T20:29:44Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 32334,
-      "like_count": 974,
-      "comment_count": 33,
+      "view_count": 33227,
+      "like_count": 992,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=uyRvEHh0-e8"
-    },
-    {
-      "id": "Wop2Ko5_yuI",
-      "title": "AlphaFold isn’t about AI - Michael Nielsen",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-07T18:18:36Z",
-      "description": "",
-      "duration": "PT37S",
-      "view_count": 31410,
-      "like_count": 743,
-      "comment_count": 15,
-      "url": "https://www.youtube.com/watch?v=Wop2Ko5_yuI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-12T17:00:14Z",
+    "generated_at": "2026-04-13T06:28:57Z",
     "count": 5
   }
 }
