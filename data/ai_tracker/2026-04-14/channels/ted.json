@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-04-14",
+  "result": [
+    {
+      "id": "Ojk3QV5U5Jc",
+      "title": "3 Things I Wish I Knew When I Was Broke | Vivian Tu | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-13T15:00:48Z",
+      "description": "Finance doesn't have to feel like a foreign language. Wall Street trader-turned-financial educator Vivian Tu @YourRichBFF helps millions of people make sense of money, breaking down complex concepts into everyday terms you can understand. She shares how she broke free from the stress of living paycheck to paycheck — and explores how we can shift power structures to give everyone a real shot at building wealth. (Recorded at TEDNext 2025 on November 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/viviantu\n\nhttps://youtu.be/Ojk3QV5U5Jc\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Finance",
+      "duration": "PT9M21S",
+      "view_count": 3758,
+      "like_count": 259,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=Ojk3QV5U5Jc"
+    },
+    {
+      "id": "TNPSGk-NXoM",
+      "title": "Stop chasing chemistry — and start seeking this #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-12T19:00:32Z",
+      "description": "How do you build a lifetime of love? After analyzing 450 couples across more than 40 countries, relational psychotherapist Sara Nasserzadeh discovered six essential ingredients for successful relationships (hint: it's not just about sexual chemistry). Learn more about \"emergent love\" — a new, evidence-based model for fostering the love you desire.",
+      "duration": "PT2M19S",
+      "view_count": 17003,
+      "like_count": 619,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=TNPSGk-NXoM"
+    },
+    {
+      "id": "FvV8vMV105E",
+      "title": "4 Relationship Traps That Lead to Burnout | Eric Quintane | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-12T15:00:22Z",
+      "description": "Are your workplace relationships quietly burning you out? Drawing on large-scale research across industries, organizational behavior researcher Eric Quintane reveals four hidden relational traps woven into the fabric of work — and explores how connection shapes resilience, vulnerability and burnout. (Recorded at TEDxESMTBerlin on February 1, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/ericquintane\n\nhttps://youtu.be/FvV8vMV105E\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Relationships",
+      "duration": "PT16M32S",
+      "view_count": 13315,
+      "like_count": 334,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=FvV8vMV105E"
+    },
+    {
+      "id": "pCDO1wHY9H8",
+      "title": "Could exposing kids to their fears help them thrive later on in life? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-11T19:00:42Z",
+      "description": "Could exposing kids to their fears help them thrive later on in life? Exploring the science of exposure therapy, pediatric psychologist Kathryn Hecht shows how encouraging children to handle discomfort builds confidence and resilience. Through personal stories and practical strategies, she shares the secret for raising kids ready to meet life’s challenges.",
+      "duration": "PT1M54S",
+      "view_count": 24712,
+      "like_count": 742,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=pCDO1wHY9H8"
+    },
+    {
+      "id": "lXifoci-Upo",
+      "title": "What to Do When You’re Told There’s Nothing Left to Try | David Fajgenbaum, Kiah Williams | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-10T15:01:29Z",
+      "description": "What do you do when the world declares something impossible? When physician-scientist David Fajgenbaum was dying from a rare disease and social entrepreneur Kiah Williams was confronting the realities of economic hardship, they began asking a different question: What can I do today? In this conversation, they discuss how turning hope into action can drive meaningful change — one step at a time. (This conversation is hosted by The Audacious Project’s Alexandra Tillmann) (Recorded at TEDNext 2025 on November 10, 2025.)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/davidandkiah\n\nhttps://youtu.be/lXifoci-Upo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Change",
+      "duration": "PT28M41S",
+      "view_count": 13153,
+      "like_count": 283,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=lXifoci-Upo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-13T17:34:53Z",
+    "count": 5
+  }
+}

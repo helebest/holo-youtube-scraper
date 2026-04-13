@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-14",
+  "result": [
+    {
+      "id": "flweA_I-VKE",
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-10T17:30:00Z",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things. \n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Ashe Magalhaes, founder of Hearth AI. Ashe talks about moving fast with Codex, finding beauty in tools, and gives a keen look into her agentic personal operating systems that enable her to feel more present, connected, and intentional.\n\nChapters:\n00:00 Intro\n00:10 Early agents and Hearth AI\n05:43 AI and human connection\n08:44 Build in public\n12:17 Ashe’s agentic workflow",
+      "duration": "PT33M39S",
+      "view_count": 7449,
+      "like_count": 193,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=flweA_I-VKE"
+    },
+    {
+      "id": "1PiLUnxd1b8",
+      "title": "Design your dream room by shopping with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-09T23:35:45Z",
+      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.",
+      "duration": "PT43S",
+      "view_count": 9241,
+      "like_count": 230,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=1PiLUnxd1b8"
+    },
+    {
+      "id": "OAlHiQLsYQM",
+      "title": "ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-09T22:44:27Z",
+      "description": "When GitLab co-founder Sid Sijbrandij was diagnosed with a rare and aggressive cancer, he approached it like an engineering problem. In this conversation, Sid joins geneticist Jacob Stern to share how they used ChatGPT, advanced diagnostics, and real-time research to better understand his tumor and explore personalized treatment options—building a faster feedback loop between patients, doctors, and scientific literature. \n\nAbout OpenAI Forum:\nThe OpenAI Forum is a global community that brings together leaders across industries to share how AI is being used in the real world—what’s working, what we’re learning, and how we can shape its impact together. Learn more: https://forum.openai.com/",
+      "duration": "PT48M27S",
+      "view_count": 7184,
+      "like_count": 183,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=OAlHiQLsYQM"
+    },
+    {
+      "id": "AIZ_v_Xfb2k",
+      "title": "What Codex Unlocks for Braintrust",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-09T17:09:11Z",
+      "description": "“The really cool thing with Codex is that we get to iterate and ideate on feature requests with the customer in real time.” \n\nAnkur Goyal, founder & CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. \n\nLearn more: https://openai.com/codex/\n\n#Codex #openaicodex #shorts",
+      "duration": "PT25S",
+      "view_count": 6048,
+      "like_count": 98,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=AIZ_v_Xfb2k"
+    },
+    {
+      "id": "pLyVlqhaieI",
+      "title": "What Codex Unlocks for Braintrust",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-09T17:04:48Z",
+      "description": "\"The really cool thing with Codex, is that we get to iterate and ideate on feature requests with the customer in real time.”\n\nAnkur Goyal, founder & CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M2S",
+      "view_count": 7896,
+      "like_count": 236,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=pLyVlqhaieI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-13T17:34:57Z",
+    "count": 5
+  }
+}

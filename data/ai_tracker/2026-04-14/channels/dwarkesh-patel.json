@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-14",
+  "result": [
+    {
+      "id": "EHoOowJDIrg",
+      "title": "How Machiavelli Became a Diplomat at 29 - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-12T20:16:18Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 53532,
+      "like_count": 1696,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=EHoOowJDIrg"
+    },
+    {
+      "id": "fOyJ17MA5wA",
+      "title": "Why Quantum Computing Was Delayed by 30 Years - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-11T19:34:22Z",
+      "description": "",
+      "duration": "PT1M23S",
+      "view_count": 38026,
+      "like_count": 1017,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=fOyJ17MA5wA"
+    },
+    {
+      "id": "OfHnP7N5g04",
+      "title": "Why Many Great Scientists Believed in Magic – Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-10T14:22:06Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 86241,
+      "like_count": 3056,
+      "comment_count": 230,
+      "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
+    },
+    {
+      "id": "T0-bsviW4RI",
+      "title": "Darwin's Theory Was Easy. So Why Did It Take So Long? - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-09T19:19:55Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 76997,
+      "like_count": 1640,
+      "comment_count": 108,
+      "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
+    },
+    {
+      "id": "uyRvEHh0-e8",
+      "title": "Astrology Funded Everything We Know About Space - Michael Nielsen",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-08T20:29:44Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 33736,
+      "like_count": 1002,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=uyRvEHh0-e8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-13T17:34:52Z",
+    "count": 5
+  }
+}
