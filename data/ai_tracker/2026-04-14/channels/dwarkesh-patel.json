@@ -14,15 +14,27 @@
   "date": "2026-04-14",
   "result": [
     {
+      "id": "oNPcwszl6KA",
+      "title": "Why It Took Centuries to Invent Science - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-13T18:28:58Z",
+      "description": "",
+      "duration": "PT1M17S",
+      "view_count": 28257,
+      "like_count": 1676,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=oNPcwszl6KA"
+    },
+    {
       "id": "EHoOowJDIrg",
       "title": "How Machiavelli Became a Diplomat at 29 - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-12T20:16:18Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 53532,
-      "like_count": 1696,
-      "comment_count": 27,
+      "view_count": 71017,
+      "like_count": 2047,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=EHoOowJDIrg"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-11T19:34:22Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 38026,
-      "like_count": 1017,
-      "comment_count": 21,
+      "view_count": 41386,
+      "like_count": 1109,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=fOyJ17MA5wA"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-10T14:22:06Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 86241,
-      "like_count": 3056,
-      "comment_count": 230,
+      "view_count": 94142,
+      "like_count": 3450,
+      "comment_count": 246,
       "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-09T19:19:55Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 76997,
-      "like_count": 1640,
+      "view_count": 78509,
+      "like_count": 1670,
       "comment_count": 108,
       "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
-    },
-    {
-      "id": "uyRvEHh0-e8",
-      "title": "Astrology Funded Everything We Know About Space - Michael Nielsen",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-08T20:29:44Z",
-      "description": "",
-      "duration": "PT46S",
-      "view_count": 33736,
-      "like_count": 1002,
-      "comment_count": 35,
-      "url": "https://www.youtube.com/watch?v=uyRvEHh0-e8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-13T17:34:52Z",
+    "generated_at": "2026-04-14T06:13:51Z",
     "count": 5
   }
 }
