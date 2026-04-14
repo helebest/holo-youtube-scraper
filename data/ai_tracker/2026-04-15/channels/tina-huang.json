@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Tina Huang",
+    "tier": "education_fundamentals",
+    "handle": "@TinaHuang1",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UC2UXDak6o7rBm23k3Vv5dww"
+  },
+  "date": "2026-04-15",
+  "result": [
+    {
+      "id": "5yhzuJDcyps",
+      "title": "Nobody Talks About This in Vibe Coding",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-04-12T18:00:08Z",
+      "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT36S",
+      "view_count": 13167,
+      "like_count": 544,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=5yhzuJDcyps"
+    },
+    {
+      "id": "Gc8J7FSctNo",
+      "title": "AI Is Expensive, Here's How You Save",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-04-09T17:19:43Z",
+      "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT33S",
+      "view_count": 15825,
+      "like_count": 481,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=Gc8J7FSctNo"
+    },
+    {
+      "id": "FKDiHHTfcPo",
+      "title": "AI Predictions 2026",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-04-03T15:00:19Z",
+      "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT25S",
+      "view_count": 11240,
+      "like_count": 216,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=FKDiHHTfcPo"
+    },
+    {
+      "id": "90KJ09bA4zc",
+      "title": "If I were a new grad in 2026, this is how I would use AI",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-04-01T15:01:20Z",
+      "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT44S",
+      "view_count": 15434,
+      "like_count": 653,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=90KJ09bA4zc"
+    },
+    {
+      "id": "1yHPeCJ6y0Q",
+      "title": "Brutally Honest AI Advice",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-03-29T15:00:03Z",
+      "description": "🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT23S",
+      "view_count": 27451,
+      "like_count": 818,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=1yHPeCJ6y0Q"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-14T17:38:13Z",
+    "count": 5
+  }
+}

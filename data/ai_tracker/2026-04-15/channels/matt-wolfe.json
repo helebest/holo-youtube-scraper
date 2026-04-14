@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-04-15",
+  "result": [
+    {
+      "id": "0T3xgE_diIw",
+      "title": "Insane Open Source AI Model Just Dropped",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-14T13:13:29Z",
+      "description": "Why is NO ONE talking about this?!\n\nMeet GLM-5.1, the new open-source beast of a model from Z.ai that’s officially outperforming industry giants like GPT-5.4 and Opus 4.6 on complex coding tasks.\n\nAND it’s open-weight under the MIT license, so you can download it, fine-tune it, and run it locally. \n\nTo stay up-to-date on all the AI news, check out my weekly videos like the one linked here.\n\n#AI #AInews #TechNews #opensource",
+      "duration": "PT55S",
+      "view_count": 2066,
+      "like_count": 58,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=0T3xgE_diIw"
+    },
+    {
+      "id": "khIOqZIpbmg",
+      "title": "They Nerfed This Viral AI Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-13T12:13:39Z",
+      "description": "🚨 The wait is OVER. \n\nThe AI video model everyone’s been raving about for months is finally available in the US.\n\nSeedance 2.0 has officially landed, and you can find it right now inside the Runway and CapCut apps. \n\nWhile you can't generate celebrity deepfakes or trademarked IP anymore, the quality is still insane. It’s incredibly fast and handles complex, multi-scene prompts like a pro.\n\nWith Sora out of the picture now, this is easily the most powerful video tool you can get your hands on today. \n\nHave you tried it yet? Let me know in the comments!\n\n#Seedance #genAI #AI #Ainews #AIvideo",
+      "duration": "PT44S",
+      "view_count": 4216,
+      "like_count": 96,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=khIOqZIpbmg"
+    },
+    {
+      "id": "ByZsafOOKoM",
+      "title": "ANOTHER Big AI Leak?!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-12T14:08:26Z",
+      "description": "ANOTHER AI leak??\n\nApparently, GPT-Image-2 has been leaked on Arena AI, and while I can't confirm if it's the real deal, the output is pretty impressive.\n\nTo stay up-to-date on all the AI news, check out my weekly videos on YouTube (linked here). \n\n#AI #AInews #OpenAI #GPT #genAI",
+      "duration": "PT37S",
+      "view_count": 15891,
+      "like_count": 233,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=ByZsafOOKoM"
+    },
+    {
+      "id": "K_jquzUz5eA",
+      "title": "Is Claude Mythos A Scam?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-11T13:06:37Z",
+      "description": "Is all this Claude Mythos stuff just a big marketing ploy?\n\nHere are my thoughts, but leave a comment with what you think 🤔\n\n#AI #AInews #Claude #Mythos #anthropic",
+      "duration": "PT1M42S",
+      "view_count": 7294,
+      "like_count": 180,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=K_jquzUz5eA"
+    },
+    {
+      "id": "pRoIjB5eNKo",
+      "title": "Claude Mythos Explained",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-10T21:23:54Z",
+      "description": "This is the biggest AI story this week BY FAR.\n\nAnthropic just revealed \"Claude Mythos\", a model so powerful and so good at hacking that they’ve decided it’s too dangerous to release to the public.\n\nBecause of the unprecedented potential of this model, Anthropic is keeping it under lock and key, only granting access to a few elite security teams via \"Project Glasswing.\"\n\nIs this the end of software security as we know it, or the beginning of a new AI-driven defense era? \n\nTo stay up-to-date with all the AI news, check out my weekly AI news videos on my channel! \n\n#Mythos #Anthropic #AI #CyberSecurity #AInews",
+      "duration": "PT1M16S",
+      "view_count": 28652,
+      "like_count": 580,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=pRoIjB5eNKo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-14T17:38:09Z",
+    "count": 5
+  }
+}

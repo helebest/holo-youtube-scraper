@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-15",
+  "result": [
+    {
+      "id": "I0V14dTS9JQ",
+      "title": "What is Quantum Mechanics? | Google Quantum AI",
+      "channel_title": "Google",
+      "published_at": "2026-04-14T15:00:20Z",
+      "description": "Curious about quantum? Step onto Google’s Quantum AI Campus to get answers to some of the world’s top trending quantum questions. In this video, experts Jenna and Andrew break down the basics of quantum mechanics, the purpose behind quantum computers, as well as set the record straight on how this technology could actually be used. #Quantum  \n\n00:10 - Introductions\n00:25 - What is Quantum Mechanics in Real Life? \n00:49 - What is Quantum Computing?\n01:09 - What is a Qubit? \n01:54 - Why is Quantum Physics so Hard? \n02:14 - Can Quantum Computers Simulate Molecules Faster? \n02:34 - Will Quantum Computers Ever Work? \n02:54 - What are Quantum Computers Used For? \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT3M56S",
+      "view_count": 3511,
+      "like_count": 321,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=I0V14dTS9JQ"
+    },
+    {
+      "id": "bQJRRR9X6qI",
+      "title": "Happy World Quantum Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-14T14:03:10Z",
+      "description": "Happy World Quantum Day ⚛️ Today’s #GoogleDoodle features the Bloch sphere, a visualization of how a quantum bit, or qubit, works. While a classical computing bit is either 1 or 0, a qubit can be a blend of both called superposition. By harnessing superposition, along with other quantum properties, quantum computers can solve specific, complex problems that are out of reach for today’s supercomputers to solve. 🤯 Want to learn more about the Bloch sphere and quantum computing? It's just a search away.",
+      "duration": "PT15S",
+      "view_count": 474,
+      "like_count": 35,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=bQJRRR9X6qI"
+    },
+    {
+      "id": "W-dj56fP4jY",
+      "title": "How We Use AI on Your Wrist | Made by Google Podcast S9E2",
+      "channel_title": "Google",
+      "published_at": "2026-04-13T19:39:07Z",
+      "description": "Whether you are carrying a week’s worth of groceries or balancing a toddler, sometimes you just do not have a spare hand to tap your watch screen. \n\nRachid and Munjal Shah dive into the new one-handed gestures on Pixel Watch 3 and 4 that solve this exact problem for users on the go. They walk through the simplicity of the double pinch and the wrist turn while explaining how visual hints help you build the muscle memory to use them naturally. From snoozing alarms to dismissing notifications with a flick of the wrist, this episode covers how your watch is becoming a powerful AI companion that stays out of your way until the moment you need it most.\n\n0:00 – Meet Munjal Shah: AI on the Pixel Watch 4\n0:47 – Why Use One-Handed Wrist Gestures?\n3:09 – Mastering Double Pinch & Wrist Turn\n5:20 – Unexpected Challenges\n11:09 – Raise to Talk: Natural Interactions with Gemini\n14:04– Avoiding False Positives\n15:53 – How Far We Have Come and \"Living in the Future\"\n\n#PixelWatch #MadeByGoogle #TechPodcast \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT20M29S",
+      "view_count": 8909,
+      "like_count": 237,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=W-dj56fP4jY"
+    },
+    {
+      "id": "Bm_ny8y8WkQ",
+      "title": "Could @GiannisAntetokounmpo dunk on the moon? 🌖",
+      "channel_title": "Google",
+      "published_at": "2026-04-10T21:39:46Z",
+      "description": "Have a wild matchup in mind? Use Search with AI Mode to run your own simulations and see who would win.",
+      "duration": "PT25S",
+      "view_count": 16416,
+      "like_count": 336,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=Bm_ny8y8WkQ"
+    },
+    {
+      "id": "b1Pvt072wKQ",
+      "title": "How to Vibe Code an App From a Drawing",
+      "channel_title": "Google",
+      "published_at": "2026-04-09T19:03:46Z",
+      "description": "With vibe coding, you can build an app by just describing it.\n\nIn this video, we show you how to turn a vision and a hand-drawn sketch into a weather-responsive personalized outfit selector using Google AI Studio and Nano Banana.\n\nWe cover:\n0:10 - Turning a vision into an app\n2:15 - Integrating virtual try-on functionality using Nano Banana\n2:49 - Explore the App Gallery\n\n#BuildWithGemini #VibeCoding #Fashion #FashionApp #AIStudio \n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep and eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: https://ai.google.dev/gemini-api/docs/aistudio-build-mode\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nMore information on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT3M12S",
+      "view_count": 30687,
+      "like_count": 473,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=b1Pvt072wKQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-14T17:38:08Z",
+    "count": 5
+  }
+}
