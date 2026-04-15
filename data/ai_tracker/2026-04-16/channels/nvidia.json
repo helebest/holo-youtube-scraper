@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-04-16",
+  "result": [
+    {
+      "id": "bxwM1LZV-QY",
+      "title": "20 Years of CUDA: Honoring the Architects of the Accelerated Age",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-14T19:31:08Z",
+      "description": "To the creators, the pioneers, and the builders of the future: CUDA was made for you.\n\nSince 2006, six million developers across 200 countries have used CUDA to transform computing. What began as a platform has become the engine of the Accelerated Age.\n\nWith 900+ CUDA-X libraries, you are accelerating science, reshaping industries, and giving machines the power to see, learn, and reason. From drug discovery and physics simulations to the frontiers of quantum computing, your work defines the modern era.\n\nToday, we honor the architects of progress who made 20 years of CUDA possible. For the visionaries pushing the limits of AI and innovation—this is still just the beginning.\n\nWe can’t wait to see what you do next.\n\n#CUDA #NVIDIA #AI #GPUComputing #Innovation #AcceleratedAge #TechHistory",
+      "duration": "PT1M38S",
+      "view_count": 4461,
+      "like_count": 292,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=bxwM1LZV-QY"
+    },
+    {
+      "id": "hwLLBfzoSko",
+      "title": "How AI-RAN Turns Telecom Networks into Real-Time AI Infrastructure",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-14T18:00:01Z",
+      "description": "Static systems waste time, energy, and resources. AI-powered infrastructure changes that.\n\nWith NVIDIA Metropolis Blueprint for video search and summarization (VSS), running on NVIDIA's AI-RAN base station, AI agents run continuously at the edge, analyzing real-time data streams from connected sensors over 5G. These agents enable live monitoring of urban environments, AI-powered 3D digital twins for infrastructure inspection, traffic optimization through simulation, and instant anomaly detection and response.\n\nTelecom infrastructure is becoming a distributed AI compute layer, unlocking smarter cities and more efficient operations.\n\nTo learn more:\nRead the press release: https://nvidianews.nvidia.com/news/nvidia-t-mobile-and-partners-integrate-physical-ai-applications-on-ai-ran-ready-infrastructure\nLearn more about NVIDIA Metropolis VSS Blueprint: https://build.nvidia.com/nvidia/video-search-and-summarization/blueprintcard\nLearn more about AI-RAN: https://www.nvidia.com/en-us/industries/telecommunications/ai-ran/",
+      "duration": "PT1M36S",
+      "view_count": 5199,
+      "like_count": 147,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=hwLLBfzoSko"
+    },
+    {
+      "id": "MxF8U2nD0MY",
+      "title": "How AI Will Change Quantum Computing | NVIDIA AI Podcast Ep. 294",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-14T17:32:21Z",
+      "description": "Our new open-source AI model family, NVIDIA Ising, will transform quantum computing by using agentic AI to solve it's most complex challenges, like real-time error correction.\n\nNic Harrigan joins the NVIDIA AI Podcast to explain how this new open-source model family will help turn today's quantum hardware into tommorow's quantum-GPU supercomputers.\n\n📺 Watch the full episode: https://www.youtube.com/watch?v=OFEY5-52ru0&feature=youtu.be",
+      "duration": "PT45S",
+      "view_count": 5239,
+      "like_count": 134,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=MxF8U2nD0MY"
+    },
+    {
+      "id": "6DRvTQhfauc",
+      "title": "Introducing NVIDIA Ising",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-14T14:16:34Z",
+      "description": "Introducing NVIDIA Ising, the world’s first open AI models to accelerate the path to useful quantum computers.\n\nResearchers and enterprises can now use AI-powered workflows for scalable, high-performance quantum systems with quantum processor calibration capabilities and quantum error-correction decoding.\n\nLearn more: https://nvda.ws/4cJseKU",
+      "duration": "PT45S",
+      "view_count": 7330,
+      "like_count": 280,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=6DRvTQhfauc"
+    },
+    {
+      "id": "z978rGwiW6E",
+      "title": "AI for Quantum: NVIDIA Ising Accelerates Useful Quantum Computing",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-14T14:03:51Z",
+      "description": "Discover AI for quantum with NVIDIA Ising—the first open source AI model family built to accelerate the path to useful quantum computing.\n\nIn this video, learn how accelerated quantum supercomputers could unlock breakthroughs in drug discovery, materials science, and optimization, and why getting there requires advanced qubit hardware, accelerated computing, and purpose-built AI.\n\nNVIDIA Ising introduces open models designed for key quantum computing workloads, including:\n\nQuantum calibration\nQuantum error decoding\n\nLearn more about how NVIDIA is bringing AI and quantum computing together to power the next era of discovery: https://nvda.ws/47SXJj5",
+      "duration": "PT2M",
+      "view_count": 21040,
+      "like_count": 708,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=z978rGwiW6E"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-15T17:35:59Z",
+    "count": 5
+  }
+}
