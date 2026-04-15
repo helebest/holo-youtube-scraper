@@ -14,15 +14,27 @@
   "date": "2026-04-15",
   "result": [
     {
+      "id": "oBj9GdhAGrg",
+      "title": "Why Censorship Always Misses What Actually Matters - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-14T21:27:31Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 26148,
+      "like_count": 1428,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=oBj9GdhAGrg"
+    },
+    {
       "id": "oNPcwszl6KA",
       "title": "Why It Took Centuries to Invent Science - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-13T18:28:58Z",
       "description": "",
       "duration": "PT1M17S",
-      "view_count": 51477,
-      "like_count": 2632,
-      "comment_count": 49,
+      "view_count": 68473,
+      "like_count": 3272,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=oNPcwszl6KA"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-12T20:16:18Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 77301,
-      "like_count": 2200,
-      "comment_count": 31,
+      "view_count": 83725,
+      "like_count": 2374,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=EHoOowJDIrg"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-04-11T19:34:22Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 43125,
-      "like_count": 1139,
+      "view_count": 45140,
+      "like_count": 1165,
       "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=fOyJ17MA5wA"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-04-10T14:22:06Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 103094,
-      "like_count": 3781,
-      "comment_count": 262,
+      "view_count": 110683,
+      "like_count": 4038,
+      "comment_count": 284,
       "url": "https://www.youtube.com/watch?v=OfHnP7N5g04"
-    },
-    {
-      "id": "T0-bsviW4RI",
-      "title": "Darwin's Theory Was Easy. So Why Did It Take So Long? - Michael Nielsen",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-09T19:19:55Z",
-      "description": "",
-      "duration": "PT48S",
-      "view_count": 80195,
-      "like_count": 1704,
-      "comment_count": 110,
-      "url": "https://www.youtube.com/watch?v=T0-bsviW4RI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-14T17:38:03Z",
+    "generated_at": "2026-04-15T06:14:42Z",
     "count": 5
   }
 }
