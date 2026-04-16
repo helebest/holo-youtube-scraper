@@ -14,14 +14,38 @@
   "date": "2026-04-16",
   "result": [
     {
+      "id": "FS1l8iN7PVo",
+      "title": "Why Cost Per Token Is the Only Metric You Need for AI TCO",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-15T23:45:07Z",
+      "description": "Today, AI data centers are token factories. \n\nAI infrastructure TCO is often judged by compute cost and FLOPS per $. But these are just inputs, where cost per token is what is actually delivered. \n\nConsider the same NVIDIA Blackwell to Hopper generational gains measured three ways:\n\n• FLOPS per dollar: ~2x improvement\n• Cost per million tokens: ~35x lower\n• Tokens per second per megawatt: ~50x higher\n\nTraditional metrics such as FLOPs per dollar miss the value.\n\nCost per token captures end-to-end performance across GPUs, CPUs, networking, software, and ecosystem making it the key driver of real profitability and scalability in AI.\n\nNVIDIA delivers the lowest cost per token and highest performance per watt, maximizing AI factory revenue.\n\nWatch the full video featuring Dr. Gerro Prinsloo, Nader Khalil (NVIDIA), and Carter Abdallah (NVIDIA) to learn more.",
+      "duration": "PT36M39S",
+      "view_count": 993,
+      "like_count": 67,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=FS1l8iN7PVo"
+    },
+    {
+      "id": "F5vE2_DBIY0",
+      "title": "NVIDIA Automotive at GTC 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-15T19:00:11Z",
+      "description": "“The ChatGPT moment for self-driving cars has arrived.”\n\nAt GTC, NVIDIA revealed breakthroughs in autonomous driving—from reasoning AI with Alpamayo to robotaxi-ready platforms with Hyperion—alongside partners including Uber.\n\nLearn more about the announcements featured in this video:\n\n• Press Release: BYD, Nissan & More Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles 👉 Read the announcement: https://nvidianews.nvidia.com/news/drive-hyperion-level-4\n\n• NVIDIA to Launch L4 Software-Driven Robotaxis on Uber Across 28 Cities by 2028 https://investor.uber.com/news-events/news/press-release-details/2026/NVIDIA-to-Launch-L4-Software-Driven-Robotaxis-on-Uber-Across-28-Cities-by-2028/default.aspx \n\n• NVIDIA Alpamayo In-Car Reasoning: AI That Drives, Explains Decisions, and Responds to Passengers 👉 Watch on YouTube:https://www.youtube.com/watch?v=5EEYgxoT8kc\n\nWatch the GTC San Jose automotive wrap-up to learn how NVIDIA is shaping the next generation of autonomous vehicles.",
+      "duration": "PT1M23S",
+      "view_count": 2093,
+      "like_count": 118,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=F5vE2_DBIY0"
+    },
+    {
       "id": "bxwM1LZV-QY",
       "title": "20 Years of CUDA: Honoring the Architects of the Accelerated Age",
       "channel_title": "NVIDIA",
       "published_at": "2026-04-14T19:31:08Z",
       "description": "To the creators, the pioneers, and the builders of the future: CUDA was made for you.\n\nSince 2006, six million developers across 200 countries have used CUDA to transform computing. What began as a platform has become the engine of the Accelerated Age.\n\nWith 900+ CUDA-X libraries, you are accelerating science, reshaping industries, and giving machines the power to see, learn, and reason. From drug discovery and physics simulations to the frontiers of quantum computing, your work defines the modern era.\n\nToday, we honor the architects of progress who made 20 years of CUDA possible. For the visionaries pushing the limits of AI and innovation—this is still just the beginning.\n\nWe can’t wait to see what you do next.\n\n#CUDA #NVIDIA #AI #GPUComputing #Innovation #AcceleratedAge #TechHistory",
       "duration": "PT1M38S",
-      "view_count": 4461,
-      "like_count": 292,
+      "view_count": 5357,
+      "like_count": 326,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=bxwM1LZV-QY"
     },
@@ -32,8 +56,8 @@
       "published_at": "2026-04-14T18:00:01Z",
       "description": "Static systems waste time, energy, and resources. AI-powered infrastructure changes that.\n\nWith NVIDIA Metropolis Blueprint for video search and summarization (VSS), running on NVIDIA's AI-RAN base station, AI agents run continuously at the edge, analyzing real-time data streams from connected sensors over 5G. These agents enable live monitoring of urban environments, AI-powered 3D digital twins for infrastructure inspection, traffic optimization through simulation, and instant anomaly detection and response.\n\nTelecom infrastructure is becoming a distributed AI compute layer, unlocking smarter cities and more efficient operations.\n\nTo learn more:\nRead the press release: https://nvidianews.nvidia.com/news/nvidia-t-mobile-and-partners-integrate-physical-ai-applications-on-ai-ran-ready-infrastructure\nLearn more about NVIDIA Metropolis VSS Blueprint: https://build.nvidia.com/nvidia/video-search-and-summarization/blueprintcard\nLearn more about AI-RAN: https://www.nvidia.com/en-us/industries/telecommunications/ai-ran/",
       "duration": "PT1M36S",
-      "view_count": 5199,
-      "like_count": 147,
+      "view_count": 9946,
+      "like_count": 162,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=hwLLBfzoSko"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-04-14T17:32:21Z",
       "description": "Our new open-source AI model family, NVIDIA Ising, will transform quantum computing by using agentic AI to solve it's most complex challenges, like real-time error correction.\n\nNic Harrigan joins the NVIDIA AI Podcast to explain how this new open-source model family will help turn today's quantum hardware into tommorow's quantum-GPU supercomputers.\n\n📺 Watch the full episode: https://www.youtube.com/watch?v=OFEY5-52ru0&feature=youtu.be",
       "duration": "PT45S",
-      "view_count": 5239,
-      "like_count": 134,
+      "view_count": 6737,
+      "like_count": 169,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MxF8U2nD0MY"
-    },
-    {
-      "id": "6DRvTQhfauc",
-      "title": "Introducing NVIDIA Ising",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-04-14T14:16:34Z",
-      "description": "Introducing NVIDIA Ising, the world’s first open AI models to accelerate the path to useful quantum computers.\n\nResearchers and enterprises can now use AI-powered workflows for scalable, high-performance quantum systems with quantum processor calibration capabilities and quantum error-correction decoding.\n\nLearn more: https://nvda.ws/4cJseKU",
-      "duration": "PT45S",
-      "view_count": 7330,
-      "like_count": 280,
-      "comment_count": 8,
-      "url": "https://www.youtube.com/watch?v=6DRvTQhfauc"
-    },
-    {
-      "id": "z978rGwiW6E",
-      "title": "AI for Quantum: NVIDIA Ising Accelerates Useful Quantum Computing",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-04-14T14:03:51Z",
-      "description": "Discover AI for quantum with NVIDIA Ising—the first open source AI model family built to accelerate the path to useful quantum computing.\n\nIn this video, learn how accelerated quantum supercomputers could unlock breakthroughs in drug discovery, materials science, and optimization, and why getting there requires advanced qubit hardware, accelerated computing, and purpose-built AI.\n\nNVIDIA Ising introduces open models designed for key quantum computing workloads, including:\n\nQuantum calibration\nQuantum error decoding\n\nLearn more about how NVIDIA is bringing AI and quantum computing together to power the next era of discovery: https://nvda.ws/47SXJj5",
-      "duration": "PT2M",
-      "view_count": 21040,
-      "like_count": 708,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=z978rGwiW6E"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-15T17:35:59Z",
+    "generated_at": "2026-04-16T06:16:10Z",
     "count": 5
   }
 }

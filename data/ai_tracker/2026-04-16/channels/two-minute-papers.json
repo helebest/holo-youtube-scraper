@@ -20,9 +20,9 @@
       "published_at": "2026-04-14T14:50:00Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/claude-mythos-preview-system-card\n\nLinks and sources:\nhttps://debugml.github.io/cheating-agents/\nhttps://x.com/bstnxbt/status/2042967285715865685\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n#anthropic #mythos",
       "duration": "PT9M31S",
-      "view_count": 86699,
-      "like_count": 4950,
-      "comment_count": 484,
+      "view_count": 114393,
+      "like_count": 5851,
+      "comment_count": 553,
       "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-04-11T16:23:48Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://dreamdojo-world.github.io/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#NVIDIA",
       "duration": "PT9M9S",
-      "view_count": 48451,
-      "like_count": 2701,
-      "comment_count": 193,
+      "view_count": 48966,
+      "like_count": 2716,
+      "comment_count": 194,
       "url": "https://www.youtube.com/watch?v=mFSFvKquXwI"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-04-07T17:38:09Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The #NVIDIA paper on Nemotron 3 Super is available here:\nhttps://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf\nhttps://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT8M11S",
-      "view_count": 176903,
-      "like_count": 10580,
-      "comment_count": 881,
+      "view_count": 177213,
+      "like_count": 10588,
+      "comment_count": 882,
       "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-04-01T14:21:33Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The TurboQuant paper is available here:\nhttps://arxiv.org/abs/2504.19874\n\nReproductions: \nhttps://github.com/tonbistudio/turboquant-pytorch\nhttps://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1s73yby/implemented_turboquant_in_python_over_weekend/\nhttps://x.com/AlicanKiraz0/status/2038245538865275274\nI'll note that I have found several reproductions and benchmarks with all kinds of results, so take each of these as just one data point, not definitive yet (thanks for the feedback Alon Torres). Some later tests even better at KV-cache compression!\n\nKV-cache source: https://huggingface.co/blog/not-lain/kv-caching\n\nReviews and criticisms of the paper:\nhttps://openreview.net/forum?id=tO3ASKZlok\nhttps://x.com/gaoj0017/status/2037532673812443214\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT8M34S",
-      "view_count": 162176,
-      "like_count": 10362,
+      "view_count": 162415,
+      "like_count": 10367,
       "comment_count": 980,
       "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-03-27T16:00:57Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.10177\n\nSource:\nhttps://www.youtube.com/watch?v=6evUpgCHtOQ\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT10M8S",
-      "view_count": 238118,
-      "like_count": 17748,
+      "view_count": 238269,
+      "like_count": 17749,
       "comment_count": 1620,
       "url": "https://www.youtube.com/watch?v=Io_GqmbNBbY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-15T17:35:57Z",
+    "generated_at": "2026-04-16T06:16:08Z",
     "count": 5
   }
 }
