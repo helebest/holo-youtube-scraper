@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-17",
+  "result": [
+    {
+      "id": "Lm7-yFZ5fZQ",
+      "title": "Codex for (almost) everything",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-16T17:12:34Z",
+      "description": "Codex can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks.",
+      "duration": "PT1M40S",
+      "view_count": 2392,
+      "like_count": 230,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ"
+    },
+    {
+      "id": "CPq1V7sH38I",
+      "title": "Bala Vs Waterfall | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-15T17:34:29Z",
+      "description": "Fix it like a pro with ChatGPT\n\nDirector : Abhinav Pratiman\nDOP : Tassaduq Hussain\nProduction House : Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 2523,
+      "like_count": 58,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I"
+    },
+    {
+      "id": "H104L-steDs",
+      "title": "What Codex Unlocks for Wasmer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-14T14:55:56Z",
+      "description": "We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\" \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\n#shotsvideo #codex #openaicodex \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT19S",
+      "view_count": 5762,
+      "like_count": 75,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=H104L-steDs"
+    },
+    {
+      "id": "zGT32tk7U7g",
+      "title": "What Codex Unlocks for Wasmer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-14T14:52:41Z",
+      "description": "\"We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\"  \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n🚀 It's been a game changer. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M2S",
+      "view_count": 6754,
+      "like_count": 179,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=zGT32tk7U7g"
+    },
+    {
+      "id": "flweA_I-VKE",
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-10T17:30:00Z",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things. \n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Ashe Magalhaes, founder of Hearth AI. Ashe talks about moving fast with Codex, finding beauty in tools, and gives a keen look into her agentic personal operating systems that enable her to feel more present, connected, and intentional.\n\nChapters:\n00:00 Intro\n00:10 Early agents and Hearth AI\n05:43 AI and human connection\n08:44 Build in public\n12:17 Ashe’s agentic workflow",
+      "duration": "PT33M39S",
+      "view_count": 8667,
+      "like_count": 223,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=flweA_I-VKE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-16T17:47:52Z",
+    "count": 5
+  }
+}

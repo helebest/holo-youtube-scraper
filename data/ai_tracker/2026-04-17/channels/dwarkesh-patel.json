@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-17",
+  "result": [
+    {
+      "id": "u3SY8nvjhQA",
+      "title": "Jensen Huang Fires Back on China Chip Ban",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-15T23:34:03Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 238495,
+      "like_count": 5978,
+      "comment_count": 784,
+      "url": "https://www.youtube.com/watch?v=u3SY8nvjhQA"
+    },
+    {
+      "id": "Hrbq66XqtCo",
+      "title": "Jensen Huang – Will Nvidia’s moat persist?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-15T16:42:32Z",
+      "description": "I asked Jensen about TPU competition, Nvidia’s lock on the ever more bottlenecked supply chain needed to make advanced chips, whether we should be selling AI chips to China, why Nvidia doesn’t just become a hyperscaler, how it makes its investments, and much more. Enjoy!\n\n+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/jensen-huang\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/jensen-huang-tpu-competition-why-we-should-sell-chips/id1516093381?i=1000761582962\n* Spotify: https://open.spotify.com/episode/1viBRy6dQdlSw0OdFvogXB?si=bc2cdbd467ed4ee3\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Crusoe's cloud runs on state-of-the-art Blackwell GPUs, with Vera Rubin deployment scheduled for later this year. But hardware is only part of the story—for inference, Crusoe's MemoryAlloy tech implements a cluster-wide KV cache, delivering up to 10x faster TTFT and 5x better throughput than vLLM. Learn more at https://crusoe.ai/dwarkesh\n\n- Cursor helped me build an AI co-researcher over the course of a weekend. Now I have an AI agent that I can collaborate with in Google Docs via inline comment threads! And while other agentic coding tools feel like a total black-box, Cursor let me stay on top of the full implementation. You can try my co-researcher out at https://github.com/dwarkeshsp/ai_coworker, or get started on your own Cursor project today at https://cursor.com/dwarkesh\n\n- Jane Street spent ~20,000 GPU hours training backdoors into 3 different language models, then challenged my audience to find the triggers. They received some clever solutions—like comparing the base and fine-tuned versions and extrapolating any differences to reveal the hidden backdoor—but no one was able to solve all 3. So if open problems like this excite you, Jane Street is hiring. Learn more at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Is Nvidia’s biggest moat its grip on scarce supply chains?\n00:16:25 – Will TPUs break Nvidia’s hold on AI compute?\n00:41:06 – Why doesn’t Nvidia become a hyperscaler?\n00:57:36 – Should we be selling AI chips to China?\n01:35:06 – Why doesn’t Nvidia make multiple different chip architectures?",
+      "duration": "PT1H43M13S",
+      "view_count": 180136,
+      "like_count": 5106,
+      "comment_count": 1200,
+      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo"
+    },
+    {
+      "id": "oBj9GdhAGrg",
+      "title": "Why Censorship Always Misses What Actually Matters - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-14T21:27:31Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 76308,
+      "like_count": 2878,
+      "comment_count": 83,
+      "url": "https://www.youtube.com/watch?v=oBj9GdhAGrg"
+    },
+    {
+      "id": "oNPcwszl6KA",
+      "title": "Why It Took Centuries to Invent Science - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-13T18:28:58Z",
+      "description": "",
+      "duration": "PT1M17S",
+      "view_count": 83784,
+      "like_count": 3934,
+      "comment_count": 80,
+      "url": "https://www.youtube.com/watch?v=oNPcwszl6KA"
+    },
+    {
+      "id": "EHoOowJDIrg",
+      "title": "How Machiavelli Became a Diplomat at 29 - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-12T20:16:18Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 98779,
+      "like_count": 2686,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=EHoOowJDIrg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-16T17:47:47Z",
+    "count": 5
+  }
+}
