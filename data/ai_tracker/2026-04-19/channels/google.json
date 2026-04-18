@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-19",
+  "result": [
+    {
+      "id": "XO8oJo1C5zc",
+      "title": "What does it take to hit the big shot? | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T16:03:20Z",
+      "description": "The game is different during the NBA Playoffs, and so are the questions. Use Google Search to break down any part of the game, from analyzing a game-winner to building your own training plan.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 19675,
+      "like_count": 92,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=XO8oJo1C5zc"
+    },
+    {
+      "id": "-wTJmMLIR64",
+      "title": "It’s game time 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T13:02:28Z",
+      "description": "The NBA Playoffs are on 🔥 Keep up with the action on Google",
+      "duration": "PT23S",
+      "view_count": 5701,
+      "like_count": 132,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=-wTJmMLIR64"
+    },
+    {
+      "id": "SWBKAaBWEI4",
+      "title": "Could Steph Curry win on an elastic court? 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-04-17T19:12:29Z",
+      "description": "Have a wild matchup in mind? Use Search with AI Mode to run your own simulations and see who would win.",
+      "duration": "PT29S",
+      "view_count": 8018,
+      "like_count": 221,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=SWBKAaBWEI4"
+    },
+    {
+      "id": "WBh_fTA5EMk",
+      "title": "3 Incredible #NanoBanana Community Builds",
+      "channel_title": "Google",
+      "published_at": "2026-04-17T16:38:37Z",
+      "description": "From travel and home renovations to game design—check out what the community is creating using Nano Banana. Share what you’re working on in the comments. \n\n#GoogleGemini #BuildWithGemini #AIGameDesign",
+      "duration": "PT1M9S",
+      "view_count": 9890,
+      "like_count": 596,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=WBh_fTA5EMk"
+    },
+    {
+      "id": "8edllCgkFfc",
+      "title": "So you’re saying there’s a chance?",
+      "channel_title": "Google",
+      "published_at": "2026-04-16T22:43:37Z",
+      "description": "The math says 😬 The heart says @stephcurry. We’ll take those odds 🏀",
+      "duration": "PT6S",
+      "view_count": 19303,
+      "like_count": 309,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=8edllCgkFfc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-18T17:01:08Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-19",
+  "result": [
+    {
+      "id": "UZyH0nx5zgI",
+      "title": "Episode 16: Building AI for Life Sciences",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-16T19:04:11Z",
+      "description": "What does it take to build AI systems that can actually help scientists? Research lead Joy Jiao and product lead Yunyun Wang discuss how OpenAI is developing models for life sciences and what responsible deployment means in a field with real biosecurity stakes. They explore how AI is already improving research workflows and where it could lead in drug discovery and more autonomous labs — including why a future with less pipetting sounds pretty good to most scientists.\n\nChapters\n\n0:39 Introducing the Life Sciences model series\n3:47 Joy’s path into life sciences \n5:00 Autonomous lab with Ginkgo Bioworks\n7:27 Yunyun’s path into life sciences\n8:12 OpenAI’s life sciences work\n9:48 Biorisk, access, and safeguards\n15:43 What models can do in the lab\n17:51 Building scientific infrastructure\n20:14 Why compute matters for science\n24:54 Where are we in 6-12 months?\n29:51 Scientific adoption and skepticism\n33:17 Advice for students and researchers\n40:27 Where are we in 10 years?",
+      "duration": "PT44M26S",
+      "view_count": 8322,
+      "like_count": 274,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=UZyH0nx5zgI"
+    },
+    {
+      "id": "Lm7-yFZ5fZQ",
+      "title": "Codex for (almost) everything",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-16T17:12:34Z",
+      "description": "Codex can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks.",
+      "duration": "PT1M40S",
+      "view_count": 72696,
+      "like_count": 2446,
+      "comment_count": 252,
+      "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ"
+    },
+    {
+      "id": "CPq1V7sH38I",
+      "title": "Bala Vs Waterfall | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-15T17:34:29Z",
+      "description": "Fix it like a pro with ChatGPT\n\nDirector : Abhinav Pratiman\nDOP : Tassaduq Hussain\nProduction House : Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 4831,
+      "like_count": 80,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I"
+    },
+    {
+      "id": "H104L-steDs",
+      "title": "What Codex Unlocks for Wasmer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-14T14:55:56Z",
+      "description": "We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\" \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\n#shotsvideo #codex #openaicodex \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT19S",
+      "view_count": 341831,
+      "like_count": 103,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=H104L-steDs"
+    },
+    {
+      "id": "zGT32tk7U7g",
+      "title": "What Codex Unlocks for Wasmer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-14T14:52:41Z",
+      "description": "\"We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\"  \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n🚀 It's been a game changer. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M2S",
+      "view_count": 7737,
+      "like_count": 192,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=zGT32tk7U7g"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-18T17:01:07Z",
+    "count": 5
+  }
+}
