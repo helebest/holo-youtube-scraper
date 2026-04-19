@@ -14,15 +14,27 @@
   "date": "2026-04-19",
   "result": [
     {
+      "id": "rqNWGjgTg2w",
+      "title": "Why Nvidia Invests Billions in Companies That May Fail - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-18T18:02:19Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 138588,
+      "like_count": 2032,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
+    },
+    {
       "id": "wvzJHVmvEwU",
       "title": "The Idea That China Can't Have AI Chips Is Nonsense - Jensen Huang",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-18T00:05:18Z",
       "description": "",
       "duration": "PT1M59S",
-      "view_count": 233061,
-      "like_count": 4115,
-      "comment_count": 521,
+      "view_count": 331419,
+      "like_count": 5633,
+      "comment_count": 735,
       "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-17T19:00:14Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 80670,
-      "like_count": 1082,
-      "comment_count": 108,
+      "view_count": 100585,
+      "like_count": 1304,
+      "comment_count": 125,
       "url": "https://www.youtube.com/watch?v=kOtam_vvnmY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-17T01:50:55Z",
       "description": "",
       "duration": "PT2M58S",
-      "view_count": 702825,
-      "like_count": 10300,
-      "comment_count": 1585,
+      "view_count": 798611,
+      "like_count": 11702,
+      "comment_count": 1802,
       "url": "https://www.youtube.com/watch?v=u7Xqu65Gh58"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-15T23:34:03Z",
       "description": "",
       "duration": "PT2M12S",
-      "view_count": 1722869,
-      "like_count": 27777,
-      "comment_count": 2829,
+      "view_count": 1894905,
+      "like_count": 30459,
+      "comment_count": 3151,
       "url": "https://www.youtube.com/watch?v=u3SY8nvjhQA"
-    },
-    {
-      "id": "Hrbq66XqtCo",
-      "title": "Jensen Huang – Will Nvidia’s moat persist?",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-15T16:42:32Z",
-      "description": "I asked Jensen about TPU competition, Nvidia’s lock on the ever more bottlenecked supply chain needed to make advanced chips, whether we should be selling AI chips to China, why Nvidia doesn’t just become a hyperscaler, how it makes its investments, and much more. Enjoy!\n\n+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/jensen-huang\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/jensen-huang-tpu-competition-why-we-should-sell-chips/id1516093381?i=1000761582962\n* Spotify: https://open.spotify.com/episode/1viBRy6dQdlSw0OdFvogXB?si=bc2cdbd467ed4ee3\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Crusoe's cloud runs on state-of-the-art Blackwell GPUs, with Vera Rubin deployment scheduled for later this year. But hardware is only part of the story—for inference, Crusoe's MemoryAlloy tech implements a cluster-wide KV cache, delivering up to 10x faster TTFT and 5x better throughput than vLLM. Learn more at https://crusoe.ai/dwarkesh\n\n- Cursor helped me build an AI co-researcher over the course of a weekend. Now I have an AI agent that I can collaborate with in Google Docs via inline comment threads! And while other agentic coding tools feel like a total black-box, Cursor let me stay on top of the full implementation. You can try my co-researcher out at https://github.com/dwarkeshsp/ai_coworker, or get started on your own Cursor project today at https://cursor.com/dwarkesh\n\n- Jane Street spent ~20,000 GPU hours training backdoors into 3 different language models, then challenged my audience to find the triggers. They received some clever solutions—like comparing the base and fine-tuned versions and extrapolating any differences to reveal the hidden backdoor—but no one was able to solve all 3. So if open problems like this excite you, Jane Street is hiring. Learn more at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Is Nvidia’s biggest moat its grip on scarce supply chains?\n00:16:25 – Will TPUs break Nvidia’s hold on AI compute?\n00:41:06 – Why doesn’t Nvidia become a hyperscaler?\n00:57:36 – Should we be selling AI chips to China?\n01:35:06 – Why doesn’t Nvidia make multiple different chip architectures?",
-      "duration": "PT1H43M13S",
-      "view_count": 416894,
-      "like_count": 10135,
-      "comment_count": 2333,
-      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-18T17:01:03Z",
+    "generated_at": "2026-04-19T06:11:42Z",
     "count": 5
   }
 }
