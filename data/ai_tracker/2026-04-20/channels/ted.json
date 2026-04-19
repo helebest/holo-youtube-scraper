@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-04-20",
+  "result": [
+    {
+      "id": "8ZIeAVrgs4o",
+      "title": "I Taught Rats to Drive. They Taught Me to Enjoy the Ride | Kelly Lambert | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-19T15:00:23Z",
+      "description": "What can happy rats teach us about human joy? Behavioral neuroscientist Kelly Lambert describes how her team trained rats to drive tiny cars to earn treats — and noticed something surprising about how effort and anticipation affect the brain. The experiment opens new questions about how reward, agency and \"behaviorceuticals\" might help build resilience and support mental health. (Recorded at TEDxRVA Youth on November 9, 2025\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/kellylambert\n\nhttps://youtu.be/8ZIeAVrgs4o\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Neuroscience",
+      "duration": "PT14M1S",
+      "view_count": 1693,
+      "like_count": 140,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=8ZIeAVrgs4o"
+    },
+    {
+      "id": "hd8H5A1WxM0",
+      "title": "Even if you’re not a gardener, its time to get your hands a little dirty #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-04-18T19:00:28Z",
+      "description": "Many gardeners work hard to maintain clean, tidy environments ... which is the exact opposite of what wildlife wants, says ecological horticulturist Rebecca McMackin. She shows the beauty of letting your garden run wild, surveying the success she's had increasing biodiversity even in the middle of New York City — and offers tips for cultivating a garden that can be home to birds, bees, butterflies and more.",
+      "duration": "PT1M31S",
+      "view_count": 15585,
+      "like_count": 784,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=hd8H5A1WxM0"
+    },
+    {
+      "id": "7rzYDM6vMtI",
+      "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-18T15:00:11Z",
+      "description": "OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, build and create. \"The lobster is loose, and it's not going back into the tank,\" he says. (Followed by a brief Q&A with TED Chairman Chris Anderson) (Recorded at TED2026 on April 16, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/petersteinberger\n\nhttps://youtu.be/7rzYDM6vMtI\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Technology",
+      "duration": "PT17M36S",
+      "view_count": 72462,
+      "like_count": 2779,
+      "comment_count": 119,
+      "url": "https://www.youtube.com/watch?v=7rzYDM6vMtI"
+    },
+    {
+      "id": "N1X7vMp9DZ4",
+      "title": "The World's First AI TED Talk",
+      "channel_title": "TED",
+      "published_at": "2026-04-17T21:06:30Z",
+      "description": "ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that AI storyteller Ari Kuschnir and artist Schuyler Brown then brought to life. The result combines the latest AI tools with the deeply human craft of storytelling in a stirring reminder of what makes us special.\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nhttps://youtu.be/N1X7vMp9DZ4\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #ai",
+      "duration": "PT3M28S",
+      "view_count": 55291,
+      "like_count": 1866,
+      "comment_count": 766,
+      "url": "https://www.youtube.com/watch?v=N1X7vMp9DZ4"
+    },
+    {
+      "id": "9g6t1ql67ic",
+      "title": "A Plan to Stop AI from Automating Our Decline | Gina Raimondo | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-17T15:00:28Z",
+      "description": "The United States is on track to win the AI race — and hollow itself out in the process, says Gina Raimondo, former Governor of Rhode Island and US Secretary of Commerce. In this unflinching look at the threat of AI-induced economic disruption and social unrest, she offers a concrete blueprint to prepare workers for what’s coming next. \"AI is a 100-year technology and needs a 100-year response,\" she says. Is America up to the challenge? (Recorded at TED2026 on April 14, 2026\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/ginaraimondo\n\nhttps://youtu.be/9g6t1ql67ic\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT15M52S",
+      "view_count": 11660,
+      "like_count": 308,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=9g6t1ql67ic"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-19T17:00:32Z",
+    "count": 5
+  }
+}

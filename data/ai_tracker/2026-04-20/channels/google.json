@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-20",
+  "result": [
+    {
+      "id": "6jELhHO1VNA",
+      "title": "Why is Luka’s stepback so impossible to guard? | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T20:57:27Z",
+      "description": "Luka’s stepback hits different 😮‍💨 With Google search, find out what makes it so hard to guard.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT16S",
+      "view_count": 957681,
+      "like_count": 33,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=6jELhHO1VNA"
+    },
+    {
+      "id": "-Ll1TaIDHXU",
+      "title": "Build me a plan to get better at 3s | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T19:02:02Z",
+      "description": "Ready to level up? Google Search can help you build a customized training plan to perfect your three-pointer or any part of your game 🏀\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT16S",
+      "view_count": 1163432,
+      "like_count": 23,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=-Ll1TaIDHXU"
+    },
+    {
+      "id": "XO8oJo1C5zc",
+      "title": "What does it take to hit the big shot? | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T16:03:20Z",
+      "description": "The game is different during the NBA Playoffs, and so are the questions. Use Google Search to break down any part of the game, from analyzing a game-winner to building your own training plan.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 313127,
+      "like_count": 230,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=XO8oJo1C5zc"
+    },
+    {
+      "id": "-wTJmMLIR64",
+      "title": "It’s game time 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T13:02:28Z",
+      "description": "The NBA Playoffs are on 🔥 Keep up with the action on Google",
+      "duration": "PT23S",
+      "view_count": 15492,
+      "like_count": 383,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=-wTJmMLIR64"
+    },
+    {
+      "id": "SWBKAaBWEI4",
+      "title": "Could Steph Curry win on an elastic court? 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-04-17T19:12:29Z",
+      "description": "Have a wild matchup in mind? Use Search with AI Mode to run your own simulations and see who would win.",
+      "duration": "PT29S",
+      "view_count": 12486,
+      "like_count": 327,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=SWBKAaBWEI4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-19T17:00:48Z",
+    "count": 5
+  }
+}

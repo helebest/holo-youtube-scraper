@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-20",
+  "result": [
+    {
+      "id": "rqNWGjgTg2w",
+      "title": "Why Nvidia Invests Billions in Companies That May Fail - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-18T18:02:19Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 203535,
+      "like_count": 2776,
+      "comment_count": 109,
+      "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
+    },
+    {
+      "id": "wvzJHVmvEwU",
+      "title": "The Idea That China Can't Have AI Chips Is Nonsense - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-18T00:05:18Z",
+      "description": "",
+      "duration": "PT1M59S",
+      "view_count": 364552,
+      "like_count": 6316,
+      "comment_count": 861,
+      "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
+    },
+    {
+      "id": "kOtam_vvnmY",
+      "title": "AI Doomers Were Wrong About Radiology - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-17T19:00:14Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 108221,
+      "like_count": 1412,
+      "comment_count": 140,
+      "url": "https://www.youtube.com/watch?v=kOtam_vvnmY"
+    },
+    {
+      "id": "u7Xqu65Gh58",
+      "title": "Jensen Huang Makes the Case for Selling Chips to China",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-17T01:50:55Z",
+      "description": "",
+      "duration": "PT2M58S",
+      "view_count": 847977,
+      "like_count": 12542,
+      "comment_count": 1978,
+      "url": "https://www.youtube.com/watch?v=u7Xqu65Gh58"
+    },
+    {
+      "id": "u3SY8nvjhQA",
+      "title": "Jensen Huang Fires Back on China Chip Ban",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-15T23:34:03Z",
+      "description": "",
+      "duration": "PT2M12S",
+      "view_count": 1962680,
+      "like_count": 31710,
+      "comment_count": 3373,
+      "url": "https://www.youtube.com/watch?v=u3SY8nvjhQA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-19T17:00:31Z",
+    "count": 5
+  }
+}
