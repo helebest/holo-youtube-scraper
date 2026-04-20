@@ -14,15 +14,27 @@
   "date": "2026-04-20",
   "result": [
     {
+      "id": "K7Az689vpYY",
+      "title": "Francis Bacon's 3 Types of Thinkers - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-19T20:48:10Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 17554,
+      "like_count": 1059,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
+    },
+    {
       "id": "rqNWGjgTg2w",
       "title": "Why Nvidia Invests Billions in Companies That May Fail - Jensen Huang",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-18T18:02:19Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 203535,
-      "like_count": 2776,
-      "comment_count": 109,
+      "view_count": 233780,
+      "like_count": 3227,
+      "comment_count": 119,
       "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-18T00:05:18Z",
       "description": "",
       "duration": "PT1M59S",
-      "view_count": 364552,
-      "like_count": 6316,
-      "comment_count": 861,
+      "view_count": 396329,
+      "like_count": 7060,
+      "comment_count": 977,
       "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-17T19:00:14Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 108221,
-      "like_count": 1412,
-      "comment_count": 140,
+      "view_count": 115169,
+      "like_count": 1502,
+      "comment_count": 151,
       "url": "https://www.youtube.com/watch?v=kOtam_vvnmY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-17T01:50:55Z",
       "description": "",
       "duration": "PT2M58S",
-      "view_count": 847977,
-      "like_count": 12542,
-      "comment_count": 1978,
+      "view_count": 895888,
+      "like_count": 13282,
+      "comment_count": 2097,
       "url": "https://www.youtube.com/watch?v=u7Xqu65Gh58"
-    },
-    {
-      "id": "u3SY8nvjhQA",
-      "title": "Jensen Huang Fires Back on China Chip Ban",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-15T23:34:03Z",
-      "description": "",
-      "duration": "PT2M12S",
-      "view_count": 1962680,
-      "like_count": 31710,
-      "comment_count": 3373,
-      "url": "https://www.youtube.com/watch?v=u3SY8nvjhQA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-19T17:00:31Z",
+    "generated_at": "2026-04-20T06:29:37Z",
     "count": 5
   }
 }

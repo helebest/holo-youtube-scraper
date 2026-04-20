@@ -20,8 +20,8 @@
       "published_at": "2026-04-16T19:04:11Z",
       "description": "What does it take to build AI systems that can actually help scientists? Research lead Joy Jiao and product lead Yunyun Wang discuss how OpenAI is developing models for life sciences and what responsible deployment means in a field with real biosecurity stakes. They explore how AI is already improving research workflows and where it could lead in drug discovery and more autonomous labs — including why a future with less pipetting sounds pretty good to most scientists.\n\nChapters\n\n0:39 Introducing the Life Sciences model series\n3:47 Joy’s path into life sciences \n5:00 Autonomous lab with Ginkgo Bioworks\n7:27 Yunyun’s path into life sciences\n8:12 OpenAI’s life sciences work\n9:48 Biorisk, access, and safeguards\n15:43 What models can do in the lab\n17:51 Building scientific infrastructure\n20:14 Why compute matters for science\n24:54 Where are we in 6-12 months?\n29:51 Scientific adoption and skepticism\n33:17 Advice for students and researchers\n40:27 Where are we in 10 years?",
       "duration": "PT44M26S",
-      "view_count": 9697,
-      "like_count": 303,
+      "view_count": 10229,
+      "like_count": 313,
       "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=UZyH0nx5zgI"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-04-16T17:12:34Z",
       "description": "Codex can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks.",
       "duration": "PT1M40S",
-      "view_count": 81311,
-      "like_count": 2602,
+      "view_count": 83360,
+      "like_count": 2651,
       "comment_count": 266,
       "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-04-15T17:34:29Z",
       "description": "Fix it like a pro with ChatGPT\n\nDirector : Abhinav Pratiman\nDOP : Tassaduq Hussain\nProduction House : Early Man Film\nCreative agency: Hue & Why",
       "duration": "PT30S",
-      "view_count": 5381,
-      "like_count": 86,
-      "comment_count": 22,
+      "view_count": 5639,
+      "like_count": 87,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=CPq1V7sH38I"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-04-14T14:55:56Z",
       "description": "We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\" \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\n#shotsvideo #codex #openaicodex \n\nLearn more: https://openai.com/codex/",
       "duration": "PT19S",
-      "view_count": 651737,
-      "like_count": 123,
+      "view_count": 907665,
+      "like_count": 133,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=H104L-steDs"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-04-14T14:52:41Z",
       "description": "\"We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year.\"  \n\nSyrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. \n\n🚀 It's been a game changer. \n\n\"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go.\" \n\nLearn more: https://openai.com/codex/",
       "duration": "PT1M2S",
-      "view_count": 7920,
-      "like_count": 195,
+      "view_count": 8022,
+      "like_count": 197,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=zGT32tk7U7g"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-19T17:00:45Z",
+    "generated_at": "2026-04-20T06:29:42Z",
     "count": 5
   }
 }

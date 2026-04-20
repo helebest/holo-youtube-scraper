@@ -20,9 +20,9 @@
       "published_at": "2026-04-17T19:16:16Z",
       "description": "\"AI is an incredible technology that everybody should know how to use.\" — Jensen Huang\n\nAcross industries, AI is elevating what all of us are capable of.",
       "duration": "PT1M18S",
-      "view_count": 8122,
-      "like_count": 384,
-      "comment_count": 21,
+      "view_count": 9049,
+      "like_count": 426,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=AfAeFamEpXI"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-04-17T18:15:37Z",
       "description": "LEM Surgical’s Dynamis system is the first FDA‑cleared humanoid surgical platform for spine surgery. Using NVIDIA Isaac for Healthcare and Cosmos Transfer to train the autonomous arms, Dynamis is powered by NVIDIA Jetson AGX Thor™ and Holoscan and lets surgeons maintain precise tool tracking even when line‑of‑sight is blocked. This integrated, navigation‑based robotic platform supports thoracic, lumbar, and sacral approaches, using AI‑augmented robotics to close hard‑tissue gaps and improve clinical outcomes.",
       "duration": "PT1M1S",
-      "view_count": 13282,
-      "like_count": 516,
+      "view_count": 14163,
+      "like_count": 528,
       "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=yec1FwfBlWQ"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-04-16T20:16:27Z",
       "description": "AI will create new kinds of work, new industries, and new ways to build.\n\nLast week at Stanford, our CEO Jensen Huang joined Rep. Ro Khanna for a conversation on AI, jobs and the long-term opportunity ahead.",
       "duration": "PT16S",
-      "view_count": 20279,
-      "like_count": 255,
+      "view_count": 20838,
+      "like_count": 263,
       "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=fUHoGZNj0Y0"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-04-15T23:45:07Z",
       "description": "Today, AI data centers are token factories. \n\nAI infrastructure TCO is often judged by compute cost and FLOPS per $. But these are just inputs, where cost per token is what is actually delivered. \n\nConsider the same NVIDIA Blackwell to Hopper generational gains measured three ways:\n\n• FLOPS per dollar: ~2x improvement\n• Cost per million tokens: ~35x lower\n• Tokens per second per megawatt: ~50x higher\n\nTraditional metrics such as FLOPs per dollar miss the value.\n\nCost per token captures end-to-end performance across GPUs, CPUs, networking, software, and ecosystem making it the key driver of real profitability and scalability in AI.\n\nNVIDIA delivers the lowest cost per token and highest performance per watt, maximizing AI factory revenue.\n\nWatch the full video featuring Dr. Gerro Prinsloo, Nader Khalil (NVIDIA), and Carter Abdallah (NVIDIA) to learn more.\n\nhttps://www.linkedin.com/in/gerro-prinsloo-887a8b55/\n\nhttps://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
       "duration": "PT36M39S",
-      "view_count": 3916,
-      "like_count": 134,
-      "comment_count": 20,
+      "view_count": 4153,
+      "like_count": 135,
+      "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=FS1l8iN7PVo"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-04-15T19:00:11Z",
       "description": "“The ChatGPT moment for self-driving cars has arrived.”\n\nAt GTC, NVIDIA revealed breakthroughs in autonomous driving—from reasoning AI with Alpamayo to robotaxi-ready platforms with Hyperion—alongside partners including Uber.\n\nLearn more about the announcements featured in this video:\n\n• Press Release: BYD, Nissan & More Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles 👉 Read the announcement: https://nvidianews.nvidia.com/news/drive-hyperion-level-4\n\n• NVIDIA to Launch L4 Software-Driven Robotaxis on Uber Across 28 Cities by 2028 https://investor.uber.com/news-events/news/press-release-details/2026/NVIDIA-to-Launch-L4-Software-Driven-Robotaxis-on-Uber-Across-28-Cities-by-2028/default.aspx \n\n• NVIDIA Alpamayo In-Car Reasoning: AI That Drives, Explains Decisions, and Responds to Passengers 👉 Watch on YouTube:https://www.youtube.com/watch?v=5EEYgxoT8kc\n\nWatch the GTC San Jose automotive wrap-up to learn how NVIDIA is shaping the next generation of autonomous vehicles.",
       "duration": "PT1M23S",
-      "view_count": 4978,
-      "like_count": 178,
+      "view_count": 5050,
+      "like_count": 179,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=F5vE2_DBIY0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-19T17:00:42Z",
+    "generated_at": "2026-04-20T06:29:41Z",
     "count": 5
   }
 }
