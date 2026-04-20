@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "AI Explained",
+    "tier": "news_tools",
+    "handle": "@aiexplained-official",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
+  },
+  "date": "2026-04-21",
+  "result": [
+    {
+      "id": "QVJcdfkRpH8",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-17T18:07:46Z",
+      "description": "Claude Opus 4.7 just dropped, but behind every headline lies a deeper story. From a bonanza of benchmarks, to seeing the fruits of one of the biggest mega-projects in US history, to sneaky Mythos disclaimers, to Anthropic admitting compute restraints and, forcing lower capability of Opus 4.7. Where the new model falls behind Gemini but ahead of GPT 5.4, plus why some users are furious at Anthropic. Ending with a 9-year animus, that still affects AI today…\n\nhttps://assemblyai.com/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:58 - Benchmarks\n05:21 - Market Share + Compute Problems\n08:12 - Mythos Exclusives\n12:56 - User Frustration + Claude Code Updates\n14:03 - Brockman Amodei Rivalry\n17:40 - OpenAI vs Anthropic Approach to Code\n\nClaude 4.7 Opus Release Notes: https://www.anthropic.com/news/claude-opus-4-7\nvs Mythos: https://pbs.twimg.com/media/HGCGugrXUAAKcHp?format=jpg&name=medium\n\n232-page System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nARC-AGI 2: https://x.com/arcprize/status/2044834615417053305/photo/1\n\nParseBench: https://x.com/jerryjliu0/status/2044902620746363016/photo/1\n\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVidoc Security Replication: https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models\n\nBoris Cherny Settings: https://x.com/Hesamation/status/2043016923961577516/photo/2\n\nUser Frustration: https://x.com/RileyRalmuto/status/2044836116189069660\n\nVibeCode Bench: https://x.com/ValsAI/status/2044791415524471099/photo/1\n\nVerge Memo: https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic\n\n5.4 Cyber: ​​https://openai.com/index/scaling-trusted-access-for-cyber-defense/\n\nData Centers in Absolute $: https://x.com/finmoorhouse/status/2044933442236776794/photo/1\n\n…in % of GDP: https://pbs.twimg.com/media/HGEN8FGWQAAN7Np?format=jpg&name=4096x4096\n\nWSJ Exclusive: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde\n\nBrockman Interview: https://www.youtube.com/watch?v=J6vYvk7R190\n\n$1T Valuation: https://x.com/StefanFSchubert/status/2045039686997967082\n\nEmotions: https://www.patreon.com/c/aiexplained/posts\n\nhttps://lmcouncil.ai/benchmarks\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT19M41S",
+      "view_count": 74236,
+      "like_count": 2522,
+      "comment_count": 281,
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8"
+    },
+    {
+      "id": "txx6ec6MLNY",
+      "title": "Claude Mythos: Highlights from 244-page Release",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-08T17:39:20Z",
+      "description": "The model, the mythos, the legend. We have a new best AI model, but not all of us. How good is it, what does it’s new offensive capabilities mean? Why does it’s 244 page report card remind me of Her, and why did the creator of Claude Code call it ‘terrifying’. 30+ highlights sourced by reading the paper in full, old-school, no AI summary.\n\nhttps://80000hours.org/aiexplained\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:56 - Internal Release + Availability\n02:37 - General Capabilities\n05:12 - Self-improvement?\n06:15 - ‘Terrifying’ Landscape\n11:07 - Safety Decision\n13:22 - Coding\n14:49 - Alignment, Awareness\n19:52 - GUI for Agents/Claws + Hallucinations\n21:34 - …Emotions?\n25:29 - Her connection\n\n244-page System Card: https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\n\nProject Glasswing: https://www.anthropic.com/glasswing\nZero-Day Details: https://red.anthropic.com/2026/mythos-preview/\n\nMythos ‘terrifying’: https://x.com/bcherny/status/2041605852382351666\n\nNew Yorker Altman/Amodei: https://archive.fo/20260406100412/https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted\n\nAlignment Risk Update: https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf\n\nIn a Park: https://x.com/sleepinyourhat/status/2041584808514744742\n\n“Uhm” - https://x.com/thsottiaux/status/2041749947385815109\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT27M32S",
+      "view_count": 140155,
+      "like_count": 5548,
+      "comment_count": 522,
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY"
+    },
+    {
+      "id": "s4tptozUJ8Y",
+      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
+      "channel_title": "AI Explained",
+      "published_at": "2026-03-26T20:15:12Z",
+      "description": "First look at exclusive reports about OpenAI's new Spud model, and the model Anthropic think will stir governments to urgency, all in the context of the newly-launched ARC-AGI-3. What does the extreme difficulty of that benchmarks, and its quirky scoring metrics, mean for AI in 2026?\n\nhttps://assemblyai.com/aiexplained\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n00:55 - OpenAI Side Quests\n01:58 - Claude New Model Coming + Universal Equity?\n03:13 - ARC-AGI 3\n05:00 - Intentional or Unintentional Gaming?\n07:11 - But is it AGI Harbinger? No Harness\n09:41 - Not the First\n12:32 - Automated Researcher\n15:00 - Claw Caveat\n\nSpud: https://www.theinformation.com/articles/openai-ceo-shifts-responsibilities-preps-spud-ai-model?utm_campaign=Editorial&utm_content=Article&utm_medium=organic_social&utm_source=bluesky%2Cfacebook%2Clinkedin%2Cthreads%2Ctwitter&rc=sy0ihq\n\nFT: OpenAI Special Model: https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93d?syn-25a6b1a6=1\n\nJensen Huang: https://www.forbes.com/sites/antoniopequenoiv/2026/03/23/nvidias-jensen-huang-says-he-thinks-weve-achieved-agi/\n\nAxios Article: https://archive.fo/20260326100140/https://www.axios.com/2026/03/26/anthropic-pentagon-ai-deal#selection-827.0-829.257\n\nhttps://arcprize.org/arc-agi/3\n\nARC AGI 3 Paper: https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf\n\nNetHack Leaderboard: https://balrogai.com/\nPaper: https://ai.meta.com/research/publications/the-nethack-learning-environment/\nhttps://x.com/_rockt/status/2036864121585438995\n\nClaw Shells: https://x.com/DrJimFan/status/2036494601750716711\n\nOpenAI Automated Researcher: https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/\n\nPatreon Post: https://www.patreon.com/c/aiexplained/posts\n\nEng Jobs: https://x.com/lennysan/status/2036535460726767793\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT16M27S",
+      "view_count": 73094,
+      "like_count": 2643,
+      "comment_count": 427,
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y"
+    },
+    {
+      "id": "zizoDORjmlQ",
+      "title": "What the New ChatGPT 5.4 Means for the World",
+      "channel_title": "AI Explained",
+      "published_at": "2026-03-06T16:25:26Z",
+      "description": "Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or perhaps we are being distracted from other news. This video will give 9 crucial bits of context, not just on the GPT 5.4 drop but on the background to the meltdown between the Pentagon and Anthropic. What does this say about the state of AI progress, your job, and what is next.\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for 15% off paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:06: GPT 5.4 Breakdown\n05:06 - Closing the Loop\n06:35 - Spiky Performance\n10:31 - Advice\n11:32 - Less Encouraging Developments - Fired Like Dogs\n17:45 - But Used in Iran\n\n\nGPT 5.4: https://openai.com/index/introducing-gpt-5-4/\n\nHallucinations: https://artificialanalysis.ai/evaluations/omniscience\nInvestment Banking Bench: https://x.com/bradlightcap/status/2029684672343728452\nMove 37: https://x.com/nasqret/status/2029628846518010099\nSystem Card: https://deploymentsafety.openai.com/gpt-5-4-thinking/gpt-5-4-thinking.pdf\n\nPrediction Market Scandal: https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/\n\n\nGPT 5.3 Instant: https://openai.com/index/gpt-5-3-instant/\n\nGDPVal: https://openai.com/index/gdpval/\n\nClaude in Iran: https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign\n\n‘Like Dogs’: https://x.com/AndrewCurran_/status/2029605783311470679\n\nAltman leak: https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html\n\nOriginal 2024 Switch: https://archive.fo/20240116172526/https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans#selection-6173.83-6173.226\n\nAmodei Original Memo: https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement?rc=sy0ihq\nAnthropic Apology: https://www.anthropic.com/news/where-stand-department-war\nOpenAI Employee Reaction: https://x.com/tszzl/status/2029334980481212820\n\nDoD Suppler Risk: https://www.cnbc.com/amp/2026/03/05/anthropic-pentagon-ai-claude-iran.html\nAtlantic Exclusive: https://archive.fo/20260301152646/https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/#selection-941.61-941.212\nNo Negotiation: https://x.com/USWREMichael/status/2029754965778907493\n\n$20B Doubling: https://archive.ph/20260304111124/https://www.bloomberg.com/news/articles/2026-03-03/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud\n\nMarch 2022 Interview: https://www.youtube.com/watch?v=uAA6PZkek4A\n\nhttps://lmcouncil.ai/\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT21M52S",
+      "view_count": 91510,
+      "like_count": 3167,
+      "comment_count": 482,
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ"
+    },
+    {
+      "id": "Cru804JMjPI",
+      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
+      "channel_title": "AI Explained",
+      "published_at": "2026-02-27T14:57:29Z",
+      "description": "Will Anthropic be forced to make a version of Claude for war? And does a new paper expose the risks of Claude agents, in both OpenClaw and the field of war? Plus, 5 more twists in the story of the Pentagon versus Anthropic + some AI lab employees, and a petition that could change everything, or nothing...\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:44 - Deadline Day + Petition\n02:42 - Twist 1: Existing Deal\n03:26 - Twist 2: Existing Policy\n04:21 - Twist 3: Twin Threats\n05:54 - Twist 4: Interesting Objections\n11:32 - Twist 5: Anthropic’s Dropped Policy\n\n\nDario Statement: https://www.anthropic.com/news/statement-department-of-war\n\nGoogle/OpenAI Petition: https://notdivided.org/\n\nAxios on Amodei Rejection: https://www.axios.com/2026/02/26/anthropic-rejects-pentagon-ai-terms\n\nFT on US Threat: https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f\n\nPolitico on Latest: https://archive.ph/20260227013117/https://www.politico.com/news/2026/02/26/incoherent-hegseths-anthropic-ultimatum-confounds-ai-policymakers-00800135\n\nThe Verge on Current Deal: https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations\n\nAnthropic RSP change: https://www.anthropic.com/news/responsible-scaling-policy-v3\n\nTime Magazine on RSP: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\n\nAgent of Chaos Paper: https://x.com/NatalieShapira/status/2026062499599319526\n\nAI Agent Reliability Paper: https://arxiv.org/pdf/2602.16666\n\nMy Patreon Video: https://www.patreon.com/posts/real-mystery-ai-151647211\n\nPatreon Documentary: https://www.patreon.com/posts/our-new-age-of-133960279 \n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT13M40S",
+      "view_count": 41392,
+      "like_count": 1827,
+      "comment_count": 437,
+      "url": "https://www.youtube.com/watch?v=Cru804JMjPI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-20T17:33:04Z",
+    "count": 5
+  }
+}

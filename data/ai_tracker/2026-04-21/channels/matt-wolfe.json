@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-04-21",
+  "result": [
+    {
+      "id": "0L-OsXGIJnc",
+      "title": "Claude Opus 4.7 Is Insane At Coding",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-20T14:14:51Z",
+      "description": "The new king of coding has arrived: Claude Opus 4.7\n\nAnthropic just dropped their latest model, and the benchmarks tell a clear story about it's capabilities.\n\nI'll be using it myself from now on, but let me know in the comments which one you think is better for coding tasks: Opus 4.7, GPT-5.4, or Cursor?\n\n#Anthropic #ClaudeOpus #AInews #AI #coding",
+      "duration": "PT1M5S",
+      "view_count": 1504,
+      "like_count": 32,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=0L-OsXGIJnc"
+    },
+    {
+      "id": "ViJa2KJnO3M",
+      "title": "This Is NOT Investment Advice, But...",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-19T13:10:23Z",
+      "description": "Mandatory disclaimer that nothing I say in this video should be taken as investment advice 😅\n\n#ai #ainews #allbirds",
+      "duration": "PT58S",
+      "view_count": 3017,
+      "like_count": 69,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=ViJa2KJnO3M"
+    },
+    {
+      "id": "BLdY1fqy8FE",
+      "title": "Trying OpenAI's New \"Super App\"",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-18T13:17:37Z",
+      "description": "The biggest AI update this week isn't a new model, it's a new interface.\n\nThis week, pretty much every major AI company—OpenAI, Anthropic, and Google—rolled out major UI updates.\n\nBut the one that stood out most to me? OpenAI's Codex.\n\nIt's really starting to become an AI “super app.”\n\nHere’s what changed:\n💻 It can now control your computer (click, type, navigate)\n💡 Run tasks in the background while you keep working\n🏞️ Generate images directly inside the app\n🔨 Build apps → test them → and even use them for you\n\nFeels like we’re getting closer to that “one app that does everything” faster than expected.\n\nWould you use this \"super app\"? 👇\n\n#AI #Ainews #Codex #OpenAI #AiAgent",
+      "duration": "PT1M9S",
+      "view_count": 14322,
+      "like_count": 276,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=BLdY1fqy8FE"
+    },
+    {
+      "id": "bIrzOQtnp8w",
+      "title": "AI News: Huge Updates From Anthropic, OpenAI and Google",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-17T15:00:00Z",
+      "description": "Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed Inference and get started today at https://www.crusoe.ai/cloud/managed-inference?utm_source=mattwolfe&utm_medium=influencer&utm_campaign=bring_your_own_model_launch.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nCodex for Everything: https://openai.com/index/codex-for-almost-everything/\nClaude Code Desktop Redesign: https://claude.com/blog/claude-code-desktop-redesign\nPerplexity Personal Computer: https://www.perplexity.ai/hub/blog/personal-computer-is-here\nGoogle Desktop App Global: https://blog.google/products-and-platforms/products/search/google-apps-windows-english/\nGemini App on Mac: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/\nChrome AI Skills: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/\nGemini 3.1 Flash TTS: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/\nPersonalized Nano Banana Images: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/\nCanva AI 2.0: https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability\nClaude Opus 4.7: https://www.anthropic.com/news/claude-opus-4-7\nMiniMax Post: https://x.com/minimax_ai/status/2043132047397659000\nQwen3.6-35B-A3B Released: https://x.com/alibaba_qwen/status/2044768734234243427\nGPT-Rosalind Life Sciences: https://openai.com/index/introducing-gpt-rosalind/\nMAI-Image-2-Efficient: https://microsoft.ai/news/mai-image-2-efficient/\nMidjourney Post: https://x.com/midjourney/status/2044166948674769196\nBlackmagic Design Release: https://www.blackmagicdesign.com/media/release/20260414-01\nAllbirds AI Pivot: https://www.theverge.com/news/912484/allbirds-ai-hyperscale\nSpot Gemini Robotics: https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/\nChannel Truth Revealed: https://www.youtube.com/watch?v=ncVQneK7FlE\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:40 Codex for Everything\n7:03 Claude Code Update\n9:01 Crusoe\n10:26 Google Desktop App\n11:08 Gemini for Mac\n12:08 Chrome AI Update\n13:54 Google Text-To-Speech\n16:03 Nano Banana Update\n17:23 Perplexity Personal Computer\n19:52 Canva AI Updates\n21:45 Claude Opus 4.7\n24:24 MiniMax M2.7\n25:16 Qwen3.6-35B-A3B\n26:17 GPT-Rosalind\n27:52 Microsoft MAI-Image-2-Efficient\n28:44 Midjourney V8.1\n29:31 Davinci Resolve AI Updates\n31:03 Allbirds Switches to AI\n32:11 Cool New Task-Doing Robot\n33:32 You'll Like This Video\n35:01 Final Thoughts\n36:18 WTF?",
+      "duration": "PT36M44S",
+      "view_count": 97484,
+      "like_count": 3448,
+      "comment_count": 168,
+      "url": "https://www.youtube.com/watch?v=bIrzOQtnp8w"
+    },
+    {
+      "id": "bRecJsl3dHQ",
+      "title": "The Easiest Way To Edit YouTube Videos",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-17T14:26:11Z",
+      "description": "This is how I edit my videos every week for my channel of almost 1 million subscribers, and it hardly takes me any time at all. \n\nI answered ALL of your most pressing YouTube questions in my latest video, so check it out if you want to know how much I make, my thoughts on AI generated content, and more!\n\n#AI #contentcreation #editinghack #youtuber",
+      "duration": "PT1M30S",
+      "view_count": 14663,
+      "like_count": 519,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=bRecJsl3dHQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-20T17:33:03Z",
+    "count": 5
+  }
+}
