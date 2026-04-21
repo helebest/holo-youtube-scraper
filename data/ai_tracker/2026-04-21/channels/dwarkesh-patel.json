@@ -14,15 +14,27 @@
   "date": "2026-04-21",
   "result": [
     {
+      "id": "iXXX2XPDlHg",
+      "title": "How Nvidia Actually Allocates GPUs - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-20T22:43:11Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 40220,
+      "like_count": 659,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
+    },
+    {
       "id": "K7Az689vpYY",
       "title": "Francis Bacon's 3 Types of Thinkers - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-19T20:48:10Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 34722,
-      "like_count": 1794,
-      "comment_count": 46,
+      "view_count": 59868,
+      "like_count": 2371,
+      "comment_count": 58,
       "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-18T18:02:19Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 247391,
-      "like_count": 3542,
-      "comment_count": 127,
+      "view_count": 258084,
+      "like_count": 3750,
+      "comment_count": 135,
       "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-18T00:05:18Z",
       "description": "",
       "duration": "PT1M59S",
-      "view_count": 420273,
-      "like_count": 7593,
-      "comment_count": 1064,
+      "view_count": 445099,
+      "like_count": 8139,
+      "comment_count": 1115,
       "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-17T19:00:14Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 119212,
-      "like_count": 1573,
-      "comment_count": 154,
+      "view_count": 123510,
+      "like_count": 1637,
+      "comment_count": 165,
       "url": "https://www.youtube.com/watch?v=kOtam_vvnmY"
-    },
-    {
-      "id": "u7Xqu65Gh58",
-      "title": "Jensen Huang Makes the Case for Selling Chips to China",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-17T01:50:55Z",
-      "description": "",
-      "duration": "PT2M58S",
-      "view_count": 929656,
-      "like_count": 13779,
-      "comment_count": 2185,
-      "url": "https://www.youtube.com/watch?v=u7Xqu65Gh58"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-20T17:32:55Z",
+    "generated_at": "2026-04-21T06:17:06Z",
     "count": 5
   }
 }
