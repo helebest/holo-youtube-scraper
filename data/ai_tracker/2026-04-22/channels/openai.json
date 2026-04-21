@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-22",
+  "result": [
+    {
+      "id": "k9xZuTMCR1Q",
+      "title": "Designing faster life sciences experiments",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-20T20:14:41Z",
+      "description": "GPT‑Rosalind and the Life Sciences Research Plugin for Codex help researchers connect evidence, databases, and scientific tools to plan stronger follow-up experiments.\n\nLearn more: https://openai.com/index/introducing-gpt-rosalind/",
+      "duration": "PT56S",
+      "view_count": 1963,
+      "like_count": 57,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=k9xZuTMCR1Q"
+    },
+    {
+      "id": "a-YJ6h7EJv8",
+      "title": "Turning scattered evidence into discovery decisions for life sciences",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-20T20:13:38Z",
+      "description": "GPT‑Rosalind in Codex helps scientists move from raw scientific inputs to evidence-backed hypotheses, analysis, and research decisions across discovery workflows.\n\nLearn more: https://openai.com/index/introducing-gpt-rosalind/",
+      "duration": "PT2M35S",
+      "view_count": 6541,
+      "like_count": 216,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=a-YJ6h7EJv8"
+    },
+    {
+      "id": "UZyH0nx5zgI",
+      "title": "Episode 16: Building AI for Life Sciences",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-16T19:04:11Z",
+      "description": "What does it take to build AI systems that can actually help scientists? Research lead Joy Jiao and product lead Yunyun Wang discuss how OpenAI is developing models for life sciences and what responsible deployment means in a field with real biosecurity stakes. They explore how AI is already improving research workflows and where it could lead in drug discovery and more autonomous labs — including why a future with less pipetting sounds pretty good to most scientists.\n\nChapters\n\n0:39 Introducing the Life Sciences model series\n3:47 Joy’s path into life sciences \n5:00 Autonomous lab with Ginkgo Bioworks\n7:27 Yunyun’s path into life sciences\n8:12 OpenAI’s life sciences work\n9:48 Biorisk, access, and safeguards\n15:43 What models can do in the lab\n17:51 Building scientific infrastructure\n20:14 Why compute matters for science\n24:54 Where are we in 6-12 months?\n29:51 Scientific adoption and skepticism\n33:17 Advice for students and researchers\n40:27 Where are we in 10 years?",
+      "duration": "PT44M26S",
+      "view_count": 11270,
+      "like_count": 329,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=UZyH0nx5zgI"
+    },
+    {
+      "id": "Lm7-yFZ5fZQ",
+      "title": "Codex for (almost) everything",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-16T17:12:34Z",
+      "description": "Codex can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks.",
+      "duration": "PT1M40S",
+      "view_count": 87774,
+      "like_count": 2718,
+      "comment_count": 269,
+      "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ"
+    },
+    {
+      "id": "CPq1V7sH38I",
+      "title": "Bala Vs Waterfall | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-15T17:34:29Z",
+      "description": "Fix it like a pro with ChatGPT\n\nDirector : Abhinav Pratiman\nDOP : Tassaduq Hussain\nProduction House : Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 6536,
+      "like_count": 95,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-21T17:31:01Z",
+    "count": 5
+  }
+}
