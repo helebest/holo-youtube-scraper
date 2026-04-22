@@ -14,15 +14,27 @@
   "date": "2026-04-22",
   "result": [
     {
+      "id": "TbotsRXyRME",
+      "title": "Jensen Huang on Nvidia's Competition",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-21T21:22:09Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 40842,
+      "like_count": 694,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
+    },
+    {
       "id": "iXXX2XPDlHg",
       "title": "How Nvidia Actually Allocates GPUs - Jensen Huang",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-20T22:43:11Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 89517,
-      "like_count": 1123,
-      "comment_count": 65,
+      "view_count": 109184,
+      "like_count": 1311,
+      "comment_count": 74,
       "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-19T20:48:10Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 65948,
-      "like_count": 2565,
-      "comment_count": 61,
+      "view_count": 72186,
+      "like_count": 2790,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-18T18:02:19Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 266085,
-      "like_count": 3953,
-      "comment_count": 141,
+      "view_count": 273109,
+      "like_count": 4128,
+      "comment_count": 143,
       "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-18T00:05:18Z",
       "description": "",
       "duration": "PT1M59S",
-      "view_count": 467731,
-      "like_count": 8642,
-      "comment_count": 1176,
+      "view_count": 484175,
+      "like_count": 9045,
+      "comment_count": 1269,
       "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
-    },
-    {
-      "id": "kOtam_vvnmY",
-      "title": "AI Doomers Were Wrong About Radiology - Jensen Huang",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-17T19:00:14Z",
-      "description": "",
-      "duration": "PT48S",
-      "view_count": 127496,
-      "like_count": 1684,
-      "comment_count": 169,
-      "url": "https://www.youtube.com/watch?v=kOtam_vvnmY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-21T17:30:55Z",
+    "generated_at": "2026-04-22T06:15:52Z",
     "count": 5
   }
 }
