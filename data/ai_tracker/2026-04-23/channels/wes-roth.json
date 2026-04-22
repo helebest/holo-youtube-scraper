@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-04-23",
+  "result": [
+    {
+      "id": "ITT9xWeicWM",
+      "title": "Mythos leaks, SpaceX buys Cursor and OpenAI drops GPT Image 2.0",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-22T05:19:31Z",
+      "description": "Check out Recall: https://www.recall.it/?t=wesroth\nUse my code WES25 for 25% off an annual subscription or the monthly Max plan, valid until June 1, 2026.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 tons of news...\n01:42 GPT Image 2.0\n03:42 Arena AI\n05:09 Recall (sponsor)\n08:06 Image 2 capabilities\n09:30 livestream example 1\n12:16 more examples\n14:17 livestream example 2\n15:50 menu\n16:25 thinking vs instant\n18:00 conclusion\n\n\n\n\n#ai #openai #llm",
+      "duration": "PT19M20S",
+      "view_count": 34938,
+      "like_count": 1081,
+      "comment_count": 154,
+      "url": "https://www.youtube.com/watch?v=ITT9xWeicWM"
+    },
+    {
+      "id": "i6WQdQsE0kc",
+      "title": "Introducing ChatGPT Images 2.0",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-21T20:49:53Z",
+      "description": "Introducing ChatGPT Images 2.0\n\n#ai #openai #llm",
+      "duration": "PT1H19M25S",
+      "view_count": 9652,
+      "like_count": 208,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=i6WQdQsE0kc"
+    },
+    {
+      "id": "hrIY-clbdg8",
+      "title": "OpenAI's GPT 5.5 is wild...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-21T05:12:58Z",
+      "description": "FULL DETAILS AND LINKS: https://natural20.beehiiv.com/p/google-s-strike-force-claude-joins-the-nsa-and-gpt-5-5-release\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 — The Stories Hitting Today\nQuick setup of the three big threads: GPT-5.5 testing strong on UI, NSA using Mythos despite the blacklist, and Google forming a strike team under Sergey Brin.\n01:56 — GPT-5.5 \"Spud\" Tests Are Leaking\nOpenAI's shadow drop of GPT Pro updates, the front-end coding gains vs. Claude Opus 4.7, Polymarket pointing to an April 23 release, and Grok Build / Grok Computer entering the race.\n04:42 — The Anthropic Effect: NSA Defies the Pentagon\nHow Claude's coding dominance is reshaping every lab, and why the NSA is using Mythos even after Anthropic got labeled a supply chain risk.\n06:50 — Sergey Brin's Strike Team and the Flywheel\nWhy Brin personally came back to lead the coding push at Google DeepMind — and why coding agents are the first domino in the intelligence explosion.\n09:22 — The Steve Yegge Drama: Is Google Really Behind on AI Adoption?\nThe viral tweet, the Demis Hassabis pushback, the two-tier Google vs. Google DeepMind divide, and Brin's reported \"force every Gemini engineer\" memo.\n18:42 — Is Mythos Real, or Just Anthropic PR?\nThe skeptic camp vs. the pile of insiders — Jamie Dimon, the NSA, Powell, Bessent, Brin — who all appear to be taking it seriously.\n\n#ai #openai #llm",
+      "duration": "PT22M19S",
+      "view_count": 70871,
+      "like_count": 1762,
+      "comment_count": 350,
+      "url": "https://www.youtube.com/watch?v=hrIY-clbdg8"
+    },
+    {
+      "id": "ZVAGTidLVyc",
+      "title": "Claude just forced them to reveal THE TRUTH...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-16T21:40:31Z",
+      "description": "FULL DETAILS: https://natural20.beehiiv.com/p/new-opus-4-7-and-how-mythos-revealed-the-truth-about-how-it-was-made\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT22M44S",
+      "view_count": 71342,
+      "like_count": 1919,
+      "comment_count": 369,
+      "url": "https://www.youtube.com/watch?v=ZVAGTidLVyc"
+    },
+    {
+      "id": "3jNp14bJpgs",
+      "title": "HERMES AGENT SETUP: the OpenClaw killer is here",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-15T09:05:33Z",
+      "description": "Go to: http://hostinger.com/hermeswesroth\nand use code: WESROTH \nfor an additional discount on HOSTINGER yearly plans.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 Nous Agent\n03:20 Hermes Agent Skills\n05:00 Free AI Models\n07:04 Install on VPS (Hostinger sponsored)\n12:30 Telegram \"The BotFather\"\n14:33 Terminal\n20:57 Hermes CLI\n25:00 \"hermes setup\"\n30:00 Gateway and Telegram\n33:55 manually changing the .env file\n\n\n\n#ai #openai #llm",
+      "duration": "PT42M44S",
+      "view_count": 58227,
+      "like_count": 1848,
+      "comment_count": 265,
+      "url": "https://www.youtube.com/watch?v=3jNp14bJpgs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-22T17:29:28Z",
+    "count": 5
+  }
+}

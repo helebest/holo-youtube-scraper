@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-23",
+  "result": [
+    {
+      "id": "sWkGomJ3TLI",
+      "title": "Introducing ChatGPT Images 2.0",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-21T19:49:27Z",
+      "description": "Gabriel Goh, Kenji Hata, Kiwhan Song, Alex Yu, Boyuan Chen, and Nithanth Kudige with host Sam Altman introduce and demo ChatGPT Images 2.",
+      "duration": "PT21M53S",
+      "view_count": 163509,
+      "like_count": 0,
+      "comment_count": 401,
+      "url": "https://www.youtube.com/watch?v=sWkGomJ3TLI"
+    },
+    {
+      "id": "JJgwiuu-Axw",
+      "title": "Thinking & Intelligence with ChatGPT Images 2.0",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-21T19:28:20Z",
+      "description": "OpenAI researcher Ayaan Haque shows how capable ChatGPT Images 2.0 has become when Thinking is enabled. With the ability to research topics on the web, it can handle open-ended prompts and produce highly complex outputs",
+      "duration": "PT2M49S",
+      "view_count": 30168,
+      "like_count": 1056,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=JJgwiuu-Axw"
+    },
+    {
+      "id": "EcP7bzNAEn0",
+      "title": "Instruction Following with ChatGPT Images 2.0",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-21T19:24:07Z",
+      "description": "OpenAI researcher Jianfeng Wang explains how ChatGPT Images 2.0 can now follow highly detailed instruction in prompts, especially when it comes to spatial layouts and text rendering.",
+      "duration": "PT2M16S",
+      "view_count": 8428,
+      "like_count": 338,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=EcP7bzNAEn0"
+    },
+    {
+      "id": "B-73tuAHBo8",
+      "title": "Slides & Infographics with ChatGPT Images 2.0",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-21T19:24:03Z",
+      "description": "OpenAI researcher Yuguang Yang shows how, with Thinking selected, ChatGPT Images 2.0 can now follow long and complex prompts of over 1,000 words to create detailed, educational infographics. ChatGPT can now also transform uploaded PDFs into complete slides for presentations or polished infographics as PDF outputs.",
+      "duration": "PT2M6S",
+      "view_count": 12492,
+      "like_count": 502,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=B-73tuAHBo8"
+    },
+    {
+      "id": "B4r4t9eIwNI",
+      "title": "Multilingual & Text Rendering with ChatGPT Images 2.0",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-21T19:23:56Z",
+      "description": "OpenAI researcher Boyuan Chen demonstrates ChatGPT Images 2.0’s ability to render dense text across multiple languages while keeping stylistic choices intact. While text rendering in Latin-based languages has already been strong, the model has now expanded to handle a much wider range of languages.",
+      "duration": "PT2M18S",
+      "view_count": 7180,
+      "like_count": 300,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=B4r4t9eIwNI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-22T17:29:24Z",
+    "count": 5
+  }
+}

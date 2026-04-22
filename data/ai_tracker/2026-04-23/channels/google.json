@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-23",
+  "result": [
+    {
+      "id": "K3ynt_Z0gOw",
+      "title": "Celebrating our beautiful planet #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-22T14:17:53Z",
+      "description": "No place like home 🌎 Today we celebrate Earth Day with a cinematic voyage through the hidden corners of the world and the beautiful wonders of this planet. Here is a closer look at the landscapes that created today’s #GoogleDoodle:  \n\nG – United Kingdom, Europe\n\nO – Canada, North America\n\nO – Argentina, South America\n\nG – Australia, Oceania\n\nL – Senegal, Africa \n\nE – Indonesia, Asia\n\nExplore for yourself on Google Earth or using Satellite View on Google Maps. \n\nImages courtesy of Airbus, Vexcel Imaging U.S. Inc., Data SIO, NOAA, U.S. Navy, NGA, GEBCO, Maxar Technologies, Landsat / Copernicus, CNES / Airbus",
+      "duration": "PT1M2S",
+      "view_count": 4272,
+      "like_count": 413,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=K3ynt_Z0gOw"
+    },
+    {
+      "id": "7gnybANIBws",
+      "title": "How AI Helps You Express Your Vibe | Made by Google Podcast S9E3",
+      "channel_title": "Google",
+      "published_at": "2026-04-20T18:17:42Z",
+      "description": "Ever wondered what your favorite vacation photo sounds like? In this episode, we dive into how Lyria 3 AI helps you find your creative voice by transforming inside jokes, memories, and images into custom audio. #AI #Lyria3 #MadeByGoogle #TechPodcast \n\n01:37 – What is Lyria? Creative Expression for Everyone\n09:41 – Lyria 3 Pro: Longer Tracks and Structural Control\n13:52 – Multimodality: From Photos to Personalized Covers\n18:51 – Expert Prompting Tips: The Four-Part Framework\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT24M48S",
+      "view_count": 13240,
+      "like_count": 232,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=7gnybANIBws"
+    },
+    {
+      "id": "6jELhHO1VNA",
+      "title": "Why is Luka’s stepback so impossible to guard? | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T20:57:27Z",
+      "description": "Luka’s stepback hits different 😮‍💨 With Google search, find out what makes it so hard to guard.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT16S",
+      "view_count": 3918708,
+      "like_count": 52,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=6jELhHO1VNA"
+    },
+    {
+      "id": "-Ll1TaIDHXU",
+      "title": "Build me a plan to get better at 3s | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T19:02:02Z",
+      "description": "Ready to level up? Google Search can help you build a customized training plan to perfect your three-pointer or any part of your game 🏀\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT16S",
+      "view_count": 4661232,
+      "like_count": 39,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=-Ll1TaIDHXU"
+    },
+    {
+      "id": "XO8oJo1C5zc",
+      "title": "What does it take to hit the big shot? | Google + NBA",
+      "channel_title": "Google",
+      "published_at": "2026-04-18T16:03:20Z",
+      "description": "The game is different during the NBA Playoffs, and so are the questions. Use Google Search to break down any part of the game, from analyzing a game-winner to building your own training plan.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT31S",
+      "view_count": 1838046,
+      "like_count": 335,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=XO8oJo1C5zc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-22T17:29:25Z",
+    "count": 5
+  }
+}
