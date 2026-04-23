@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-24",
+  "result": [
+    {
+      "id": "TuzgusIxRzs",
+      "title": "Software review agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-22T20:37:28Z",
+      "description": "Watch a guided walkthrough of an agent that reviews software requests, checks policy, routes approvals, and opens IT tickets with clear next steps.",
+      "duration": "PT1M33S",
+      "view_count": 8907,
+      "like_count": 201,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=TuzgusIxRzs"
+    },
+    {
+      "id": "AwCNb_xI4fI",
+      "title": "Weekly metrics reporting agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-22T18:13:54Z",
+      "description": "Watch a guided walkthrough of an agent that pulls Friday metrics, creates charts, drafts the narrative, and delivers a ready-to-share business report.",
+      "duration": "PT2M37S",
+      "view_count": 9116,
+      "like_count": 171,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=AwCNb_xI4fI"
+    },
+    {
+      "id": "jwkKbedaeYM",
+      "title": "Third-party risk management agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-22T18:12:57Z",
+      "description": "Watch a guided walkthrough of an agent that screens vendors for sanctions, financial, and reputational risk, then turns the findings into a clear report.",
+      "duration": "PT2M7S",
+      "view_count": 2061,
+      "like_count": 52,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=jwkKbedaeYM"
+    },
+    {
+      "id": "HJlME6S-LJc",
+      "title": "Lead outreach agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-22T18:11:59Z",
+      "description": "Watch a guided walkthrough of an agent that qualifies inbound leads, drafts personalized follow-ups, and keeps the CRM up to date.",
+      "duration": "PT1M51S",
+      "view_count": 4119,
+      "like_count": 95,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=HJlME6S-LJc"
+    },
+    {
+      "id": "bk2H8WfHZZk",
+      "title": "Product feedback routing agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-22T18:09:08Z",
+      "description": "Watch a guided walkthrough of an agent that gathers feedback from Slack, support, and public channels, prioritizes what matters, and turns signals into weekly product action.",
+      "duration": "PT3M11S",
+      "view_count": 2761,
+      "like_count": 77,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=bk2H8WfHZZk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-23T17:51:16Z",
+    "count": 5
+  }
+}

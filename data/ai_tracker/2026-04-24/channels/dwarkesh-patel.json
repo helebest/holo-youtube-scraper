@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-24",
+  "result": [
+    {
+      "id": "DZSQqObfnfE",
+      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-22T18:59:53Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 155811,
+      "like_count": 2272,
+      "comment_count": 96,
+      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
+    },
+    {
+      "id": "TbotsRXyRME",
+      "title": "Jensen Huang on Nvidia's Competition",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-21T21:22:09Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 172823,
+      "like_count": 2091,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
+    },
+    {
+      "id": "iXXX2XPDlHg",
+      "title": "How Nvidia Actually Allocates GPUs - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-20T22:43:11Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 130114,
+      "like_count": 1589,
+      "comment_count": 86,
+      "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
+    },
+    {
+      "id": "K7Az689vpYY",
+      "title": "Francis Bacon's 3 Types of Thinkers - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-19T20:48:10Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 83137,
+      "like_count": 3053,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
+    },
+    {
+      "id": "rqNWGjgTg2w",
+      "title": "Why Nvidia Invests Billions in Companies That May Fail - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-18T18:02:19Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 295103,
+      "like_count": 4657,
+      "comment_count": 150,
+      "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-23T17:51:11Z",
+    "count": 5
+  }
+}
