@@ -14,15 +14,27 @@
   "date": "2026-04-23",
   "result": [
     {
+      "id": "DZSQqObfnfE",
+      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-22T18:59:53Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 108847,
+      "like_count": 1575,
+      "comment_count": 81,
+      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
+    },
+    {
       "id": "TbotsRXyRME",
       "title": "Jensen Huang on Nvidia's Competition",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-21T21:22:09Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 89254,
-      "like_count": 1285,
-      "comment_count": 50,
+      "view_count": 153912,
+      "like_count": 1895,
+      "comment_count": 64,
       "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-20T22:43:11Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 116482,
-      "like_count": 1400,
-      "comment_count": 76,
+      "view_count": 124910,
+      "like_count": 1499,
+      "comment_count": 80,
       "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-04-19T20:48:10Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 76851,
-      "like_count": 2913,
+      "view_count": 81324,
+      "like_count": 3013,
       "comment_count": 68,
       "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-04-18T18:02:19Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 279075,
-      "like_count": 4317,
-      "comment_count": 146,
+      "view_count": 287938,
+      "like_count": 4480,
+      "comment_count": 149,
       "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
-    },
-    {
-      "id": "wvzJHVmvEwU",
-      "title": "The Idea That China Can't Have AI Chips Is Nonsense - Jensen Huang",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-18T00:05:18Z",
-      "description": "",
-      "duration": "PT1M59S",
-      "view_count": 497056,
-      "like_count": 9359,
-      "comment_count": 1327,
-      "url": "https://www.youtube.com/watch?v=wvzJHVmvEwU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-22T17:29:19Z",
+    "generated_at": "2026-04-23T06:19:50Z",
     "count": 5
   }
 }
