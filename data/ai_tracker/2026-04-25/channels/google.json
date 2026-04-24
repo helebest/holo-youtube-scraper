@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-04-25",
+  "result": [
+    {
+      "id": "cdnv-k10S38",
+      "title": "Search “heated rivalry” if you’re still obsessed 🏒🔥",
+      "channel_title": "Google",
+      "published_at": "2026-04-24T15:55:28Z",
+      "description": "It’s Cup season. Time to revisit our favo(u)rite players.",
+      "duration": "PT8S",
+      "view_count": 1071,
+      "like_count": 36,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=cdnv-k10S38"
+    },
+    {
+      "id": "eATdZCyw430",
+      "title": "What is a TPU? Here’s what you need to know about the system purpose-built to power today's AI.",
+      "channel_title": "Google",
+      "published_at": "2026-04-23T22:12:08Z",
+      "description": "At #GoogleCloudNext, we announced our 8th generation TPUs: TPU 8t and TPU 8i. Now, we’re breaking down what a TPU actually is, how it’s different from a CPU, plus some key context on how our 8th generation TPU system works.",
+      "duration": "PT1M12S",
+      "view_count": 9115,
+      "like_count": 502,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=eATdZCyw430"
+    },
+    {
+      "id": "By1GWWYN2Eg",
+      "title": "Which move makes your ultimate highlight reel?",
+      "channel_title": "Google",
+      "published_at": "2026-04-22T21:10:20Z",
+      "description": "Both moves are iconic – but which one are you hoping to see in the next game? Drop your answer in the comments and let us know if you’ll be tuning in to catch more @NBA Playoffs action 👀",
+      "duration": "PT14S",
+      "view_count": 11550,
+      "like_count": 250,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=By1GWWYN2Eg"
+    },
+    {
+      "id": "K3ynt_Z0gOw",
+      "title": "Celebrating our beautiful planet #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-22T14:17:53Z",
+      "description": "No place like home 🌎 Today we celebrate Earth Day with a cinematic voyage through the hidden corners of the world and the beautiful wonders of this planet. Here is a closer look at the landscapes that created today’s #GoogleDoodle:  \n\nG – United Kingdom, Europe\n\nO – Canada, North America\n\nO – Argentina, South America\n\nG – Australia, Oceania\n\nL – Senegal, Africa \n\nE – Indonesia, Asia\n\nExplore for yourself on Google Earth or using Satellite View on Google Maps. \n\nImages courtesy of Airbus, Vexcel Imaging U.S. Inc., Data SIO, NOAA, U.S. Navy, NGA, GEBCO, Maxar Technologies, Landsat / Copernicus, CNES / Airbus",
+      "duration": "PT1M2S",
+      "view_count": 21822,
+      "like_count": 785,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=K3ynt_Z0gOw"
+    },
+    {
+      "id": "7gnybANIBws",
+      "title": "How AI Helps You Express Your Vibe | Made by Google Podcast S9E3",
+      "channel_title": "Google",
+      "published_at": "2026-04-20T18:17:42Z",
+      "description": "Ever wondered what your favorite vacation photo sounds like? In this episode, we dive into how Lyria 3 AI helps you find your creative voice by transforming inside jokes, memories, and images into custom audio. #AI #Lyria3 #MadeByGoogle #TechPodcast \n\n01:37 – What is Lyria? Creative Expression for Everyone\n09:41 – Lyria 3 Pro: Longer Tracks and Structural Control\n13:52 – Multimodality: From Photos to Personalized Covers\n18:51 – Expert Prompting Tips: The Four-Part Framework\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT24M48S",
+      "view_count": 20716,
+      "like_count": 276,
+      "comment_count": 80,
+      "url": "https://www.youtube.com/watch?v=7gnybANIBws"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-24T17:26:51Z",
+    "count": 5
+  }
+}

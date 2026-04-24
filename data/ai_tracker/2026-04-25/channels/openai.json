@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-25",
+  "result": [
+    {
+      "id": "VdXdGS7hUSY",
+      "title": "Introducing GPT-5.5 with NVIDIA",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-23T21:23:34Z",
+      "description": "\"GPT-5.5’s superpower is that it can just get things done.”\n\nIt’s so cool to see how masters of the AI universe like NVIDIA’s Dennis Hannusch are leveraging GPT-5.5-Codex for complex engineering tasks.\n\nBe like Dennis. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M8S",
+      "view_count": 21731,
+      "like_count": 548,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=VdXdGS7hUSY"
+    },
+    {
+      "id": "KKiwxLK59YQ",
+      "title": "First impressions of GPT-5.5 from Aaron Friel",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-23T21:06:19Z",
+      "description": "Romain Huet chats with Aaron Friel, Member of Technical Staff @ OpenAI about the new GPT-5.5 model. Find out how teams within OpenAI are taking advantage of faster and more autonomous long-running tasks using GPT-5.5.",
+      "duration": "PT3M41S",
+      "view_count": 12822,
+      "like_count": 350,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=KKiwxLK59YQ"
+    },
+    {
+      "id": "xRa1GCRomQs",
+      "title": "First impressions of GPT-5.5 from Claire Vo",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-23T20:45:31Z",
+      "description": "Find out what Claire Vo, founder of ChatPRD and host of How I AI, thinks about GPT-5.5. Claire talks about squashing bugs in ChatPRD and how GPT-5.5 is enabling new workflows.",
+      "duration": "PT2M31S",
+      "view_count": 7831,
+      "like_count": 231,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=xRa1GCRomQs"
+    },
+    {
+      "id": "Aq0Q_G-rtfA",
+      "title": "First impressions of GPT-5.5 from Will Koh",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-23T20:35:42Z",
+      "description": "Romain Huet chats with Will Koh from Ramp. Will is a Senior Software Engineer who has been working with GPT-5.5. Find out how GPT-5.5 improves Ramp's harness through much more intelligent tool finding and how this will benefit their customers.",
+      "duration": "PT3M27S",
+      "view_count": 54255,
+      "like_count": 1437,
+      "comment_count": 114,
+      "url": "https://www.youtube.com/watch?v=Aq0Q_G-rtfA"
+    },
+    {
+      "id": "nL0lKxZydOk",
+      "title": "First impressions of GPT-5.5",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-23T18:20:12Z",
+      "description": "Will Koh, Claire Voh, and Aaron Friel share their first impressions of GPT-5.5",
+      "duration": "PT1M13S",
+      "view_count": 20385,
+      "like_count": 725,
+      "comment_count": 50,
+      "url": "https://www.youtube.com/watch?v=nL0lKxZydOk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-24T17:26:51Z",
+    "count": 5
+  }
+}
