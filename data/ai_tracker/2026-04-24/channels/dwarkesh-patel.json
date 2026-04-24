@@ -14,15 +14,27 @@
   "date": "2026-04-24",
   "result": [
     {
+      "id": "Ohvy6aiE5J4",
+      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-23T21:17:13Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 9196,
+      "like_count": 407,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
+    },
+    {
       "id": "DZSQqObfnfE",
       "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-22T18:59:53Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 155811,
-      "like_count": 2272,
-      "comment_count": 96,
+      "view_count": 176612,
+      "like_count": 2516,
+      "comment_count": 98,
       "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-21T21:22:09Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 172823,
-      "like_count": 2091,
-      "comment_count": 68,
+      "view_count": 189653,
+      "like_count": 2283,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-20T22:43:11Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 130114,
-      "like_count": 1589,
-      "comment_count": 86,
+      "view_count": 135718,
+      "like_count": 1681,
+      "comment_count": 90,
       "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-19T20:48:10Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 83137,
-      "like_count": 3053,
-      "comment_count": 68,
+      "view_count": 85023,
+      "like_count": 3100,
+      "comment_count": 69,
       "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
-    },
-    {
-      "id": "rqNWGjgTg2w",
-      "title": "Why Nvidia Invests Billions in Companies That May Fail - Jensen Huang",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-18T18:02:19Z",
-      "description": "",
-      "duration": "PT46S",
-      "view_count": 295103,
-      "like_count": 4657,
-      "comment_count": 150,
-      "url": "https://www.youtube.com/watch?v=rqNWGjgTg2w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-23T17:51:11Z",
+    "generated_at": "2026-04-24T06:22:45Z",
     "count": 5
   }
 }
