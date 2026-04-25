@@ -14,69 +14,69 @@
   "date": "2026-04-25",
   "result": [
     {
-      "id": "VdXdGS7hUSY",
-      "title": "Introducing GPT-5.5 with NVIDIA",
+      "id": "GNEbX8EvDlg",
+      "title": "Introducing GPT-5.5 with Perplexity",
       "channel_title": "OpenAI",
-      "published_at": "2026-04-23T21:23:34Z",
-      "description": "\"GPT-5.5’s superpower is that it can just get things done.”\n\nIt’s so cool to see how masters of the AI universe like NVIDIA’s Dennis Hannusch are leveraging GPT-5.5-Codex for complex engineering tasks.\n\nBe like Dennis. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
-      "duration": "PT1M8S",
-      "view_count": 21731,
-      "like_count": 548,
+      "published_at": "2026-04-24T20:13:48Z",
+      "description": "“I thought building this internal tool was going to take me days…but with Codex and GPT-5.5, I was able to do it in under an hour.”\n\nDenis from Perplexity saw GPT-5.5 cut token usage by 56% while running the same agentic workflows faster and more efficiently. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M6S",
+      "view_count": 14899,
+      "like_count": 439,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg"
+    },
+    {
+      "id": "H5rSp32VwV8",
+      "title": "Workspace agents in ChatGPT: Weekly metrics reporting agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:10:26Z",
+      "description": "Watch a guided walkthrough of an agent that pulls Friday metrics, creates charts, drafts the narrative, and delivers a ready-to-share business report.",
+      "duration": "PT2M36S",
+      "view_count": 1719,
+      "like_count": 38,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=H5rSp32VwV8"
+    },
+    {
+      "id": "7ZVYmoqqnCg",
+      "title": "Workspace agents in ChatGPT: Software review agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:06:24Z",
+      "description": "Introducing workspace agents in ChatGPT—Codex-powered agents for teams.\n\nWatch a guided walkthrough of an agent that reviews software requests, checks policy, routes approvals, and opens IT tickets with clear next steps.",
+      "duration": "PT1M33S",
+      "view_count": 415,
+      "like_count": 19,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg"
+    },
+    {
+      "id": "HnSPedbA02Q",
+      "title": "Workspace agents in ChatGPT: Third-party risk management agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:00:56Z",
+      "description": "Introducing workspace agents in ChatGPT—Codex-powered agents for teams.\n\nWatch a guided walkthrough of an agent that screens vendors for sanctions, financial, and reputational risk, then turns the findings into a clear report.",
+      "duration": "PT2M7S",
+      "view_count": 825,
+      "like_count": 30,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=HnSPedbA02Q"
+    },
+    {
+      "id": "R3aUYJFVc6w",
+      "title": "Introducing GPT-5.5 with NVIDIA's AI Researcher",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T19:58:35Z",
+      "description": "While Shaunak Joshi grabbed a snack, GPT-5.5 in Codex refactored his entire code base. \n\nGPT-5.5 is our smartest and most intuitive model and NVIDIA AI researchers are seeing a 10x speed improvement in running experiments. \n\n“The magic moment was just the fact that it had enough intelligence to come back to me with a solution based on this very abstract question”\n\nWe love to hear it. \n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M6S",
+      "view_count": 4177,
+      "like_count": 177,
       "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=VdXdGS7hUSY"
-    },
-    {
-      "id": "KKiwxLK59YQ",
-      "title": "First impressions of GPT-5.5 from Aaron Friel",
-      "channel_title": "OpenAI",
-      "published_at": "2026-04-23T21:06:19Z",
-      "description": "Romain Huet chats with Aaron Friel, Member of Technical Staff @ OpenAI about the new GPT-5.5 model. Find out how teams within OpenAI are taking advantage of faster and more autonomous long-running tasks using GPT-5.5.",
-      "duration": "PT3M41S",
-      "view_count": 12822,
-      "like_count": 350,
-      "comment_count": 47,
-      "url": "https://www.youtube.com/watch?v=KKiwxLK59YQ"
-    },
-    {
-      "id": "xRa1GCRomQs",
-      "title": "First impressions of GPT-5.5 from Claire Vo",
-      "channel_title": "OpenAI",
-      "published_at": "2026-04-23T20:45:31Z",
-      "description": "Find out what Claire Vo, founder of ChatPRD and host of How I AI, thinks about GPT-5.5. Claire talks about squashing bugs in ChatPRD and how GPT-5.5 is enabling new workflows.",
-      "duration": "PT2M31S",
-      "view_count": 7831,
-      "like_count": 231,
-      "comment_count": 29,
-      "url": "https://www.youtube.com/watch?v=xRa1GCRomQs"
-    },
-    {
-      "id": "Aq0Q_G-rtfA",
-      "title": "First impressions of GPT-5.5 from Will Koh",
-      "channel_title": "OpenAI",
-      "published_at": "2026-04-23T20:35:42Z",
-      "description": "Romain Huet chats with Will Koh from Ramp. Will is a Senior Software Engineer who has been working with GPT-5.5. Find out how GPT-5.5 improves Ramp's harness through much more intelligent tool finding and how this will benefit their customers.",
-      "duration": "PT3M27S",
-      "view_count": 54255,
-      "like_count": 1437,
-      "comment_count": 114,
-      "url": "https://www.youtube.com/watch?v=Aq0Q_G-rtfA"
-    },
-    {
-      "id": "nL0lKxZydOk",
-      "title": "First impressions of GPT-5.5",
-      "channel_title": "OpenAI",
-      "published_at": "2026-04-23T18:20:12Z",
-      "description": "Will Koh, Claire Voh, and Aaron Friel share their first impressions of GPT-5.5",
-      "duration": "PT1M13S",
-      "view_count": 20385,
-      "like_count": 725,
-      "comment_count": 50,
-      "url": "https://www.youtube.com/watch?v=nL0lKxZydOk"
+      "url": "https://www.youtube.com/watch?v=R3aUYJFVc6w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-24T17:26:51Z",
+    "generated_at": "2026-04-25T06:01:44Z",
     "count": 5
   }
 }

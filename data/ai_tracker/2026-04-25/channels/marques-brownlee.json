@@ -14,15 +14,27 @@
   "date": "2026-04-25",
   "result": [
     {
+      "id": "7YrdI7h2XoY",
+      "title": "Glass is glass",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-24T20:41:58Z",
+      "description": "Glass is glass. A bit of a rant/explainer/PSA\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT4M46S",
+      "view_count": 656741,
+      "like_count": 49913,
+      "comment_count": 2348,
+      "url": "https://www.youtube.com/watch?v=7YrdI7h2XoY"
+    },
+    {
       "id": "c347oYQO57A",
       "title": "So This is Peak Smartphone",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-04-21T17:01:53Z",
       "description": "Peak slab phone in 2026 looks a lot like a camera attached to a phone\n\nAuto Focus shot on Oppo Find X9 Ultra: https://youtu.be/9s69aThM7rA?si=x8qW7F4MorY2qgRp\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT13M17S",
-      "view_count": 3652494,
-      "like_count": 106792,
-      "comment_count": 5444,
+      "view_count": 3743363,
+      "like_count": 108645,
+      "comment_count": 5501,
       "url": "https://www.youtube.com/watch?v=c347oYQO57A"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-14T19:30:41Z",
       "description": "This phone never came out. But they got really close to dropping a rollable phone\n\nJerryRigEverything teardown: https://youtu.be/vDMpANNGND4?si=ks0m5gQBYJkiiEVZ\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT9M59S",
-      "view_count": 1990493,
-      "like_count": 68580,
-      "comment_count": 4461,
+      "view_count": 1995827,
+      "like_count": 68749,
+      "comment_count": 4465,
       "url": "https://www.youtube.com/watch?v=5aS-8QCRdGE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-08T20:43:49Z",
       "description": "All Pixel and Nexus phones",
       "duration": "PT49S",
-      "view_count": 875080,
-      "like_count": 38937,
-      "comment_count": 1201,
+      "view_count": 879733,
+      "like_count": 39046,
+      "comment_count": 1202,
       "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-07T21:06:16Z",
       "description": "Holy HDR",
       "duration": "PT43S",
-      "view_count": 1159541,
-      "like_count": 53639,
-      "comment_count": 1784,
+      "view_count": 1163865,
+      "like_count": 53763,
+      "comment_count": 1792,
       "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
-    },
-    {
-      "id": "Hc0aqOEU2w8",
-      "title": "Bluey Phone Review",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-04-01T14:10:50Z",
-      "description": "It's called the Bluey phone by VTech. It really commits to the idea of a minimal phone.\n\n(Affiliate Link) VTech Bluey Ring Phone: https://geni.us/HpXH \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT4M23S",
-      "view_count": 3864548,
-      "like_count": 114802,
-      "comment_count": 8742,
-      "url": "https://www.youtube.com/watch?v=Hc0aqOEU2w8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-24T17:26:49Z",
+    "generated_at": "2026-04-25T06:01:42Z",
     "count": 5
   }
 }

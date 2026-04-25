@@ -14,15 +14,27 @@
   "date": "2026-04-25",
   "result": [
     {
+      "id": "woHlKPQycjw",
+      "title": "Why the Inquisition Could Never Catch a Single Printer - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-24T21:06:50Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 8297,
+      "like_count": 457,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
+    },
+    {
       "id": "Ohvy6aiE5J4",
       "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-23T21:17:13Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 14634,
-      "like_count": 555,
-      "comment_count": 13,
+      "view_count": 17701,
+      "like_count": 660,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-22T18:59:53Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 184238,
-      "like_count": 2625,
-      "comment_count": 99,
+      "view_count": 190733,
+      "like_count": 2736,
+      "comment_count": 100,
       "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-21T21:22:09Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 201852,
-      "like_count": 2404,
-      "comment_count": 73,
+      "view_count": 212938,
+      "like_count": 2552,
+      "comment_count": 77,
       "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-20T22:43:11Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 140310,
-      "like_count": 1742,
-      "comment_count": 97,
+      "view_count": 144939,
+      "like_count": 1794,
+      "comment_count": 99,
       "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
-    },
-    {
-      "id": "K7Az689vpYY",
-      "title": "Francis Bacon's 3 Types of Thinkers - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-19T20:48:10Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 86261,
-      "like_count": 3128,
-      "comment_count": 70,
-      "url": "https://www.youtube.com/watch?v=K7Az689vpYY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-24T17:26:45Z",
+    "generated_at": "2026-04-25T06:01:39Z",
     "count": 5
   }
 }
