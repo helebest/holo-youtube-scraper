@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-26",
+  "result": [
+    {
+      "id": "woHlKPQycjw",
+      "title": "Why the Inquisition Could Never Catch a Single Printer - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-24T21:06:50Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 13486,
+      "like_count": 655,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
+    },
+    {
+      "id": "Ohvy6aiE5J4",
+      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-23T21:17:13Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 19683,
+      "like_count": 736,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
+    },
+    {
+      "id": "DZSQqObfnfE",
+      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-22T18:59:53Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 196194,
+      "like_count": 2831,
+      "comment_count": 100,
+      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
+    },
+    {
+      "id": "TbotsRXyRME",
+      "title": "Jensen Huang on Nvidia's Competition",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-21T21:22:09Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 220198,
+      "like_count": 2638,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
+    },
+    {
+      "id": "iXXX2XPDlHg",
+      "title": "How Nvidia Actually Allocates GPUs - Jensen Huang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-20T22:43:11Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 147767,
+      "like_count": 1828,
+      "comment_count": 102,
+      "url": "https://www.youtube.com/watch?v=iXXX2XPDlHg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-25T17:04:35Z",
+    "count": 5
+  }
+}
