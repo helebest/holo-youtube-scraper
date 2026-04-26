@@ -20,9 +20,9 @@
       "published_at": "2026-04-25T07:37:25Z",
       "description": "Start your second innings with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
       "duration": "PT30S",
-      "view_count": 6965,
-      "like_count": 226,
-      "comment_count": 30,
+      "view_count": 10130,
+      "like_count": 281,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=fuO669ienMY"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-04-24T20:13:48Z",
       "description": "“I thought building this internal tool was going to take me days…but with Codex and GPT-5.5, I was able to do it in under an hour.”\n\nDenis from Perplexity saw GPT-5.5 cut token usage by 56% while running the same agentic workflows faster and more efficiently. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
       "duration": "PT1M6S",
-      "view_count": 24977,
-      "like_count": 604,
-      "comment_count": 63,
+      "view_count": 29232,
+      "like_count": 659,
+      "comment_count": 80,
       "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-04-24T20:10:26Z",
       "description": "Watch a guided walkthrough of an agent that pulls Friday metrics, creates charts, drafts the narrative, and delivers a ready-to-share business report.",
       "duration": "PT2M36S",
-      "view_count": 3708,
-      "like_count": 65,
+      "view_count": 4801,
+      "like_count": 76,
       "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=H5rSp32VwV8"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-04-24T20:06:24Z",
       "description": "Introducing workspace agents in ChatGPT—Codex-powered agents for teams.\n\nWatch a guided walkthrough of an agent that reviews software requests, checks policy, routes approvals, and opens IT tickets with clear next steps.",
       "duration": "PT1M33S",
-      "view_count": 772,
-      "like_count": 28,
-      "comment_count": 4,
+      "view_count": 1019,
+      "like_count": 33,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-04-24T20:00:56Z",
       "description": "Introducing workspace agents in ChatGPT—Codex-powered agents for teams.\n\nWatch a guided walkthrough of an agent that screens vendors for sanctions, financial, and reputational risk, then turns the findings into a clear report.",
       "duration": "PT2M7S",
-      "view_count": 1655,
-      "like_count": 41,
-      "comment_count": 3,
+      "view_count": 2120,
+      "like_count": 50,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=HnSPedbA02Q"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-25T17:04:40Z",
+    "generated_at": "2026-04-26T06:21:20Z",
     "count": 5
   }
 }
