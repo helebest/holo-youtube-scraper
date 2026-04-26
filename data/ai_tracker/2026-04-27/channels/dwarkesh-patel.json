@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-27",
+  "result": [
+    {
+      "id": "pX9L8E-EiE4",
+      "title": "Pamphlets, Newspapers, and the Birth of the Magazine — Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-25T19:15:55Z",
+      "description": "",
+      "duration": "PT2M36S",
+      "view_count": 28573,
+      "like_count": 1567,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
+    },
+    {
+      "id": "woHlKPQycjw",
+      "title": "Why the Inquisition Could Never Catch a Single Printer - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-24T21:06:50Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 19830,
+      "like_count": 923,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
+    },
+    {
+      "id": "Ohvy6aiE5J4",
+      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-23T21:17:13Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 23230,
+      "like_count": 850,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
+    },
+    {
+      "id": "DZSQqObfnfE",
+      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-22T18:59:53Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 206871,
+      "like_count": 2942,
+      "comment_count": 110,
+      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
+    },
+    {
+      "id": "TbotsRXyRME",
+      "title": "Jensen Huang on Nvidia's Competition",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-21T21:22:09Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 229151,
+      "like_count": 2759,
+      "comment_count": 88,
+      "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-26T17:05:41Z",
+    "count": 5
+  }
+}
