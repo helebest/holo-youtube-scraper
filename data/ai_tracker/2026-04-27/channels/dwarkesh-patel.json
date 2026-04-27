@@ -14,15 +14,27 @@
   "date": "2026-04-27",
   "result": [
     {
+      "id": "unAEMjpvnkk",
+      "title": "Are we racing China just to become China?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-26T19:14:14Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 33740,
+      "like_count": 1368,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
+    },
+    {
       "id": "pX9L8E-EiE4",
       "title": "Pamphlets, Newspapers, and the Birth of the Magazine — Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-25T19:15:55Z",
       "description": "",
       "duration": "PT2M36S",
-      "view_count": 28573,
-      "like_count": 1567,
-      "comment_count": 42,
+      "view_count": 55500,
+      "like_count": 2497,
+      "comment_count": 55,
       "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-24T21:06:50Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 19830,
-      "like_count": 923,
-      "comment_count": 51,
+      "view_count": 24539,
+      "like_count": 1100,
+      "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-04-23T21:17:13Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 23230,
-      "like_count": 850,
+      "view_count": 26813,
+      "like_count": 979,
       "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-04-22T18:59:53Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 206871,
-      "like_count": 2942,
-      "comment_count": 110,
+      "view_count": 211137,
+      "like_count": 3004,
+      "comment_count": 111,
       "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
-    },
-    {
-      "id": "TbotsRXyRME",
-      "title": "Jensen Huang on Nvidia's Competition",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-21T21:22:09Z",
-      "description": "",
-      "duration": "PT1M",
-      "view_count": 229151,
-      "like_count": 2759,
-      "comment_count": 88,
-      "url": "https://www.youtube.com/watch?v=TbotsRXyRME"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-26T17:05:41Z",
+    "generated_at": "2026-04-27T06:43:33Z",
     "count": 5
   }
 }
