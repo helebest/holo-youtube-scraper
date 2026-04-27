@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-28",
+  "result": [
+    {
+      "id": "unAEMjpvnkk",
+      "title": "Are we racing China just to become China?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-26T19:14:14Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 66873,
+      "like_count": 1998,
+      "comment_count": 146,
+      "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
+    },
+    {
+      "id": "pX9L8E-EiE4",
+      "title": "Pamphlets, Newspapers, and the Birth of the Magazine — Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-25T19:15:55Z",
+      "description": "",
+      "duration": "PT2M36S",
+      "view_count": 74355,
+      "like_count": 3141,
+      "comment_count": 66,
+      "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
+    },
+    {
+      "id": "woHlKPQycjw",
+      "title": "Why the Inquisition Could Never Catch a Single Printer - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-24T21:06:50Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 26581,
+      "like_count": 1157,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
+    },
+    {
+      "id": "Ohvy6aiE5J4",
+      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-23T21:17:13Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 30486,
+      "like_count": 1087,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
+    },
+    {
+      "id": "DZSQqObfnfE",
+      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-22T18:59:53Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 213049,
+      "like_count": 3020,
+      "comment_count": 113,
+      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-27T17:45:47Z",
+    "count": 5
+  }
+}

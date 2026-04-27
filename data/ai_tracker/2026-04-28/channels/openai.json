@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-28",
+  "result": [
+    {
+      "id": "2TGHO4apQ5I",
+      "title": "Ritu vs Case Files | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-27T11:12:22Z",
+      "description": "Space for focused work with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 4868,
+      "like_count": 229,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=2TGHO4apQ5I"
+    },
+    {
+      "id": "fuO669ienMY",
+      "title": "Reddys vs Retirement | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-25T07:37:25Z",
+      "description": "Start your second innings with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 13204,
+      "like_count": 330,
+      "comment_count": 59,
+      "url": "https://www.youtube.com/watch?v=fuO669ienMY"
+    },
+    {
+      "id": "GNEbX8EvDlg",
+      "title": "Introducing GPT-5.5 with Perplexity",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:13:48Z",
+      "description": "“I thought building this internal tool was going to take me days…but with Codex and GPT-5.5, I was able to do it in under an hour.”\n\nDenis from Perplexity saw GPT-5.5 cut token usage by 56% while running the same agentic workflows faster and more efficiently. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M6S",
+      "view_count": 35448,
+      "like_count": 709,
+      "comment_count": 89,
+      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg"
+    },
+    {
+      "id": "H5rSp32VwV8",
+      "title": "Workspace agents in ChatGPT: Weekly metrics reporting agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:10:26Z",
+      "description": "Watch a guided walkthrough of an agent that pulls Friday metrics, creates charts, drafts the narrative, and delivers a ready-to-share business report.",
+      "duration": "PT2M36S",
+      "view_count": 6508,
+      "like_count": 92,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=H5rSp32VwV8"
+    },
+    {
+      "id": "7ZVYmoqqnCg",
+      "title": "Workspace agents in ChatGPT: Software review agent",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:06:24Z",
+      "description": "Introducing workspace agents in ChatGPT—Codex-powered agents for teams.\n\nWatch a guided walkthrough of an agent that reviews software requests, checks policy, routes approvals, and opens IT tickets with clear next steps.",
+      "duration": "PT1M33S",
+      "view_count": 1517,
+      "like_count": 38,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-27T17:45:52Z",
+    "count": 5
+  }
+}
