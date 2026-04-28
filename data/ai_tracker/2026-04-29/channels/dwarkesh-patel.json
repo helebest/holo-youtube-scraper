@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-04-29",
+  "result": [
+    {
+      "id": "MjL7CCNjeSg",
+      "title": "Why You Shouldn't Trust the Pentagon's Promise on AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-27T20:08:29Z",
+      "description": "",
+      "duration": "PT1M36S",
+      "view_count": 37925,
+      "like_count": 1439,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=MjL7CCNjeSg"
+    },
+    {
+      "id": "unAEMjpvnkk",
+      "title": "Are we racing China just to become China?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-26T19:14:14Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 82568,
+      "like_count": 2318,
+      "comment_count": 192,
+      "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
+    },
+    {
+      "id": "pX9L8E-EiE4",
+      "title": "Pamphlets, Newspapers, and the Birth of the Magazine — Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-25T19:15:55Z",
+      "description": "",
+      "duration": "PT2M36S",
+      "view_count": 157611,
+      "like_count": 5368,
+      "comment_count": 113,
+      "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
+    },
+    {
+      "id": "woHlKPQycjw",
+      "title": "Why the Inquisition Could Never Catch a Single Printer - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-24T21:06:50Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 30398,
+      "like_count": 1289,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
+    },
+    {
+      "id": "Ohvy6aiE5J4",
+      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-23T21:17:13Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 42041,
+      "like_count": 1292,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-28T17:58:04Z",
+    "count": 5
+  }
+}

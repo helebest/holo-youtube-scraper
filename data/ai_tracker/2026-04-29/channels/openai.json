@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-04-29",
+  "result": [
+    {
+      "id": "9-TVwv6wtGQ",
+      "title": "What happens now that AI is good at math? — the OpenAI Podcast Ep. 17",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-28T17:01:01Z",
+      "description": "Math is one of the clearest ways to see how far AI has come in a short span. OpenAI researchers Sébastien Bubeck and Ernest Ryu join host Andrew Mayne to explain what changed and what it could mean for the future of research. They reflect on how Ernest used ChatGPT to help solve a 42-year-old open problem, the difference between deep literature search and original mathematical discovery, and what changes when AI can work over longer timelines. \n\nChapters\n\n01:27 The surprising progress of AI’s math capabilities \n03:01 Solving an open problem with ChatGPT\n06:57 How models went from basic math to research level\n11:32 Why math matters for AGI\n14:26 AI and the Erdős problems\n21:26 Building an automated researcher\n28:19 The role of humans as models improve\n33:52 Verifying proofs with AI\n36:00 The risk of shallow understanding\n41:19 Advice for learning math with ChatGPT",
+      "duration": "PT43M29S",
+      "view_count": 2228,
+      "like_count": 123,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=9-TVwv6wtGQ"
+    },
+    {
+      "id": "gpj9YWbr3IQ",
+      "title": "ChatGPT Helps Runs Small Business | The Floral Hire",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-28T16:10:56Z",
+      "description": "Meet Becky, founder of The Floral Hire. Running a small business means doing a bit of everything — from customer conversations to planning, admin, and creative work. Becky shares how she’s using ChatGPT to support some of that everyday workload, helping her save time and focus more on the parts of her business she loves most.\n\nSee how AI can fit into real small business life: https://chatgpt.com/overview",
+      "duration": "PT2M3S",
+      "view_count": 1505,
+      "like_count": 135,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=gpj9YWbr3IQ"
+    },
+    {
+      "id": "2TGHO4apQ5I",
+      "title": "Ritu vs Case Files | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-27T11:12:22Z",
+      "description": "Space for focused work with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 9039,
+      "like_count": 290,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=2TGHO4apQ5I"
+    },
+    {
+      "id": "fuO669ienMY",
+      "title": "Reddys vs Retirement | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-25T07:37:25Z",
+      "description": "Start your second innings with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 14224,
+      "like_count": 344,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=fuO669ienMY"
+    },
+    {
+      "id": "GNEbX8EvDlg",
+      "title": "Introducing GPT-5.5 with Perplexity",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-24T20:13:48Z",
+      "description": "“I thought building this internal tool was going to take me days…but with Codex and GPT-5.5, I was able to do it in under an hour.”\n\nDenis from Perplexity saw GPT-5.5 cut token usage by 56% while running the same agentic workflows faster and more efficiently. \n\nBuild with GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M6S",
+      "view_count": 36718,
+      "like_count": 727,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-28T17:58:10Z",
+    "count": 5
+  }
+}

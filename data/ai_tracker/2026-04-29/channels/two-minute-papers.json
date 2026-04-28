@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-04-29",
+  "result": [
+    {
+      "id": "yzajLZXh9JU",
+      "title": "Why AI Videos Still Feel Wrong",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-28T17:16:01Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/MOTIVE/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "duration": "PT9M35S",
+      "view_count": 1827,
+      "like_count": 222,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=yzajLZXh9JU"
+    },
+    {
+      "id": "Xf_v62TQOx4",
+      "title": "NVIDIA's New AI Broke My Brain",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-25T17:09:47Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper  is available here:\nhttps://nvlabs.github.io/GEAR-SONIC/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
+      "duration": "PT9M52S",
+      "view_count": 64422,
+      "like_count": 3065,
+      "comment_count": 328,
+      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4"
+    },
+    {
+      "id": "Sk9tvyRSCgY",
+      "title": "DeepMind’s New AI: A Gift To Humanity",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-16T17:44:48Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks:\nhttps://deepmind.google/models/gemma/gemma-4/\nhttps://ai.google.dev/gemma/docs/core/model_card_4\n\nFine tuning with Matt Mireles: https://x.com/mattmireles/status/2041606508220489786\n\nOther sources:\nhttps://x.com/googlegemma/status/2041256042882105666?s=46\nhttps://x.com/nakazakifam/status/2041286410930446370\nhttps://x.com/measure_plan/status/2039815699695104343\nhttps://x.com/maddiedreese/status/2041677327604838685?s=46\nhttps://x.com/steipete/status/2042615534567457102?s=46\nhttps://x.com/maziyarpanahi/status/2042592050940449260?s=46\nhttps://x.com/adrgrondin/status/2041962263507083340?s=46\nhttps://x.com/evgeniymikholap/status/2041104232648950170\nhttps://www.youtube.com/watch?v=u4ydH-QvPeg\nhttps://www.reddit.com/r/learnmachinelearning/comments/1sjs14m/implementing_gemma_3_and_sliding_window_attention/\nhttps://www.reddit.com/r/Anthropic/comments/1lxhmb4/claude_ban_for_no_reason/\nhttps://www.tldrlegal.com/license/apache-license-2-0-apache-2-0\nhttps://x.com/MaziyarPanahi/status/2043675576452706814\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "duration": "PT11M56S",
+      "view_count": 138565,
+      "like_count": 8874,
+      "comment_count": 564,
+      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY"
+    },
+    {
+      "id": "Ersv1ogj7Jo",
+      "title": "Anthropic’s New AI Solves Problems…By Cheating",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-14T14:50:00Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/claude-mythos-preview-system-card\n\nLinks and sources:\nhttps://debugml.github.io/cheating-agents/\nhttps://x.com/bstnxbt/status/2042967285715865685\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n#anthropic #mythos",
+      "duration": "PT9M31S",
+      "view_count": 162155,
+      "like_count": 7504,
+      "comment_count": 699,
+      "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo"
+    },
+    {
+      "id": "mFSFvKquXwI",
+      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-04-11T16:23:48Z",
+      "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://dreamdojo-world.github.io/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#NVIDIA",
+      "duration": "PT9M9S",
+      "view_count": 53771,
+      "like_count": 2858,
+      "comment_count": 200,
+      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-28T17:58:07Z",
+    "count": 5
+  }
+}

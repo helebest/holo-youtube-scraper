@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-04-29",
+  "result": [
+    {
+      "id": "dxksuLBJujA",
+      "title": "Making Sense of the Early Universe",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-23T15:14:42Z",
+      "description": "When the first images from the James Webb Space Telescope began returning data in 2022, UC Santa Cruz professor Brant Robertson and his colleagues did what astronomers have always done: They stared at the sky and tried to understand what they were seeing. This time, the sky arrived as terabytes. \n\nHere's a look at how AI and GPUs are helping astronomers like Robertson work through unprecedented volumes of cosmic data.\n\nRead more on the NVIDIA Blog: https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
+      "duration": "PT3M",
+      "view_count": 84744,
+      "like_count": 3671,
+      "comment_count": 308,
+      "url": "https://www.youtube.com/watch?v=dxksuLBJujA"
+    },
+    {
+      "id": "2aR8JTtIP4A",
+      "title": "How Earth-2 Delivers Global AI Weather Forecasts on Demand",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-22T17:58:48Z",
+      "description": "At NVIDIA GTC, Mike Pritchard, director of climate simulation research at NVIDIA, discussed how the Earth-2 family of open AI models, libraries and frameworks accelerates all stages of weather prediction.",
+      "duration": "PT1M41S",
+      "view_count": 8232,
+      "like_count": 194,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=2aR8JTtIP4A"
+    },
+    {
+      "id": "9YyS1R4xZ0M",
+      "title": "One Brain, Any Robot: Skild AI's Skild Brain Explained | NVIDIA AI Podcast Ep. 295",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-22T16:00:16Z",
+      "description": "What if one AI brain could run every robot on the planet—a humanoid, a warehouse arm, and a dog-like inspection bot—all at once?\n\nThat's not a thought experiment. That's what Skild AI is building right now.\n\nDeepak Pathak (CEO and Co-Founder) and Abhinav Gupta (President and Co-Founder) of Skild AI break down Skild Brain—a universal, general-purpose AI model designed to power robots of any form factor, tackling any task, from a single shared intelligence.\n\n\n🔬 Topics covered:\n\nWhy robotics is fundamentally a data problem—and why there's no \"internet of robot data\"\n\nSkild's three-layer data strategy: real robot teleoperation, video pretraining, and simulation\n\nHow the pretraining/post-training recipe that made LLMs work is now being applied to physical AI\n\nThe data flywheel—how every robot deployment makes the shared brain smarter for the next task\n\nThe deployment roadmap: factories and warehouses → hospitals and hotels → home consumer robots\n\nSkild's NVIDIA partnership: co-developing Newton physics solvers and using Cosmos for data augmentation, Isaac Sim for simulation, and edge compute for on-device robot inference\n\nHow Skild tests Skild Brain before deployment—from task KPIs to generalization stress tests to safety guardrails\n\nWhen will robots actually be ready for your home? The co-founders give their honest (and surprisingly humble) take\n\n\n🔗 Resources mentioned:\n\nSkild AI: https://www.skild.ai\n\nSkild AI Blog: https://www.skild.ai/blogs\n\n\n\nChapters:\n\n00:00 Introduction: What is Skild AI?\n03:19 Why robotics needs a horizontal platform\n03:50 The 90% wall: how corner cases killed traditional robotics\n08:34 The three sources of robot training data\n10:57 Pretraining vs. post-training in physical AI\n16:32 The data flywheel and cross-vertical deployment strategy\n17:34 How Skild AI works with NVIDIA (Isaac Sim, Cosmos, Newton, edge compute)\n18:59 Testing Skild Brain: task KPIs, generalization, safety guardrails\n23:06 The future of robotics: factories now, homes later?\n27:54 What's next for Skild AI",
+      "duration": "PT29M48S",
+      "view_count": 3191,
+      "like_count": 100,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=9YyS1R4xZ0M"
+    },
+    {
+      "id": "D8wSXABcW-A",
+      "title": "How AI is Transforming Manufacturing End-to-End",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-20T08:33:05Z",
+      "description": "#PhysicalAI is reshaping manufacturing from design to factory floor. Leaders from @abb , @JLRYouTube, and @TulipInterfaces reveal how AI-powered simulation, synthetic data, and real-time video analytics are driving breakthrough efficiency across the full product lifecycle. \n\nRead the full #HM26 blog: https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe\n\nDiscovery synthetic data for physical AI → https://www.nvidia.com/en-us/use-cases/synthetic-data-physical-ai/\n\nRead about industrial facility digital twin use cases: https://www.nvidia.com/en-us/use-cases/industrial-facility-digital-twins/\n\nExplore video analytics AI agent use cases: https://www.nvidia.com/en-us/use-cases/video-analytics-ai-agents/\n\nLearn how to close the Sim-to-real gap with NVIDIA Isaac: https://developer.nvidia.com/isaac\n\nSee how NVIDIA accelerates Computational Fluid Dynamics (CFD) Simulation: https://www.nvidia.com/en-us/use-cases/computational-fluid-dynamics-simulation/\n\n#industrialAI\n#industrial \n#manufacturing",
+      "duration": "PT3M24S",
+      "view_count": 19429,
+      "like_count": 712,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=D8wSXABcW-A"
+    },
+    {
+      "id": "AfAeFamEpXI",
+      "title": "AI is a technology that everybody should know how to use",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-17T19:16:16Z",
+      "description": "\"AI is an incredible technology that everybody should know how to use.\" — Jensen Huang\n\nAcross industries, AI is elevating what all of us are capable of.",
+      "duration": "PT1M18S",
+      "view_count": 12430,
+      "like_count": 567,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=AfAeFamEpXI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-28T17:58:09Z",
+    "count": 5
+  }
+}
