@@ -14,14 +14,38 @@
   "date": "2026-04-28",
   "result": [
     {
+      "id": "9o9eztsF1Ss",
+      "title": "Try on @nike City Edition jerseys with Search 🏀✨",
+      "channel_title": "Google",
+      "published_at": "2026-04-27T22:03:20Z",
+      "description": "See the fit before you buy. Open Google, search for any team jersey, select the product, and tap “Try it on.”\n\n(Visuals and morphing video created with #Veo.)",
+      "duration": "PT20S",
+      "view_count": 4070,
+      "like_count": 92,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=9o9eztsF1Ss"
+    },
+    {
+      "id": "x6Ix0RVd7yk",
+      "title": "Search What You See: The Tech Behind The Magic | Made by Google Podcast S9E4",
+      "channel_title": "Google",
+      "published_at": "2026-04-27T19:01:51Z",
+      "description": "You see an outfit you love, but it’s not just the jacket you want—it’s the entire vibe. What if you could search for it all at once? In this episode, host Rachid Finge sits down with Product Manager Harsh Kharbanda to explore the next generation of Circle to Search, now available on Pixel 10. Discover how new multi-object recognition allows you to search an entire scene, from deconstructing a full outfit with 'Find the Look' to identifying every fish in an aquarium. Learn how advanced AI is making it easier than ever to satisfy your curiosity and shop for the whole picture, not just a single piece.\n\n01:28 – The Shift from Camera to Screen\n07:18 – Introducing \"Find the Look\"\n10:34 – The Virtual \"Try it On\" Tool\n14:43 – Beyond Fashion: Skincare, Design, and Facts\n\n#AI #CircleToSearch #MadeByGoogle #TechPodcast \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT19M57S",
+      "view_count": 5393,
+      "like_count": 178,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=x6Ix0RVd7yk"
+    },
+    {
       "id": "NBOYISh5jC4",
       "title": "Build Apps for Your Friends (Vibe Coding)",
       "channel_title": "Google",
       "published_at": "2026-04-24T19:44:51Z",
       "description": "In this video, we show you how you can surprise your community with personalized apps, cards, and interactive experiences built on Google AI Studio. First, we vibe code a custom card generator that we can tailor to different tastes and celebrations. Then, we use two shorter prompts to build interactive experiences that will surprise and delight our friends. Building with Gemini can be so fun! \n#VibeCoding #BuildWithGemini #AIStudio \n\nHere are the prompts for the second two builds: \nFortune cookie card: Build an interactive, single-page digital birthday card using HTML, CSS, and JavaScript that features a surprise 'fortune cookie' reveal. The initial view should display a large, illustrated fortune cookie resting on a festive background with a pulsing button that says 'Crack me open for your birthday fortune!' When the user clicks the cookie, trigger a smooth CSS animation that splits the cookie in half, revealing a small paper slip sliding out from the center. The text on the slip should be dynamically pulled from an array of fun, personalized birthday wishes. Once the paper is fully revealed, trigger a JavaScript confetti library to create a burst of celebratory confetti across the entire screen. Add a subtle sound effect when the cookie is clicked and another one for the confetti burst. \n\nInteractive garden card for mom: Build me a mother's day experience. She loves summer days and lilies. Make it interactive and add animations. Imagine a scene that is a never ending garden scene hand sketched on a summer day. And every corner there is a message for mom. She has to look around. Use the whole screen.\n\nWe have a lot of educational tutorials coming, so subscribe to this channel and keep an eye out for those! In the meantime, our “Build apps in AI Studio” article is a great resource for getting started: ai.google.dev/gemini-api/docs/aistudio-build-mode \n\nBuild your ideas with Gemini: https://aistudio.google.com/apps\nInfo on how to ship your site or builds here: https://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT2M16S",
-      "view_count": 17674,
-      "like_count": 400,
+      "view_count": 18713,
+      "like_count": 405,
       "comment_count": 74,
       "url": "https://www.youtube.com/watch?v=NBOYISh5jC4"
     },
@@ -32,9 +56,9 @@
       "published_at": "2026-04-24T15:55:28Z",
       "description": "It’s Cup season. Time to revisit our favo(u)rite players.",
       "duration": "PT8S",
-      "view_count": 19846,
-      "like_count": 335,
-      "comment_count": 180,
+      "view_count": 21443,
+      "like_count": 357,
+      "comment_count": 191,
       "url": "https://www.youtube.com/watch?v=cdnv-k10S38"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-04-23T22:12:08Z",
       "description": "At #GoogleCloudNext, we announced our 8th generation TPUs: TPU 8t and TPU 8i. Now, we’re breaking down what a TPU actually is, how it’s different from a CPU, plus some key context on how our 8th generation TPU system works.",
       "duration": "PT1M12S",
-      "view_count": 22083,
-      "like_count": 776,
+      "view_count": 23181,
+      "like_count": 798,
       "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=eATdZCyw430"
-    },
-    {
-      "id": "By1GWWYN2Eg",
-      "title": "Which move makes your ultimate highlight reel?",
-      "channel_title": "Google",
-      "published_at": "2026-04-22T21:10:20Z",
-      "description": "Both moves are iconic – but which one are you hoping to see in the next game? Drop your answer in the comments and let us know if you’ll be tuning in to catch more @NBA Playoffs action 👀",
-      "duration": "PT14S",
-      "view_count": 18543,
-      "like_count": 330,
-      "comment_count": 33,
-      "url": "https://www.youtube.com/watch?v=By1GWWYN2Eg"
-    },
-    {
-      "id": "K3ynt_Z0gOw",
-      "title": "Celebrating our beautiful planet #GoogleDoodle",
-      "channel_title": "Google",
-      "published_at": "2026-04-22T14:17:53Z",
-      "description": "No place like home 🌎 Today we celebrate Earth Day with a cinematic voyage through the hidden corners of the world and the beautiful wonders of this planet. Here is a closer look at the landscapes that created today’s #GoogleDoodle:  \n\nG – United Kingdom, Europe\n\nO – Canada, North America\n\nO – Argentina, South America\n\nG – Australia, Oceania\n\nL – Senegal, Africa \n\nE – Indonesia, Asia\n\nExplore for yourself on Google Earth or using Satellite View on Google Maps. \n\nImages courtesy of Airbus, Vexcel Imaging U.S. Inc., Data SIO, NOAA, U.S. Navy, NGA, GEBCO, Maxar Technologies, Landsat / Copernicus, CNES / Airbus",
-      "duration": "PT1M2S",
-      "view_count": 32830,
-      "like_count": 897,
-      "comment_count": 66,
-      "url": "https://www.youtube.com/watch?v=K3ynt_Z0gOw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-27T17:45:53Z",
+    "generated_at": "2026-04-28T07:10:59Z",
     "count": 5
   }
 }

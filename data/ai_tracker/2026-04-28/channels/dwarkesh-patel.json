@@ -14,15 +14,27 @@
   "date": "2026-04-28",
   "result": [
     {
+      "id": "MjL7CCNjeSg",
+      "title": "Why You Shouldn't Trust the Pentagon's Promise on AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-27T20:08:29Z",
+      "description": "",
+      "duration": "PT1M36S",
+      "view_count": 25259,
+      "like_count": 975,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=MjL7CCNjeSg"
+    },
+    {
       "id": "unAEMjpvnkk",
       "title": "Are we racing China just to become China?",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-26T19:14:14Z",
       "description": "",
       "duration": "PT1M26S",
-      "view_count": 66873,
-      "like_count": 1998,
-      "comment_count": 146,
+      "view_count": 79339,
+      "like_count": 2199,
+      "comment_count": 180,
       "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-25T19:15:55Z",
       "description": "",
       "duration": "PT2M36S",
-      "view_count": 74355,
-      "like_count": 3141,
-      "comment_count": 66,
+      "view_count": 124318,
+      "like_count": 4499,
+      "comment_count": 104,
       "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-24T21:06:50Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 26581,
-      "like_count": 1157,
-      "comment_count": 54,
+      "view_count": 28593,
+      "like_count": 1230,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-23T21:17:13Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 30486,
-      "like_count": 1087,
-      "comment_count": 17,
+      "view_count": 38541,
+      "like_count": 1236,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
-    },
-    {
-      "id": "DZSQqObfnfE",
-      "title": "Jensen Huang on Why Nvidia Passed on Anthropic the First Time",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-22T18:59:53Z",
-      "description": "",
-      "duration": "PT1M7S",
-      "view_count": 213049,
-      "like_count": 3020,
-      "comment_count": 113,
-      "url": "https://www.youtube.com/watch?v=DZSQqObfnfE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-27T17:45:47Z",
+    "generated_at": "2026-04-28T07:10:54Z",
     "count": 5
   }
 }
