@@ -14,15 +14,27 @@
   "date": "2026-04-29",
   "result": [
     {
+      "id": "5Wvpc_2-7-U",
+      "title": "AI Regulation's Authoritarian Problem",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-28T20:00:46Z",
+      "description": "",
+      "duration": "PT1M20S",
+      "view_count": 10599,
+      "like_count": 346,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=5Wvpc_2-7-U"
+    },
+    {
       "id": "MjL7CCNjeSg",
       "title": "Why You Shouldn't Trust the Pentagon's Promise on AI",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-27T20:08:29Z",
       "description": "",
       "duration": "PT1M36S",
-      "view_count": 37925,
-      "like_count": 1439,
-      "comment_count": 56,
+      "view_count": 53315,
+      "like_count": 1795,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=MjL7CCNjeSg"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-26T19:14:14Z",
       "description": "",
       "duration": "PT1M26S",
-      "view_count": 82568,
-      "like_count": 2318,
-      "comment_count": 192,
+      "view_count": 85566,
+      "like_count": 2407,
+      "comment_count": 201,
       "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-25T19:15:55Z",
       "description": "",
       "duration": "PT2M36S",
-      "view_count": 157611,
-      "like_count": 5368,
-      "comment_count": 113,
+      "view_count": 186520,
+      "like_count": 6254,
+      "comment_count": 125,
       "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-24T21:06:50Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 30398,
-      "like_count": 1289,
-      "comment_count": 60,
+      "view_count": 32540,
+      "like_count": 1373,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=woHlKPQycjw"
-    },
-    {
-      "id": "Ohvy6aiE5J4",
-      "title": "How Royal Wedding Gossip Saved the Printing Press - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-23T21:17:13Z",
-      "description": "",
-      "duration": "PT49S",
-      "view_count": 42041,
-      "like_count": 1292,
-      "comment_count": 18,
-      "url": "https://www.youtube.com/watch?v=Ohvy6aiE5J4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-28T17:58:04Z",
+    "generated_at": "2026-04-29T06:40:33Z",
     "count": 5
   }
 }
