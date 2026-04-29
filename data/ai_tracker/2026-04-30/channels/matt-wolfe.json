@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-04-30",
+  "result": [
+    {
+      "id": "jsZ1ey43Tcg",
+      "title": "You’re Losing Money Not Using This New AI Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-29T12:09:21Z",
+      "description": "✅ SAVE this video to reference these prompts later!\n\nIf you're not using ChatGPT's insane new image model (ChatGPT Images 2.0) to create assets for your business, you're leaving money on the table. \n\nSo here are a few prompt ideas you can use to create amazing brand assets that look professional without the price tag.\n\n#AI #genAI #chatgpt #aihacks #smallbusiness",
+      "duration": "PT50S",
+      "view_count": 1809,
+      "like_count": 62,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=jsZ1ey43Tcg"
+    },
+    {
+      "id": "2u_T68P9H_U",
+      "title": "ChatGPT Images Just Got Way Better (Here's Why)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-28T17:37:44Z",
+      "description": "Here's a breakdown of tons of cool ways to use the brand new ChatGPT Image model. Check out cool AI tools here: https://futuretools.io\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT33M32S",
+      "view_count": 35691,
+      "like_count": 1634,
+      "comment_count": 191,
+      "url": "https://www.youtube.com/watch?v=2u_T68P9H_U"
+    },
+    {
+      "id": "gOhcHit63eQ",
+      "title": "This \"Dangerous\" AI Model Just Got Hacked",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-28T12:40:30Z",
+      "description": "The AI model Anthropic said was “too dangerous” to release to the public… just reportedly got hacked by unauthorized users 😳\n\nAnthropic says there’s no evidence the unauthorized access impacted any systems—but this also kind of feels like a scenario where we won't know the true impact until we see the damage. \n\n#AI #Ainews #mythos #claude #anthropic",
+      "duration": "PT53S",
+      "view_count": 14000,
+      "like_count": 225,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=gOhcHit63eQ"
+    },
+    {
+      "id": "5TiuGoLzAwE",
+      "title": "ChatGPT Images 2.0 Is Actually Crazy",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-27T12:03:28Z",
+      "description": "ChatGPT Images 2.0 has officially dethroned Nano Banana!\n\nIt’s better at consistent characters, cleaner text inside images, stronger editing, and way more control over the final result.\n\nThis is one of the biggest releases this week and I can see why. \n\nHave you tried it yourself, and what do you think?\n\nAnd for full reviews of this and all the other AI releases, check out my latest video linked here.\n\n#AI #AInews #chatgptimages #chatgpt #openai",
+      "duration": "PT1M5S",
+      "view_count": 11060,
+      "like_count": 294,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=5TiuGoLzAwE"
+    },
+    {
+      "id": "TRvGr1x7h5w",
+      "title": "The Most Underrated Claude Feature Right Now",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-04-26T13:56:30Z",
+      "description": "Claude Design might be one of the coolest AI releases in a while.\n\nIt can actually turn your ideas into polished visuals like landing pages, mockups, presentations, brand concepts, UI layouts, and more.\n\nFor creators, marketers, founders, and anyone building online, this is the kind of tool that can save hours.\n\nHave you tried Claude Design yet?\n\nAnd for full reviews of this and all the other AI releases this week, check out my latest video linked here.\n\n#AI #AInews #claude #anthropic #creatortools",
+      "duration": "PT52S",
+      "view_count": 8814,
+      "like_count": 184,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=TRvGr1x7h5w"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-29T17:53:28Z",
+    "count": 5
+  }
+}

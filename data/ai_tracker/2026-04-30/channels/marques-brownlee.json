@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-04-30",
+  "result": [
+    {
+      "id": "7YrdI7h2XoY",
+      "title": "Glass is glass",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-24T20:41:58Z",
+      "description": "Glass is glass. A bit of a rant/explainer/PSA\n\nFor more lies tech companies tell: https://youtu.be/JstGCPsj9wg?si=AUjR2F7aJNuAS85U\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT4M46S",
+      "view_count": 2531556,
+      "like_count": 109575,
+      "comment_count": 4057,
+      "url": "https://www.youtube.com/watch?v=7YrdI7h2XoY"
+    },
+    {
+      "id": "c347oYQO57A",
+      "title": "So This is Peak Smartphone",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-21T17:01:53Z",
+      "description": "Peak slab phone in 2026 looks a lot like a camera attached to a phone\n\nAuto Focus shot on Oppo Find X9 Ultra: https://youtu.be/9s69aThM7rA?si=x8qW7F4MorY2qgRp\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT13M17S",
+      "view_count": 4071246,
+      "like_count": 115411,
+      "comment_count": 5751,
+      "url": "https://www.youtube.com/watch?v=c347oYQO57A"
+    },
+    {
+      "id": "5aS-8QCRdGE",
+      "title": "The Unreleased Rollable Smartphone!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-14T19:30:41Z",
+      "description": "This phone never came out. But they got really close to dropping a rollable phone\n\nJerryRigEverything teardown: https://youtu.be/vDMpANNGND4?si=ks0m5gQBYJkiiEVZ\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT9M59S",
+      "view_count": 2031145,
+      "like_count": 69651,
+      "comment_count": 4508,
+      "url": "https://www.youtube.com/watch?v=5aS-8QCRdGE"
+    },
+    {
+      "id": "s3DrGkDvgNw",
+      "title": "Every Google Phone Ever. Same Picture!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-08T20:43:49Z",
+      "description": "All Pixel and Nexus phones",
+      "duration": "PT49S",
+      "view_count": 914822,
+      "like_count": 40042,
+      "comment_count": 1225,
+      "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
+    },
+    {
+      "id": "as_NEJAP8ew",
+      "title": "Every Samsung Phone. SAME Photo!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-07T21:06:16Z",
+      "description": "Holy HDR",
+      "duration": "PT43S",
+      "view_count": 1224865,
+      "like_count": 55889,
+      "comment_count": 1847,
+      "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-29T17:53:25Z",
+    "count": 5
+  }
+}
