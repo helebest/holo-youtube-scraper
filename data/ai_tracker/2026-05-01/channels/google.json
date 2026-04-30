@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-05-01",
+  "result": [
+    {
+      "id": "u9O1TGBbBys",
+      "title": "100 years of Route 66 #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-04-30T17:21:56Z",
+      "description": "Ready for a road trip? 🚗💨🛣️⛽☕ Route 66 turns 100 this year, and today’s #GoogleDoodle pays tribute to the legendary Mother Road with some of the historic letterforms and road signs that make the route memorable. How many of these icons do you recognize? \n\nG — Delgadillo's Snow Cap Drive-In, California\n\nO — Blue Swallow Motel, New Mexico\n\nO — Historic Route 66 Motel sign, Arizona \n\nG — Munger Moss Motel, Missouri\n\nL — Munger Moss Motel, Missouri\n\nE — Blue Swallow Motel, New Mexico \n\nCheck out Route 66 on Google Maps to help plan your trip.\n\n📸 Letterforms captured by Pics On Route 66 photographer David J. Schwartz.",
+      "duration": "PT9S",
+      "view_count": 124,
+      "like_count": 5,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=u9O1TGBbBys"
+    },
+    {
+      "id": "yPHTAEtl7Ok",
+      "title": "How much court does Giannis cover with his Euro step? Google Search did the math 👀",
+      "channel_title": "Google",
+      "published_at": "2026-04-29T18:42:13Z",
+      "description": "#sponsored They call the Euro Step a cheat code, but the math behind it is kinda wild. Here is what Google Search revealed about how much ground Giannis covers…👀",
+      "duration": "PT1M2S",
+      "view_count": 9030,
+      "like_count": 357,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=yPHTAEtl7Ok"
+    },
+    {
+      "id": "M9mAufki0Ik",
+      "title": "What’s New in Google Accessibility | Episode 12 | American Sign Language",
+      "channel_title": "Google",
+      "published_at": "2026-04-28T13:59:59Z",
+      "description": "Welcome back to another episode of What's New in Google Accessibility, a series where we share the latest product and feature updates that help make Google more accessible for everyone. In this episode, we'll tell you about updates on Android, Pixel, YouTube, Chrome Browser, and Gemini. \n\nCheck out our full series at https://g.co/a11y/playlist \nTo watch this video without American Sign Language (ASL) interpretation, please click here: https://youtu.be/s0M79zWRKps\nTo learn more, sign up for our accessibility newsletter at: https://g.co/a11y/news \n\n0:00 Introduction\n0:25 Left and Right Ear Controls | Android  \n1:01 Talkback Keyboard Shortcut | Android \n1:24 3-Button Navigation | Android \n1:55 Mouse Keys Feature | Android \n2:08 Voice Access | Android \n3:22 Guided Frame | Pixel \n4:31 Caret Browsing | Chrome \n5:20 Voice Boost | YouTube\n5:45 Tips for the neurodivergent community| Gemini\n7:11 Closing\n\n#WhatsNewInGoogle #Accessibility #Google #a11y \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT7M43S",
+      "view_count": 3817,
+      "like_count": 47,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=M9mAufki0Ik"
+    },
+    {
+      "id": "s0M79zWRKps",
+      "title": "What’s New in Google Accessibility | Episode 12",
+      "channel_title": "Google",
+      "published_at": "2026-04-28T13:59:51Z",
+      "description": "Welcome back to another episode of What's New in Google Accessibility, a series where we share the latest product and feature updates that help make Google more accessible for everyone. In this episode, we'll tell you about updates on Android, Pixel, YouTube, Chrome Browser, and Gemini. \n\nCheck out our full series at https://g.co/a11y/playlist \nTo watch this video with American Sign Language (ASL) interpretation, please click here: https://youtu.be/M9mAufki0Ik\nTo learn more, sign up for our accessibility newsletter at: https://g.co/a11y/news \n\n0:00 Introduction\n0:25 Left and Right Ear Controls | Android  \n1:01 Talkback Keyboard Shortcut | Android \n1:24 3-Button Navigation | Android \n1:55 Mouse Keys Feature | Android \n2:08 Voice Access | Android \n3:22 Guided Frame | Pixel \n4:31 Caret Browsing | Chrome \n5:20 Voice Boost | YouTube\n5:45 Tips for the neurodivergent community| Gemini\n7:11 Closing\n\n#WhatsNewInGoogle #Accessibility #Google #a11y \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT7M43S",
+      "view_count": 3361,
+      "like_count": 82,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=s0M79zWRKps"
+    },
+    {
+      "id": "9o9eztsF1Ss",
+      "title": "Try on @nike City Edition jerseys with Search 🏀✨",
+      "channel_title": "Google",
+      "published_at": "2026-04-27T22:03:20Z",
+      "description": "See the fit before you buy. Open Google, search for any team jersey, select the product, and tap “Try it on.”\n\n(Visuals and morphing video created with #Veo.)",
+      "duration": "PT20S",
+      "view_count": 17917,
+      "like_count": 247,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=9o9eztsF1Ss"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-04-30T17:48:14Z",
+    "count": 5
+  }
+}
