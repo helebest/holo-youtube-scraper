@@ -14,15 +14,39 @@
   "date": "2026-04-30",
   "result": [
     {
+      "id": "zEElW51uVwQ",
+      "title": "NVIDIA Delivers the Lowest Token Cost",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-29T23:33:15Z",
+      "description": "When it comes to inference TCO, token cost is the metric that determines whether AI can scale efficiently and profitably in the real world, not compute cost or FLOPS per dollar.\n\nIt’s the one TCO metric that directly accounts for hardware performance, software optimization, ecosystem support and real-world utilization — and NVIDIA delivers the lowest cost per token in the industry is available through leading providers like CoreWeave, Nebius, Nscale and Together AI.\n\nUnpack why token cost is the most important business metric for AI ⬇️",
+      "duration": "PT39S",
+      "view_count": 1150,
+      "like_count": 46,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=zEElW51uVwQ"
+    },
+    {
+      "id": "z6kFhHPLilE",
+      "title": "Physics-Grounded AI: How Dassault Systèmes Is Redefining Industrial Intelligence - Ep. 296",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-29T18:51:40Z",
+      "description": "Can industrial AI do more than just observe?\n\nNicolas Cerisier, Vice President of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how the shift from SaaS to \"Agent-as-a-Service\" is introducing \"Industry World Models\" that understand the scientific laws of physics and engineering to power autonomous virtual companions.\n\n🎧 Watch the episode: https://nvda.ws/48s9oWj",
+      "duration": "PT19S",
+      "view_count": 921,
+      "like_count": 22,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=z6kFhHPLilE"
+    },
+    {
       "id": "D1x8ewtJAa0",
       "title": "Think You Know AI? 25 Startups Prove You Wrong",
       "channel_title": "NVIDIA",
       "published_at": "2026-04-29T17:02:49Z",
       "description": "AI isn’t just about chatbots and automation—startups are finding unexpected, creative ways to apply it to the world's hardest problems in ways you might not imagine. In this session, we’ll spotlight 25 innovative use cases that reveal the breadth and depth of what’s possible when bold founders with big visions meet cutting-edge technology. Get ready to expand your view of AI’s potential and discover opportunities you didn’t see coming.\n\nChapters:\n0:00 Intro\n2:40 Agriculture\n8:10 Community Protection\n13:25 Environment and Climate\n18:08 Energy Security\n23:43 Individual Safety\n28:44 Next-Gen Science",
       "duration": "PT36M6S",
-      "view_count": 501,
-      "like_count": 47,
-      "comment_count": 14,
+      "view_count": 3703,
+      "like_count": 176,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=D1x8ewtJAa0"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-04-29T16:00:51Z",
       "description": "Generative AI can predict whether a plane takes off—but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how industrial world models go beyond pattern recognition to embed the actual laws of physics, chemistry, and engineering. \n\nIn this episode of the NVIDIA AI Podcast, he also breaks down Dassault's three virtual companions (AURA, LEO, and MARIE), their 25-year collaboration with NVIDIA, and a stunning real-world use case: helping NIAR rebuild aircraft designs part by part, using AI.\n\n🔬Topics covered:\n\nWhat makes industrial world models different from LLMs\n\nVirtual companions as AI coworkers—augmenting, not replacing engineers\n\nIPLM: how Dassault tracks every AI interaction for auditability\n\nHybrid AI model strategy: NIMs, Nemotron, Mistral, + custom fine-tuning\n\nThe future: always-on agents that continuously optimize your factory\n\nChapters:\n00:00 Introduction & Dassault Systèmes Overview\n03:22 Industry World Models Explained\n07:28 Meet the Virtual Companions: Aura, Leo & Marie\n09:58 Trust, Traceability & the NVIDIA Partnership\n14:04 Hybrid AI Strategy & Real-World Use Cases\n20:43 The Future: Always-On Autonomous Agents\n22:05 Where to Learn More & Closing\n\nLearn more: https://blog.3ds.com/topics/company-news/industrial-ai-with-virtual-twins/",
       "duration": "PT23M5S",
-      "view_count": 310,
-      "like_count": 44,
-      "comment_count": 5,
+      "view_count": 1165,
+      "like_count": 65,
+      "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=gsbi7FS8Q30"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-04-23T15:14:42Z",
       "description": "When the first images from the James Webb Space Telescope began returning data in 2022, UC Santa Cruz professor Brant Robertson and his colleagues did what astronomers have always done: They stared at the sky and tried to understand what they were seeing. This time, the sky arrived as terabytes. \n\nHere's a look at how AI and GPUs are helping astronomers like Robertson work through unprecedented volumes of cosmic data.\n\nRead more on the NVIDIA Blog: https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
       "duration": "PT3M",
-      "view_count": 87556,
-      "like_count": 3797,
-      "comment_count": 317,
+      "view_count": 88409,
+      "like_count": 3821,
+      "comment_count": 321,
       "url": "https://www.youtube.com/watch?v=dxksuLBJujA"
-    },
-    {
-      "id": "2aR8JTtIP4A",
-      "title": "How Earth-2 Delivers Global AI Weather Forecasts on Demand",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-04-22T17:58:48Z",
-      "description": "At NVIDIA GTC, Mike Pritchard, director of climate simulation research at NVIDIA, discussed how the Earth-2 family of open AI models, libraries and frameworks accelerates all stages of weather prediction.",
-      "duration": "PT1M41S",
-      "view_count": 8352,
-      "like_count": 195,
-      "comment_count": 12,
-      "url": "https://www.youtube.com/watch?v=2aR8JTtIP4A"
-    },
-    {
-      "id": "9YyS1R4xZ0M",
-      "title": "One Brain, Any Robot: Skild AI's Skild Brain Explained | NVIDIA AI Podcast Ep. 295",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-04-22T16:00:16Z",
-      "description": "What if one AI brain could run every robot on the planet—a humanoid, a warehouse arm, and a dog-like inspection bot—all at once?\n\nThat's not a thought experiment. That's what Skild AI is building right now.\n\nDeepak Pathak (CEO and Co-Founder) and Abhinav Gupta (President and Co-Founder) of Skild AI break down Skild Brain—a universal, general-purpose AI model designed to power robots of any form factor, tackling any task, from a single shared intelligence.\n\n\n🔬 Topics covered:\n\nWhy robotics is fundamentally a data problem—and why there's no \"internet of robot data\"\n\nSkild's three-layer data strategy: real robot teleoperation, video pretraining, and simulation\n\nHow the pretraining/post-training recipe that made LLMs work is now being applied to physical AI\n\nThe data flywheel—how every robot deployment makes the shared brain smarter for the next task\n\nThe deployment roadmap: factories and warehouses → hospitals and hotels → home consumer robots\n\nSkild's NVIDIA partnership: co-developing Newton physics solvers and using Cosmos for data augmentation, Isaac Sim for simulation, and edge compute for on-device robot inference\n\nHow Skild tests Skild Brain before deployment—from task KPIs to generalization stress tests to safety guardrails\n\nWhen will robots actually be ready for your home? The co-founders give their honest (and surprisingly humble) take\n\n\n🔗 Resources mentioned:\n\nSkild AI: https://www.skild.ai\n\nSkild AI Blog: https://www.skild.ai/blogs\n\n\n\nChapters:\n\n00:00 Introduction: What is Skild AI?\n03:19 Why robotics needs a horizontal platform\n03:50 The 90% wall: how corner cases killed traditional robotics\n08:34 The three sources of robot training data\n10:57 Pretraining vs. post-training in physical AI\n16:32 The data flywheel and cross-vertical deployment strategy\n17:34 How Skild AI works with NVIDIA (Isaac Sim, Cosmos, Newton, edge compute)\n18:59 Testing Skild Brain: task KPIs, generalization, safety guardrails\n23:06 The future of robotics: factories now, homes later?\n27:54 What's next for Skild AI",
-      "duration": "PT29M48S",
-      "view_count": 3304,
-      "like_count": 102,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=9YyS1R4xZ0M"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-29T17:53:25Z",
+    "generated_at": "2026-04-30T06:44:37Z",
     "count": 5
   }
 }

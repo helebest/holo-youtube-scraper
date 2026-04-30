@@ -14,15 +14,27 @@
   "date": "2026-04-30",
   "result": [
     {
+      "id": "ocNtu-p7DeE",
+      "title": "The Man Who Saved the World by Disobeying and What It Means for AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-29T19:22:31Z",
+      "description": "",
+      "duration": "PT1M38S",
+      "view_count": 11141,
+      "like_count": 584,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=ocNtu-p7DeE"
+    },
+    {
       "id": "xmkSf5IS-zw",
-      "title": "The math behind how LLMs are trained and served – Reiner Pope",
+      "title": "How GPT-5, Claude, and Gemini are actually trained and served – Reiner Pope",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-04-29T17:20:27Z",
-      "description": "Did a very different format with Reiner Pope – a blackboard lecture where he walks through how frontier LLMs are trained and served. It's shocking how much you can deduce about what the labs are doing from a handful of equations, public API prices, and some chalk. It’s a bit technical, but I encourage you to hang in there - it’s really worth it. \n\nThere are less than a handful of people who understand the full stack of AI, from chip design to model architecture, as well as Reiner. It was a real delight to learn from him.\n\nReiner is CEO of MatX, a new chip startup (full disclosure - I’m an angel investor). He was previously at Google, where he worked on software efficiency, compilers, and TPU architecture.\n\nDownload markdown of transcript here to chat with an LLM:\nhttps://gist.github.com/dwarkeshsp/79100f0fdeed69d76241903bb0604dbe\n\n0:00:00 – How batch size affects token cost and speed\n0:31:59 – How MoE models are laid out across GPU racks\n0:47:02 – How pipeline parallelism spreads model layers across racks\n1:03:27 – Why Ilya said, “As we now know, pipelining is not wise.”\n1:18:49 – Because of RL, models may be 100x over-trained beyond Chinchilla-optimal\n1:32:52 – Deducing long context memory costs from API pricing\n2:03:52 – Convergent evolution between neural nets and cryptography",
+      "description": "Did a very different format with Reiner Pope – a blackboard lecture where he walks through how frontier LLMs are trained and served. It's shocking how much you can deduce about what the labs are doing from a handful of equations, public API prices, and some chalk. It’s a bit technical, but I encourage you to hang in there - it’s really worth it. \n\nThere are less than a handful of people who understand the full stack of AI, from chip design to model architecture, as well as Reiner. It was a real delight to learn from him.\n\nReiner is CEO of MatX, a new chip startup (full disclosure - I’m an angel investor). He was previously at Google, where he worked on software efficiency, compilers, and TPU architecture.\n\nWrote up some flashcards and practice problems to help myself retain what Reiner taught. Hope it's helpful to you too!\nhttps://reiner-flashcards.vercel.app/\n\nDownload markdown of transcript here to chat with an LLM:\nhttps://gist.github.com/dwarkeshsp/79100f0fdeed69d76241903bb0604dbe\n\n0:00:00 – How batch size affects token cost and speed\n0:31:59 – How MoE models are laid out across GPU racks\n0:47:02 – How pipeline parallelism spreads model layers across racks\n1:03:27 – Why Ilya said, “As we now know, pipelining is not wise.”\n1:18:49 – Because of RL, models may be 100x over-trained beyond Chinchilla-optimal\n1:32:52 – Deducing long context memory costs from API pricing\n2:03:52 – Convergent evolution between neural nets and cryptography",
       "duration": "PT2H13M41S",
-      "view_count": 3010,
-      "like_count": 229,
-      "comment_count": 44,
+      "view_count": 68248,
+      "like_count": 3079,
+      "comment_count": 197,
       "url": "https://www.youtube.com/watch?v=xmkSf5IS-zw"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-28T20:00:46Z",
       "description": "",
       "duration": "PT1M20S",
-      "view_count": 14392,
-      "like_count": 444,
-      "comment_count": 50,
+      "view_count": 16526,
+      "like_count": 495,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=5Wvpc_2-7-U"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-27T20:08:29Z",
       "description": "",
       "duration": "PT1M36S",
-      "view_count": 59148,
-      "like_count": 1975,
-      "comment_count": 67,
+      "view_count": 66143,
+      "like_count": 2169,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=MjL7CCNjeSg"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-26T19:14:14Z",
       "description": "",
       "duration": "PT1M26S",
-      "view_count": 87409,
-      "like_count": 2480,
-      "comment_count": 205,
+      "view_count": 88793,
+      "like_count": 2517,
+      "comment_count": 207,
       "url": "https://www.youtube.com/watch?v=unAEMjpvnkk"
-    },
-    {
-      "id": "pX9L8E-EiE4",
-      "title": "Pamphlets, Newspapers, and the Birth of the Magazine — Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-25T19:15:55Z",
-      "description": "",
-      "duration": "PT2M36S",
-      "view_count": 208538,
-      "like_count": 6951,
-      "comment_count": 142,
-      "url": "https://www.youtube.com/watch?v=pX9L8E-EiE4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-29T17:53:21Z",
+    "generated_at": "2026-04-30T06:44:33Z",
     "count": 5
   }
 }

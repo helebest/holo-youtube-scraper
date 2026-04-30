@@ -14,15 +14,27 @@
   "date": "2026-04-30",
   "result": [
     {
+      "id": "i9TvUGeTltE",
+      "title": "My Take on The New Apple",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-29T22:38:21Z",
+      "description": "Apple turnover\n\nQuinn’s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD",
+      "duration": "PT11M9S",
+      "view_count": 825080,
+      "like_count": 40382,
+      "comment_count": 2177,
+      "url": "https://www.youtube.com/watch?v=i9TvUGeTltE"
+    },
+    {
       "id": "7YrdI7h2XoY",
       "title": "Glass is glass",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-04-24T20:41:58Z",
       "description": "Glass is glass. A bit of a rant/explainer/PSA\n\nFor more lies tech companies tell: https://youtu.be/JstGCPsj9wg?si=AUjR2F7aJNuAS85U\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT4M46S",
-      "view_count": 2531556,
-      "like_count": 109575,
-      "comment_count": 4057,
+      "view_count": 2754758,
+      "like_count": 110601,
+      "comment_count": 4092,
       "url": "https://www.youtube.com/watch?v=7YrdI7h2XoY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-21T17:01:53Z",
       "description": "Peak slab phone in 2026 looks a lot like a camera attached to a phone\n\nAuto Focus shot on Oppo Find X9 Ultra: https://youtu.be/9s69aThM7rA?si=x8qW7F4MorY2qgRp\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT13M17S",
-      "view_count": 4071246,
-      "like_count": 115411,
-      "comment_count": 5751,
+      "view_count": 4094429,
+      "like_count": 115827,
+      "comment_count": 5767,
       "url": "https://www.youtube.com/watch?v=c347oYQO57A"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-14T19:30:41Z",
       "description": "This phone never came out. But they got really close to dropping a rollable phone\n\nJerryRigEverything teardown: https://youtu.be/vDMpANNGND4?si=ks0m5gQBYJkiiEVZ\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT9M59S",
-      "view_count": 2031145,
-      "like_count": 69651,
-      "comment_count": 4508,
+      "view_count": 2033507,
+      "like_count": 69713,
+      "comment_count": 4515,
       "url": "https://www.youtube.com/watch?v=5aS-8QCRdGE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-08T20:43:49Z",
       "description": "All Pixel and Nexus phones",
       "duration": "PT49S",
-      "view_count": 914822,
-      "like_count": 40042,
-      "comment_count": 1225,
+      "view_count": 919919,
+      "like_count": 40203,
+      "comment_count": 1229,
       "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
-    },
-    {
-      "id": "as_NEJAP8ew",
-      "title": "Every Samsung Phone. SAME Photo!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-04-07T21:06:16Z",
-      "description": "Holy HDR",
-      "duration": "PT43S",
-      "view_count": 1224865,
-      "like_count": 55889,
-      "comment_count": 1847,
-      "url": "https://www.youtube.com/watch?v=as_NEJAP8ew"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-29T17:53:25Z",
+    "generated_at": "2026-04-30T06:44:36Z",
     "count": 5
   }
 }
