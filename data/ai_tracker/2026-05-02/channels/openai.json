@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-02",
+  "result": [
+    {
+      "id": "TXEgpKxBDiw",
+      "title": "What Codex Unlocks for Virgin Atlantic",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-30T18:25:54Z",
+      "description": "“The trajectory of Codex is thinking beyond pure engineers, it’s moving into a tool for everyone” \n\nOur friends at Virgin Atlantic - Richard Masters and Neil Letchford launched their new mobile app in beta and saw exceptional quality with the test coverage thanks to Codex. \n\n#codex #openai #virginatlantic",
+      "duration": "PT17S",
+      "view_count": 2198,
+      "like_count": 38,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=TXEgpKxBDiw"
+    },
+    {
+      "id": "eHe2F10TlV4",
+      "title": "What Codex Unlocks for Virgin Atlantic",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-30T18:24:01Z",
+      "description": "“The trajectory of Codex is thinking beyond pure engineers, it’s moving into a tool for everyone” \n\nOur friends at Virgin Atlantic, Richard Masters and Neil Letchford, launched a new mobile app in beta and saw exceptional quality with the test coverage thanks to Codex. \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT59S",
+      "view_count": 5996,
+      "like_count": 193,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=eHe2F10TlV4"
+    },
+    {
+      "id": "kktBVmjA19A",
+      "title": "Build Hour: Workspace agents in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-29T20:59:11Z",
+      "description": "Build workspace agents in ChatGPT that can do work across your tools and help teams move faster. In this Build Hour, you’ll learn how to turn your team’s best practices into shared agents from start to finish.\n\n\nChristina Huang (Engineering), Ho Joon Cha (Solutions Engineering), and Victoria Chernova (Product Marketing) cover: \n• How to build agents for common workflows that require multiple steps, tools, and sources of context \n• Using agent builder chat, choosing tools and connectors, and adding guardrails\n• Testing, iterating, and sharing agents powered by Codex in the cloud\n• Best practices and live Q&A \n\n\n👉 Workspace agents in ChatGPT: https://chatgpt.com/agents\n👉 Workspace agents blog: https://openai.com/index/introducing-workspace-agents-in-chatgpt/\n👉 How to guide: https://developers.openai.com/cookbook/articles/chatgpt-agents-sales-meeting-prep\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction \n01:22 Intro to Workspace agents\n03:24 Demo: Meeting Prep agent\n18:02 Demo: Software Review agent\n27:34 Getting Started\n29:53 Q&A",
+      "duration": "PT37M52S",
+      "view_count": 20225,
+      "like_count": 468,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=kktBVmjA19A"
+    },
+    {
+      "id": "FPDVsJWEi4E",
+      "title": "GPT-5.5 is SOTA for Databricks",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-29T16:21:02Z",
+      "description": "\"Codex with GPT-5.5 is currently state-of-the-art.” \n\nArnav Singhvi dropped by to tell us how GPT-5.5 has been transformational for knowledge lift. \n\n“It's like a step size function change. Very good at handling multi-step workflows, agentic workflows.\"\n\nAnd because we love getting a Gold Star: \n\nOfficeQA Evals \n-GPT-5.5 in Codex had a 46% reduction in errors. This shows that gains aren't just theoretical; they hold up in realistic, end-to-end enterprise workflows.\n\nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
+      "duration": "PT30S",
+      "view_count": 6753,
+      "like_count": 117,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=FPDVsJWEi4E"
+    },
+    {
+      "id": "vD_4Hce2G_w",
+      "title": "Introducing GPT-5.5 with Databricks",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-29T16:18:16Z",
+      "description": "\"Codex with GPT-5.5 is currently state-of-the-art.” \n\nArnav Singhvi dropped by to tell us how GPT-5.5 has been transformational for knowledge lift. \n\n“It's like a step size function change. Very good at handling multi-step workflows, agentic workflows.\n\nAnd because we love getting a Gold Star: \n\nOfficeQA Evals \n- GPT-5.5 in Codex had a 46% reduction in errors. This shows that gains aren't just theoretical; they hold up in realistic, end-to-end enterprise workflows.\n\nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
+      "duration": "PT1M3S",
+      "view_count": 37617,
+      "like_count": 789,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=vD_4Hce2G_w"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-01T17:30:20Z",
+    "count": 5
+  }
+}

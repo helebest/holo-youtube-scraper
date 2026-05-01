@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-05-02",
+  "result": [
+    {
+      "id": "5e0ujKe66vM",
+      "title": "What Kosovo Can Teach the World About Freedom | Vjosa Osmani Sadriu | TED",
+      "channel_title": "TED",
+      "published_at": "2026-05-01T15:30:04Z",
+      "description": "“Truth is the real oxygen for democracy,” says Vjosa Osmani Sadriu, the 6th President of the Republic of Kosovo. As a child of war, she once longed for someone to save her people. Now she’s been in the rooms where decisions are made — and she’s never forgotten what brought her there. In conversation with solutions journalist Angus Hervey, she reflects on what it takes to defend democracy in a world where truth itself is under threat. (Recorded on April 14, 2026) (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/vjosaosmanisadriu\n\nhttps://youtu.be/5e0ujKe66vM\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Democracy",
+      "duration": "PT17M28S",
+      "view_count": 984,
+      "like_count": 79,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=5e0ujKe66vM"
+    },
+    {
+      "id": "QbYhnEIoO5Q",
+      "title": "How to make sure your IRL is *actually* IRL",
+      "channel_title": "TED",
+      "published_at": "2026-04-30T21:00:32Z",
+      "description": "We're so entangled with our devices that online has started to feel more real than IRL, says journalist Nayeema Raza. As screens reshape how we connect and relate, she offers three practical habits to reignite curiosity, restore presence and break free from our phones.",
+      "duration": "PT1M20S",
+      "view_count": 14254,
+      "like_count": 574,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=QbYhnEIoO5Q"
+    },
+    {
+      "id": "2fYU50qbkHk",
+      "title": "Joy Will Find You — If You Let It | David Larbi | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-30T15:00:08Z",
+      "description": "Author David Larbi recites a poem about the journey toward joy, reminding us of all the ways it can be found: having a conversation with a stranger, tasting the perfect bite of food or enjoying a good stretch. Joy is all around us — you just need to know where to look. (Recorded at TEDNext 2025 on November 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/davidlarbi\n\nhttps://youtu.be/2fYU50qbkHk\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Performance",
+      "duration": "PT5M6S",
+      "view_count": 10922,
+      "like_count": 593,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=2fYU50qbkHk"
+    },
+    {
+      "id": "EScRNw6ta7Y",
+      "title": "OpenClaw’s Peter Steinberger envisions a world where anyone — and everyone — can create AI agents",
+      "channel_title": "TED",
+      "published_at": "2026-04-28T22:00:22Z",
+      "description": "OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, build and create. \"The lobster is loose, and it's not going back into the tank,\" he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)",
+      "duration": "PT1M46S",
+      "view_count": 20766,
+      "like_count": 257,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=EScRNw6ta7Y"
+    },
+    {
+      "id": "y8cusdjYXdo",
+      "title": "Conservation: A Love Story | Elsaphan Njora | TED",
+      "channel_title": "TED",
+      "published_at": "2026-04-28T15:01:40Z",
+      "description": "What if the key to saving nature isn't just about science or policy, but love? Love for the land, for the people who depend on it, for the world we leave behind. Artist Elsaphan Njora has journeyed across Kenya witnessing ecosystems vanish, from Indigenous forests to sacred lakes. But he's also seen communities breathing life back into rivers, forests and coasts in creative, unexpected ways — showing that conservation can flourish alongside livelihoods, and that even the most threatened landscapes can be reborn. (Recorded at TED Countdown Summit 2025 on June 17, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/elsaphannjora\n\nhttps://youtu.be/y8cusdjYXdo\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Countdown",
+      "duration": "PT8M41S",
+      "view_count": 10245,
+      "like_count": 248,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=y8cusdjYXdo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-01T17:30:15Z",
+    "count": 5
+  }
+}
