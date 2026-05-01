@@ -14,15 +14,27 @@
   "date": "2026-05-01",
   "result": [
     {
+      "id": "JH9EGxdZWNc",
+      "title": "The facts on AI and the American economy from our CEO Jensen Huang.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-04-30T21:24:55Z",
+      "description": "\"AI has created more than half a million jobs. Companies that use AI grow faster. When they grow faster, they hire more people.\"\n\nNVIDIA CEO Jensen Huang counters threats of job displacement in his conversation with SCSP's Ylli Bajraktari on Memos to the President.\n\nWatch the full episode: https://nvda.ws/4n1RnEh",
+      "duration": "PT40S",
+      "view_count": 4865,
+      "like_count": 171,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=JH9EGxdZWNc"
+    },
+    {
       "id": "zEElW51uVwQ",
       "title": "NVIDIA Delivers the Lowest Token Cost",
       "channel_title": "NVIDIA",
       "published_at": "2026-04-29T23:33:15Z",
       "description": "When it comes to inference TCO, token cost is the metric that determines whether AI can scale efficiently and profitably in the real world, not compute cost or FLOPS per dollar.\n\nIt’s the one TCO metric that directly accounts for hardware performance, software optimization, ecosystem support and real-world utilization — and NVIDIA delivers the lowest cost per token in the industry is available through leading providers like CoreWeave, Nebius, Nscale and Together AI.\n\nUnpack why token cost is the most important business metric for AI ⬇️",
       "duration": "PT39S",
-      "view_count": 2600,
-      "like_count": 82,
-      "comment_count": 4,
+      "view_count": 3849,
+      "like_count": 136,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=zEElW51uVwQ"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-04-29T18:51:40Z",
       "description": "Can industrial AI do more than just observe?\n\nNicolas Cerisier, Vice President of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how the shift from SaaS to \"Agent-as-a-Service\" is introducing \"Industry World Models\" that understand the scientific laws of physics and engineering to power autonomous virtual companions.\n\n🎧 Watch the episode: https://nvda.ws/48s9oWj",
       "duration": "PT19S",
-      "view_count": 1315,
-      "like_count": 28,
+      "view_count": 1510,
+      "like_count": 31,
       "comment_count": 1,
       "url": "https://www.youtube.com/watch?v=z6kFhHPLilE"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-04-29T17:02:49Z",
       "description": "AI isn’t just about chatbots and automation—startups are finding unexpected, creative ways to apply it to the world's hardest problems in ways you might not imagine. In this session, we’ll spotlight 25 innovative use cases that reveal the breadth and depth of what’s possible when bold founders with big visions meet cutting-edge technology. Get ready to expand your view of AI’s potential and discover opportunities you didn’t see coming.\n\nChapters:\n0:00 Intro\n2:40 Agriculture\n8:10 Community Protection\n13:25 Environment and Climate\n18:08 Energy Security\n23:43 Individual Safety\n28:44 Next-Gen Science",
       "duration": "PT36M6S",
-      "view_count": 4727,
-      "like_count": 218,
-      "comment_count": 27,
+      "view_count": 5836,
+      "like_count": 259,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=D1x8ewtJAa0"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-29T16:00:51Z",
       "description": "Generative AI can predict whether a plane takes off—but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how industrial world models go beyond pattern recognition to embed the actual laws of physics, chemistry, and engineering. \n\nIn this episode of the NVIDIA AI Podcast, he also breaks down Dassault's three virtual companions (AURA, LEO, and MARIE), their 25-year collaboration with NVIDIA, and a stunning real-world use case: helping NIAR rebuild aircraft designs part by part, using AI.\n\n🔬Topics covered:\n\nWhat makes industrial world models different from LLMs\n\nVirtual companions as AI coworkers—augmenting, not replacing engineers\n\nIPLM: how Dassault tracks every AI interaction for auditability\n\nHybrid AI model strategy: NIMs, Nemotron, Mistral, + custom fine-tuning\n\nThe future: always-on agents that continuously optimize your factory\n\nChapters:\n00:00 Introduction & Dassault Systèmes Overview\n03:22 Industry World Models Explained\n07:28 Meet the Virtual Companions: Aura, Leo & Marie\n09:58 Trust, Traceability & the NVIDIA Partnership\n14:04 Hybrid AI Strategy & Real-World Use Cases\n20:43 The Future: Always-On Autonomous Agents\n22:05 Where to Learn More & Closing\n\nLearn more: https://blog.3ds.com/topics/company-news/industrial-ai-with-virtual-twins/",
       "duration": "PT23M5S",
-      "view_count": 1440,
-      "like_count": 72,
-      "comment_count": 8,
+      "view_count": 1725,
+      "like_count": 81,
+      "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=gsbi7FS8Q30"
-    },
-    {
-      "id": "dxksuLBJujA",
-      "title": "Making Sense of the Early Universe",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-04-23T15:14:42Z",
-      "description": "When the first images from the James Webb Space Telescope began returning data in 2022, UC Santa Cruz professor Brant Robertson and his colleagues did what astronomers have always done: They stared at the sky and tried to understand what they were seeing. This time, the sky arrived as terabytes. \n\nHere's a look at how AI and GPUs are helping astronomers like Robertson work through unprecedented volumes of cosmic data.\n\nRead more on the NVIDIA Blog: https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
-      "duration": "PT3M",
-      "view_count": 88751,
-      "like_count": 3828,
-      "comment_count": 322,
-      "url": "https://www.youtube.com/watch?v=dxksuLBJujA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-04-30T17:48:12Z",
+    "generated_at": "2026-05-01T07:10:24Z",
     "count": 5
   }
 }
