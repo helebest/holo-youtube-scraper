@@ -14,15 +14,27 @@
   "date": "2026-05-02",
   "result": [
     {
+      "id": "rGb-xYUqAqw",
+      "title": "Neural Networks Are Cryptography in Reverse - Reiner Pope",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-02T00:48:12Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 5424,
+      "like_count": 150,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
+    },
+    {
       "id": "yiaKkyx8g3s",
       "title": "Why the Nukes Analogy for AI Is Wrong",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-01T00:24:30Z",
       "description": "",
       "duration": "PT1M35S",
-      "view_count": 37521,
-      "like_count": 1133,
-      "comment_count": 109,
+      "view_count": 53481,
+      "like_count": 1348,
+      "comment_count": 126,
       "url": "https://www.youtube.com/watch?v=yiaKkyx8g3s"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-29T19:22:31Z",
       "description": "",
       "duration": "PT1M38S",
-      "view_count": 20993,
-      "like_count": 799,
-      "comment_count": 56,
+      "view_count": 22703,
+      "like_count": 837,
+      "comment_count": 59,
       "url": "https://www.youtube.com/watch?v=ocNtu-p7DeE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-29T17:20:27Z",
       "description": "Did a very different format with Reiner Pope – a blackboard lecture where he walks through how frontier LLMs are trained and served. It's shocking how much you can deduce about what the labs are doing from a handful of equations, public API prices, and some chalk. It’s a bit technical, but I encourage you to hang in there - it’s really worth it. \n\nThere are less than a handful of people who understand the full stack of AI, from chip design to model architecture, as well as Reiner. It was a real delight to learn from him.\n\nReiner is CEO of MatX, a new chip startup (full disclosure - I’m an angel investor). He was previously at Google, where he worked on software efficiency, compilers, and TPU architecture.\n\nWrote up some flashcards and practice problems to help myself retain what Reiner taught. Hope it's helpful to you too!\nhttps://reiner-flashcards.vercel.app/\n\nDownload markdown of transcript here to chat with an LLM:\nhttps://gist.github.com/dwarkeshsp/79100f0fdeed69d76241903bb0604dbe\n\n0:00:00 – How batch size affects token cost and speed\n0:31:59 – How MoE models are laid out across GPU racks\n0:47:02 – How pipeline parallelism spreads model layers across racks\n1:03:27 – Why Ilya said, “As we now know, pipelining is not wise.”\n1:18:49 – Because of RL, models may be 100x over-trained beyond Chinchilla-optimal\n1:32:52 – Deducing long context memory costs from API pricing\n2:03:52 – Convergent evolution between neural nets and cryptography",
       "duration": "PT2H13M41S",
-      "view_count": 160469,
-      "like_count": 5372,
-      "comment_count": 317,
+      "view_count": 176805,
+      "like_count": 5684,
+      "comment_count": 333,
       "url": "https://www.youtube.com/watch?v=xmkSf5IS-zw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-28T20:00:46Z",
       "description": "",
       "duration": "PT1M20S",
-      "view_count": 18810,
-      "like_count": 547,
-      "comment_count": 68,
+      "view_count": 19314,
+      "like_count": 557,
+      "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=5Wvpc_2-7-U"
-    },
-    {
-      "id": "MjL7CCNjeSg",
-      "title": "Why You Shouldn't Trust the Pentagon's Promise on AI",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-27T20:08:29Z",
-      "description": "",
-      "duration": "PT1M36S",
-      "view_count": 74874,
-      "like_count": 2374,
-      "comment_count": 77,
-      "url": "https://www.youtube.com/watch?v=MjL7CCNjeSg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-01T17:30:14Z",
+    "generated_at": "2026-05-02T06:22:21Z",
     "count": 5
   }
 }

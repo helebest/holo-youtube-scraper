@@ -14,15 +14,27 @@
   "date": "2026-05-02",
   "result": [
     {
+      "id": "FsvDwqxKYjM",
+      "title": "Gird your loins",
+      "channel_title": "Google",
+      "published_at": "2026-05-01T19:10:42Z",
+      "description": "Search “the devil wears prada 2” for a fashionable surprise 👠That’s all.",
+      "duration": "PT8S",
+      "view_count": 6646,
+      "like_count": 190,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=FsvDwqxKYjM"
+    },
+    {
       "id": "QAKtNOWsaHI",
       "title": "Insider Tips for Prompting with AI",
       "channel_title": "Google",
       "published_at": "2026-04-30T23:53:52Z",
       "description": "Want to build your own app just by describing it? Vibe coding lets you generate functional software using natural language, though the precision of your prompt dictates the quality of your output.\nIn this tutorial, we walk through building a fully playable 3D racing game using these core prompting strategies:\n\n- Be Granular and Specific: Open-ended prompts produce generic results. Break your request into structured bullet points or themes to define your vision.\n- Dictate Technical Keywords: Guide the model by choosing the underlying technology. Even if you aren't technical, tell the model to find the best language or tools for your specific use case.\nInclude Visual References: Upload sketches, screenshots, or reference art alongside your text to establish the visual style and layout.\n- Iterate and Refine: Treat the initial generation as a baseline. Playtest your application, identify improvements, and issue direct follow-up prompts to perfect the build.\n\nLearn more: https://ai.google.dev/gemini-api/docs/aistudio-build-mode   \nBuild your ideas with Gemini: aistudio.google.com/apps   \nShip your site or builds here: http://ai.google.dev/gemini-api/docs/aistudio-build-mode#deploy-or\n#VibeCoding #BuildWithGemini #AIStudio \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT3M7S",
-      "view_count": 9385,
-      "like_count": 429,
-      "comment_count": 39,
+      "view_count": 12485,
+      "like_count": 471,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=QAKtNOWsaHI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-30T17:21:56Z",
       "description": "Ready for a road trip? 🚗💨🛣️⛽☕ Route 66 turns 100 this year, and today’s #GoogleDoodle pays tribute to the legendary Mother Road with some of the historic letterforms and road signs that make the route memorable. How many of these icons do you recognize? \n\nG — Delgadillo's Snow Cap Drive-In, California\n\nO — Blue Swallow Motel, New Mexico\n\nO — Historic Route 66 Motel sign, Arizona \n\nG — Munger Moss Motel, Missouri\n\nL — Munger Moss Motel, Missouri\n\nE — Blue Swallow Motel, New Mexico \n\nCheck out Route 66 on Google Maps to help plan your trip.\n\n📸 Letterforms captured by Pics On Route 66 photographer David J. Schwartz.",
       "duration": "PT9S",
-      "view_count": 6104,
-      "like_count": 148,
-      "comment_count": 30,
+      "view_count": 9228,
+      "like_count": 214,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=u9O1TGBbBys"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-04-29T18:42:13Z",
       "description": "#sponsored They call the Euro Step a cheat code, but the math behind it is kinda wild. Here is what Google Search revealed about how much ground Giannis covers…👀",
       "duration": "PT1M2S",
-      "view_count": 12942,
-      "like_count": 405,
+      "view_count": 14370,
+      "like_count": 426,
       "comment_count": 49,
       "url": "https://www.youtube.com/watch?v=yPHTAEtl7Ok"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-04-28T13:59:59Z",
       "description": "Welcome back to another episode of What's New in Google Accessibility, a series where we share the latest product and feature updates that help make Google more accessible for everyone. In this episode, we'll tell you about updates on Android, Pixel, YouTube, Chrome Browser, and Gemini. \n\nCheck out our full series at https://g.co/a11y/playlist \nTo watch this video without American Sign Language (ASL) interpretation, please click here: https://youtu.be/s0M79zWRKps\nTo learn more, sign up for our accessibility newsletter at: https://g.co/a11y/news \n\n0:00 Introduction\n0:25 Left and Right Ear Controls | Android  \n1:01 Talkback Keyboard Shortcut | Android \n1:24 3-Button Navigation | Android \n1:55 Mouse Keys Feature | Android \n2:08 Voice Access | Android \n3:22 Guided Frame | Pixel \n4:31 Caret Browsing | Chrome \n5:20 Voice Boost | YouTube\n5:45 Tips for the neurodivergent community| Gemini\n7:11 Closing\n\n#WhatsNewInGoogle #Accessibility #Google #a11y \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT7M43S",
-      "view_count": 4540,
-      "like_count": 55,
+      "view_count": 4845,
+      "like_count": 60,
       "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=M9mAufki0Ik"
-    },
-    {
-      "id": "s0M79zWRKps",
-      "title": "What’s New in Google Accessibility | Episode 12",
-      "channel_title": "Google",
-      "published_at": "2026-04-28T13:59:51Z",
-      "description": "Welcome back to another episode of What's New in Google Accessibility, a series where we share the latest product and feature updates that help make Google more accessible for everyone. In this episode, we'll tell you about updates on Android, Pixel, YouTube, Chrome Browser, and Gemini. \n\nCheck out our full series at https://g.co/a11y/playlist \nTo watch this video with American Sign Language (ASL) interpretation, please click here: https://youtu.be/M9mAufki0Ik\nTo learn more, sign up for our accessibility newsletter at: https://g.co/a11y/news \n\n0:00 Introduction\n0:25 Left and Right Ear Controls | Android  \n1:01 Talkback Keyboard Shortcut | Android \n1:24 3-Button Navigation | Android \n1:55 Mouse Keys Feature | Android \n2:08 Voice Access | Android \n3:22 Guided Frame | Pixel \n4:31 Caret Browsing | Chrome \n5:20 Voice Boost | YouTube\n5:45 Tips for the neurodivergent community| Gemini\n7:11 Closing\n\n#WhatsNewInGoogle #Accessibility #Google #a11y \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
-      "duration": "PT7M43S",
-      "view_count": 3786,
-      "like_count": 88,
-      "comment_count": 12,
-      "url": "https://www.youtube.com/watch?v=s0M79zWRKps"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-01T17:30:21Z",
+    "generated_at": "2026-05-02T06:22:27Z",
     "count": 5
   }
 }
