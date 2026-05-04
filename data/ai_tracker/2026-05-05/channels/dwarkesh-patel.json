@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-05",
+  "result": [
+    {
+      "id": "pV10LYdta7s",
+      "title": "The Trillion-Dollar Timing Problem in AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-03T20:24:31Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 48398,
+      "like_count": 674,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
+    },
+    {
+      "id": "svsiJu-sKC8",
+      "title": "What Is the Pentagon's Plan With Anthropic?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-02T19:05:01Z",
+      "description": "",
+      "duration": "PT1M23S",
+      "view_count": 30890,
+      "like_count": 775,
+      "comment_count": 67,
+      "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
+    },
+    {
+      "id": "rGb-xYUqAqw",
+      "title": "Neural Networks Are Cryptography in Reverse - Reiner Pope",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-02T00:48:12Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 22198,
+      "like_count": 381,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
+    },
+    {
+      "id": "yiaKkyx8g3s",
+      "title": "Why the Nukes Analogy for AI Is Wrong",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-01T00:24:30Z",
+      "description": "",
+      "duration": "PT1M35S",
+      "view_count": 77220,
+      "like_count": 1713,
+      "comment_count": 153,
+      "url": "https://www.youtube.com/watch?v=yiaKkyx8g3s"
+    },
+    {
+      "id": "ocNtu-p7DeE",
+      "title": "The Man Who Saved the World by Disobeying and What It Means for AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-04-29T19:22:31Z",
+      "description": "",
+      "duration": "PT1M38S",
+      "view_count": 28430,
+      "like_count": 955,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=ocNtu-p7DeE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-04T17:56:00Z",
+    "count": 5
+  }
+}
