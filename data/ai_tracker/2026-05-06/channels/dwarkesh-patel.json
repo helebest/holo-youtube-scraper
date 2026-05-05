@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-06",
+  "result": [
+    {
+      "id": "gIGAxLvmROc",
+      "title": "Why AI Won't Be a Monopoly - Dario Amodei",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-04T20:49:02Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 46700,
+      "like_count": 715,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=gIGAxLvmROc"
+    },
+    {
+      "id": "pV10LYdta7s",
+      "title": "The Trillion-Dollar Timing Problem in AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-03T20:24:31Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 62096,
+      "like_count": 809,
+      "comment_count": 53,
+      "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
+    },
+    {
+      "id": "svsiJu-sKC8",
+      "title": "What Is the Pentagon's Plan With Anthropic?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-02T19:05:01Z",
+      "description": "",
+      "duration": "PT1M23S",
+      "view_count": 33791,
+      "like_count": 821,
+      "comment_count": 71,
+      "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
+    },
+    {
+      "id": "rGb-xYUqAqw",
+      "title": "Neural Networks Are Cryptography in Reverse - Reiner Pope",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-02T00:48:12Z",
+      "description": "",
+      "duration": "PT46S",
+      "view_count": 24232,
+      "like_count": 402,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
+    },
+    {
+      "id": "yiaKkyx8g3s",
+      "title": "Why the Nukes Analogy for AI Is Wrong",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-01T00:24:30Z",
+      "description": "",
+      "duration": "PT1M35S",
+      "view_count": 82099,
+      "like_count": 1777,
+      "comment_count": 155,
+      "url": "https://www.youtube.com/watch?v=yiaKkyx8g3s"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-05T17:56:14Z",
+    "count": 5
+  }
+}

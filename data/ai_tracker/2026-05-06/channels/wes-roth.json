@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-05-06",
+  "result": [
+    {
+      "id": "LMJb-_uL6lQ",
+      "title": "AI just killed Crypto...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-02T04:50:02Z",
+      "description": "FULL DETAILS AND LINKS: https://natural20.beehiiv.com/p/this-is-your-warning-ex-openai-google-researcher\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT28M52S",
+      "view_count": 59022,
+      "like_count": 1466,
+      "comment_count": 406,
+      "url": "https://www.youtube.com/watch?v=LMJb-_uL6lQ"
+    },
+    {
+      "id": "quCJwkDAx0g",
+      "title": "US wants Claude all to itself... because it's \"TOO DANGEROUS\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-01T04:12:56Z",
+      "description": "FULL DETAILS IN MY NEWSLETTER: https://natural20.beehiiv.com/p/white-house-wants-claude-mythos-for-itself\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT21M51S",
+      "view_count": 39687,
+      "like_count": 1139,
+      "comment_count": 357,
+      "url": "https://www.youtube.com/watch?v=quCJwkDAx0g"
+    },
+    {
+      "id": "bFO0uAMPx1g",
+      "title": "Hermes Agent is INSANE...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-27T07:13:28Z",
+      "description": "Go to: https://www.hostinger.com/wesroth \nand use code: WESROTH \nfor an additional discount on HOSTINGER yearly plans.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 how to build anything with Hermes Agent\n09:42 Installing on a VPS (Hostinger Sponsor)\n15:40 connecting to your VPS with SSH\n17:05 how to install Hermes Agent\n25:40 Using Hermes Agent\n27:35 The Point of Hermes\n28:52 Seccurity\n31:42 what I managed to build...\n\n\n#ai #openai #llm",
+      "duration": "PT40M52S",
+      "view_count": 63605,
+      "like_count": 1606,
+      "comment_count": 260,
+      "url": "https://www.youtube.com/watch?v=bFO0uAMPx1g"
+    },
+    {
+      "id": "evVs-Jtor50",
+      "title": "OpenAI just WON...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-24T05:27:54Z",
+      "description": "FULL DETAILS AND LINKS: https://natural20.beehiiv.com/p/gpt-5-5-spud-is-here-and-openai-s-chief-scientist-just-said-the-quiet-part-out-loud\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT16M11S",
+      "view_count": 59602,
+      "like_count": 1738,
+      "comment_count": 303,
+      "url": "https://www.youtube.com/watch?v=evVs-Jtor50"
+    },
+    {
+      "id": "g8NWmUdMh_E",
+      "title": "GPT 5.5 LET'S GOOOOOOOO!",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-04-23T20:28:48Z",
+      "description": "GPT 5.5 LET'S GOOOOOOOO!\n\n#ai #openai #llm",
+      "duration": "PT2H5M30S",
+      "view_count": 20691,
+      "like_count": 312,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=g8NWmUdMh_E"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-05T17:56:23Z",
+    "count": 5
+  }
+}
