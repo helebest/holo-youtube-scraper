@@ -20,9 +20,9 @@
       "published_at": "2026-05-01T22:21:05Z",
       "description": "Starcloud is bringing AI compute to orbit—cutting energy costs and enabling real-time insights from space.\n\nRead the blog to learn more ➡️ https://nvda.ws/4w45ixx",
       "duration": "PT19S",
-      "view_count": 6805,
-      "like_count": 319,
-      "comment_count": 13,
+      "view_count": 7590,
+      "like_count": 353,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=X23hoGzqdTs"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-01T21:28:48Z",
       "description": "Eco Wave Power uses AI to model wave motion, optimizing floaters that convert wave movement into clean electricity at scale.\n\nDive deeper into how NVIDIA AI technologies are pioneering innovations for global good: https://nvda.ws/4tGVhVv",
       "duration": "PT13S",
-      "view_count": 9987,
-      "like_count": 280,
-      "comment_count": 4,
+      "view_count": 10615,
+      "like_count": 296,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=ypkGqP-jclA"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-04-30T21:24:55Z",
       "description": "\"AI has created more than half a million jobs. Companies that use AI grow faster. When they grow faster, they hire more people.\"\n\nNVIDIA CEO Jensen Huang counters threats of job displacement in his conversation with SCSP's Ylli Bajraktari on Memos to the President.\n\nWatch the full episode: https://nvda.ws/4n1RnEh",
       "duration": "PT40S",
-      "view_count": 19446,
-      "like_count": 446,
-      "comment_count": 65,
+      "view_count": 20453,
+      "like_count": 460,
+      "comment_count": 67,
       "url": "https://www.youtube.com/watch?v=JH9EGxdZWNc"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-04-29T23:33:15Z",
       "description": "When it comes to inference TCO, token cost is the metric that determines whether AI can scale efficiently and profitably in the real world, not compute cost or FLOPS per dollar.\n\nIt’s the one TCO metric that directly accounts for hardware performance, software optimization, ecosystem support and real-world utilization — and NVIDIA delivers the lowest cost per token in the industry is available through leading providers like CoreWeave, Nebius, Nscale and Together AI.\n\nUnpack why token cost is the most important business metric for AI ⬇️",
       "duration": "PT39S",
-      "view_count": 6357,
-      "like_count": 250,
+      "view_count": 6455,
+      "like_count": 253,
       "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=zEElW51uVwQ"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-04-29T18:51:40Z",
       "description": "Can industrial AI do more than just observe?\n\nNicolas Cerisier, Vice President of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how the shift from SaaS to \"Agent-as-a-Service\" is introducing \"Industry World Models\" that understand the scientific laws of physics and engineering to power autonomous virtual companions.\n\n🎧 Watch the episode: https://nvda.ws/48s9oWj",
       "duration": "PT19S",
-      "view_count": 2285,
-      "like_count": 50,
+      "view_count": 2375,
+      "like_count": 51,
       "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=z6kFhHPLilE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-04T17:56:05Z",
+    "generated_at": "2026-05-05T06:31:35Z",
     "count": 5
   }
 }

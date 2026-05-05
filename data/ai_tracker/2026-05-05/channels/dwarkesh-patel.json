@@ -14,15 +14,27 @@
   "date": "2026-05-05",
   "result": [
     {
+      "id": "gIGAxLvmROc",
+      "title": "Why AI Won't Be a Monopoly - Dario Amodei",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-04T20:49:02Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 21216,
+      "like_count": 416,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=gIGAxLvmROc"
+    },
+    {
       "id": "pV10LYdta7s",
       "title": "The Trillion-Dollar Timing Problem in AI",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-03T20:24:31Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 48398,
-      "like_count": 674,
-      "comment_count": 38,
+      "view_count": 57508,
+      "like_count": 769,
+      "comment_count": 48,
       "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-02T19:05:01Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 30890,
-      "like_count": 775,
-      "comment_count": 67,
+      "view_count": 32321,
+      "like_count": 801,
+      "comment_count": 69,
       "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-02T00:48:12Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 22198,
-      "like_count": 381,
-      "comment_count": 5,
+      "view_count": 23706,
+      "like_count": 391,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-01T00:24:30Z",
       "description": "",
       "duration": "PT1M35S",
-      "view_count": 77220,
-      "like_count": 1713,
-      "comment_count": 153,
+      "view_count": 79697,
+      "like_count": 1751,
+      "comment_count": 155,
       "url": "https://www.youtube.com/watch?v=yiaKkyx8g3s"
-    },
-    {
-      "id": "ocNtu-p7DeE",
-      "title": "The Man Who Saved the World by Disobeying and What It Means for AI",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-04-29T19:22:31Z",
-      "description": "",
-      "duration": "PT1M38S",
-      "view_count": 28430,
-      "like_count": 955,
-      "comment_count": 61,
-      "url": "https://www.youtube.com/watch?v=ocNtu-p7DeE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-04T17:56:00Z",
+    "generated_at": "2026-05-05T06:31:31Z",
     "count": 5
   }
 }
