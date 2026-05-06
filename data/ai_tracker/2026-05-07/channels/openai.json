@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-07",
+  "result": [
+    {
+      "id": "sfkyiXvlYL0",
+      "title": "Introducing ChatGPT for Excel and Google Sheets",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-06T16:52:24Z",
+      "description": "Ask ChatGPT to analyze, update, and explain your spreadsheets directly in Excel and Google Sheets.\n\nThese add-ins are now available globally across all plans. Powered by GPT-5.5, ChatGPT helps you update models, analyze data, audit outputs, and turn messy business context into decisions faster.\n\nNow available globally for all plans. \n\nGet started: https://chatgpt.com/apps/spreadsheets/",
+      "duration": "PT52S",
+      "view_count": 4102,
+      "like_count": 315,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=sfkyiXvlYL0"
+    },
+    {
+      "id": "TiW96H5HmAw",
+      "title": "Why AI needs a new kind of supercomputer network — the OpenAI Podcast Ep. 18",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-06T11:30:00Z",
+      "description": "Training frontier models isn’t as simple as adding more GPUs—one small problem and the whole coordinated dance falls apart. OpenAI’s Mark Handley and Greg Steinbrecher discuss how a new supercomputer network design, used to train some of the company’s latest models, keeps the whole system moving in lockstep, even with record numbers of GPUs. \n\nThey break down Multipath Reliable Connection, a new protocol OpenAI developed with AMD, Broadcom, Intel, Microsoft, and Nvidia, and why they’re making it available for the whole industry to use.\n\nChapters\n00:00 Intro\n00:39 Greg and Mark's paths to OpenAI\n04:34 Why training AI stresses networks differently\n10:05 Bottlenecks, failures, and the cost of waiting\n15:19 How Multipath Reliable Connection works\n18:59 A protocol to route around failures\n25:05 Why OpenAI is making MRC an open standard\n35:09 Could AI compute move to space?",
+      "duration": "PT37M39S",
+      "view_count": 5529,
+      "like_count": 272,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=TiW96H5HmAw"
+    },
+    {
+      "id": "y5hogSW2mqU",
+      "title": "Prep for sales meetings faster with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-05T15:08:56Z",
+      "description": "See how Codex helps sellers get ready for customer meetings faster.\n\nCodex can bring context from Salesforce, Slack, Google Calendar, email, and docs into one clear thread. Sellers can ask questions, spot what changed, surface opportunities, and work across those apps without piecing everything together manually.\n\nLearn more: https://chatgpt.com/codex/for-work/",
+      "duration": "PT3M33S",
+      "view_count": 9530,
+      "like_count": 375,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=y5hogSW2mqU"
+    },
+    {
+      "id": "flvZ6jEj3VU",
+      "title": "Bring your work into Codex in a few clicks",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-01T19:09:30Z",
+      "description": "Codex helps teams connect the apps they already use, bring over their setup, and start seeing the magic happen right away.\n\nIn this quick demo, you’ll see how to:\n* personalize Codex for your role\n* import tools, projects, skills, and recent chats\n* connect apps like Google Calendar, Gmail, Drive, Slack, Figma, Notion, and more\n* turn scattered work context into a customer meeting brief\n\nA few clicks, and you’re ready to go!\n\nLearn more: https://chatgpt.com/codex/for-work/",
+      "duration": "PT1M20S",
+      "view_count": 35298,
+      "like_count": 1009,
+      "comment_count": 75,
+      "url": "https://www.youtube.com/watch?v=flvZ6jEj3VU"
+    },
+    {
+      "id": "TXEgpKxBDiw",
+      "title": "What Codex Unlocks for Virgin Atlantic",
+      "channel_title": "OpenAI",
+      "published_at": "2026-04-30T18:25:54Z",
+      "description": "“The trajectory of Codex is thinking beyond pure engineers, it’s moving into a tool for everyone” \n\nOur friends at Virgin Atlantic - Richard Masters and Neil Letchford launched their new mobile app in beta and saw exceptional quality with the test coverage thanks to Codex. \n\n#codex #openai #virginatlantic",
+      "duration": "PT17S",
+      "view_count": 4115,
+      "like_count": 66,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=TXEgpKxBDiw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-06T17:55:55Z",
+    "count": 5
+  }
+}
