@@ -20,9 +20,9 @@
       "published_at": "2026-05-05T15:08:56Z",
       "description": "See how Codex helps sellers get ready for customer meetings faster.\n\nCodex can bring context from Salesforce, Slack, Google Calendar, email, and docs into one clear thread. Sellers can ask questions, spot what changed, surface opportunities, and work across those apps without piecing everything together manually.\n\nLearn more: https://chatgpt.com/codex/for-work/",
       "duration": "PT3M33S",
-      "view_count": 2570,
-      "like_count": 182,
-      "comment_count": 15,
+      "view_count": 7943,
+      "like_count": 322,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=y5hogSW2mqU"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-05-01T19:09:30Z",
       "description": "Codex helps teams connect the apps they already use, bring over their setup, and start seeing the magic happen right away.\n\nIn this quick demo, you’ll see how to:\n* personalize Codex for your role\n* import tools, projects, skills, and recent chats\n* connect apps like Google Calendar, Gmail, Drive, Slack, Figma, Notion, and more\n* turn scattered work context into a customer meeting brief\n\nA few clicks, and you’re ready to go!\n\nLearn more: https://chatgpt.com/codex/for-work/",
       "duration": "PT1M20S",
-      "view_count": 34118,
-      "like_count": 984,
+      "view_count": 34835,
+      "like_count": 995,
       "comment_count": 76,
       "url": "https://www.youtube.com/watch?v=flvZ6jEj3VU"
     },
@@ -44,7 +44,7 @@
       "published_at": "2026-04-30T18:25:54Z",
       "description": "“The trajectory of Codex is thinking beyond pure engineers, it’s moving into a tool for everyone” \n\nOur friends at Virgin Atlantic - Richard Masters and Neil Letchford launched their new mobile app in beta and saw exceptional quality with the test coverage thanks to Codex. \n\n#codex #openai #virginatlantic",
       "duration": "PT17S",
-      "view_count": 3826,
+      "view_count": 3990,
       "like_count": 64,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=TXEgpKxBDiw"
@@ -56,8 +56,8 @@
       "published_at": "2026-04-30T18:24:01Z",
       "description": "“The trajectory of Codex is thinking beyond pure engineers, it’s moving into a tool for everyone” \n\nOur friends at Virgin Atlantic, Richard Masters and Neil Letchford, launched a new mobile app in beta and saw exceptional quality with the test coverage thanks to Codex. \n\nLearn more: https://openai.com/codex/",
       "duration": "PT59S",
-      "view_count": 9624,
-      "like_count": 260,
+      "view_count": 9813,
+      "like_count": 263,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=eHe2F10TlV4"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-04-29T20:59:11Z",
       "description": "Build workspace agents in ChatGPT that can do work across your tools and help teams move faster. In this Build Hour, you’ll learn how to turn your team’s best practices into shared agents from start to finish.\n\n\nChristina Huang (Engineering), Ho Joon Cha (Solutions Engineering), and Victoria Chernova (Product Marketing) cover: \n• How to build agents for common workflows that require multiple steps, tools, and sources of context \n• Using agent builder chat, choosing tools and connectors, and adding guardrails\n• Testing, iterating, and sharing agents powered by Codex in the cloud\n• Best practices and live Q&A \n\n\n👉 Workspace agents in ChatGPT: https://chatgpt.com/agents\n👉 Workspace agents blog: https://openai.com/index/introducing-workspace-agents-in-chatgpt/\n👉 How to guide: https://developers.openai.com/cookbook/articles/chatgpt-agents-sales-meeting-prep\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction \n01:22 Intro to Workspace agents\n03:24 Demo: Meeting Prep agent\n18:02 Demo: Software Review agent\n27:34 Getting Started\n29:53 Q&A",
       "duration": "PT37M52S",
-      "view_count": 26062,
-      "like_count": 557,
+      "view_count": 26495,
+      "like_count": 568,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=kktBVmjA19A"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-05T17:56:19Z",
+    "generated_at": "2026-05-06T07:12:46Z",
     "count": 5
   }
 }

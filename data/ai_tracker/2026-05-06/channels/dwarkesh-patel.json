@@ -14,15 +14,27 @@
   "date": "2026-05-06",
   "result": [
     {
+      "id": "U47df6-ndD4",
+      "title": "The Wars That Made Machiavelli - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-06T00:05:26Z",
+      "description": "",
+      "duration": "PT2M42S",
+      "view_count": 20243,
+      "like_count": 1387,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=U47df6-ndD4"
+    },
+    {
       "id": "gIGAxLvmROc",
       "title": "Why AI Won't Be a Monopoly - Dario Amodei",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-04T20:49:02Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 46700,
-      "like_count": 715,
-      "comment_count": 16,
+      "view_count": 61354,
+      "like_count": 823,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=gIGAxLvmROc"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-03T20:24:31Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 62096,
-      "like_count": 809,
-      "comment_count": 53,
+      "view_count": 67612,
+      "like_count": 850,
+      "comment_count": 57,
       "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-05-02T19:05:01Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 33791,
-      "like_count": 821,
+      "view_count": 35010,
+      "like_count": 840,
       "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-02T00:48:12Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 24232,
-      "like_count": 402,
+      "view_count": 25076,
+      "like_count": 412,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
-    },
-    {
-      "id": "yiaKkyx8g3s",
-      "title": "Why the Nukes Analogy for AI Is Wrong",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-01T00:24:30Z",
-      "description": "",
-      "duration": "PT1M35S",
-      "view_count": 82099,
-      "like_count": 1777,
-      "comment_count": 155,
-      "url": "https://www.youtube.com/watch?v=yiaKkyx8g3s"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-05T17:56:14Z",
+    "generated_at": "2026-05-06T07:12:42Z",
     "count": 5
   }
 }
