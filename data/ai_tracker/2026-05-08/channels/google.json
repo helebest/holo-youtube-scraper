@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-05-08",
+  "result": [
+    {
+      "id": "4JVtVgl8oEs",
+      "title": "Level up at I/O",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T16:00:13Z",
+      "description": "Tune in. Level up. Unlock. Join us live here on YouTube May 19 at 10am PT. The stage is set for Google's biggest AI updates. \n\nThe updates are ready‚ are you? \n\nWatch everything we shared on the stage at I/O 25 here: https://www.youtube.com/playlist?list=PL590L5WQmH8e6_yWMouOJsLXFQzGBNerh\n\n#GoogleIO \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT27S",
+      "view_count": 482,
+      "like_count": 24,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=4JVtVgl8oEs"
+    },
+    {
+      "id": "CEqGktRKO8U",
+      "title": "The Art of K-Pop Dance #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T03:55:17Z",
+      "description": "In celebration of Asian American, Native Hawaiian, and Pacific Islander Heritage Month, this Doodle celebrates the art of K-Pop dance by shining a light on the American K-Pop dance community—where global fandoms connect through local artistry. The Doodle is set to @LESSERAFIM_official's song “Celebration” with choreography interpreted by LA-based K-Pop dance team @SHEROFFICIALS.",
+      "duration": "PT39S",
+      "view_count": 1568785,
+      "like_count": 13854,
+      "comment_count": 614,
+      "url": "https://www.youtube.com/watch?v=CEqGktRKO8U"
+    },
+    {
+      "id": "KXaSULPslqM",
+      "title": "Vibe coding in Google AI Studio is changing the game",
+      "channel_title": "Google",
+      "published_at": "2026-05-06T18:29:01Z",
+      "description": "These 3 builds are proof that your visions can come to life with #GoogleGemini \n\n#VibeCoding #BuildWithGemini",
+      "duration": "PT53S",
+      "view_count": 6634,
+      "like_count": 164,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=KXaSULPslqM"
+    },
+    {
+      "id": "wYjZpeP38k0",
+      "title": "Looking to make a big splash with your photography?",
+      "channel_title": "Google",
+      "published_at": "2026-05-05T18:56:33Z",
+      "description": "It’s easy to begin your underwater photography journey. Learn the basics and dive in deeper with AI Mode in Search.\n\nP.S. Make sure your phone is waterproof before taking the plunge!",
+      "duration": "PT31S",
+      "view_count": 7113,
+      "like_count": 204,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=wYjZpeP38k0"
+    },
+    {
+      "id": "BZ7lTwL-4LQ",
+      "title": "Happy Teacher Appreciation Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-05T16:12:53Z",
+      "description": "To the ones who don’t just give answers but also teach us to ask the right questions. Happy Teacher Appreciation Day 🍎 #GoogleDoodle",
+      "duration": "PT30S",
+      "view_count": 11632,
+      "like_count": 363,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=BZ7lTwL-4LQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-07T18:00:15Z",
+    "count": 5
+  }
+}
