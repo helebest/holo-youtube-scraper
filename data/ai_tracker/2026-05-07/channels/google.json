@@ -14,15 +14,39 @@
   "date": "2026-05-07",
   "result": [
     {
+      "id": "CEqGktRKO8U",
+      "title": "The Art of K-Pop Dance #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T03:55:17Z",
+      "description": "In celebration of Asian American, Native Hawaiian, and Pacific Islander Heritage Month, this Doodle celebrates the art of K-Pop dance by shining a light on the American K-Pop dance community—where global fandoms connect through local artistry. The Doodle is set to @LESSERAFIM_official's song “Celebration” with choreography interpreted by LA-based K-Pop dance team @SHEROFFICIALS.",
+      "duration": "PT39S",
+      "view_count": 340069,
+      "like_count": 2083,
+      "comment_count": 170,
+      "url": "https://www.youtube.com/watch?v=CEqGktRKO8U"
+    },
+    {
+      "id": "KXaSULPslqM",
+      "title": "Vibe coding in Google AI Studio is changing the game",
+      "channel_title": "Google",
+      "published_at": "2026-05-06T18:29:01Z",
+      "description": "These 3 builds are proof that your visions can come to life with #GoogleGemini \n\n#VibeCoding #BuildWithGemini",
+      "duration": "PT53S",
+      "view_count": 3113,
+      "like_count": 107,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=KXaSULPslqM"
+    },
+    {
       "id": "wYjZpeP38k0",
       "title": "Looking to make a big splash with your photography?",
       "channel_title": "Google",
       "published_at": "2026-05-05T18:56:33Z",
       "description": "It’s easy to begin your underwater photography journey. Learn the basics and dive in deeper with AI Mode in Search.\n\nP.S. Make sure your phone is waterproof before taking the plunge!",
       "duration": "PT31S",
-      "view_count": 4729,
-      "like_count": 143,
-      "comment_count": 13,
+      "view_count": 6045,
+      "like_count": 176,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=wYjZpeP38k0"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-05-05T16:12:53Z",
       "description": "To the ones who don’t just give answers but also teach us to ask the right questions. Happy Teacher Appreciation Day 🍎 #GoogleDoodle",
       "duration": "PT30S",
-      "view_count": 7353,
-      "like_count": 200,
-      "comment_count": 18,
+      "view_count": 8856,
+      "like_count": 240,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=BZ7lTwL-4LQ"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-05-04T19:11:51Z",
       "description": "Dress for the job you want. Open Google, search for the dream look, and tap “Try it on” to see the reveal.",
       "duration": "PT21S",
-      "view_count": 11894,
-      "like_count": 214,
+      "view_count": 13335,
+      "like_count": 229,
       "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=cLyF7UPhGAc"
-    },
-    {
-      "id": "EJJhbcHPqu4",
-      "title": "Home Court Advantages | Google + NBA",
-      "channel_title": "Google",
-      "published_at": "2026-05-02T13:33:46Z",
-      "description": "From the storied atmosphere in Boston to the noise in OKC, see which home courts have the ultimate playoff edge with Google Search. \nProud Sponsor of the NBA 🏀\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
-      "duration": "PT31S",
-      "view_count": 9412,
-      "like_count": 104,
-      "comment_count": 36,
-      "url": "https://www.youtube.com/watch?v=EJJhbcHPqu4"
-    },
-    {
-      "id": "FsvDwqxKYjM",
-      "title": "Gird your loins",
-      "channel_title": "Google",
-      "published_at": "2026-05-01T19:10:42Z",
-      "description": "Search “the devil wears prada 2” for a fashionable surprise 👠That’s all.",
-      "duration": "PT8S",
-      "view_count": 29630,
-      "like_count": 560,
-      "comment_count": 104,
-      "url": "https://www.youtube.com/watch?v=FsvDwqxKYjM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-06T17:55:56Z",
+    "generated_at": "2026-05-07T07:22:07Z",
     "count": 5
   }
 }

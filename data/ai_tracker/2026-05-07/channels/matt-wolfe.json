@@ -14,15 +14,39 @@
   "date": "2026-05-07",
   "result": [
     {
+      "id": "z7EE9VWKrCA",
+      "title": "Your AI Setup Needs This",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-06T19:00:00Z",
+      "description": "If you’re serious about AI, your laptop matters more than you think.\n\nMost people are running powerful AI tools on hardware that’s holding them back. But what if your laptop could actually run AI on-device faster, more securely, and way more efficiently?\n\nThat’s what @amd is offering with their AMD Ryzen™ AI PRO chips that are built specifically for businesses and AI workflows.\n\nIt has:\n⚡ Faster performance\n🔒 Built-in security\n🔋 Better battery life\n🧠 AI-ready hardware\n\nAnd right now you can even test one out completely for free.\n\nIf you’re running a business or just want to seriously level up your AI workflow, check out the world’s best processor for enterprise AI here: https://ryzen.pro/en/laptop/?utm_medium=social&utm_source=youtube&utm_campaign=q126_032pi%20&utm_content=mattwolfe\n\n#AI #technews #amd #RYZENAIPRO #ad",
+      "duration": "PT1M31S",
+      "view_count": 2360,
+      "like_count": 87,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=z7EE9VWKrCA"
+    },
+    {
+      "id": "yke4fLQUsh4",
+      "title": "Build A Second Brain That Remembers Everything",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-06T18:19:41Z",
+      "description": "Here's how to build an AI second brain. Launch your own AI agents with OpenClaw at http://hostinger.com/mattopenclaw and get 10% off with code MATTWOLFE\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nKarpathy Tweet: https://x.com/karpathy/status/2039805659525644595\nKarpathy GitHub Page: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f\nObsidian: https://obsidian.md/\nObsidian Web Clipper: https://obsidian.md/clipper\nCodex App: https://chatgpt.com/codex/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n1:07 The System Overview\n6:14 OpenClaw on Hostinger\n8:03 Karpathy LLM Wiki Concept\n8:27 Tools Needed\n9:41 The Buildout\n18:19 Querying the Wiki\n19:28 Manually Updating the Agent\n21:25 Letting AI Update the Agent & Building Journal / CRM\n24:46 Testing the CRM\n26:01 Testing the Journal\n29:11 Automating The Wiki Linking\n30:30 Backing it all up to GitHub\n31:41 Recap and Final Thoughts",
+      "duration": "PT33M57S",
+      "view_count": 23298,
+      "like_count": 1164,
+      "comment_count": 81,
+      "url": "https://www.youtube.com/watch?v=yke4fLQUsh4"
+    },
+    {
       "id": "B3vfCHfK2b4",
       "title": "AI Coworkers Are Officially Here",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-05-06T13:00:00Z",
       "description": "If your team lives in Slack, this is worth checking out.\n\n@getviktor is an AI coworker that works where your team already works. It connects to your tools, runs multi-step workflows, and produces real outputs like reports, analysis, follow-ups, and project deliverables.\n\nYou still stay in control with approvals before important actions go out.\n\nThis feels like the shift from AI assistants to AI coworkers.\n\nCheck it out at ref.getviktor.com/mattwolfe1\n\n#AI #AItools #AIagents #productivityhack #ViktorPartner",
       "duration": "PT1M1S",
-      "view_count": 2494,
-      "like_count": 98,
-      "comment_count": 8,
+      "view_count": 5336,
+      "like_count": 136,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=B3vfCHfK2b4"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-05-04T12:10:37Z",
       "description": "Anthropic just got caught red handed 😳\n\nUser have been reporting a huge bug in the system that's been charging them hundred of dollars extra on top of their Max subscriptions.\n\nSupport initially refused to refund users and it feels like Anthropic only backtracked after the story got millions of views.\n\nNot a great look...\n\n#ai #ainews #anthropic #claudecode #vibecoding",
       "duration": "PT2M24S",
-      "view_count": 14355,
-      "like_count": 463,
-      "comment_count": 34,
+      "view_count": 15444,
+      "like_count": 486,
+      "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=WZw8QTXJfjQ"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-05-03T13:08:32Z",
       "description": "Is Google selling out?\n\nGoogle just signed a massive deal with the Pentagon to use its AI for classified information. This directly contradicts the ethical boundaries they set when they bought DeepMind back in 2014, and over 600 of their own employees are actively begging them not to do it.\n\nBut with the government holding the keys to the future of AI legislation and contracts, my take is that Google was kind of in a no-win situation. \n\nWhat do you think? Should they have held the line like Anthropic, or is this the right business move?\n\n#AI #Ainews #Google #deepmind",
       "duration": "PT1M10S",
-      "view_count": 12483,
-      "like_count": 234,
+      "view_count": 12933,
+      "like_count": 238,
       "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=Mwl5rQyCMvA"
-    },
-    {
-      "id": "1P3h36Lz5bI",
-      "title": "Deepseek V4 May Disrupt The Entire AI Economy",
-      "channel_title": "Matt Wolfe",
-      "published_at": "2026-05-02T12:53:01Z",
-      "description": "Big Tech is sweating right now… \n\nDeepSeek V4 is nearly state-of-the-art, open-sourced, and costs a fraction of what competitors are charging. We’re talking $1.74 per million input tokens compared to $5 for GPT-5.5 and Claude Opus 4.7.\n\nAlmost the exact same capabilities, massive cost savings, AND the ability to run it locally for total privacy? This AI may disrupt the entire AI economy.\n\n#AI #Ainews #deepseek #opensource",
-      "duration": "PT1M22S",
-      "view_count": 13093,
-      "like_count": 299,
-      "comment_count": 18,
-      "url": "https://www.youtube.com/watch?v=1P3h36Lz5bI"
-    },
-    {
-      "id": "D0XouckgAt8",
-      "title": "Elon vs. OpenAI Lawsuit Explained",
-      "channel_title": "Matt Wolfe",
-      "published_at": "2026-05-01T21:57:20Z",
-      "description": "The biggest soap opera in Silicon Valley is happening right now 🍿\n\nElon Musk is suing OpenAI and Sam Altman, claiming they abandoned their founding mission to \"benefit humanity\" in favor of chasing profits. OpenAI is saying that Elon is just mad and trying to boost his own AI competitor, Grok. \n\nBut the real tea is Elon's behavior during this trial because apparently his time on the stand did not go smoothly...\n\nWhose side are you on in this tech battle? Team Elon or Team OpenAI?\n\nAnd for all the latest AI news, models, and upgrades each week, check out my full video linked here.\n\n#ainews #ai #elonmusk #samaltman #openai",
-      "duration": "PT1M19S",
-      "view_count": 11847,
-      "like_count": 188,
-      "comment_count": 14,
-      "url": "https://www.youtube.com/watch?v=D0XouckgAt8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-06T17:55:57Z",
+    "generated_at": "2026-05-07T07:22:08Z",
     "count": 5
   }
 }
