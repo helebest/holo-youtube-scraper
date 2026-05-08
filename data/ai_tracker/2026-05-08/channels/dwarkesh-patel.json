@@ -20,9 +20,9 @@
       "published_at": "2026-05-06T00:05:26Z",
       "description": "",
       "duration": "PT2M42S",
-      "view_count": 181339,
-      "like_count": 7179,
-      "comment_count": 179,
+      "view_count": 211109,
+      "like_count": 8417,
+      "comment_count": 202,
       "url": "https://www.youtube.com/watch?v=U47df6-ndD4"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-05-04T20:49:02Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 72242,
-      "like_count": 970,
+      "view_count": 76206,
+      "like_count": 1006,
       "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=gIGAxLvmROc"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-05-03T20:24:31Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 84806,
-      "like_count": 977,
+      "view_count": 88954,
+      "like_count": 994,
       "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-05-02T19:05:01Z",
       "description": "",
       "duration": "PT1M23S",
-      "view_count": 36508,
-      "like_count": 862,
+      "view_count": 36892,
+      "like_count": 868,
       "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-05-02T00:48:12Z",
       "description": "",
       "duration": "PT46S",
-      "view_count": 26752,
-      "like_count": 434,
+      "view_count": 27492,
+      "like_count": 446,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=rGb-xYUqAqw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-07T18:00:10Z",
+    "generated_at": "2026-05-08T06:12:23Z",
     "count": 5
   }
 }
