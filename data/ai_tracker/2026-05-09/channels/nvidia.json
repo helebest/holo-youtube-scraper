@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-05-09",
+  "result": [
+    {
+      "id": "EFfOKf0DR2U",
+      "title": "Adobe Summit 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-06T16:45:38Z",
+      "description": "Adobe is building Adobe CX Enterprise Coworker on NemoClaw.\n\nAnil Chakravarthy, President of CX Orchestration Business at Adobe, explains how brands can deploy Adobe’s customer experience intelligence within NVIDIA's OpenShell runtime  — keeping enterprise agents governed, observable and auditable at scale.\n\nLearn more: https://nvda.ws/4nm3Gvq",
+      "duration": "PT31S",
+      "view_count": 3475,
+      "like_count": 90,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=EFfOKf0DR2U"
+    },
+    {
+      "id": "c-fsL0gsmo0",
+      "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-06T16:01:06Z",
+      "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison Chase, co-founder & CEO of LangChain, breaks down the architecture behind deep agents, explains why systems like Claude Code, Manus, and Deep Research all share the same foundational pattern, and lays out what it actually takes to deploy autonomous agents responsibly in the enterprise.\n\n🔬Topics covered:\n\nWhat is a \"deep agent,\" and why does architecture matter more than ever?\n\nHow enterprises are (and aren't) embracing autonomous agents\n\nLangSmith: observability, tracing, and evaluation-driven development\n\nMixing frontier and open models (NVIDIA Nemotron) in multi-agent systems\n\nWhat's next: async subagents, proactive/always-on agents, agent memory, and agent identity\n\nChapters:\n00:00 – LangChain origin story and the deep agent architecture\n01:46 – What is a deep agent?\n03:31 – Enterprise trust: risk, autonomy, and iteration\n04:38 – LangSmith: observability and evaluation-driven development\n13:30 – Frontier vs. open models and the Nemotron Coalition\n18:10 – What's next: async subagents, agent memory, and agent identity",
+      "duration": "PT24M55S",
+      "view_count": 2684,
+      "like_count": 121,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=c-fsL0gsmo0"
+    },
+    {
+      "id": "rJp3GldEm0U",
+      "title": "Robotic Precision For Modern Medicine",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-05T23:00:30Z",
+      "description": "Multiply Labs is automating cell therapy manufacturing with robots, reducing costs by more than 70%.\n\nRead the blog to learn more: https://nvda.ws/4tavi7P",
+      "duration": "PT12S",
+      "view_count": 4985,
+      "like_count": 133,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=rJp3GldEm0U"
+    },
+    {
+      "id": "X23hoGzqdTs",
+      "title": "Bringing Data Centers to Outer Space",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-01T22:21:05Z",
+      "description": "Starcloud is bringing AI compute to orbit—cutting energy costs and enabling real-time insights from space.\n\nRead the blog to learn more ➡️ https://nvda.ws/4w45ixx",
+      "duration": "PT19S",
+      "view_count": 9332,
+      "like_count": 422,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=X23hoGzqdTs"
+    },
+    {
+      "id": "ypkGqP-jclA",
+      "title": "Scaling Clean Energy With Every Wave",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-01T21:28:48Z",
+      "description": "Eco Wave Power uses AI to model wave motion, optimizing floaters that convert wave movement into clean electricity at scale.\n\nDive deeper into how NVIDIA AI technologies are pioneering innovations for global good: https://nvda.ws/4tGVhVv",
+      "duration": "PT13S",
+      "view_count": 11777,
+      "like_count": 320,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=ypkGqP-jclA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-08T17:48:02Z",
+    "count": 5
+  }
+}

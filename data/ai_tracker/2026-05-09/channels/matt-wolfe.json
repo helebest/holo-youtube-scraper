@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-05-09",
+  "result": [
+    {
+      "id": "SXneZ3bRKO4",
+      "title": "AI News: OpenAI Absolutely Cooked This Week!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-08T15:00:27Z",
+      "description": "Here's the AI News you probably missed this week. Try HubSpot AEO on your brand free for 28 days here 👉🏻 https://clickhubspot.com/f1da94\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nGPT-5.5 Instant: https://openai.com/index/gpt-5-5-instant/\nGPT-5.5 in Copilot: https://techcommunity.microsoft.com/blog/microsoft365copilotblog/available-today-gpt-5-5-instant-in-microsoft-365-copilot/4517084\nNew Voice Models: https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/\nChatGPT Trusted Contact: https://openai.com/index/introducing-trusted-contact-in-chatgpt/\nCodex in Chrome: https://x.com/OpenAI/status/2052480800004956323\nCodex Pets: https://x.com/OpenAIDevs/status/2050275713824211041\nCodex Pets Site: https://codex-pets.net/\nClaude Managed Agents: https://claude.com/blog/new-in-claude-managed-agents\nClaude SpaceX Deal: https://www.anthropic.com/news/higher-limits-spacex\nAnthropic's $200B Google Deal: https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips\nGrok 4.3 Launch: https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite\nMurati Court Testimony: https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati\nClaude in Office: https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook\nAdobe Productivity Agent: https://news.adobe.com/news/2026/05/adobes-new-productivity-agent\nSpotify Personal Podcasts: https://newsroom.spotify.com/2026-05-07/personal-podcasts-launch/\nCamera AirPods Testing: https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push\nIn-Wall Home Data Centers: https://x.com/exec_sum/status/2051697983197225029\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:07 GPT-5.5 Instant\n3:37 New OpenAI Voice Models\n8:45 Trusted Contact in ChatGPT\n9:23 New AEO Tool\n10:53 Codex with Chrome\n13:03 OpenAI Pets?\n16:10 Claude Dreaming Outcomes\n18:58 Higher Claude Usage From SpaceX\n21:31 Grok 4.3\n22:51 OpenAI & Elon Drama\n23:45 Mira Murati's Side of the story\n27:28 Claude in Excel, Powerpoint, Word, and Outlook\n28:01 Adobe's New PDF Agent\n29:18 Spotify CLI For AI Podcasts\n30:16 Apple's Camera AirPods\n31:08 Homes with Built-in Data Centers\n32:29 Final Thoughts\n34:03 WTF?",
+      "duration": "PT34M30S",
+      "view_count": 6837,
+      "like_count": 642,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=SXneZ3bRKO4"
+    },
+    {
+      "id": "z7EE9VWKrCA",
+      "title": "Your AI Setup Needs This",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-06T19:00:00Z",
+      "description": "If you’re serious about AI, your laptop matters more than you think.\n\nMost people are running powerful AI tools on hardware that’s holding them back. But what if your laptop could actually run AI on-device faster, more securely, and way more efficiently?\n\nThat’s what @amd is offering with their AMD Ryzen™ AI PRO chips that are built specifically for businesses and AI workflows.\n\nIt has:\n⚡ Faster performance\n🔒 Built-in security\n🔋 Better battery life\n🧠 AI-ready hardware\n\nAnd right now you can even test one out completely for free.\n\nIf you’re running a business or just want to seriously level up your AI workflow, check out the world’s best processor for enterprise AI here: https://ryzen.pro/en/laptop/?utm_medium=social&utm_source=youtube&utm_campaign=q126_032pi%20&utm_content=mattwolfe\n\n#AI #technews #amd #RYZENAIPRO #ad",
+      "duration": "PT1M31S",
+      "view_count": 6126,
+      "like_count": 158,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=z7EE9VWKrCA"
+    },
+    {
+      "id": "yke4fLQUsh4",
+      "title": "Build A Second Brain That Remembers Everything",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-06T18:19:41Z",
+      "description": "Here's how to build an AI second brain. Launch your own AI agents with OpenClaw at http://hostinger.com/mattopenclaw and get 10% off with code MATTWOLFE\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nKarpathy Tweet: https://x.com/karpathy/status/2039805659525644595\nKarpathy GitHub Page: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f\nObsidian: https://obsidian.md/\nObsidian Web Clipper: https://obsidian.md/clipper\nCodex App: https://chatgpt.com/codex/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n1:07 The System Overview\n6:14 OpenClaw on Hostinger\n8:03 Karpathy LLM Wiki Concept\n8:27 Tools Needed\n9:41 The Buildout\n18:19 Querying the Wiki\n19:28 Manually Updating the Agent\n21:25 Letting AI Update the Agent & Building Journal / CRM\n24:46 Testing the CRM\n26:01 Testing the Journal\n29:11 Automating The Wiki Linking\n30:30 Backing it all up to GitHub\n31:41 Recap and Final Thoughts",
+      "duration": "PT33M57S",
+      "view_count": 47544,
+      "like_count": 1975,
+      "comment_count": 133,
+      "url": "https://www.youtube.com/watch?v=yke4fLQUsh4"
+    },
+    {
+      "id": "B3vfCHfK2b4",
+      "title": "AI Coworkers Are Officially Here",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-06T13:00:00Z",
+      "description": "If your team lives in Slack, this is worth checking out.\n\n@getviktor is an AI coworker that works where your team already works. It connects to your tools, runs multi-step workflows, and produces real outputs like reports, analysis, follow-ups, and project deliverables.\n\nYou still stay in control with approvals before important actions go out.\n\nThis feels like the shift from AI assistants to AI coworkers.\n\nCheck it out at ref.getviktor.com/mattwolfe1\n\n#AI #AItools #AIagents #productivityhack #ViktorPartner",
+      "duration": "PT1M1S",
+      "view_count": 7474,
+      "like_count": 178,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=B3vfCHfK2b4"
+    },
+    {
+      "id": "WZw8QTXJfjQ",
+      "title": "Anthropic Users Are PISSED",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-04T12:10:37Z",
+      "description": "Anthropic just got caught red handed 😳\n\nUser have been reporting a huge bug in the system that's been charging them hundred of dollars extra on top of their Max subscriptions.\n\nSupport initially refused to refund users and it feels like Anthropic only backtracked after the story got millions of views.\n\nNot a great look...\n\n#ai #ainews #anthropic #claudecode #vibecoding",
+      "duration": "PT2M24S",
+      "view_count": 17057,
+      "like_count": 529,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=WZw8QTXJfjQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-08T17:48:04Z",
+    "count": 5
+  }
+}
