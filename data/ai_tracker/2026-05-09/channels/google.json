@@ -14,15 +14,27 @@
   "date": "2026-05-09",
   "result": [
     {
+      "id": "95WlrEHrQjc",
+      "title": "Go from notes to study guide with Search 📝",
+      "channel_title": "Google",
+      "published_at": "2026-05-08T19:05:05Z",
+      "description": "Get free finals study support with Search. Just press the AI Mode button, upload your notes, and press the blue Canvas button for a custom study guide.\n\n#GoogleSearch #AIMode",
+      "duration": "PT25S",
+      "view_count": 3959,
+      "like_count": 130,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=95WlrEHrQjc"
+    },
+    {
       "id": "d_2YgLF6ETU",
       "title": "Behind the Doodle: The Art of K-Pop Dance #GoogleDoodle",
       "channel_title": "Google",
       "published_at": "2026-05-07T22:23:11Z",
       "description": "Take a peek behind the AANHPI Heritage Month Doodle and see how K-pop dance crew @SHEROFFICIALS adapted the official @LESSERAFIM_official “Celebration” choreo for the #GoogleDoodle video  🎬💃🕺 \n\nFrom the dance floor to the animation studio, here’s how we transformed every move into digital magic.\n\nTrack and official choreography: “Celebration” by @LESSERAFIM_official",
       "duration": "PT59S",
-      "view_count": 6977,
-      "like_count": 310,
-      "comment_count": 18,
+      "view_count": 8504,
+      "like_count": 346,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=d_2YgLF6ETU"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-07T16:00:13Z",
       "description": "Tune in. Level up. Unlock. Join us live here on YouTube May 19 at 10am PT. The stage is set for Google's biggest AI updates. \n\nThe updates are ready‚ are you? \n\nWatch everything we shared on the stage at I/O 25 here: https://www.youtube.com/playlist?list=PL590L5WQmH8e6_yWMouOJsLXFQzGBNerh\n\n#GoogleIO \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT27S",
-      "view_count": 12087,
-      "like_count": 152,
-      "comment_count": 19,
+      "view_count": 16367,
+      "like_count": 195,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=4JVtVgl8oEs"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-07T03:55:17Z",
       "description": "In celebration of Asian American, Native Hawaiian, and Pacific Islander Heritage Month, this Doodle celebrates the art of K-Pop dance by shining a light on the American K-Pop dance community—where global fandoms connect through local artistry. The Doodle is set to @LESSERAFIM_official's song “Celebration” with choreography interpreted by LA-based K-Pop dance team @SHEROFFICIALS.",
       "duration": "PT39S",
-      "view_count": 4151930,
-      "like_count": 24759,
-      "comment_count": 1243,
+      "view_count": 4218462,
+      "like_count": 24718,
+      "comment_count": 1249,
       "url": "https://www.youtube.com/watch?v=CEqGktRKO8U"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-06T18:29:01Z",
       "description": "These 3 builds are proof that your visions can come to life with #GoogleGemini \n\n#VibeCoding #BuildWithGemini",
       "duration": "PT53S",
-      "view_count": 10577,
-      "like_count": 219,
+      "view_count": 11622,
+      "like_count": 229,
       "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=KXaSULPslqM"
-    },
-    {
-      "id": "wYjZpeP38k0",
-      "title": "Looking to make a big splash with your photography?",
-      "channel_title": "Google",
-      "published_at": "2026-05-05T18:56:33Z",
-      "description": "It’s easy to begin your underwater photography journey. Learn the basics and dive in deeper with AI Mode in Search.\n\nP.S. Make sure your phone is waterproof before taking the plunge!",
-      "duration": "PT31S",
-      "view_count": 9005,
-      "like_count": 238,
-      "comment_count": 15,
-      "url": "https://www.youtube.com/watch?v=wYjZpeP38k0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-08T17:48:04Z",
+    "generated_at": "2026-05-09T06:30:31Z",
     "count": 5
   }
 }

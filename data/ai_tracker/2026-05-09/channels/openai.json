@@ -20,9 +20,9 @@
       "published_at": "2026-05-08T16:25:50Z",
       "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, without taking over your browser.\n\nTo get started on macOS and Windows, install the Chrome plugin in the Codex app.\n\nhttps://openai.com/codex",
       "duration": "PT2M35S",
-      "view_count": 4898,
-      "like_count": 554,
-      "comment_count": 65,
+      "view_count": 57285,
+      "like_count": 2047,
+      "comment_count": 210,
       "url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-07T17:29:40Z",
       "description": "We’re introducing three audio models in the API that unlock a new class of voice apps for developers. With these models, developers can build voice experiences that feel more natural, respond more intelligently, and take action in real time:\n\n• GPT‑Realtime‑2, our first voice model with GPT‑5‑class reasoning that can handle harder requests and carry the conversation forward naturally.\n• GPT‑Realtime‑Translate, a new live translation model that translates speech from 70+ input languages into 13 output languages while keeping pace with the speaker.\n• GPT‑Realtime‑Whisper, a new streaming speech-to-text that transcribes speech live as the speaker talks.",
       "duration": "PT4M4S",
-      "view_count": 107881,
-      "like_count": 4981,
-      "comment_count": 369,
+      "view_count": 120596,
+      "like_count": 5304,
+      "comment_count": 392,
       "url": "https://www.youtube.com/watch?v=JOu8v6CBjkE"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-05-07T16:27:56Z",
       "description": "\"GPT 5.5 is an absolute game changer for our customers, specifically in finance, because the model is just amazing at multi-step reasoning.\"\n\nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
       "duration": "PT31S",
-      "view_count": 5643,
-      "like_count": 149,
+      "view_count": 7107,
+      "like_count": 184,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=eoyHCYXoNMQ"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-05-07T16:22:09Z",
       "description": "\"When I saw the GPT-5.5 evals come back, I literally did a double take.\"\n\nYes, we’re model magicians. \n\nIt’s exciting to see how Box is pointing GPT-5.5 towards their most difficult, complex knowledge work cases across finance. \n\nA standout moment for Yash’s team: \n\n- GPT-5.5 is amazing at multi-step reasoning and it handled a financial model projection based on structured and unstructured data that resulted in a 19% uplift v. GPT-5.4 \n \nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
       "duration": "PT1M",
-      "view_count": 17391,
-      "like_count": 493,
+      "view_count": 19529,
+      "like_count": 531,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=9cenXVrQZNQ"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-05-06T16:52:24Z",
       "description": "Ask ChatGPT to analyze, update, and explain your spreadsheets directly in Excel and Google Sheets.\n\nThese add-ins are now available globally across all plans. Powered by GPT-5.5, ChatGPT helps you update models, analyze data, audit outputs, and turn messy business context into decisions faster.\n\nNow available globally for all plans. \n\nGet started: https://chatgpt.com/apps/spreadsheets/",
       "duration": "PT52S",
-      "view_count": 76665,
-      "like_count": 2317,
-      "comment_count": 146,
+      "view_count": 81954,
+      "like_count": 2411,
+      "comment_count": 147,
       "url": "https://www.youtube.com/watch?v=sfkyiXvlYL0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-08T17:48:03Z",
+    "generated_at": "2026-05-09T06:30:30Z",
     "count": 5
   }
 }

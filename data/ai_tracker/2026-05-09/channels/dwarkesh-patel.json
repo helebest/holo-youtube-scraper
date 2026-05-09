@@ -14,15 +14,27 @@
   "date": "2026-05-09",
   "result": [
     {
+      "id": "2IqCkJOLekc",
+      "title": "Why Humans Didn't Farm 50,000 Years Ago - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-08T20:05:00Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 118732,
+      "like_count": 2518,
+      "comment_count": 118,
+      "url": "https://www.youtube.com/watch?v=2IqCkJOLekc"
+    },
+    {
       "id": "sRKBGVFVYAw",
-      "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
+      "title": "David Reich – Bronze Age shock, the Neanderthal puzzle, & farming’s sudden spread",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-08T17:09:45Z",
       "description": "David Reich is back.\n\nHe and collaborator Ali Akbari just published a paper that overturns a long-standing consensus about human evolution — that natural selection has been dormant in our species since the agricultural revolution.\n\nBy scaling ancient DNA sequencing and developing a new statistical method, they found that selection has actually sped up.\n\nSelection went especially bonkers during the Bronze Age (around 3,000 years ago).\n\nThat's when gene frequencies for everything from immune function to body fat to intelligence were most in flux.\n\nOver the last 10,000 years, selection pushed the genetic predictor of cognitive performance up by roughly a full standard deviation — most of it between 4,000 and 2,000 years ago.\n\nAfter we finished recording, David sketched out on a whiteboard his new heretical model about who the Neanderthals really were. Luckily, I took out my iPhone and managed to record it.\n\nHe thinks the standard story (that Neanderthals are some separate archaic lineage we interbred with a little) just doesn't fit the evidence. Instead, he proposes that Neanderthals are essentially genetically-swamped modern humans.\n\nA small population somewhere around the Caucasus invented Middle Stone Age technology roughly 300,000 years ago and expanded outward. The ones that moved into Europe interbred with local archaic humans, got genetically swamped, and became Neanderthals. The same expansion went into Africa, met much more diverged archaic Africans, and that mixture became us.\n\nThis means Neanderthals and modern humans share the same cultural ancestry — the only difference is which archaic humans they mixed with afterward.\n\nDavid is a brilliant and rigorous scholar. It was a real delight to learn from him again.\n\n+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/david-reich-2\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/david-reich-why-the-bronze-age-was-an-inflection/id1516093381?i=1000766816517\n* Spotify: \n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Cursor was super useful as I prepped for this episode. Whenever I had a question, I'd have Cursor kick off a few different models simultaneously and then compare their responses. I found that this led to better results than I could get out of any individual LLM. If you've only used Cursor for coding, you should try using it for research. Check it out at https://cursor.com/dwarkesh\n\n- Jane Street uses an internal currency called \"hive bucks\" to allocate compute through a real-time auction – and anyone can change anyone else's bids or even kill their jobs! Everyone just trusts each other to act in the firm's best interest, which is what lets the system work in the first place. If this weird and high-trust culture sounds like your kind of thing, Jane Street's hiring at https://janestreet.com/dwarkesh\n\n- Crusoe's ML infra team built fastokens, an open-source tokenizer that delivers a ~9x speedup over Hugging Face and up to 40% faster time-to-first token – on real production workloads! Crusoe achieved these results by parallelizing things and using some clever engineering to handle duplicates without cross-thread coordination. Learn more at https://crusoe.ai/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Ancient DNA suggests strong selection over last 10,000 years\n00:16:24 – Natural selection intensified during the Bronze Age\n00:35:40 – Why didn't evolution max out intelligence?\n00:58:00 – Evolution is limited by time, not population size\n01:09:40 – Why no farming before the Ice Age?\n01:17:52 – The Neanderthal puzzle David can’t stop thinking about\n01:54:40 – The methodology behind this breakthrough",
       "duration": "PT2H13M50S",
-      "view_count": 1322,
-      "like_count": 98,
-      "comment_count": 23,
+      "view_count": 23733,
+      "like_count": 919,
+      "comment_count": 187,
       "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-06T00:05:26Z",
       "description": "",
       "duration": "PT2M42S",
-      "view_count": 228962,
-      "like_count": 9294,
-      "comment_count": 212,
+      "view_count": 252609,
+      "like_count": 10368,
+      "comment_count": 229,
       "url": "https://www.youtube.com/watch?v=U47df6-ndD4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-04T20:49:02Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 79066,
-      "like_count": 1027,
-      "comment_count": 27,
+      "view_count": 82297,
+      "like_count": 1063,
+      "comment_count": 29,
       "url": "https://www.youtube.com/watch?v=gIGAxLvmROc"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-03T20:24:31Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 90720,
-      "like_count": 1005,
-      "comment_count": 65,
+      "view_count": 92143,
+      "like_count": 1018,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=pV10LYdta7s"
-    },
-    {
-      "id": "svsiJu-sKC8",
-      "title": "What Is the Pentagon's Plan With Anthropic?",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-02T19:05:01Z",
-      "description": "",
-      "duration": "PT1M23S",
-      "view_count": 37305,
-      "like_count": 876,
-      "comment_count": 72,
-      "url": "https://www.youtube.com/watch?v=svsiJu-sKC8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-08T17:47:58Z",
+    "generated_at": "2026-05-09T06:30:25Z",
     "count": 5
   }
 }
