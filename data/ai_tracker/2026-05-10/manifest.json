@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-05-09T17:16:12Z",
+  "task_name": "ai_tracker",
+  "mode": "latest_full",
+  "timezone": "Asia/Shanghai",
+  "channels_total": 17,
+  "channels_ok": 17,
+  "channels_failed": 0,
+  "channels_skipped": 0,
+  "videos_total": 85
+}
