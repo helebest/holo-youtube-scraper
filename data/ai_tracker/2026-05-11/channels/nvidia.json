@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-05-11",
+  "result": [
+    {
+      "id": "nJnZCBYf43c",
+      "title": "Cultivating Healthier Crops Through AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-08T20:23:02Z",
+      "description": "Carbon Robotics eliminates weeds with AI-guided lasers to ensure healthier, chemical-free harvests. \n\nDiscover more in the AI podcast episode with Paul Mikesell, Founder and CEO of Carbon Robotics ➡️",
+      "duration": "PT17S",
+      "view_count": 4183,
+      "like_count": 157,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=nJnZCBYf43c"
+    },
+    {
+      "id": "EFfOKf0DR2U",
+      "title": "Adobe Summit 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-06T16:45:38Z",
+      "description": "Adobe is building Adobe CX Enterprise Coworker on NemoClaw.\n\nAnil Chakravarthy, President of CX Orchestration Business at Adobe, explains how brands can deploy Adobe’s customer experience intelligence within NVIDIA's OpenShell runtime  — keeping enterprise agents governed, observable and auditable at scale.\n\nLearn more: https://nvda.ws/4nm3Gvq",
+      "duration": "PT31S",
+      "view_count": 4721,
+      "like_count": 132,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=EFfOKf0DR2U"
+    },
+    {
+      "id": "c-fsL0gsmo0",
+      "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-06T16:01:06Z",
+      "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison Chase, co-founder & CEO of LangChain, breaks down the architecture behind deep agents, explains why systems like Claude Code, Manus, and Deep Research all share the same foundational pattern, and lays out what it actually takes to deploy autonomous agents responsibly in the enterprise.\n\n🔬Topics covered:\n\nWhat is a \"deep agent,\" and why does architecture matter more than ever?\n\nHow enterprises are (and aren't) embracing autonomous agents\n\nLangSmith: observability, tracing, and evaluation-driven development\n\nMixing frontier and open models (NVIDIA Nemotron) in multi-agent systems\n\nWhat's next: async subagents, proactive/always-on agents, agent memory, and agent identity\n\nChapters:\n00:00 – LangChain origin story and the deep agent architecture\n01:46 – What is a deep agent?\n03:31 – Enterprise trust: risk, autonomy, and iteration\n04:38 – LangSmith: observability and evaluation-driven development\n13:30 – Frontier vs. open models and the Nemotron Coalition\n18:10 – What's next: async subagents, agent memory, and agent identity",
+      "duration": "PT24M55S",
+      "view_count": 3475,
+      "like_count": 142,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=c-fsL0gsmo0"
+    },
+    {
+      "id": "rJp3GldEm0U",
+      "title": "Robotic Precision For Modern Medicine",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-05T23:00:30Z",
+      "description": "Multiply Labs is automating cell therapy manufacturing with robots, reducing costs by more than 70%.\n\nRead the blog to learn more: https://nvda.ws/4tavi7P",
+      "duration": "PT12S",
+      "view_count": 5591,
+      "like_count": 148,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=rJp3GldEm0U"
+    },
+    {
+      "id": "X23hoGzqdTs",
+      "title": "Bringing Data Centers to Outer Space",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-01T22:21:05Z",
+      "description": "Starcloud is bringing AI compute to orbit—cutting energy costs and enabling real-time insights from space.\n\nRead the blog to learn more ➡️ https://nvda.ws/4w45ixx",
+      "duration": "PT19S",
+      "view_count": 9568,
+      "like_count": 423,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=X23hoGzqdTs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-10T17:26:54Z",
+    "count": 5
+  }
+}

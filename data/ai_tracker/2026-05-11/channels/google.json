@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-05-11",
+  "result": [
+    {
+      "id": "XIbAS44oWJc",
+      "title": "Happy Mother’s Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-10T14:01:05Z",
+      "description": "Today’s #GoogleDoodle is a handcrafted tribute to the hands that hold, guide, and help us bloom. Happy Mother’s Day 🌷🖌️",
+      "duration": "PT28S",
+      "view_count": 2027,
+      "like_count": 105,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=XIbAS44oWJc"
+    },
+    {
+      "id": "95WlrEHrQjc",
+      "title": "Go from notes to study guide with Search 📝",
+      "channel_title": "Google",
+      "published_at": "2026-05-08T19:05:05Z",
+      "description": "Get free finals study support with Search. Just press the AI Mode button, upload your notes, and press the blue Canvas button for a custom study guide.\n\n#GoogleSearch #AIMode",
+      "duration": "PT25S",
+      "view_count": 13750,
+      "like_count": 240,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=95WlrEHrQjc"
+    },
+    {
+      "id": "d_2YgLF6ETU",
+      "title": "Behind the Doodle: The Art of K-Pop Dance #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T22:23:11Z",
+      "description": "Take a peek behind the AANHPI Heritage Month Doodle and see how K-pop dance crew @SHEROFFICIALS adapted the official @LESSERAFIM_official “Celebration” choreo for the #GoogleDoodle video  🎬💃🕺 \n\nFrom the dance floor to the animation studio, here’s how we transformed every move into digital magic.\n\nTrack and official choreography: “Celebration” by @LESSERAFIM_official",
+      "duration": "PT59S",
+      "view_count": 11569,
+      "like_count": 414,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=d_2YgLF6ETU"
+    },
+    {
+      "id": "4JVtVgl8oEs",
+      "title": "Level up at I/O",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T16:00:13Z",
+      "description": "Tune in. Level up. Unlock. Join us live here on YouTube May 19 at 10am PT. The stage is set for Google's biggest AI updates. \n\nThe updates are ready‚ are you? \n\nWatch everything we shared on the stage at I/O 25 here: https://www.youtube.com/playlist?list=PL590L5WQmH8e6_yWMouOJsLXFQzGBNerh\n\n#GoogleIO \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT27S",
+      "view_count": 28095,
+      "like_count": 286,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=4JVtVgl8oEs"
+    },
+    {
+      "id": "CEqGktRKO8U",
+      "title": "The Art of K-Pop Dance #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-05-07T03:55:17Z",
+      "description": "In celebration of Asian American, Native Hawaiian, and Pacific Islander Heritage Month, this Doodle celebrates the art of K-Pop dance by shining a light on the American K-Pop dance community—where global fandoms connect through local artistry. The Doodle is set to @LESSERAFIM_official's song “Celebration” with choreography interpreted by LA-based K-Pop dance team @SHEROFFICIALS.",
+      "duration": "PT39S",
+      "view_count": 4103941,
+      "like_count": 24809,
+      "comment_count": 1252,
+      "url": "https://www.youtube.com/watch?v=CEqGktRKO8U"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-10T17:26:56Z",
+    "count": 5
+  }
+}
