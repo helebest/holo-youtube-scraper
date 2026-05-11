@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-12",
+  "result": [
+    {
+      "id": "2nV_jnbCqP4",
+      "title": "Life before Codex, and after Codex - Endava",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-11T14:29:35Z",
+      "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nLearn more: https://openai.com/codex/\n#Codex #Endava",
+      "duration": "PT21S",
+      "view_count": 996,
+      "like_count": 31,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=2nV_jnbCqP4"
+    },
+    {
+      "id": "J886DPhhZLg",
+      "title": "What Codex Unlocks for Endava",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-11T14:26:10Z",
+      "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nJoe Dunleavy and Mike Krolnik share what life was like in the pre-Codex era: \n\n“There is work before Codex, and work after Codex. The time velocity is substantially different.” \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M7S",
+      "view_count": 2936,
+      "like_count": 141,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=J886DPhhZLg"
+    },
+    {
+      "id": "b6Mxcv1pyBU",
+      "title": "Codex can now use Chrome directly on macOS and Windows.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-08T16:25:50Z",
+      "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, without taking over your browser.\n\nTo get started on macOS and Windows, install the Chrome plugin in the Codex app.\n\nhttps://openai.com/codex",
+      "duration": "PT2M35S",
+      "view_count": 84255,
+      "like_count": 2579,
+      "comment_count": 258,
+      "url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
+    },
+    {
+      "id": "JOu8v6CBjkE",
+      "title": "We’re introducing three audio models in the API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-07T17:29:40Z",
+      "description": "We’re introducing three audio models in the API that unlock a new class of voice apps for developers. With these models, developers can build voice experiences that feel more natural, respond more intelligently, and take action in real time:\n\n• GPT‑Realtime‑2, our first voice model with GPT‑5‑class reasoning that can handle harder requests and carry the conversation forward naturally.\n• GPT‑Realtime‑Translate, a new live translation model that translates speech from 70+ input languages into 13 output languages while keeping pace with the speaker.\n• GPT‑Realtime‑Whisper, a new streaming speech-to-text that transcribes speech live as the speaker talks.",
+      "duration": "PT4M4S",
+      "view_count": 138829,
+      "like_count": 5847,
+      "comment_count": 416,
+      "url": "https://www.youtube.com/watch?v=JOu8v6CBjkE"
+    },
+    {
+      "id": "eoyHCYXoNMQ",
+      "title": "GPT-5.5 is a game changer for finance",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-07T16:27:56Z",
+      "description": "\"GPT 5.5 is an absolute game changer for our customers, specifically in finance, because the model is just amazing at multi-step reasoning.\"\n\nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
+      "duration": "PT31S",
+      "view_count": 11131,
+      "like_count": 269,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=eoyHCYXoNMQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-11T18:12:15Z",
+    "count": 5
+  }
+}
