@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-13",
+  "result": [
+    {
+      "id": "mXl5Yl8HamA",
+      "title": "Natural Selection Is Making Us Stay in School Longer - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-11T18:30:59Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 30755,
+      "like_count": 638,
+      "comment_count": 93,
+      "url": "https://www.youtube.com/watch?v=mXl5Yl8HamA"
+    },
+    {
+      "id": "VUtVyIF74RA",
+      "title": "Parts of Your DNA Are More Neanderthal Than Human - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-10T20:19:46Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 32868,
+      "like_count": 697,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=VUtVyIF74RA"
+    },
+    {
+      "id": "Af1apxOmS9M",
+      "title": "Why Humans Stopped Evolving Smarter 2,000 Years Ago - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-09T21:34:15Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 68090,
+      "like_count": 1194,
+      "comment_count": 134,
+      "url": "https://www.youtube.com/watch?v=Af1apxOmS9M"
+    },
+    {
+      "id": "2IqCkJOLekc",
+      "title": "Why Humans Didn't Farm 50,000 Years Ago - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-08T20:05:00Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 359262,
+      "like_count": 6119,
+      "comment_count": 324,
+      "url": "https://www.youtube.com/watch?v=2IqCkJOLekc"
+    },
+    {
+      "id": "sRKBGVFVYAw",
+      "title": "David Reich – Bronze Age shock, the Neanderthal puzzle, & the sudden spread of farming",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-08T17:09:45Z",
+      "description": "David Reich is back.\n\nHe and collaborator Ali Akbari just published a paper that overturns a long-standing consensus about human evolution — that natural selection has been dormant in our species since the agricultural revolution.\n\nBy scaling ancient DNA sequencing and developing a new statistical method, they found that selection has actually sped up. Selection went especially bonkers during the Bronze Age (around 3,000 years ago). That's when gene frequencies for everything from immune function to body fat to intelligence were most in flux. Over the last 10,000 years, selection pushed the genetic predictor of cognitive performance up by roughly a full standard deviation — most of it between 4,000 and 2,000 years ago.\n\nAfter we finished recording, David sketched out on a whiteboard his new heretical model about who the Neanderthals really were. Luckily, I took out my iPhone and managed to record it. He thinks the standard story (that Neanderthals are some separate archaic lineage we interbred with a little) just doesn't fit the evidence. Instead, he proposes that Neanderthals are essentially genetically-swamped modern humans.\n\nA small population somewhere around the Caucasus invented Middle Stone Age technology roughly 300,000 years ago and expanded outward. The ones that moved into Europe interbred with local archaic humans, got genetically swamped, and became Neanderthals. The same expansion went into Africa, met much more diverged archaic Africans, and that mixture became us. This means Neanderthals and modern humans share the same cultural ancestry — the only difference is which archaic humans they mixed with afterward.\n\nDavid is a brilliant and rigorous scholar. It was a real delight to learn from him again.\n\n+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/david-reich-2\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/david-reich-why-the-bronze-age-was-an-inflection/id1516093381?i=1000766816517\n* Spotify: https://open.spotify.com/episode/6BZ56Puv0gsnWCA8yfSde4?si=s7fv1yuuR5ykDMyEIcPTeQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Cursor was super useful as I prepped for this episode. Whenever I had a question, I'd have Cursor kick off a few different models simultaneously and then compare their responses. I found that this led to better results than I could get out of any individual LLM. If you've only used Cursor for coding, you should try using it for research. Check it out at https://cursor.com/dwarkesh\n\n- Jane Street uses an internal currency called \"hive bucks\" to allocate compute through a real-time auction – and anyone can change anyone else's bids or even kill their jobs! Everyone just trusts each other to act in the firm's best interest, which is what lets the system work in the first place. If this weird and high-trust culture sounds like your kind of thing, Jane Street's hiring at https://janestreet.com/dwarkesh\n\n- Crusoe's ML infra team built fastokens, an open-source tokenizer that delivers a ~9x speedup over Hugging Face and up to 40% faster time-to-first token – on real production workloads! Crusoe achieved these results by parallelizing things and using some clever engineering to handle duplicates without cross-thread coordination. Learn more at https://crusoe.ai/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Ancient DNA suggests strong selection over last 10,000 years\n00:16:24 – Natural selection intensified during the Bronze Age\n00:35:40 – Why didn't evolution max out intelligence?\n00:58:00 – Evolution is limited by time, not population size\n01:09:40 – Why no farming before the Ice Age?\n01:17:52 – The Neanderthal puzzle David can’t stop thinking about\n01:54:40 – The methodology behind this breakthrough",
+      "duration": "PT2H13M50S",
+      "view_count": 102473,
+      "like_count": 2658,
+      "comment_count": 477,
+      "url": "https://www.youtube.com/watch?v=sRKBGVFVYAw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-12T18:20:04Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "3Blue1Brown",
+    "tier": "education_fundamentals",
+    "handle": "@3Blue1Brown",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCYO_jab_esuFRV4b17AJtAw"
+  },
+  "date": "2026-05-13",
+  "result": [
+    {
+      "id": "QLu_ZsRc_G0",
+      "title": "Covering 10 points, a surprisingly tricky puzzle.",
+      "channel_title": "3Blue1Brown",
+      "published_at": "2026-04-16T16:08:21Z",
+      "description": "Made as part of a monthly series of puzzles for the 2026 Year of Math.",
+      "duration": "PT39S",
+      "view_count": 740440,
+      "like_count": 17836,
+      "comment_count": 1745,
+      "url": "https://www.youtube.com/watch?v=QLu_ZsRc_G0"
+    },
+    {
+      "id": "Y7ImxZ_YhJk",
+      "title": "Escher's most mind-bending piece",
+      "channel_title": "3Blue1Brown",
+      "published_at": "2026-03-27T20:56:02Z",
+      "description": "On \"The Print Gallery\", by M.C. Escher\nFull video: https://youtu.be/ldxFjLJ3rVY",
+      "duration": "PT1M43S",
+      "view_count": 322788,
+      "like_count": 9934,
+      "comment_count": 78,
+      "url": "https://www.youtube.com/watch?v=Y7ImxZ_YhJk"
+    },
+    {
+      "id": "4h5BEALuh44",
+      "title": "The subset sum puzzle",
+      "channel_title": "3Blue1Brown",
+      "published_at": "2026-03-25T20:59:04Z",
+      "description": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",
+      "duration": "PT49S",
+      "view_count": 391191,
+      "like_count": 10255,
+      "comment_count": 667,
+      "url": "https://www.youtube.com/watch?v=4h5BEALuh44"
+    },
+    {
+      "id": "ldxFjLJ3rVY",
+      "title": "How (and why) to take a logarithm of an image",
+      "channel_title": "3Blue1Brown",
+      "published_at": "2026-03-22T12:59:00Z",
+      "description": "Escher's Print Gallery, and the tour of complex analysis it invites.\nExplore our virtual career fair: https://3b1b.co/talent\nJoin channel supporters to see videos early: https://3b1b.co/support\nAn equally valuable form of support is to share the videos.\nHome page: https://www.3blue1brown.com\n\nOriginal paper by de Smit and Lenstra:\nhttps://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf\n\nThe book I was showing is \"Magic of MC Escher\" by J. L. Locher\nhttps://amzn.to/4d7zXTT\n\nIf you want to play with this concept interactively, Jürgen Richter-Gebert put together a nice page:\nhttps://mathvisuals.org/PrintGallery/\n\nThis piece was co-written by Paul Dancstep, who handled many of the animations in the art section, including the delightful mesh warp scene.\n\nAaron Gostein helped with the manim animations in the section introducing complex functions.\n\nArtwork provided by Talia Gershon, Mitchell Zemil, and Anna Fedczuk.\nhttps://sites.google.com/view/taliagershon\nhttps://mitchellzemil.com/\nhttps://anna-fedczuk.framer.website/about\n\nMusic by Vincent Rubinetti\n\nTimestamps:\n\n0:00 - The print gallery\n13:04 - Conformal maps from complex analysis\n21:41 - The complex exponential\n25:56 - The complex logarithm\n32:32 - 3b1b Talent\n33:14 - Constructing the key function\n40:16 - The deeper math behind Escher\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT44M52S",
+      "view_count": 1710643,
+      "like_count": 71942,
+      "comment_count": 3336,
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
+    },
+    {
+      "id": "Qoes9bTJtn0",
+      "title": "Bacteria Grid Puzzle Solution",
+      "channel_title": "3Blue1Brown",
+      "published_at": "2026-03-21T11:42:53Z",
+      "description": "Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler",
+      "duration": "PT3M",
+      "view_count": 1113694,
+      "like_count": 35519,
+      "comment_count": 485,
+      "url": "https://www.youtube.com/watch?v=Qoes9bTJtn0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-12T18:20:14Z",
+    "count": 5
+  }
+}
