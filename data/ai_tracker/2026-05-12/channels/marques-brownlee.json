@@ -14,15 +14,27 @@
   "date": "2026-05-12",
   "result": [
     {
+      "id": "coX4duwUCpw",
+      "title": "Why New Smartphone Cameras Feel Worse",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-11T20:14:03Z",
+      "description": "Newest camera doesn't necessarily equal the nicest photo\n\nMKBHD Merch: http://shop.MKBHD.com\n\nEvery iPhone in daylight: https://youtube.com/shorts/jru9Gsz3kJY\nEvery iPhone in low light: https://youtube.com/shorts/pvjivZ6C6CA\nEvery Samsung phone: https://youtube.com/shorts/as_NEJAP8ew\nEvery Google phone: https://youtube.com/shorts/s3DrGkDvgNw\n\nApps with alternate processing:\nHalide: https://halide.cam/\nMotionCam: https://www.motioncamapp.com/\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT7M23S",
+      "view_count": 845948,
+      "like_count": 44164,
+      "comment_count": 2282,
+      "url": "https://www.youtube.com/watch?v=coX4duwUCpw"
+    },
+    {
       "id": "i9TvUGeTltE",
       "title": "My Take on The New Apple",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-04-29T22:38:21Z",
       "description": "Apple turnover\n\nQuinn’s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD",
       "duration": "PT11M9S",
-      "view_count": 3852791,
-      "like_count": 116887,
-      "comment_count": 5024,
+      "view_count": 3884500,
+      "like_count": 117404,
+      "comment_count": 5040,
       "url": "https://www.youtube.com/watch?v=i9TvUGeTltE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-04-24T20:41:58Z",
       "description": "Glass is glass. A bit of a rant/explainer/PSA\n\nFor more lies tech companies tell: https://youtu.be/JstGCPsj9wg?si=AUjR2F7aJNuAS85U\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT4M46S",
-      "view_count": 3511513,
-      "like_count": 118206,
-      "comment_count": 4261,
+      "view_count": 3518682,
+      "like_count": 118460,
+      "comment_count": 4267,
       "url": "https://www.youtube.com/watch?v=7YrdI7h2XoY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-04-21T17:01:53Z",
       "description": "Peak slab phone in 2026 looks a lot like a camera attached to a phone\n\nAuto Focus shot on Oppo Find X9 Ultra: https://youtu.be/9s69aThM7rA?si=x8qW7F4MorY2qgRp\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT13M17S",
-      "view_count": 4414120,
-      "like_count": 121399,
-      "comment_count": 5950,
+      "view_count": 4428803,
+      "like_count": 121654,
+      "comment_count": 5957,
       "url": "https://www.youtube.com/watch?v=c347oYQO57A"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-04-14T19:30:41Z",
       "description": "This phone never came out. But they got really close to dropping a rollable phone\n\nJerryRigEverything teardown: https://youtu.be/vDMpANNGND4?si=ks0m5gQBYJkiiEVZ\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT9M59S",
-      "view_count": 2074500,
-      "like_count": 70564,
-      "comment_count": 4551,
+      "view_count": 2076151,
+      "like_count": 70611,
+      "comment_count": 4552,
       "url": "https://www.youtube.com/watch?v=5aS-8QCRdGE"
-    },
-    {
-      "id": "s3DrGkDvgNw",
-      "title": "Every Google Phone Ever. Same Picture!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-04-08T20:43:49Z",
-      "description": "All Pixel and Nexus phones",
-      "duration": "PT49S",
-      "view_count": 1044888,
-      "like_count": 43301,
-      "comment_count": 1277,
-      "url": "https://www.youtube.com/watch?v=s3DrGkDvgNw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-11T18:12:13Z",
+    "generated_at": "2026-05-12T07:20:50Z",
     "count": 5
   }
 }
