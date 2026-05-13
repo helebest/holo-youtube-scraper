@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-14",
+  "result": [
+    {
+      "id": "bMmEEa8-6fU",
+      "title": "Suraj vs The Future | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-13T07:13:55Z",
+      "description": "Prepare smarter with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 7657,
+      "like_count": 326,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=bMmEEa8-6fU"
+    },
+    {
+      "id": "D_FCYsshMI4",
+      "title": "Computer use in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-12T20:44:32Z",
+      "description": "Computer use lets Codex work across local apps without taking over your Mac.\n\nAri Weinstein talks about what changes when agents can click, type, and keep working in the background.\n\nTimestamps\n\n00:34 Why computer use\n02:06 Codex works across local apps\n03:41 Multiple apps at once\n05:14 Screenshots plus accessibility data\n08:35 App-by-app permissions",
+      "duration": "PT11M26S",
+      "view_count": 77299,
+      "like_count": 3193,
+      "comment_count": 454,
+      "url": "https://www.youtube.com/watch?v=D_FCYsshMI4"
+    },
+    {
+      "id": "2nV_jnbCqP4",
+      "title": "Life before Codex, and after Codex - Endava",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-11T14:29:35Z",
+      "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nLearn more: https://openai.com/codex/\n#Codex #Endava",
+      "duration": "PT21S",
+      "view_count": 7483,
+      "like_count": 135,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=2nV_jnbCqP4"
+    },
+    {
+      "id": "J886DPhhZLg",
+      "title": "What Codex Unlocks for Endava",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-11T14:26:10Z",
+      "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nJoe Dunleavy and Mike Krolnik share what life was like in the pre-Codex era: \n\n“There is work before Codex, and work after Codex. The time velocity is substantially different.” \n\nLearn more: https://openai.com/codex/",
+      "duration": "PT1M7S",
+      "view_count": 9808,
+      "like_count": 278,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=J886DPhhZLg"
+    },
+    {
+      "id": "b6Mxcv1pyBU",
+      "title": "Codex can now use Chrome directly on macOS and Windows.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-08T16:25:50Z",
+      "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, without taking over your browser.\n\nTo get started on macOS and Windows, install the Chrome plugin in the Codex app.\n\nhttps://openai.com/codex",
+      "duration": "PT2M35S",
+      "view_count": 88936,
+      "like_count": 2676,
+      "comment_count": 267,
+      "url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-13T18:20:40Z",
+    "count": 5
+  }
+}
