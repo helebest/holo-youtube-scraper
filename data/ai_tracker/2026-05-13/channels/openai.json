@@ -14,14 +14,38 @@
   "date": "2026-05-13",
   "result": [
     {
+      "id": "bMmEEa8-6fU",
+      "title": "Suraj vs The Future | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-13T07:13:55Z",
+      "description": "Prepare smarter with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 558,
+      "like_count": 45,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=bMmEEa8-6fU"
+    },
+    {
+      "id": "D_FCYsshMI4",
+      "title": "Computer use in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-12T20:44:32Z",
+      "description": "Computer use lets Codex work across local apps without taking over your Mac.\n\nAri Weinstein talks about what changes when agents can click, type, and keep working in the background.\n\nTimestamps\n\n00:34 Why computer use\n02:06 Codex works across local apps\n03:41 Multiple apps at once\n05:14 Screenshots plus accessibility data\n08:35 App-by-app permissions",
+      "duration": "PT11M26S",
+      "view_count": 49182,
+      "like_count": 2302,
+      "comment_count": 336,
+      "url": "https://www.youtube.com/watch?v=D_FCYsshMI4"
+    },
+    {
       "id": "2nV_jnbCqP4",
       "title": "Life before Codex, and after Codex - Endava",
       "channel_title": "OpenAI",
       "published_at": "2026-05-11T14:29:35Z",
       "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nLearn more: https://openai.com/codex/\n#Codex #Endava",
       "duration": "PT21S",
-      "view_count": 5904,
-      "like_count": 111,
+      "view_count": 6989,
+      "like_count": 129,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=2nV_jnbCqP4"
     },
@@ -32,8 +56,8 @@
       "published_at": "2026-05-11T14:26:10Z",
       "description": "“Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” \n\nJoe Dunleavy and Mike Krolnik share what life was like in the pre-Codex era: \n\n“There is work before Codex, and work after Codex. The time velocity is substantially different.” \n\nLearn more: https://openai.com/codex/",
       "duration": "PT1M7S",
-      "view_count": 8127,
-      "like_count": 250,
+      "view_count": 9286,
+      "like_count": 265,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=J886DPhhZLg"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-05-08T16:25:50Z",
       "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, without taking over your browser.\n\nTo get started on macOS and Windows, install the Chrome plugin in the Codex app.\n\nhttps://openai.com/codex",
       "duration": "PT2M35S",
-      "view_count": 86934,
-      "like_count": 2628,
-      "comment_count": 262,
+      "view_count": 88065,
+      "like_count": 2654,
+      "comment_count": 265,
       "url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
-    },
-    {
-      "id": "JOu8v6CBjkE",
-      "title": "We’re introducing three audio models in the API",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-07T17:29:40Z",
-      "description": "We’re introducing three audio models in the API that unlock a new class of voice apps for developers. With these models, developers can build voice experiences that feel more natural, respond more intelligently, and take action in real time:\n\n• GPT‑Realtime‑2, our first voice model with GPT‑5‑class reasoning that can handle harder requests and carry the conversation forward naturally.\n• GPT‑Realtime‑Translate, a new live translation model that translates speech from 70+ input languages into 13 output languages while keeping pace with the speaker.\n• GPT‑Realtime‑Whisper, a new streaming speech-to-text that transcribes speech live as the speaker talks.",
-      "duration": "PT4M4S",
-      "view_count": 141760,
-      "like_count": 5925,
-      "comment_count": 421,
-      "url": "https://www.youtube.com/watch?v=JOu8v6CBjkE"
-    },
-    {
-      "id": "eoyHCYXoNMQ",
-      "title": "GPT-5.5 is a game changer for finance",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-07T16:27:56Z",
-      "description": "\"GPT 5.5 is an absolute game changer for our customers, specifically in finance, because the model is just amazing at multi-step reasoning.\"\n\nBuild with GPT-5.5 ➡️ https://lnkd.in/g7KQNhiG",
-      "duration": "PT31S",
-      "view_count": 12072,
-      "like_count": 298,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=eoyHCYXoNMQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-12T18:20:09Z",
+    "generated_at": "2026-05-13T07:33:28Z",
     "count": 5
   }
 }
