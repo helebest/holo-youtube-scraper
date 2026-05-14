@@ -14,15 +14,27 @@
   "date": "2026-05-14",
   "result": [
     {
+      "id": "OR_VBlb4fD8",
+      "title": "Why Hasn't Evolution Eliminated Schizophrenia? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-13T19:35:03Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 15290,
+      "like_count": 521,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
+    },
+    {
       "id": "0wWC1Sxhass",
       "title": "Are Humans Getting Genetically Less Studious? - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-12T18:30:02Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 18442,
-      "like_count": 371,
-      "comment_count": 19,
+      "view_count": 20682,
+      "like_count": 446,
+      "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=0wWC1Sxhass"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-11T18:30:59Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 41581,
-      "like_count": 773,
-      "comment_count": 101,
+      "view_count": 45483,
+      "like_count": 836,
+      "comment_count": 108,
       "url": "https://www.youtube.com/watch?v=mXl5Yl8HamA"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-05-10T20:19:46Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 38051,
-      "like_count": 774,
+      "view_count": 40540,
+      "like_count": 814,
       "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=VUtVyIF74RA"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-09T21:34:15Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 75993,
-      "like_count": 1290,
-      "comment_count": 146,
+      "view_count": 78711,
+      "like_count": 1319,
+      "comment_count": 161,
       "url": "https://www.youtube.com/watch?v=Af1apxOmS9M"
-    },
-    {
-      "id": "2IqCkJOLekc",
-      "title": "Why Humans Didn't Farm 50,000 Years Ago - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-08T20:05:00Z",
-      "description": "",
-      "duration": "PT1M4S",
-      "view_count": 426987,
-      "like_count": 7136,
-      "comment_count": 375,
-      "url": "https://www.youtube.com/watch?v=2IqCkJOLekc"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-13T18:20:35Z",
+    "generated_at": "2026-05-14T07:26:26Z",
     "count": 5
   }
 }
