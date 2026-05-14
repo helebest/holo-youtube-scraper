@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-15",
+  "result": [
+    {
+      "id": "OR_VBlb4fD8",
+      "title": "Why Hasn't Evolution Eliminated Schizophrenia? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-13T19:35:03Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 20404,
+      "like_count": 628,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
+    },
+    {
+      "id": "0wWC1Sxhass",
+      "title": "Are Humans Getting Genetically Less Studious? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-12T18:30:02Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 22004,
+      "like_count": 425,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=0wWC1Sxhass"
+    },
+    {
+      "id": "mXl5Yl8HamA",
+      "title": "Natural Selection Is Making Us Stay in School Longer - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-11T18:30:59Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 47442,
+      "like_count": 846,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=mXl5Yl8HamA"
+    },
+    {
+      "id": "VUtVyIF74RA",
+      "title": "Parts of Your DNA Are More Neanderthal Than Human - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-10T20:19:46Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 41587,
+      "like_count": 819,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=VUtVyIF74RA"
+    },
+    {
+      "id": "Af1apxOmS9M",
+      "title": "Why Humans Stopped Evolving Smarter 2,000 Years Ago - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-09T21:34:15Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 79652,
+      "like_count": 1336,
+      "comment_count": 163,
+      "url": "https://www.youtube.com/watch?v=Af1apxOmS9M"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-14T18:13:02Z",
+    "count": 5
+  }
+}

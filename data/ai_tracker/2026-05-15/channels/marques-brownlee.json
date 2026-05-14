@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-05-15",
+  "result": [
+    {
+      "id": "eFeDpUVEy48",
+      "title": "“The Biggest Android Update Ever”",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-13T20:53:07Z",
+      "description": "Everything we know so far about Android 17, Gemini Intelligence and Googlebooks\n\nPhone camera processing: https://youtu.be/coX4duwUCpw\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M59S",
+      "view_count": 2234133,
+      "like_count": 86159,
+      "comment_count": 6724,
+      "url": "https://www.youtube.com/watch?v=eFeDpUVEy48"
+    },
+    {
+      "id": "coX4duwUCpw",
+      "title": "Why New Smartphone Cameras Feel Worse",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-11T20:14:03Z",
+      "description": "Newest camera doesn't necessarily equal the nicest photo\n\nMKBHD Merch: http://shop.MKBHD.com\n\nEvery iPhone in daylight: https://youtube.com/shorts/jru9Gsz3kJY\nEvery iPhone in low light: https://youtube.com/shorts/pvjivZ6C6CA\nEvery Samsung phone: https://youtube.com/shorts/as_NEJAP8ew\nEvery Google phone: https://youtube.com/shorts/s3DrGkDvgNw\n\nApps with alternate processing:\nHalide: https://halide.cam/\nMotionCam: https://www.motioncamapp.com/\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT7M23S",
+      "view_count": 1936987,
+      "like_count": 78466,
+      "comment_count": 3518,
+      "url": "https://www.youtube.com/watch?v=coX4duwUCpw"
+    },
+    {
+      "id": "i9TvUGeTltE",
+      "title": "My Take on The New Apple",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-29T22:38:21Z",
+      "description": "Apple turnover\n\nQuinn’s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD",
+      "duration": "PT11M9S",
+      "view_count": 3983989,
+      "like_count": 119212,
+      "comment_count": 5088,
+      "url": "https://www.youtube.com/watch?v=i9TvUGeTltE"
+    },
+    {
+      "id": "7YrdI7h2XoY",
+      "title": "Glass is glass",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-24T20:41:58Z",
+      "description": "Glass is glass. A bit of a rant/explainer/PSA\n\nFor more lies tech companies tell: https://youtu.be/JstGCPsj9wg?si=AUjR2F7aJNuAS85U\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT4M46S",
+      "view_count": 3535222,
+      "like_count": 119114,
+      "comment_count": 4277,
+      "url": "https://www.youtube.com/watch?v=7YrdI7h2XoY"
+    },
+    {
+      "id": "c347oYQO57A",
+      "title": "So This is Peak Smartphone",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-04-21T17:01:53Z",
+      "description": "Peak slab phone in 2026 looks a lot like a camera attached to a phone\n\nAuto Focus shot on Oppo Find X9 Ultra: https://youtu.be/9s69aThM7rA?si=x8qW7F4MorY2qgRp\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Oppo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT13M17S",
+      "view_count": 4471034,
+      "like_count": 122367,
+      "comment_count": 6034,
+      "url": "https://www.youtube.com/watch?v=c347oYQO57A"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-14T18:13:05Z",
+    "count": 5
+  }
+}
