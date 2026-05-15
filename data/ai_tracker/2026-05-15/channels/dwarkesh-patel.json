@@ -14,15 +14,27 @@
   "date": "2026-05-15",
   "result": [
     {
+      "id": "C8kOBVNkzpQ",
+      "title": "Why Humans Waited 70,000 Years to Build Civilization - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-14T19:24:14Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 36867,
+      "like_count": 960,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=C8kOBVNkzpQ"
+    },
+    {
       "id": "OR_VBlb4fD8",
       "title": "Why Hasn't Evolution Eliminated Schizophrenia? - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-13T19:35:03Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 20404,
-      "like_count": 628,
-      "comment_count": 30,
+      "view_count": 23312,
+      "like_count": 686,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-05-12T18:30:02Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 22004,
-      "like_count": 425,
+      "view_count": 24334,
+      "like_count": 504,
       "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=0wWC1Sxhass"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-05-11T18:30:59Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 47442,
-      "like_count": 846,
+      "view_count": 50022,
+      "like_count": 878,
       "comment_count": 111,
       "url": "https://www.youtube.com/watch?v=mXl5Yl8HamA"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-10T20:19:46Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 41587,
-      "like_count": 819,
+      "view_count": 42405,
+      "like_count": 833,
       "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=VUtVyIF74RA"
-    },
-    {
-      "id": "Af1apxOmS9M",
-      "title": "Why Humans Stopped Evolving Smarter 2,000 Years Ago - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-09T21:34:15Z",
-      "description": "",
-      "duration": "PT1M3S",
-      "view_count": 79652,
-      "like_count": 1336,
-      "comment_count": 163,
-      "url": "https://www.youtube.com/watch?v=Af1apxOmS9M"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-14T18:13:02Z",
+    "generated_at": "2026-05-15T07:39:05Z",
     "count": 5
   }
 }
