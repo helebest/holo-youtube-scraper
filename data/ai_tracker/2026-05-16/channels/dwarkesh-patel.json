@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-16",
+  "result": [
+    {
+      "id": "X_ZVSPcZhtw",
+      "title": "Building AlphaGo from scratch – Eric Jang",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-15T16:20:46Z",
+      "description": "Eric Jang walks through how to build AlphaGo from scratch, but with modern AI tools. \n\nSometimes you understand the future better by stepping backward. AlphaGo is still the cleanest worked example of the primitives of intelligence: search, learning from experience, and self-play. You have to go back to 2017 to get insight into how the more general AIs of the future might learn. \n\nOnce he explained how AlphaGo works, it gave us the context to have a discussion about how RL works in LLMs and how it could work better – naive policy gradient RL has to figure out which of the 100k+ tokens in your trajectory actually got you the right answer, while AlphaGo’s MCTS suggests a strictly better action every single move, giving you a training target that sidesteps the credit assignment problem. The way humans learn is surely closer to the second.\n\nEric also kickstarted an Autoresearch loop on his project. And it was very interesting to discuss which parts of AI research LLMs can already automate pretty well (implementing and running experiments, optimizing hyperparameters) and which they still struggle with (choosing the right question to investigate next, escaping research dead ends). Informative to all the recent discussion about when we should expect an intelligence explosion, and what it would look like from the inside.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Check out the flashcards I wrote to retain the insights: https://flashcards.dwarkesh.com/eric-jang/\n* Transcript: https://www.dwarkesh.com/p/eric-jang\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Cursor's agent SDK let me build a pipeline to generate flashcards for this episode. For each card, I had an agent read the transcript, ingest blackboard screenshots, generate an SVG visual, and run everything through a critic. A durable agent is much better at this kind of work than a chain of LLM calls, and Cursor's SDK made it easy. Check out the cards at https://flashcards.dwarkesh.com and get started with the SDK at https://cursor.com/dwarkesh\n\n- Jane Street gave me a real deep-dive tour of one of their datacenters. I got to ask a bunch of questions to Ron Minsky, who co-leads Jane Street's tech group, and Dan Pontecorvo, who runs Jane Street's physical engineering team. They were willing to literally pull up the floorboards and take out racks to explain how everything works. Check out the full tour at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Basics of Go\n00:08:06 – Monte Carlo Tree Search\n00:31:53 – What the neural network does\n01:00:22 – Self-play\n01:25:27 – Alternative RL approaches\n01:45:36 – Why doesn’t MCTS work for LLMs\n02:00:58 – Off-policy training\n02:11:51 – RL is even more information inefficient than you thought\n02:22:05 – Automated AI researchers",
+      "duration": "PT2H37M18S",
+      "view_count": 5255,
+      "like_count": 485,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw"
+    },
+    {
+      "id": "C8kOBVNkzpQ",
+      "title": "Why Humans Waited 70,000 Years to Build Civilization - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-14T19:24:14Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 62995,
+      "like_count": 1345,
+      "comment_count": 84,
+      "url": "https://www.youtube.com/watch?v=C8kOBVNkzpQ"
+    },
+    {
+      "id": "OR_VBlb4fD8",
+      "title": "Why Hasn't Evolution Eliminated Schizophrenia? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-13T19:35:03Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 24545,
+      "like_count": 724,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
+    },
+    {
+      "id": "0wWC1Sxhass",
+      "title": "Are Humans Getting Genetically Less Studious? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-12T18:30:02Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 25425,
+      "like_count": 528,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=0wWC1Sxhass"
+    },
+    {
+      "id": "mXl5Yl8HamA",
+      "title": "Natural Selection Is Making Us Stay in School Longer - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-11T18:30:59Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 51123,
+      "like_count": 894,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=mXl5Yl8HamA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-15T17:55:43Z",
+    "count": 5
+  }
+}
