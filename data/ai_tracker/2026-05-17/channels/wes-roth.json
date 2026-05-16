@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-05-17",
+  "result": [
+    {
+      "id": "RTa6Z0BJ_WY",
+      "title": "AI just BROKE the ENTIRE INDUSTRY...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-16T09:57:17Z",
+      "description": "Check out Ghost: https://b.link/wes-ghost\nOne install command, no waitlist, free up to a terabyte. \n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 Finance is cooked\n05:00 Ghost (sponsor)\n08:10 OpenAI and Personal Finance\n12:13 Anthropic and Wall Street\n19:44 The \"Big Four\"\n26:50 Mythos and the \"dark side\"\n30:42 the big point\n32:22 the new AI race\n\n\n#ai #openai #llm",
+      "duration": "PT34M47S",
+      "view_count": 19820,
+      "like_count": 839,
+      "comment_count": 169,
+      "url": "https://www.youtube.com/watch?v=RTa6Z0BJ_WY"
+    },
+    {
+      "id": "a8EfFGeY9S8",
+      "title": "everyone JUST got HACKED...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-15T04:36:02Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\nLINKS:\n\nApple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In.\nhttps://www.wsj.com/tech/ai/anthropic-mythos-apple-macos-bug-339da403\n\nGTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access\nhttps://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access\n\nMicrosoft’s multi-agent AI system tops Anthropic’s Mythos on cybersecurity benchmark\nhttps://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/\n\nExclusive: Palo Alto Networks says new AI models found 7x more vulnerabilities\nhttps://www.axios.com/2026/05/13/palo-alto-networks-mythos-gpt-cybersecurity\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M56S",
+      "view_count": 64073,
+      "like_count": 2077,
+      "comment_count": 392,
+      "url": "https://www.youtube.com/watch?v=a8EfFGeY9S8"
+    },
+    {
+      "id": "zYNrRi2r5CM",
+      "title": "AI NEWS | OpenAI Lawsuit, Google Hacks, Grok Build Beta",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-14T23:04:54Z",
+      "description": "______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT2H3M58S",
+      "view_count": 5572,
+      "like_count": 135,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=zYNrRi2r5CM"
+    },
+    {
+      "id": "Hw7PE5a3DGo",
+      "title": "\"1,000 days left\" Anthropic founder",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-11T08:20:46Z",
+      "description": "Jack Clark:\nhttps://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT34M10S",
+      "view_count": 54726,
+      "like_count": 2336,
+      "comment_count": 565,
+      "url": "https://www.youtube.com/watch?v=Hw7PE5a3DGo"
+    },
+    {
+      "id": "Nn2eXwch-K0",
+      "title": "we JUST figured out how AI thinks",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-09T05:38:41Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT19M33S",
+      "view_count": 103580,
+      "like_count": 2905,
+      "comment_count": 725,
+      "url": "https://www.youtube.com/watch?v=Nn2eXwch-K0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-16T17:28:20Z",
+    "count": 5
+  }
+}
