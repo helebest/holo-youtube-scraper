@@ -20,9 +20,9 @@
       "published_at": "2026-05-15T19:06:14Z",
       "description": "Delivering agentic inference at scale requires balancing three pillars:\n\n1) Model and algorithm efficiency\n2) Software efficiency\n3) Compute efficiency\n\nNVIDIA's full-stack platform continuously optimizes for all these inputs using extreme co-design across compute, networking, storage, memory, and software with broad ecosystem support across millions of developers.\n\nLearn more about how NVIDIA produces the lowest token cost: https://nvda.ws/4tmVWuh\n\n#shorts",
       "duration": "PT1M13S",
-      "view_count": 3668,
-      "like_count": 185,
-      "comment_count": 3,
+      "view_count": 5330,
+      "like_count": 271,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=hKnCAWGZ0QA"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-14T18:27:49Z",
       "description": "What does it actually take to run A/B testing at nearly a billion-user scale?\n\nPrudhvi Vatala, Head of Engineering Platforms at @OfficialSnapchat  explains how his team migrated 10+ petabytes of daily data processing to GPU-accelerated pipelines on @googlecloud — cutting job costs by 76% and memory footprint by 80%, with zero code changes.\n\n📺 Watch the episode: https://youtu.be/glT-zO8B_qk\n\n#shorts",
       "duration": "PT25S",
-      "view_count": 3543,
-      "like_count": 79,
-      "comment_count": 3,
+      "view_count": 4023,
+      "like_count": 84,
+      "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=-hfJJMOMxBY"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-05-13T16:00:07Z",
       "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%, and eliminated 120 terabytes of disk spill from its pipelines.\n\nPrudhvi Vatala, head of engineering platforms at Snap, joins the NVIDIA AI Podcast to break down how he and his team completely modernized data infrastructure for a social platform serving nearly a billion monthly active users—using NVIDIA cuDF plugin (formerly referred to as NVIDIA RAPIDS plugin) for Apache Spark on Google Kubernetes Engine, with zero application code changes.\n\n🔬Topics covered:\n\nHow Snap runs A/B tests at planetary scale using rigorous statistical methods like heterogeneous treatment effect detection and variance reduction\n\nWhy Snap reuses idle inference GPUs between 1–5 a.m. for batch data processing—and how it built a Kubernetes-based platform to do it\n\nHow NVIDIA cuDF delivered 3x+ speedups on join-heavy Spark jobs with no code rewrites\n\nThe full business impact: 76% cost reduction, 62% fewer cores, 80% less memory, 120 TB of spill eliminated\n\nHow a three-way partnership between Snap, NVIDIA, and Google Cloud made it possible in just 8–9 months\n\nChapters:\n0:00 Introduction and Snap overview\n3:35 What is Snap’s experimentation platform?\n4:05 Why experimentation, safety, and privacy are core at Snap\n4:52 How A/B testing works at billion-user scale\n8:14 Discovering NVIDIA cuDF plugin\n9:06 Benchmarking results: join, union, and aggregation jobs\n12:00 Reusing idle GPUs overnight via GKE\n13:24 Building a bottom-up GPU data platform at Snap\n17:48 Results: 76% cost reduction and partnership impact\n20:56 Snap’s evolution and what’s next\n\nLearn more:\nNVIDIA cuDF: https://developer.nvidia.com/topics/ai/data-science/cuda-x-data-science-libraries/cudf#accel-apache",
       "duration": "PT23M35S",
-      "view_count": 2254,
-      "like_count": 84,
+      "view_count": 2363,
+      "like_count": 90,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=glT-zO8B_qk"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-05-08T20:23:02Z",
       "description": "Carbon Robotics eliminates weeds with AI-guided lasers to ensure healthier, chemical-free harvests. \n\nDiscover more in the AI podcast episode with Paul Mikesell, Founder and CEO of Carbon Robotics ➡️",
       "duration": "PT17S",
-      "view_count": 6668,
-      "like_count": 246,
+      "view_count": 6737,
+      "like_count": 247,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=nJnZCBYf43c"
     },
@@ -68,7 +68,7 @@
       "published_at": "2026-05-06T16:45:38Z",
       "description": "Adobe is building Adobe CX Enterprise Coworker on NemoClaw.\n\nAnil Chakravarthy, President of CX Orchestration Business at Adobe, explains how brands can deploy Adobe’s customer experience intelligence within NVIDIA's OpenShell runtime  — keeping enterprise agents governed, observable and auditable at scale.\n\nLearn more: https://nvda.ws/4nm3Gvq",
       "duration": "PT31S",
-      "view_count": 5438,
+      "view_count": 5470,
       "like_count": 147,
       "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=EFfOKf0DR2U"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-16T17:28:16Z",
+    "generated_at": "2026-05-17T07:19:08Z",
     "count": 5
   }
 }

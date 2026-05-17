@@ -14,14 +14,26 @@
   "date": "2026-05-17",
   "result": [
     {
+      "id": "8Qs6W0s-erU",
+      "title": "Why did humans suddenly start making art 50,000 years ago? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-16T18:18:04Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 18934,
+      "like_count": 564,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=8Qs6W0s-erU"
+    },
+    {
       "id": "uivpxQCp0Dg",
       "title": "When your genes had to choose which disease to fight - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-15T18:41:26Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 9004,
-      "like_count": 275,
+      "view_count": 10950,
+      "like_count": 308,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=uivpxQCp0Dg"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-05-15T16:20:46Z",
       "description": "Eric Jang walks through how to build AlphaGo from scratch, but with modern AI tools. \n\nSometimes you understand the future better by stepping backward. AlphaGo is still the cleanest worked example of the primitives of intelligence: search, learning from experience, and self-play. You have to go back to 2017 to get insight into how the more general AIs of the future might learn. \n\nOnce he explained how AlphaGo works, it gave us the context to have a discussion about how RL works in LLMs and how it could work better – naive policy gradient RL has to figure out which of the 100k+ tokens in your trajectory actually got you the right answer, while AlphaGo’s MCTS suggests a strictly better action every single move, giving you a training target that sidesteps the credit assignment problem. The way humans learn is surely closer to the second.\n\nEric also kickstarted an Autoresearch loop on his project. And it was very interesting to discuss which parts of AI research LLMs can already automate pretty well (implementing and running experiments, optimizing hyperparameters) and which they still struggle with (choosing the right question to investigate next, escaping research dead ends). Informative to all the recent discussion about when we should expect an intelligence explosion, and what it would look like from the inside.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Check out the flashcards I wrote to retain the insights: https://flashcards.dwarkesh.com/eric-jang/\n* Transcript: https://www.dwarkesh.com/p/eric-jang\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Cursor's agent SDK let me build a pipeline to generate flashcards for this episode. For each card, I had an agent read the transcript, ingest blackboard screenshots, generate an SVG visual, and run everything through a critic. A durable agent is much better at this kind of work than a chain of LLM calls, and Cursor's SDK made it easy. Check out the cards at https://flashcards.dwarkesh.com and get started with the SDK at https://cursor.com/dwarkesh\n\n- Jane Street gave me a real deep-dive tour of one of their datacenters. I got to ask a bunch of questions to Ron Minsky, who co-leads Jane Street's tech group, and Dan Pontecorvo, who runs Jane Street's physical engineering team. They were willing to literally pull up the floorboards and take out racks to explain how everything works. Check out the full tour at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Basics of Go\n00:08:06 – Monte Carlo Tree Search\n00:31:53 – What the neural network does\n01:00:22 – Self-play\n01:25:27 – Alternative RL approaches\n01:45:36 – Why doesn’t MCTS work for LLMs\n02:00:58 – Off-policy training\n02:11:51 – RL is even more information inefficient than you thought\n02:22:05 – Automated AI researchers",
       "duration": "PT2H37M18S",
-      "view_count": 48091,
-      "like_count": 1680,
-      "comment_count": 98,
+      "view_count": 61852,
+      "like_count": 1992,
+      "comment_count": 118,
       "url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-14T19:24:14Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 79709,
-      "like_count": 1571,
-      "comment_count": 96,
+      "view_count": 81900,
+      "like_count": 1613,
+      "comment_count": 104,
       "url": "https://www.youtube.com/watch?v=C8kOBVNkzpQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-13T19:35:03Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 29490,
-      "like_count": 831,
-      "comment_count": 36,
+      "view_count": 31595,
+      "like_count": 882,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
-    },
-    {
-      "id": "0wWC1Sxhass",
-      "title": "Are Humans Getting Genetically Less Studious? - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-12T18:30:02Z",
-      "description": "",
-      "duration": "PT1M11S",
-      "view_count": 26725,
-      "like_count": 548,
-      "comment_count": 22,
-      "url": "https://www.youtube.com/watch?v=0wWC1Sxhass"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-16T17:28:12Z",
+    "generated_at": "2026-05-17T07:19:04Z",
     "count": 5
   }
 }
