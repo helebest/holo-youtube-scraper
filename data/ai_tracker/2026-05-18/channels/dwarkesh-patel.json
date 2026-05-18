@@ -14,15 +14,27 @@
   "date": "2026-05-18",
   "result": [
     {
+      "id": "MnPwF178DhY",
+      "title": "They Built This Without Wheels or Metal - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-17T19:58:47Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 13611,
+      "like_count": 443,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=MnPwF178DhY"
+    },
+    {
       "id": "8Qs6W0s-erU",
       "title": "Why did humans suddenly start making art 50,000 years ago? - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-16T18:18:04Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 25975,
-      "like_count": 676,
-      "comment_count": 46,
+      "view_count": 31061,
+      "like_count": 740,
+      "comment_count": 51,
       "url": "https://www.youtube.com/watch?v=8Qs6W0s-erU"
     },
     {
@@ -32,21 +44,21 @@
       "published_at": "2026-05-15T18:41:26Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 11732,
-      "like_count": 321,
-      "comment_count": 2,
+      "view_count": 12755,
+      "like_count": 338,
+      "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=uivpxQCp0Dg"
     },
     {
       "id": "X_ZVSPcZhtw",
-      "title": "Building AlphaGo from scratch – Eric Jang",
+      "title": "What rebuilding AlphaGo teaches us about self-play, RL, and future of LLMs - Eric Jang",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-15T16:20:46Z",
       "description": "Eric Jang walks through how to build AlphaGo from scratch, but with modern AI tools. \n\nSometimes you understand the future better by stepping backward. AlphaGo is still the cleanest worked example of the primitives of intelligence: search, learning from experience, and self-play. You have to go back to 2017 to get insight into how the more general AIs of the future might learn. \n\nOnce he explained how AlphaGo works, it gave us the context to have a discussion about how RL works in LLMs and how it could work better – naive policy gradient RL has to figure out which of the 100k+ tokens in your trajectory actually got you the right answer, while AlphaGo’s MCTS suggests a strictly better action every single move, giving you a training target that sidesteps the credit assignment problem. The way humans learn is surely closer to the second.\n\nEric also kickstarted an Autoresearch loop on his project. And it was very interesting to discuss which parts of AI research LLMs can already automate pretty well (implementing and running experiments, optimizing hyperparameters) and which they still struggle with (choosing the right question to investigate next, escaping research dead ends). Informative to all the recent discussion about when we should expect an intelligence explosion, and what it would look like from the inside.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Check out the flashcards I wrote to retain the insights: https://flashcards.dwarkesh.com/eric-jang/\n* Transcript: https://www.dwarkesh.com/p/eric-jang\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n- Cursor's agent SDK let me build a pipeline to generate flashcards for this episode. For each card, I had an agent read the transcript, ingest blackboard screenshots, generate an SVG visual, and run everything through a critic. A durable agent is much better at this kind of work than a chain of LLM calls, and Cursor's SDK made it easy. Check out the cards at https://flashcards.dwarkesh.com and get started with the SDK at https://cursor.com/dwarkesh\n\n- Jane Street gave me a real deep-dive tour of one of their datacenters. I got to ask a bunch of questions to Ron Minsky, who co-leads Jane Street's tech group, and Dan Pontecorvo, who runs Jane Street's physical engineering team. They were willing to literally pull up the floorboards and take out racks to explain how everything works. Check out the full tour at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Basics of Go\n00:08:06 – Monte Carlo Tree Search\n00:31:53 – What the neural network does\n01:00:22 – Self-play\n01:25:27 – Alternative RL approaches\n01:45:36 – Why doesn’t MCTS work for LLMs\n02:00:58 – Off-policy training\n02:11:51 – RL is even more information inefficient than you thought\n02:22:05 – Automated AI researchers",
       "duration": "PT2H37M18S",
-      "view_count": 68504,
-      "like_count": 2145,
-      "comment_count": 121,
+      "view_count": 76217,
+      "like_count": 2267,
+      "comment_count": 128,
       "url": "https://www.youtube.com/watch?v=X_ZVSPcZhtw"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-14T19:24:14Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 83512,
-      "like_count": 1633,
-      "comment_count": 105,
+      "view_count": 85226,
+      "like_count": 1669,
+      "comment_count": 115,
       "url": "https://www.youtube.com/watch?v=C8kOBVNkzpQ"
-    },
-    {
-      "id": "OR_VBlb4fD8",
-      "title": "Why Hasn't Evolution Eliminated Schizophrenia? - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-13T19:35:03Z",
-      "description": "",
-      "duration": "PT1M11S",
-      "view_count": 32233,
-      "like_count": 895,
-      "comment_count": 40,
-      "url": "https://www.youtube.com/watch?v=OR_VBlb4fD8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-17T17:30:25Z",
+    "generated_at": "2026-05-18T08:28:46Z",
     "count": 5
   }
 }
