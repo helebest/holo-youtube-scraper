@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-05-20",
+  "result": [
+    {
+      "id": "XlyOJYwRdPg",
+      "title": "Krea Releases Ultra Customizable AI Art Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-19T13:06:26Z",
+      "description": "How to get the PERFECT AI art style every single time:\n\n1. Go to Krea.ai and toggle to the \"Krea 2 Large\" model for photorealism or \"Krea 2 Medium\" model for illustrations\n2. Click \"Mood Boards\" on the bottom dashboard\n3. Drop in a batch of images that share the aesthetic you want\n4. Let Krea analyze the palette and mood\n5. Prompt whatever you want and it will match your Mood Board perfectly\n\nKrea V2 just dropped and it's perfect for if you’re building a brand, designing a project, or want AI to mimic your own artwork.\n\n➡️ Share this with a creative friend and SAVE it to so you don't forget to test it out later!",
+      "duration": "PT1M29S",
+      "view_count": 820,
+      "like_count": 29,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=XlyOJYwRdPg"
+    },
+    {
+      "id": "gVMz2vKzYRY",
+      "title": "Huge Codex Upgrade Just Dropped",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-18T12:44:30Z",
+      "description": "🚨 OpenAI just dropped the feature we've all been waiting for: Codex on mobile.\n\nIf you watched my recent video on how I built my custom wiki, you know how much I’ve been relying on Codex. So I was super excited for this feature and I know a bunch of other people have been asking for it as well.\n\nBy just scanning a quick QR code, you can now connect your phone directly to your computer. My wiki and files still live safely on my Mac Studio’s hard drive, but I can now search my \"second brain\" vault, run queries, and manage EVERYTHING remotely from my phone.\n\nYou can prompt Codex to start coding an app, go chill in the living room to watch TV, and just check its progress or answer its questions straight from your couch. I honestly can't overstate how excited I am about this.\n\n➡️ SHARE this post with someone who would use this!\n\n#OpenAI #Codex #AI #Ainews #ChatGPT",
+      "duration": "PT1M17S",
+      "view_count": 8322,
+      "like_count": 268,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=gVMz2vKzYRY"
+    },
+    {
+      "id": "HdLTWc3KOfk",
+      "title": "New AI Model SHOCKED Me",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-16T23:48:39Z",
+      "description": "This might be the first AI demo in a LONG time that felt like there was actually a big step up in intelligence. \n\nThinking Machines Labs just showed off their new “Interaction Models” and some of these demos genuinely feel like the next evolution of AI.\n\nThey showed off real-time translation while someone is still speaking and a deep understanding of timing, pauses, posture, and context during a conversation.\n\nI was genuinely impressed.\n\nHere's the link if you want to check out all the demos and read more information: thinkingmachines.ai/blog/interaction-models\n\n#ai #ainews #aimodels #thinkingmachineslabs",
+      "duration": "PT1M39S",
+      "view_count": 15728,
+      "like_count": 490,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=HdLTWc3KOfk"
+    },
+    {
+      "id": "6SinsxX5CUc",
+      "title": "Why I Didn’t Sell My Channel",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-15T19:38:26Z",
+      "description": "This video went super viral about how private equity is buying up and ruining YouTube channels. \n\nAnd the truth is... I HAVE gotten 2 separate offers to buy my YouTube channel/brand. One was from a private equity group and one from a major software company.\n\nBut I turned down both of them and tbh I have no plans to sell my channel or any of my platforms. \n\nI’d much rather keep building and working on what I have than watch it slowly turn into corporatized content slop 🤷🏻‍♂️\n\n#AI #ainews #privateequity #contentcreation #socialmedia",
+      "duration": "PT35S",
+      "view_count": 22744,
+      "like_count": 313,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=6SinsxX5CUc"
+    },
+    {
+      "id": "Oy7tzmfbl64",
+      "title": "AI News: OpenAI Finally Released What We Asked For",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-15T15:00:23Z",
+      "description": "Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with Crusoe Managed Inference at https://www.crusoe.ai/cloud/managed-inference?utm_source=mattwolfe&utm_medium=influencer&utm_campaign=bring_your_own_model_launch\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nInteraction Models: https://thinkingmachines.ai/blog/interaction-models/\nCodex From Anywhere: https://openai.com/index/work-with-codex-from-anywhere/\nOpenAI Daybreak Cybersecurity: https://openai.com/daybreak/\nClaude Code Agent View: https://claude.com/blog/agent-view-in-claude-code\nKrea 2 Model: https://x.com/krea_ai/status/2054207481421975829\nGemini Intelligence Android: https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/\nIntroducing Googlebook: https://blog.google/products-and-platforms/platforms/android/meet-googlebook/\nAI Pointer Reimagined: https://deepmind.google/blog/ai-pointer/\nClaude Code Limits Increase: https://x.com/ClaudeDevs/status/2054639777685934564\nAnthropic Beats OpenAI: https://ramp.com/leading-indicators/ai-index-may-2026\nClaude For Legal: https://claude.com/blog/claude-for-the-legal-industry\nClaude For Small Business: https://www.anthropic.com/news/claude-for-small-business\nClaude Cracks It: https://x.com/cprkrn/status/2054586810475364536\nWhatsApp Incognito Chat: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/\nMeta Muse Spark: https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/\nNotion Developer Platform: https://x.com/NotionHQ/status/2054625030970220834\nDigg AI Stories: https://di.gg/ai\nInstagram Post: https://www.instagram.com/p/DYUqGodlYn0/\n3D Gen Toolkit: https://x.com/neilsonks/status/2055013782771134479\nRivian Assistant Launch: https://stories.rivian.com/software-update-hey-rivian-assistant-connect-ai-2026\nFigure 8-Hour Livestream: https://x.com/adcock_brett/status/2054729581391962353\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:07 Thinking Machines Interaction Models\n5:40 Crusoe\n7:04 Codex on Mobile\n9:04 Project Daybreak\n9:57 Claude Code Agent View\n10:22 Krea 2\n13:00 Gemini in Android\n14:56 Googlebook\n15:35 The AI Mouse Pointer\n18:11 Claude Code Increased Limits (Plus Drama)\n19:47 Anthropic Passes OpenAI\n20:12 Claude for Legal\n20:43 Claude for Small Business\n21:15 Claude Saves Bitcoin\n22:03 Meta Incognito AI\n22:27 Muse Spark Rolls Out\n22:57 Notion Developer Platform\n23:31 The New Digg AI\n24:45 Real Monet Criticized as AI\n25:35 Image to 3D Environment and Objects\n27:21 Rivian AI\n28:28 24-hour Robot Livestream\n29:16 Google I/O Predictions\n31:15 Final Thoughts\n32:46 AI SLOP",
+      "duration": "PT33M9S",
+      "view_count": 89202,
+      "like_count": 3051,
+      "comment_count": 211,
+      "url": "https://www.youtube.com/watch?v=Oy7tzmfbl64"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-19T18:18:07Z",
+    "count": 5
+  }
+}
