@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-05-21",
+  "result": [
+    {
+      "id": "bQN-D8qeAgg",
+      "title": "Viral Post Embarrassingly Exposes AI Haters 💀",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-20T12:45:24Z",
+      "description": "Internet art critics just took the biggest L of the year 💀\n\nA user on X posted a REAL Monet painting, slapped an \"AI Generated\" tag on it, and asked people to critique it.\n\nPeople wrote whole essays about how the painting was \"soulless,\" \"lacked human touch,\" and \"obviously a computer.\" But they were roasting a real Monet painting...\n\nIt just goes to show that yeah, some people may hype up AI, but some people are also hype HATING on it too.\n\nSend this to the biggest AI hater you know and see how they react...\n\n#ai #ainews #aiart #genai",
+      "duration": "PT47S",
+      "view_count": 5930,
+      "like_count": 220,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=bQN-D8qeAgg"
+    },
+    {
+      "id": "XlyOJYwRdPg",
+      "title": "Krea AI Launches Crazy New Image Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-19T13:06:26Z",
+      "description": "How to get the PERFECT AI art style every single time:\n\n1. Go to Krea.ai and toggle to the \"Krea 2 Large\" model for photorealism or \"Krea 2 Medium\" model for illustrations\n2. Click \"Mood Boards\" on the bottom dashboard\n3. Drop in a batch of images that share the aesthetic you want\n4. Let Krea analyze the palette and mood\n5. Prompt whatever you want and it will match your Mood Board perfectly\n\nKrea V2 just dropped and it's perfect for if you’re building a brand, designing a project, or want AI to mimic your own artwork.\n\n➡️ Share this with a creative friend and SAVE it to so you don't forget to test it out later!",
+      "duration": "PT1M29S",
+      "view_count": 2108,
+      "like_count": 77,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=XlyOJYwRdPg"
+    },
+    {
+      "id": "gVMz2vKzYRY",
+      "title": "Huge Codex Upgrade Just Dropped",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-18T12:44:30Z",
+      "description": "🚨 OpenAI just dropped the feature we've all been waiting for: Codex on mobile.\n\nIf you watched my recent video on how I built my custom wiki, you know how much I’ve been relying on Codex. So I was super excited for this feature and I know a bunch of other people have been asking for it as well.\n\nBy just scanning a quick QR code, you can now connect your phone directly to your computer. My wiki and files still live safely on my Mac Studio’s hard drive, but I can now search my \"second brain\" vault, run queries, and manage EVERYTHING remotely from my phone.\n\nYou can prompt Codex to start coding an app, go chill in the living room to watch TV, and just check its progress or answer its questions straight from your couch. I honestly can't overstate how excited I am about this.\n\n➡️ SHARE this post with someone who would use this!\n\n#OpenAI #Codex #AI #Ainews #ChatGPT",
+      "duration": "PT1M17S",
+      "view_count": 12293,
+      "like_count": 407,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=gVMz2vKzYRY"
+    },
+    {
+      "id": "HdLTWc3KOfk",
+      "title": "New AI Model SHOCKED Me",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-16T23:48:39Z",
+      "description": "This might be the first AI demo in a LONG time that felt like there was actually a big step up in intelligence. \n\nThinking Machines Labs just showed off their new “Interaction Models” and some of these demos genuinely feel like the next evolution of AI.\n\nThey showed off real-time translation while someone is still speaking and a deep understanding of timing, pauses, posture, and context during a conversation.\n\nI was genuinely impressed.\n\nHere's the link if you want to check out all the demos and read more information: thinkingmachines.ai/blog/interaction-models\n\n#ai #ainews #aimodels #thinkingmachineslabs",
+      "duration": "PT1M39S",
+      "view_count": 16748,
+      "like_count": 515,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=HdLTWc3KOfk"
+    },
+    {
+      "id": "6SinsxX5CUc",
+      "title": "Why I Didn’t Sell My Channel",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-05-15T19:38:26Z",
+      "description": "This video went super viral about how private equity is buying up and ruining YouTube channels. \n\nAnd the truth is... I HAVE gotten 2 separate offers to buy my YouTube channel/brand. One was from a private equity group and one from a major software company.\n\nBut I turned down both of them and tbh I have no plans to sell my channel or any of my platforms. \n\nI’d much rather keep building and working on what I have than watch it slowly turn into corporatized content slop 🤷🏻‍♂️\n\n#AI #ainews #privateequity #contentcreation #socialmedia",
+      "duration": "PT35S",
+      "view_count": 23273,
+      "like_count": 316,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=6SinsxX5CUc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-20T18:36:30Z",
+    "count": 5
+  }
+}

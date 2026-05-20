@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-05-21",
+  "result": [
+    {
+      "id": "S8pcApQ_saQ",
+      "title": "NVIDIA's Vera CPU Has Arrived",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-19T18:57:51Z",
+      "description": "ICYMI: NVIDIA’s Ian Buck hand-delivered the first ever Vera CPUs to our partners! Purpose-built for the age of agentic AI - this is just the beginning for NVIDIA Vera.",
+      "duration": "PT54S",
+      "view_count": 9917,
+      "like_count": 300,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=S8pcApQ_saQ"
+    },
+    {
+      "id": "aJ3ZydGZszU",
+      "title": "AI can help people move beyond routine tasks and focus on higher-impact work",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-18T15:34:22Z",
+      "description": "Our CEO Jensen Huang explains why AI can take on routine tasks, boost productivity, and help people focus on more meaningful work.",
+      "duration": "PT1M44S",
+      "view_count": 7434,
+      "like_count": 401,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=aJ3ZydGZszU"
+    },
+    {
+      "id": "hKnCAWGZ0QA",
+      "title": "Understanding the AI Tokenomics Equation",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-15T19:06:14Z",
+      "description": "Delivering agentic inference at scale requires balancing three pillars:\n\n1) Model and algorithm efficiency\n2) Software efficiency\n3) Compute efficiency\n\nNVIDIA's full-stack platform continuously optimizes for all these inputs using extreme co-design across compute, networking, storage, memory, and software with broad ecosystem support across millions of developers.\n\nLearn more about how NVIDIA produces the lowest token cost: https://nvda.ws/4tmVWuh\n\n#shorts",
+      "duration": "PT1M13S",
+      "view_count": 8934,
+      "like_count": 505,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=hKnCAWGZ0QA"
+    },
+    {
+      "id": "-hfJJMOMxBY",
+      "title": "Snap’s GPU-Accelerated Secret to Processing 10 Petabytes a Day | NVIDIA AI Podcast Ep. 298",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-14T18:27:49Z",
+      "description": "What does it actually take to run A/B testing at nearly a billion-user scale?\n\nPrudhvi Vatala, Head of Engineering Platforms at @OfficialSnapchat  explains how his team migrated 10+ petabytes of daily data processing to GPU-accelerated pipelines on @googlecloud — cutting job costs by 76% and memory footprint by 80%, with zero code changes.\n\n📺 Watch the episode: https://youtu.be/glT-zO8B_qk\n\n#shorts",
+      "duration": "PT25S",
+      "view_count": 5206,
+      "like_count": 111,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=-hfJJMOMxBY"
+    },
+    {
+      "id": "glT-zO8B_qk",
+      "title": "Snap’s GPU-Accelerated Secret to Processing 10 Petabytes a Day | NVIDIA AI Podcast Ep. 298",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-13T16:00:07Z",
+      "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%, and eliminated 120 terabytes of disk spill from its pipelines.\n\nPrudhvi Vatala, head of engineering platforms at Snap, joins the NVIDIA AI Podcast to break down how he and his team completely modernized data infrastructure for a social platform serving nearly a billion monthly active users—using NVIDIA cuDF plugin (formerly referred to as NVIDIA RAPIDS plugin) for Apache Spark on Google Kubernetes Engine, with zero application code changes.\n\n🔬Topics covered:\n\nHow Snap runs A/B tests at planetary scale using rigorous statistical methods like heterogeneous treatment effect detection and variance reduction\n\nWhy Snap reuses idle inference GPUs between 1–5 a.m. for batch data processing—and how it built a Kubernetes-based platform to do it\n\nHow NVIDIA cuDF delivered 3x+ speedups on join-heavy Spark jobs with no code rewrites\n\nThe full business impact: 76% cost reduction, 62% fewer cores, 80% less memory, 120 TB of spill eliminated\n\nHow a three-way partnership between Snap, NVIDIA, and Google Cloud made it possible in just 8–9 months\n\nChapters:\n0:00 Introduction and Snap overview\n3:35 What is Snap’s experimentation platform?\n4:05 Why experimentation, safety, and privacy are core at Snap\n4:52 How A/B testing works at billion-user scale\n8:14 Discovering NVIDIA cuDF plugin\n9:06 Benchmarking results: join, union, and aggregation jobs\n12:00 Reusing idle GPUs overnight via GKE\n13:24 Building a bottom-up GPU data platform at Snap\n17:48 Results: 76% cost reduction and partnership impact\n20:56 Snap’s evolution and what’s next\n\nLearn more:\nNVIDIA cuDF: https://developer.nvidia.com/topics/ai/data-science/cuda-x-data-science-libraries/cudf#accel-apache",
+      "duration": "PT23M35S",
+      "view_count": 3037,
+      "like_count": 101,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=glT-zO8B_qk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-20T18:36:28Z",
+    "count": 5
+  }
+}

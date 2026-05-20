@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-21",
+  "result": [
+    {
+      "id": "_BY9YTTh6kE",
+      "title": "Kunal vs Motorcycle | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-20T05:10:39Z",
+      "description": "Kickstart your projects with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 5983,
+      "like_count": 201,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=_BY9YTTh6kE"
+    },
+    {
+      "id": "CaBXLZyaJYU",
+      "title": "Update and audit a finance model in Excel with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-15T20:41:26Z",
+      "description": "See how ChatGPT for Excel can help finance teams review a CFO performance workbook before it goes out.\n\nIn this demo, ChatGPT checks tie-outs across model tabs, flags issues like stale source data and revenue mismatches, creates a QA issue log, drafts owner questions, and gives a clear readiness verdict.\n\nLearn more: https://chatgpt.com/apps/spreadsheets/",
+      "duration": "PT2M46S",
+      "view_count": 20144,
+      "like_count": 453,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU"
+    },
+    {
+      "id": "DLP9CagE3dU",
+      "title": "Codex for Everyday Work: AI Agents Beyond Coding",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-14T20:28:12Z",
+      "description": "Codex began as a tool for developers. Today, people are using it for much more: research, planning, file organization, automation, data analysis, presentations, and other everyday knowledge work.\n\nIn this OpenAI Forum conversation, Chris Nicholson of OpenAI Global Affairs speaks with Thibault Sottiaux, Head of Codex, about how Codex is evolving beyond software engineering and what that shift means for workers, teams, and organizations.",
+      "duration": "PT43M3S",
+      "view_count": 36950,
+      "like_count": 859,
+      "comment_count": 98,
+      "url": "https://www.youtube.com/watch?v=DLP9CagE3dU"
+    },
+    {
+      "id": "tk9qrk5G4RQ",
+      "title": "Now in preview: Codex in the ChatGPT mobile app.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-14T20:15:39Z",
+      "description": "Codex is rolling out in preview in the ChatGPT mobile app on iOS and Android.\n\nIn this demo, see how you can start, steer, unblock, and review Codex work from your phone while Codex keeps running on your computer, Mac mini, devbox, or managed remote environment, with your files and project context still in place.\n\nYou can review outputs, approve commands, check progress, and keep work moving when you step away from your laptop.\n\nLearn more:\nhttps://openai.com/index/work-with-codex-from-anywhere/",
+      "duration": "PT1M5S",
+      "view_count": 53372,
+      "like_count": 2586,
+      "comment_count": 146,
+      "url": "https://www.youtube.com/watch?v=tk9qrk5G4RQ"
+    },
+    {
+      "id": "bH2nP-aCFjk",
+      "title": "Inside image generation’s Renaissance moment — the OpenAI Podcast Ep. 19",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-14T17:31:22Z",
+      "description": "People are generating over 1.5 billion images a week in ChatGPT. In this episode, Product lead Adele Li and researcher Kenji Hata share some of the new use cases and trends since the launch of Images 2.0. \n\nTogether with host Andrew Mayne, they trace the progress from the early DALL-E days and dive into the latest capabilities, including better text rendering, photorealism, multilingual support, world knowledge, aspect ratios, and character consistency. \n\nThey also explore what comes next as image generation models evolve into more capable creative assistants.\n\nChapters\n00:36 How Adele and Kenji came to work on Images\n02:27 Images 2.0 launch reception\n05:25 Productivity use cases and and 360 images\n09:34: Viral trends, authenticity, and imperfection\n10:51 Training breakthroughs and photorealism\n14:06 Evals, prompting, and creative control\n22:16 Creative agents and what comes next\n22:27 Images + Codex\n28:08 Prompt tips",
+      "duration": "PT29M23S",
+      "view_count": 10597,
+      "like_count": 353,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=bH2nP-aCFjk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-20T18:36:28Z",
+    "count": 5
+  }
+}
