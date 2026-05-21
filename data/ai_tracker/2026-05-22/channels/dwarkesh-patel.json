@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-22",
+  "result": [
+    {
+      "id": "zqISzCijgJI",
+      "title": "The Stone Age Breakthrough Hiding in Plain Sight - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-20T20:37:35Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 10873,
+      "like_count": 311,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=zqISzCijgJI"
+    },
+    {
+      "id": "gyYzU4gDA-k",
+      "title": "Humans Share the Same Genetic Toolkit - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-18T19:19:27Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 13513,
+      "like_count": 316,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=gyYzU4gDA-k"
+    },
+    {
+      "id": "MnPwF178DhY",
+      "title": "They Built This Without Wheels or Metal - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-17T19:58:47Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 37422,
+      "like_count": 822,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=MnPwF178DhY"
+    },
+    {
+      "id": "8Qs6W0s-erU",
+      "title": "Why did humans suddenly start making art 50,000 years ago? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-16T18:18:04Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 38848,
+      "like_count": 873,
+      "comment_count": 63,
+      "url": "https://www.youtube.com/watch?v=8Qs6W0s-erU"
+    },
+    {
+      "id": "uivpxQCp0Dg",
+      "title": "When your genes had to choose which disease to fight - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-15T18:41:26Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 15795,
+      "like_count": 398,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=uivpxQCp0Dg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-21T18:15:46Z",
+    "count": 5
+  }
+}

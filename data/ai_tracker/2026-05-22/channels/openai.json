@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-22",
+  "result": [
+    {
+      "id": "KCRRLUF1a8E",
+      "title": "R&D: Part 1. Coming soon",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-21T15:00:06Z",
+      "description": "",
+      "duration": "PT38S",
+      "view_count": 4360,
+      "like_count": 215,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=KCRRLUF1a8E"
+    },
+    {
+      "id": "z2bpPuK7eYI",
+      "title": "Built with GPT-5.5: Abridge Clinical AI Notes",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-20T23:09:45Z",
+      "description": "A better medical note starts with a very human reality: people do not tell stories in a straight line.\n\nMatt Sanders from Abridge shares how GPT-5.5 helps extract the facts that matter from provider-patient conversations, supporting more complete notes with less documentation burden.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M16S",
+      "view_count": 6298,
+      "like_count": 198,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=z2bpPuK7eYI"
+    },
+    {
+      "id": "Br4l9YjCyRU",
+      "title": "The Erdős Breakthrough",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-20T19:20:13Z",
+      "description": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. \n\nFor nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. \n\nThis marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics. \n\nThe proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. \n\nThis result points to something larger: AI systems are becoming capable of holding together long, difficult chains of reasoning, connecting ideas across distant fields, and surfacing paths researchers may not have explored. \n\nWe believe those same abilities will soon accelerate work in biology, physics, engineering, and medicine.\n\nThat future still depends on human judgment. Expertise becomes more valuable, not less. AI can help search, suggest, and verify. People choose the problems that matter, interpret the results, and decide what questions to pursue next. \n\nhttps://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "duration": "PT2M38S",
+      "view_count": 33655,
+      "like_count": 1655,
+      "comment_count": 195,
+      "url": "https://www.youtube.com/watch?v=Br4l9YjCyRU"
+    },
+    {
+      "id": "_BY9YTTh6kE",
+      "title": "Kunal vs Motorcycle | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-20T05:10:39Z",
+      "description": "Kickstart your projects with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 8121,
+      "like_count": 230,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=_BY9YTTh6kE"
+    },
+    {
+      "id": "CaBXLZyaJYU",
+      "title": "Update and audit a finance model in Excel with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-15T20:41:26Z",
+      "description": "See how ChatGPT for Excel can help finance teams review a CFO performance workbook before it goes out.\n\nIn this demo, ChatGPT checks tie-outs across model tabs, flags issues like stale source data and revenue mismatches, creates a QA issue log, drafts owner questions, and gives a clear readiness verdict.\n\nLearn more: https://chatgpt.com/apps/spreadsheets/",
+      "duration": "PT2M46S",
+      "view_count": 20530,
+      "like_count": 457,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-21T18:15:52Z",
+    "count": 5
+  }
+}
