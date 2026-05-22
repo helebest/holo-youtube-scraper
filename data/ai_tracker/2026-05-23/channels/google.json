@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-05-23",
+  "result": [
+    {
+      "id": "e_Vuhurshu0",
+      "title": "Study better with simulations in Search 💡",
+      "channel_title": "Google",
+      "published_at": "2026-05-22T17:50:28Z",
+      "description": "Sometimes you need more than just text. Use Search to generate interactive simulations to see exactly how complicated topics work.\n\n#GoogleSearch",
+      "duration": "PT21S",
+      "view_count": 119,
+      "like_count": 6,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=e_Vuhurshu0"
+    },
+    {
+      "id": "iDmMHAaZl1g",
+      "title": "Universal Cart is your new hub for shopping on Google 🛍️",
+      "channel_title": "Google",
+      "published_at": "2026-05-21T19:17:37Z",
+      "description": "Add things to your cart whether you're shopping on Search, the Gemini app, YouTube or Gmail. See how it works.\n\n#GoogleIO",
+      "duration": "PT1M59S",
+      "view_count": 8259,
+      "like_count": 474,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=iDmMHAaZl1g"
+    },
+    {
+      "id": "bzn0jbR7sbc",
+      "title": "First look at our upcoming audio glasses, designed with Samsung, Gentle Monster and Warby Parker",
+      "channel_title": "Google",
+      "published_at": "2026-05-21T17:31:14Z",
+      "description": "The future of intelligent eyewear is coming this fall. 👓\nHere’s your first look at our upcoming audio glasses, designed in partnership with @Samsung, @gentlemonsterofficial and @warbyparker. Blending style with hands-free help from @GoogleGemini they’re made to keep you connected while staying in the moment.",
+      "duration": "PT2M",
+      "view_count": 9148,
+      "like_count": 461,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=bzn0jbR7sbc"
+    },
+    {
+      "id": "3adJfoBWllg",
+      "title": "Introducing Gemini Spark ✨",
+      "channel_title": "Google",
+      "published_at": "2026-05-21T01:27:58Z",
+      "description": "Gemini Spark is a 24/7 personal AI agent that helps you navigate your digital life. Set recurring tasks, teach it new skills and create complete workflows.\n\n#GoogleIO",
+      "duration": "PT1M59S",
+      "view_count": 23752,
+      "like_count": 792,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=3adJfoBWllg"
+    },
+    {
+      "id": "ENa2DplfFRo",
+      "title": "See how Gemini Omni can edit your clips with a prompt",
+      "channel_title": "Google",
+      "published_at": "2026-05-20T18:16:49Z",
+      "description": "Same same, but different. 🎬 Upload any clip to Gemini Omni and prompt to make the edits you want to see.\n\n#GoogleIO #GoogleGemini",
+      "duration": "PT30S",
+      "view_count": 25318,
+      "like_count": 557,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=ENa2DplfFRo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-22T18:10:57Z",
+    "count": 5
+  }
+}

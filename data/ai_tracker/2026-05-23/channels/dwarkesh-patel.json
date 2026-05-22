@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-23",
+  "result": [
+    {
+      "id": "oIk3R-sMX5o",
+      "title": "Chip design from the bottom up – Reiner Pope",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-22T16:11:28Z",
+      "description": "New blackboard lecture with Reiner Pope: how do chips actually work - starting with basic logic gates, and working up to why GPUs, TPUs, FPGAs, and the human brain each look the way they do.\n\nReiner is CEO of MatX, a new chip startup (full disclosure - I’m an angel investor). He was previously at Google, where he worked on software efficiency, compilers, and TPU architecture.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/reiner-pope-2\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Crusoe was one of only five GPU clouds that made the gold tier in SemiAnalysis' most recent ClusterMAX report. Gold-tier providers like Crusoe delivered 5-15% lower TCO than silver-tier clouds, even with identical GPU pricing. This is because optimizations like early fault detection and rapid node replacement don't necessarily show up in the sticker price, but still matter a ton in the real world. Learn more at https://crusoe.ai/dwarkesh\n\n* Cursor is where I do most of my work—from reading research papers to visualizing technical concepts to coding up internal tools for the podcast. Most recently, I used it to build two different review interfaces for my essay contest, one that anonymizes submissions for scoring and another that lets me see applicants' essays next to their resumes and websites. Whatever you're working on, you should try doing it in Cursor. Get started at https://cursor.com/dwarkesh\n\n* Jane Street let me ask Ron Minsky and Dan Pontecorvo, two senior Jane Streeters, a bunch of questions about how they use AI. We discussed everything from the types of models they're training to how they think about the future of trading to why they're more bullish than ever on hiring technical talent. You can watch the full conversation and learn more about their open positions at https://janestreet.com/dwarkesh\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Building a multiply-accumulate from logic gates\n00:16:20 – Muxes and the cost of data movement\n00:25:59 – How systolic arrays work\n00:39:00 – Clock cycles and pipeline registers\n00:51:40 – FPGAs vs ASICs\n01:03:14 – Cache vs scratchpad\n01:07:16 – Why CPU cores are much bigger than GPU cores\n01:11:49 – Brains vs chips\n01:15:22 – A GPU is just a bunch of tiny TPUs",
+      "duration": "PT1H20M20S",
+      "view_count": 4762,
+      "like_count": 445,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=oIk3R-sMX5o"
+    },
+    {
+      "id": "jcFEW1ckpU4",
+      "title": "Why Wasn't Intelligence 'Maxed Out' Before the Bronze Age? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-21T20:33:54Z",
+      "description": "",
+      "duration": "PT1M30S",
+      "view_count": 16912,
+      "like_count": 468,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=jcFEW1ckpU4"
+    },
+    {
+      "id": "zqISzCijgJI",
+      "title": "The Stone Age Breakthrough Hiding in Plain Sight - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-20T20:37:35Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 15924,
+      "like_count": 409,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=zqISzCijgJI"
+    },
+    {
+      "id": "gyYzU4gDA-k",
+      "title": "Humans Share the Same Genetic Toolkit - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-18T19:19:27Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 14703,
+      "like_count": 348,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=gyYzU4gDA-k"
+    },
+    {
+      "id": "MnPwF178DhY",
+      "title": "They Built This Without Wheels or Metal - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-17T19:58:47Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 38703,
+      "like_count": 849,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=MnPwF178DhY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-22T18:10:52Z",
+    "count": 5
+  }
+}
