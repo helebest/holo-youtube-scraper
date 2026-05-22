@@ -14,14 +14,26 @@
   "date": "2026-05-22",
   "result": [
     {
+      "id": "jcFEW1ckpU4",
+      "title": "Why Wasn't Intelligence 'Maxed Out' Before the Bronze Age? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-21T20:33:54Z",
+      "description": "",
+      "duration": "PT1M30S",
+      "view_count": 12408,
+      "like_count": 379,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=jcFEW1ckpU4"
+    },
+    {
       "id": "zqISzCijgJI",
       "title": "The Stone Age Breakthrough Hiding in Plain Sight - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-20T20:37:35Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 10873,
-      "like_count": 311,
+      "view_count": 14240,
+      "like_count": 374,
       "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=zqISzCijgJI"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-05-18T19:19:27Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 13513,
-      "like_count": 316,
+      "view_count": 14271,
+      "like_count": 333,
       "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=gyYzU4gDA-k"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-05-17T19:58:47Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 37422,
-      "like_count": 822,
+      "view_count": 38291,
+      "like_count": 840,
       "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=MnPwF178DhY"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-16T18:18:04Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 38848,
-      "like_count": 873,
+      "view_count": 39631,
+      "like_count": 888,
       "comment_count": 63,
       "url": "https://www.youtube.com/watch?v=8Qs6W0s-erU"
-    },
-    {
-      "id": "uivpxQCp0Dg",
-      "title": "When your genes had to choose which disease to fight - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-15T18:41:26Z",
-      "description": "",
-      "duration": "PT1M6S",
-      "view_count": 15795,
-      "like_count": 398,
-      "comment_count": 5,
-      "url": "https://www.youtube.com/watch?v=uivpxQCp0Dg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-21T18:15:46Z",
+    "generated_at": "2026-05-22T07:56:18Z",
     "count": 5
   }
 }

@@ -14,15 +14,51 @@
   "date": "2026-05-22",
   "result": [
     {
+      "id": "rgh0hMYPcd0",
+      "title": "Run long tasks in Codex using goals",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-21T20:00:29Z",
+      "description": "Goal mode (/goal) has graduated from an experiment—for tasks big and small, Codex gets your work done. \n\nUse goal mode in the Codex app, IDE Extension, or CLI to give Codex a specific milestone, and it will keep working until it gets there, even across hours or days.\n\nYou can check in and steer, and even pause Codex along the way.",
+      "duration": "PT1M39S",
+      "view_count": 13388,
+      "like_count": 685,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=rgh0hMYPcd0"
+    },
+    {
+      "id": "msSa0tc2TbU",
+      "title": "Share Codex plugins with your team",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-21T19:15:18Z",
+      "description": "Teams can now distribute custom plugins, reuse internal tools, and manage what’s available across their workspace.\n\nIf you have a plugin that's working for you, now its really simple to share it with others right from within the Codex app.\n\nChapters\n00:00 Launching plugin sharing in Codex\n00:09 Sharing a custom plugin from the directory\n00:19 Choosing who can access the plugin\n00:39 Finding plugins shared by teammates\n01:06 Sharing curated directory URLs\n01:24 Team workflows do not have to stay local",
+      "duration": "PT1M40S",
+      "view_count": 4421,
+      "like_count": 177,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=msSa0tc2TbU"
+    },
+    {
+      "id": "QKYbGCvNpFo",
+      "title": "Introducing Appshots in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-21T18:33:55Z",
+      "description": "Appshots are a new way to bring the context of what you’re working on into Codex.\n\nOn your Mac, press Command-Command to attach your app window to a Codex thread. Codex gets both a screenshot and text from the window, including content beyond what’s visible onscreen.\n\nAppshots are available across plans on Mac, with enterprise access coming soon.",
+      "duration": "PT46S",
+      "view_count": 9875,
+      "like_count": 264,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=QKYbGCvNpFo"
+    },
+    {
       "id": "KCRRLUF1a8E",
       "title": "R&D: Part 1. Coming soon",
       "channel_title": "OpenAI",
       "published_at": "2026-05-21T15:00:06Z",
       "description": "",
       "duration": "PT38S",
-      "view_count": 4360,
-      "like_count": 215,
-      "comment_count": 41,
+      "view_count": 9125,
+      "like_count": 297,
+      "comment_count": 43,
       "url": "https://www.youtube.com/watch?v=KCRRLUF1a8E"
     },
     {
@@ -32,51 +68,15 @@
       "published_at": "2026-05-20T23:09:45Z",
       "description": "A better medical note starts with a very human reality: people do not tell stories in a straight line.\n\nMatt Sanders from Abridge shares how GPT-5.5 helps extract the facts that matter from provider-patient conversations, supporting more complete notes with less documentation burden.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
       "duration": "PT1M16S",
-      "view_count": 6298,
-      "like_count": 198,
-      "comment_count": 20,
+      "view_count": 7429,
+      "like_count": 213,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=z2bpPuK7eYI"
-    },
-    {
-      "id": "Br4l9YjCyRU",
-      "title": "The Erdős Breakthrough",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-20T19:20:13Z",
-      "description": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. \n\nFor nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. \n\nThis marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics. \n\nThe proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. \n\nThis result points to something larger: AI systems are becoming capable of holding together long, difficult chains of reasoning, connecting ideas across distant fields, and surfacing paths researchers may not have explored. \n\nWe believe those same abilities will soon accelerate work in biology, physics, engineering, and medicine.\n\nThat future still depends on human judgment. Expertise becomes more valuable, not less. AI can help search, suggest, and verify. People choose the problems that matter, interpret the results, and decide what questions to pursue next. \n\nhttps://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "duration": "PT2M38S",
-      "view_count": 33655,
-      "like_count": 1655,
-      "comment_count": 195,
-      "url": "https://www.youtube.com/watch?v=Br4l9YjCyRU"
-    },
-    {
-      "id": "_BY9YTTh6kE",
-      "title": "Kunal vs Motorcycle | With ChatGPT",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-20T05:10:39Z",
-      "description": "Kickstart your projects with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
-      "duration": "PT30S",
-      "view_count": 8121,
-      "like_count": 230,
-      "comment_count": 43,
-      "url": "https://www.youtube.com/watch?v=_BY9YTTh6kE"
-    },
-    {
-      "id": "CaBXLZyaJYU",
-      "title": "Update and audit a finance model in Excel with ChatGPT",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-15T20:41:26Z",
-      "description": "See how ChatGPT for Excel can help finance teams review a CFO performance workbook before it goes out.\n\nIn this demo, ChatGPT checks tie-outs across model tabs, flags issues like stale source data and revenue mismatches, creates a QA issue log, drafts owner questions, and gives a clear readiness verdict.\n\nLearn more: https://chatgpt.com/apps/spreadsheets/",
-      "duration": "PT2M46S",
-      "view_count": 20530,
-      "like_count": 457,
-      "comment_count": 48,
-      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-21T18:15:52Z",
+    "generated_at": "2026-05-22T07:56:22Z",
     "count": 5
   }
 }

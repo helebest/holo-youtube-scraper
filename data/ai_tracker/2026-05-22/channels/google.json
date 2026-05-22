@@ -14,15 +14,27 @@
   "date": "2026-05-22",
   "result": [
     {
+      "id": "iDmMHAaZl1g",
+      "title": "Universal Cart is your new hub for shopping on Google 🛍️",
+      "channel_title": "Google",
+      "published_at": "2026-05-21T19:17:37Z",
+      "description": "Add things to your cart whether you're shopping on Search, the Gemini app, YouTube or Gmail. See how it works.\n\n#GoogleIO",
+      "duration": "PT1M59S",
+      "view_count": 5329,
+      "like_count": 377,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=iDmMHAaZl1g"
+    },
+    {
       "id": "bzn0jbR7sbc",
       "title": "First look at our upcoming audio glasses, designed with Samsung, Gentle Monster and Warby Parker",
       "channel_title": "Google",
       "published_at": "2026-05-21T17:31:14Z",
       "description": "The future of intelligent eyewear is coming this fall. 👓\nHere’s your first look at our upcoming audio glasses, designed in partnership with @Samsung, @gentlemonsterofficial and @warbyparker. Blending style with hands-free help from @GoogleGemini they’re made to keep you connected while staying in the moment.",
       "duration": "PT2M",
-      "view_count": 1697,
-      "like_count": 171,
-      "comment_count": 29,
+      "view_count": 7269,
+      "like_count": 405,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=bzn0jbR7sbc"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-21T01:27:58Z",
       "description": "Gemini Spark is a 24/7 personal AI agent that helps you navigate your digital life. Set recurring tasks, teach it new skills and create complete workflows.\n\n#GoogleIO",
       "duration": "PT1M59S",
-      "view_count": 15532,
-      "like_count": 668,
-      "comment_count": 48,
+      "view_count": 20745,
+      "like_count": 748,
+      "comment_count": 50,
       "url": "https://www.youtube.com/watch?v=3adJfoBWllg"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-20T18:16:49Z",
       "description": "Same same, but different. 🎬 Upload any clip to Gemini Omni and prompt to make the edits you want to see.\n\n#GoogleIO #GoogleGemini",
       "duration": "PT30S",
-      "view_count": 20467,
-      "like_count": 478,
-      "comment_count": 38,
+      "view_count": 23271,
+      "like_count": 521,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=ENa2DplfFRo"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-20T07:05:48Z",
       "description": "Catch up on the latest demos, announcements, and AI innovation updates from Google I/O 2026.\n\n#GoogleIO\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT14M53S",
-      "view_count": 17444390,
-      "like_count": 9736,
-      "comment_count": 753,
+      "view_count": 17448350,
+      "like_count": 10349,
+      "comment_count": 824,
       "url": "https://www.youtube.com/watch?v=tfx2CjqtCUI"
-    },
-    {
-      "id": "2m5BCWB02jY",
-      "title": "Introducing Gemini Omni",
-      "channel_title": "Google",
-      "published_at": "2026-05-20T01:22:28Z",
-      "description": "Step into the Omni-verse ✨ Meet Gemini Omni, our new model that can create anything from any input, starting with video.\n\n🎸 Swap out backgrounds to place yourself in the clouds\n🎨 Apply wild new styles and built-in templates to your footage\n🎞️ Keep your characters consistent from scene to scene\n\nGemini Omni is rolling out globally today. It is available directly in the Gemini app for Plus, Pro, and Ultra subscribers.\n\n#GoogleIO #GoogleGemini\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
-      "duration": "PT51S",
-      "view_count": 43821,
-      "like_count": 859,
-      "comment_count": 84,
-      "url": "https://www.youtube.com/watch?v=2m5BCWB02jY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-21T18:15:52Z",
+    "generated_at": "2026-05-22T07:56:23Z",
     "count": 5
   }
 }
