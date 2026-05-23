@@ -14,14 +14,26 @@
   "date": "2026-05-23",
   "result": [
     {
+      "id": "ylf7RcyzF2Y",
+      "title": "NVIDIA at HPE Discover 2026: The Year of Agentic AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-22T19:42:06Z",
+      "description": "NVIDIA returns as a visionary sponsor for HPE Discover 2026, where #AgenticAI takes center stage. \nLearn how to build AI agents and explore the infrastructure that fuels them. Join us for educational sessions and late-night networking with NVIDIA experts in Las Vegas.",
+      "duration": "PT33S",
+      "view_count": 1141,
+      "like_count": 56,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=ylf7RcyzF2Y"
+    },
+    {
       "id": "anhYpJiJUwg",
       "title": "Inside AI Tokenomics: Profitably Turn Tokens Into Business Value",
       "channel_title": "NVIDIA",
       "published_at": "2026-05-21T16:59:40Z",
       "description": "Token economics determine whether your AI scales or stalls. \nShruti Koparkar from our Accelerated Computing team breaks down each tokenomics pillar on the NVIDIA AI podcast:\n\n➡️ Utility — What is the optimal token value for your use case?\n➡️ Demand — What is the volume of tokens the use case needs?\n➡️ Supply — How to maximize token output and minimize token cost?\n➡️ Monetization — How to turn tokens into revenue and profit?\n\n🎧 Listen to the podcast: https://nvda.ws/4wFLYHg",
       "duration": "PT23S",
-      "view_count": 1802,
-      "like_count": 57,
+      "view_count": 2230,
+      "like_count": 77,
       "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=anhYpJiJUwg"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-05-20T17:17:16Z",
       "description": "As AI factories scale and token costs become a defining competitive variable, the way businesses measure infrastructure ROI needs to change. In this episode, Shruti Koparkar from NVIDIA's Accelerated Computing team breaks down tokenomics—the four-pillar framework of token utility, supply, demand, and monetization—and reveals why NVIDIA Blackwell's architecture delivers 50x more tokens per watt than NVIDIA Hopper, translating to a 35x reduction in token cost.\n\n🔬Topics covered:\nThe four pillars of tokenomics: utility, supply, demand, and monetization\nWhy cost per token beats FLOPS per dollar as an infrastructure metric\nNVIDIA Blackwell vs. Hopper: 50x more tokens per watt, 35x lower token cost\nHow extreme co-design turns spec-sheet numbers into real-world output\nJevons paradox: why lower token cost always drives more GPU demand, not less\nThe four business models for turning tokens into revenue\n\nChapters:\n00:00 – Introduction and the four pillars of tokenomics\n02:09 – Token value: intelligence, interactivity, and use case mapping\n06:32 – Estimating token demand: users, reasoning, and agentic multipliers\n10:00 – Token supply and why cost per token is the right infrastructure metric\n13:12 – NVIDIA Blackwell vs. Hopper: 50x more tokens, 35x lower cost\n14:52 – Extreme co-design for lowest token cost and the NVIDIA Vera Rubin platform\n21:10 – How software multiplies hardware performance (8x gains in six months)\n23:56 – Token monetization: pricing and business models\n26:52 – Jevons paradox and the future of GPU demand",
       "duration": "PT33M26S",
-      "view_count": 2722,
-      "like_count": 146,
-      "comment_count": 14,
+      "view_count": 3174,
+      "like_count": 158,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=zNuOOMM20Tk"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-19T18:57:51Z",
       "description": "ICYMI: NVIDIA’s Ian Buck hand-delivered the first ever Vera CPUs to our partners! Purpose-built for the age of agentic AI - this is just the beginning for NVIDIA Vera.",
       "duration": "PT54S",
-      "view_count": 14031,
-      "like_count": 392,
-      "comment_count": 25,
+      "view_count": 14647,
+      "like_count": 417,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=S8pcApQ_saQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-18T15:34:22Z",
       "description": "Our CEO Jensen Huang explains why AI can take on routine tasks, boost productivity, and help people focus on more meaningful work.",
       "duration": "PT1M44S",
-      "view_count": 10590,
-      "like_count": 552,
+      "view_count": 10909,
+      "like_count": 569,
       "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=aJ3ZydGZszU"
-    },
-    {
-      "id": "hKnCAWGZ0QA",
-      "title": "Understanding the AI Tokenomics Equation",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-05-15T19:06:14Z",
-      "description": "Delivering agentic inference at scale requires balancing three pillars:\n\n1) Model and algorithm efficiency\n2) Software efficiency\n3) Compute efficiency\n\nNVIDIA's full-stack platform continuously optimizes for all these inputs using extreme co-design across compute, networking, storage, memory, and software with broad ecosystem support across millions of developers.\n\nLearn more about how NVIDIA produces the lowest token cost: https://nvda.ws/4tmVWuh\n\n#shorts",
-      "duration": "PT1M13S",
-      "view_count": 9352,
-      "like_count": 514,
-      "comment_count": 7,
-      "url": "https://www.youtube.com/watch?v=hKnCAWGZ0QA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-22T18:10:55Z",
+    "generated_at": "2026-05-23T07:10:57Z",
     "count": 5
   }
 }

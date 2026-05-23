@@ -14,15 +14,39 @@
   "date": "2026-05-23",
   "result": [
     {
+      "id": "HaaKUFAOi84",
+      "title": "Workspace agents in ChatGPT: Admin and builder controls",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-22T22:48:37Z",
+      "description": "Workspace agents in ChatGPT help teams turn repeatable workflows into shared agents that can pull in context, use tools, and move work forward on their own.\n\nIn this demo, you’ll see how admins and builders can set safeguards for workspace agents. Enterprise admins can centrally manage who can use, build, and publish agents, and define what agents are allowed to do. Builders can also configure when agents should ask for approval before taking specific actions, so agents work the way teams need them to across users and workflows.\n\nWorkspace agents are generally available to ChatGPT Business, Enterprise, and Edu.",
+      "duration": "PT2M18S",
+      "view_count": 2922,
+      "like_count": 93,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84"
+    },
+    {
+      "id": "ECkHTfvf2e8",
+      "title": "Create and edit presentations faster in PowerPoint",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-22T19:41:41Z",
+      "description": "ChatGPT now works directly inside PowerPoint. \n\nSee how ChatGPT can help you turn source material into a polished presentation, right inside PowerPoint. Bring in files and context, draft a deck, refine the structure, and edit slide content without switching tools.\n\nChatGPT for PowerPoint is now available in beta to all customers. \n\nGet started today: https://chatgpt.com/apps/powerpoint/",
+      "duration": "PT1M52S",
+      "view_count": 15007,
+      "like_count": 725,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=ECkHTfvf2e8"
+    },
+    {
       "id": "ksfHQLmV-Fg",
       "title": "Personal Finance in ChatGPT",
       "channel_title": "OpenAI",
       "published_at": "2026-05-22T16:56:18Z",
       "description": "Today we’re releasing a preview of a new personal finance experience in ChatGPT to Pro users in the U.S. \n\nNow you can securely connect your financial accounts, see a dashboard of where your money is going, and ask ChatGPT questions grounded in your financial context – all while staying in control of your data. \n\nWe’re starting with a preview to a smaller group so we can learn from real-world use, improve the experience, and expand thoughtfully. \nhttps://openai.com/index/personal-finance-chatgpt/",
       "duration": "PT53S",
-      "view_count": 4779,
-      "like_count": 497,
-      "comment_count": 57,
+      "view_count": 49294,
+      "like_count": 1996,
+      "comment_count": 156,
       "url": "https://www.youtube.com/watch?v=ksfHQLmV-Fg"
     },
     {
@@ -32,8 +56,8 @@
       "published_at": "2026-05-22T13:59:47Z",
       "description": "AI Defense is Cisco's end-to-end AI security solution that protects against safety and security risks introduced by AI. Codex was used by Cisco's team to write the majority of AI Defense and nearly every new feature that Cisco is building. \n\n\"Features that would have taken several quarters to get into customers' hands dropped to weeks.\" - DJ Sampath \n\n➡️ Read how Cisco is making AI-native development a core part of how enterprise software gets built: https://lnkd.in/e4CWAtpf",
       "duration": "PT1M2S",
-      "view_count": 2119,
-      "like_count": 115,
+      "view_count": 3874,
+      "like_count": 152,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=oRsn3pyeXuw"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-05-21T20:00:29Z",
       "description": "Goal mode (/goal) has graduated from an experiment—for tasks big and small, Codex gets your work done. \n\nUse goal mode in the Codex app, IDE Extension, or CLI to give Codex a specific milestone, and it will keep working until it gets there, even across hours or days.\n\nYou can check in and steer, and even pause Codex along the way.",
       "duration": "PT1M39S",
-      "view_count": 21057,
-      "like_count": 882,
-      "comment_count": 96,
+      "view_count": 25172,
+      "like_count": 981,
+      "comment_count": 103,
       "url": "https://www.youtube.com/watch?v=rgh0hMYPcd0"
-    },
-    {
-      "id": "msSa0tc2TbU",
-      "title": "Share Codex plugins with your team",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-21T19:15:18Z",
-      "description": "Teams can now distribute custom plugins, reuse internal tools, and manage what’s available across their workspace.\n\nIf you have a plugin that's working for you, now its really simple to share it with others right from within the Codex app.\n\nChapters\n00:00 Launching plugin sharing in Codex\n00:09 Sharing a custom plugin from the directory\n00:19 Choosing who can access the plugin\n00:39 Finding plugins shared by teammates\n01:06 Sharing curated directory URLs\n01:24 Team workflows do not have to stay local",
-      "duration": "PT1M40S",
-      "view_count": 5909,
-      "like_count": 204,
-      "comment_count": 9,
-      "url": "https://www.youtube.com/watch?v=msSa0tc2TbU"
-    },
-    {
-      "id": "QKYbGCvNpFo",
-      "title": "Introducing Appshots in Codex",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-21T18:33:55Z",
-      "description": "Appshots are a new way to bring the context of what you’re working on into Codex.\n\nOn your Mac, press Command-Command to attach your app window to a Codex thread. Codex gets both a screenshot and text from the window, including content beyond what’s visible onscreen.\n\nAppshots are available across plans on Mac, with enterprise access coming soon.",
-      "duration": "PT46S",
-      "view_count": 15340,
-      "like_count": 362,
-      "comment_count": 62,
-      "url": "https://www.youtube.com/watch?v=QKYbGCvNpFo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-22T18:10:56Z",
+    "generated_at": "2026-05-23T07:10:58Z",
     "count": 5
   }
 }
