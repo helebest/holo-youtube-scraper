@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-05-26",
+  "result": [
+    {
+      "id": "Gqy1E5piq1w",
+      "title": "Waymo’s Case for a Driverless Future | Tekedra Mawakana, Sal Khan | TED",
+      "channel_title": "TED",
+      "published_at": "2026-05-25T15:00:19Z",
+      "description": "What if we could solve the problem of fatal car accidents? Waymo co-CEO Tekedra Mawakana joins TED's Sal Khan to explore why fully autonomous vehicles (where you never have to touch the wheel) are more than a tech novelty — they could help end the dangerous status quo. (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/tekedramawakana\n\nhttps://youtu.be/Gqy1E5piq1w\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Future #Technology",
+      "duration": "PT19M15S",
+      "view_count": 2066,
+      "like_count": 79,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=Gqy1E5piq1w"
+    },
+    {
+      "id": "P2A5hDmhPgY",
+      "title": "You know it’s your girl! #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-05-23T19:00:10Z",
+      "description": "Multihyphenate entertainer Keke Palmer has mastered the art of performing — on stage and off. But she realized the skills that carried her family out of poverty might be the very thing keeping her trapped. In this powerful talk, she unpacks the hidden cost of hyper-functioning and what it really means to stop acting and start living.",
+      "duration": "PT1M49S",
+      "view_count": 11402,
+      "like_count": 161,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=P2A5hDmhPgY"
+    },
+    {
+      "id": "C18aaP4lvUk",
+      "title": "Why Humans Should Merge with AI | D. Scott Phoenix | TED",
+      "channel_title": "TED",
+      "published_at": "2026-05-23T15:00:19Z",
+      "description": "Deep tech entrepreneur D. Scott Phoenix spent years building AI — now, he believes we're on the cusp of a profound merger between humans and machines. Reframing the AI debate through the lens of evolutionary biology, he shifts the question from whether we should fear or embrace AI to whether we understand what's at stake if we get it wrong. Hear his provocative case for why we need to \"eat the AI.\" (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/dscottphoenix\n\nhttps://youtu.be/C18aaP4lvUk\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT12M4S",
+      "view_count": 27072,
+      "like_count": 1014,
+      "comment_count": 274,
+      "url": "https://www.youtube.com/watch?v=C18aaP4lvUk"
+    },
+    {
+      "id": "7LaRQqTunXQ",
+      "title": "But the gag is: Are you really *living*? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-05-22T19:00:03Z",
+      "description": "Multihyphenate entertainer Keke Palmer has mastered the art of performing — on stage and off. But she realized the skills that carried her family out of poverty might be the very thing keeping her trapped. In this powerful talk, she unpacks the hidden cost of hyper-functioning and what it really means to stop acting and start living.",
+      "duration": "PT2M50S",
+      "view_count": 54202,
+      "like_count": 2927,
+      "comment_count": 59,
+      "url": "https://www.youtube.com/watch?v=7LaRQqTunXQ"
+    },
+    {
+      "id": "BR7xdT_Xi5U",
+      "title": "Why Most News Isn't Worth Your Attention | TED Explains the World with Ian Bremmer",
+      "channel_title": "TED",
+      "published_at": "2026-05-22T15:00:30Z",
+      "description": "Political scientist Ian Bremmer (@GZEROMedia) has access to the rooms, conversations and world leaders who make the news of the day. So how does he stay on top of everything that’s going on? In conversation with TED’s Helen Walters, Bremmer opens up about how he thinks about sources, how he avoids getting spun — and what we can all do to think more clearly about the news. (This interview was recorded on May 20, 2026.)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/tedexplainstheworld\n\nhttps://youtu.be/BR7xdT_Xi5U\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #news",
+      "duration": "PT51M11S",
+      "view_count": 19161,
+      "like_count": 496,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=BR7xdT_Xi5U"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-25T18:02:42Z",
+    "count": 5
+  }
+}
