@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-05-27",
+  "result": [
+    {
+      "id": "uFnxyXlRxag",
+      "title": "Claude, The Pope, and AGI",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-26T05:05:02Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT19M",
+      "view_count": 15383,
+      "like_count": 588,
+      "comment_count": 236,
+      "url": "https://www.youtube.com/watch?v=uFnxyXlRxag"
+    },
+    {
+      "id": "DGw2KKyXuYQ",
+      "title": "The REAL Reason Andrej Karpathy Joined Anthropic",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-24T05:45:53Z",
+      "description": "Links, details, etc: https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic\n\nThe latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT25M21S",
+      "view_count": 42205,
+      "like_count": 1352,
+      "comment_count": 158,
+      "url": "https://www.youtube.com/watch?v=DGw2KKyXuYQ"
+    },
+    {
+      "id": "gCHEFZDPVYs",
+      "title": "OpenAI just SOLVED MATH....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-23T07:20:09Z",
+      "description": "Build Your Second Brain With Recall. \nFree To Start, Or use code Wes25 For 25% Off: https://www.recall.it/?t=wesroth \nvalid until July 1st, 2026.\n\nEpisode shownotes, links, sources etc:\nhttps://natural20.beehiiv.com/p/openai-s-internal-model-discovers-new-math\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 OpenAI Solves Math (for real this time)\n06:20 Recall (sponsor)\n09:52 the 'secret sauce'\n19:50 the implications\n\n#ai #openai #llm",
+      "duration": "PT27M52S",
+      "view_count": 47799,
+      "like_count": 1734,
+      "comment_count": 332,
+      "url": "https://www.youtube.com/watch?v=gCHEFZDPVYs"
+    },
+    {
+      "id": "kpKb7LI__78",
+      "title": "we are NOT PREPARED for the end of 2026",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-22T05:12:10Z",
+      "description": "Visit https://tastytrade.com/unleashed today\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n00:00:00 Google IO\n00:07:00 tastytrade (sponsor)\n00:09:45 Google's World Models\n00:17:46 OpenAI and Math\n00:35:45 You CAN'T outsource understanding...\n00:55:35 Google's Agentic Future\n01:11:00 AI IPOs (OpenAI, SpaceX, Anthropic)\n01:22:50 Google and Blackstone\n\n#ai #openai #llm",
+      "duration": "PT1H47M27S",
+      "view_count": 15225,
+      "like_count": 397,
+      "comment_count": 123,
+      "url": "https://www.youtube.com/watch?v=kpKb7LI__78"
+    },
+    {
+      "id": "cSZ-y49e5q8",
+      "title": "Google entered the \"AGENTIC ERA\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-20T18:56:31Z",
+      "description": "Check out tastytrade here: https://tastytrade.com/unleashed\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 Gemini 3.5\n05:46 tastytrade (sponsor)\n09:15 AI Search\n12:36 Agents Everywhere\n23:25 Android XR Glasses\n25:25 AI Inbox\n27:37 Keep Live\n30:37 Gmail Live\n31:37 Docs Live\n32:30 Ask YouTube\n35:10 AI's \"final form\" \n38:25 Blackstone and Compute\n43:30 the big picture\n\n\n#ai #openai #llm",
+      "duration": "PT48M13S",
+      "view_count": 35457,
+      "like_count": 929,
+      "comment_count": 238,
+      "url": "https://www.youtube.com/watch?v=cSZ-y49e5q8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-26T18:39:24Z",
+    "count": 5
+  }
+}

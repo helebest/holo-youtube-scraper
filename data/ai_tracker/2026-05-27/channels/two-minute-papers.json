@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-05-27",
+  "result": [
+    {
+      "id": "kIvvzCR5NjA",
+      "title": "Google DeepMind CEO Likes Hard Questions",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-05-26T17:35:28Z",
+      "description": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
+      "duration": "PT11S",
+      "view_count": 582,
+      "like_count": 8,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA"
+    },
+    {
+      "id": "huAwz_BR8WM",
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-05-25T17:49:30Z",
+      "description": "Thank you to Google DeepMind for the invite. 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n00:00 Intro\n00:40 Gemini Health Scans and Gemma 4\n01:30 AI as a Brainstorming Partner\n02:30 Second Order Nobel\n03:15 DeepMind Co-Scientist\n05:00 Curing All Diseases\n06:30 Exponential Growth in Drug Discovery \n07:45 Regulatory Bottlenecks \n09:45 Accelerating Clinical Trials \n11:15 EVE Online Partnership\n13:15 The Einstein Test\n15:30 Recursive Self-Improvement\n18:15 Lightning Round\n19:30 The Badge of Honor\n20:10 Behind the Scenes",
+      "duration": "PT21M28S",
+      "view_count": 67291,
+      "like_count": 4483,
+      "comment_count": 452,
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM"
+    },
+    {
+      "id": "LpXhy2iiaQE",
+      "title": "DeepSeek’s New AI Is A Game Changer",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-05-22T00:47:58Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://github.com/ailuntx/Thinking-with-Visual-Primitives\nhttps://huggingface.co/datasets/NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo/blob/main/Thinking_with_Visual_Primitives.pdf\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#deepseek",
+      "duration": "PT7M43S",
+      "view_count": 279280,
+      "like_count": 10237,
+      "comment_count": 514,
+      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE"
+    },
+    {
+      "id": "4wC8hnQawiA",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-05-13T16:07:20Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\nhttps://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
+      "duration": "PT5M42S",
+      "view_count": 52219,
+      "like_count": 1848,
+      "comment_count": 123,
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA"
+    },
+    {
+      "id": "4nQnhjimB4Y",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-05-08T16:46:30Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GPT 5.5 Instant:\nhttps://deploymentsafety.openai.com/gpt-5-5-instant/introduction\nhttps://openai.com/index/gpt-5-5-instant/\n\nClassifiers paper: https://arxiv.org/pdf/2501.18837\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#chatgpt",
+      "duration": "PT8M8S",
+      "view_count": 66030,
+      "like_count": 2133,
+      "comment_count": 179,
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-26T18:39:17Z",
+    "count": 5
+  }
+}
