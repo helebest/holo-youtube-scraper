@@ -20,9 +20,9 @@
       "published_at": "2026-05-26T15:06:54Z",
       "description": "Everyone’s watching what comes next.\n\nStart with the NVIDIA GTC Live pregame show at COMPUTEX 2026.\n\nThen watch Jensen Huang take the stage in Taipei to unveil the latest breakthroughs in AI and accelerated computing.\n\nTune in: https://nvda.ws/4wFiPMs\n\n📍 Monday, June 1 | 9 a.m. Taipei Time\n📍 Sunday, May 31 | 6 p.m. Pacific Time\n\n#NVIDIAGTC",
       "duration": "PT40S",
-      "view_count": 929,
-      "like_count": 52,
-      "comment_count": 4,
+      "view_count": 2292,
+      "like_count": 109,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=dXWHnzGK4k4"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-24T15:35:46Z",
       "description": "Spotted: A spontaneous stop from NVIDIA CEO Jensen Huang brought crowds out to Taipei’s Raohe St. night market.",
       "duration": "PT18S",
-      "view_count": 180774,
-      "like_count": 1863,
-      "comment_count": 67,
+      "view_count": 224561,
+      "like_count": 2273,
+      "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=VHowu2rL7qQ"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-05-24T14:05:07Z",
       "description": "Had to make a surprise visit to Meet-a-Claw🦞 in Taipei, where developers are getting hands-on with autonomous agents.\n\nConsider #NVIDIAGTC week officially started. ✅",
       "duration": "PT30S",
-      "view_count": 19012,
-      "like_count": 467,
-      "comment_count": 17,
+      "view_count": 20365,
+      "like_count": 495,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=xkR4VEAWRl0"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-05-22T19:42:06Z",
       "description": "NVIDIA returns as a visionary sponsor for HPE Discover 2026, where #AgenticAI takes center stage. \nLearn how to build AI agents and explore the infrastructure that fuels them. Join us for educational sessions and late-night networking with NVIDIA experts in Las Vegas.",
       "duration": "PT33S",
-      "view_count": 3004,
-      "like_count": 96,
-      "comment_count": 38,
+      "view_count": 3159,
+      "like_count": 101,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=ylf7RcyzF2Y"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-05-21T16:59:40Z",
       "description": "Token economics determine whether your AI scales or stalls. \nShruti Koparkar from our Accelerated Computing team breaks down each tokenomics pillar on the NVIDIA AI podcast:\n\n➡️ Utility — What is the optimal token value for your use case?\n➡️ Demand — What is the volume of tokens the use case needs?\n➡️ Supply — How to maximize token output and minimize token cost?\n➡️ Monetization — How to turn tokens into revenue and profit?\n\n🎧 Listen to the podcast: https://nvda.ws/4wFLYHg",
       "duration": "PT23S",
-      "view_count": 4582,
-      "like_count": 168,
+      "view_count": 4798,
+      "like_count": 170,
       "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=anhYpJiJUwg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-26T18:39:19Z",
+    "generated_at": "2026-05-27T08:14:23Z",
     "count": 5
   }
 }
