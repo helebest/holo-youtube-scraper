@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-05-28",
+  "result": [
+    {
+      "id": "fQqDN-3dfB4",
+      "title": "Meet Neural Expressive, the new visual language for the Gemini app.",
+      "channel_title": "Google",
+      "published_at": "2026-05-26T22:54:33Z",
+      "description": "Neural Expressive is a new visual language for the Gemini app with fluid animations, vibrant colors, haptic feedback and more. See it in action on the stage at #GoogleIO. \n\n#GoogleIO #GoogleGemini",
+      "duration": "PT1M30S",
+      "view_count": 10592,
+      "like_count": 726,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=fQqDN-3dfB4"
+    },
+    {
+      "id": "q8B7z84NZUQ",
+      "title": "Meet Daily Brief: Your new morning AI agent. Here’s how it works. ☕️",
+      "channel_title": "Google",
+      "published_at": "2026-05-26T21:15:51Z",
+      "description": "Introducing Daily Brief, an agent that gives you a personalized morning digest that’s designed to be your first stop every day. Here’s a look at how it works.  \n\n#GoogleIO #GoogleGemini",
+      "duration": "PT1M5S",
+      "view_count": 9608,
+      "like_count": 470,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=q8B7z84NZUQ"
+    },
+    {
+      "id": "YEwWD2RCUXk",
+      "title": "4 AI Questions in Under 2 Minutes with Google's Jeff Dean",
+      "channel_title": "Google",
+      "published_at": "2026-05-26T19:38:18Z",
+      "description": "4 questions with Jeff Dean (Chief Scientist, Google and one of the authors of the famous \"cat paper\" about unsupervised learning and neural networks in 2012) in under 2 minutes\n\n#GoogleIO",
+      "duration": "PT1M39S",
+      "view_count": 6153,
+      "like_count": 330,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=YEwWD2RCUXk"
+    },
+    {
+      "id": "UnQYVm_NuSA",
+      "title": "You have 1 unread message from @lesserafim_official!",
+      "channel_title": "Google",
+      "published_at": "2026-05-24T23:01:35Z",
+      "description": "Search LE SSERAFIM when you want to just stop and breathe 🐱🐯🐍🦢🐥\nLE SSERAFIM 으로부터 한 건의 메세지가 도착했습니다. 잠깐 멈춰서 숨을 고르고 싶을 때 구글에서 르세라핌을 검색해보세요.\n【LE SSERAFIM から 1 件の未読メッセージがあります💌】ちょっと一息つきたい時は、「LE SSERAFIM」を検索してみてね。🐱🐯🐍🦢🐥",
+      "duration": "PT22S",
+      "view_count": 53853,
+      "like_count": 4367,
+      "comment_count": 98,
+      "url": "https://www.youtube.com/watch?v=UnQYVm_NuSA"
+    },
+    {
+      "id": "guv2-EoGUXw",
+      "title": "How to Edit & Create Videos with Gemini Omni",
+      "channel_title": "Google",
+      "published_at": "2026-05-22T22:39:20Z",
+      "description": "Our Gemini Omni model will transform your existing content into something extraordinary. With just your imagination and natural language, Omni can create anything from any input, starting with video. \n\nIn this video, you'll see how Gemini Omni can:\nMaintain visual consistency: Watch how Omni transforms a simple biking video while keeping the original footage and lighting consistent.\nReasoning in action: Omni analyzes a skateboarding clip and perfectly times effects when the skater lands a trick, without having to be directed to \nApply real-world physics: Discover how the model adds a realistic, interactive glass orb to a video of a moving hand, accurately rendering lighting, checkerboard reflections, and physics\n\n📝 Prompt Guide\nWe built this Gemini Omni prompt guide to help you get started on your next masterpiece. Check it out: https://bit.ly/3RWWLNi \nDon't forget to like, subscribe, and hit the bell icon to stay up to date with the latest AI updates and feature launches from Google.\n\n🌐 Surface Availability\nGemini Omni Flash is the first model in the Omni series, and it’s rolling out to all Google AI Plus, Pro and Ultra subscribers globally through the Gemini app and Google Flow. It’s also launching in YouTube Shorts and in the YouTube Create App soon, at no cost. \n\n#GeminiOmni #GoogleAI #GoogleGemini #VideoEditing \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M29S",
+      "view_count": 198143,
+      "like_count": 1030,
+      "comment_count": 113,
+      "url": "https://www.youtube.com/watch?v=guv2-EoGUXw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-27T18:36:50Z",
+    "count": 5
+  }
+}
