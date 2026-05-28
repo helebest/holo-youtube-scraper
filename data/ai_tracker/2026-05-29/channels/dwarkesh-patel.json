@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-29",
+  "result": [
+    {
+      "id": "PhB3QgFnjGQ",
+      "title": "A Pit in Spain Holds the Key to a Neanderthal DNA Mystery - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-27T23:20:22Z",
+      "description": "",
+      "duration": "PT1M5S",
+      "view_count": 21341,
+      "like_count": 573,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
+    },
+    {
+      "id": "UN_zKhmFHjs",
+      "title": "The cultural transformations in Africa and Eurasia were linked - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-26T19:46:53Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 25183,
+      "like_count": 501,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
+    },
+    {
+      "id": "BeOLjsymljI",
+      "title": "Following the Yamnaya Trail into India - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-24T21:09:56Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 62018,
+      "like_count": 1342,
+      "comment_count": 78,
+      "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
+    },
+    {
+      "id": "-zsD-iw-arw",
+      "title": "The biological clock that doomed the Neanderthals - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-23T22:31:02Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 90591,
+      "like_count": 1655,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=-zsD-iw-arw"
+    },
+    {
+      "id": "avkBfPoennY",
+      "title": "The current story of human evolution may be incomplete - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-22T19:49:39Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 33931,
+      "like_count": 588,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=avkBfPoennY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-28T18:45:08Z",
+    "count": 5
+  }
+}

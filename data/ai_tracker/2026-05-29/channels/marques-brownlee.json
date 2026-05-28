@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-05-29",
+  "result": [
+    {
+      "id": "M4xlXvCAc2E",
+      "title": "ELITE Camera Work",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-28T18:21:57Z",
+      "description": "NBA Camera people are incredible",
+      "duration": "PT28S",
+      "view_count": 15436,
+      "like_count": 821,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=M4xlXvCAc2E"
+    },
+    {
+      "id": "9GSDvO0LFFE",
+      "title": "The Truth About the \"Whoop Killer\"",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-26T13:49:28Z",
+      "description": "Is the Fitbit Air the true Whoop 5.0 killer?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nAffiliate Links\nFitbit Air: https://geni.us/W24DGJY \nWhoop: https://geni.us/0vkguAL\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nFitbit provided by Google for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT17M42S",
+      "view_count": 2603338,
+      "like_count": 67803,
+      "comment_count": 4866,
+      "url": "https://www.youtube.com/watch?v=9GSDvO0LFFE"
+    },
+    {
+      "id": "OPOS0tre9eQ",
+      "title": "Ferrari's Electric Car Looks Like...",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-25T20:10:36Z",
+      "description": "Ferrari Luce",
+      "duration": "PT1M58S",
+      "view_count": 2358796,
+      "like_count": 72293,
+      "comment_count": 6556,
+      "url": "https://www.youtube.com/watch?v=OPOS0tre9eQ"
+    },
+    {
+      "id": "VIE2Ri2DQJg",
+      "title": "Why Fitbit Air Could Be Huge",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-15T16:25:11Z",
+      "description": "Everyone's talking about the Fitbit Air",
+      "duration": "PT59S",
+      "view_count": 2556855,
+      "like_count": 72899,
+      "comment_count": 1082,
+      "url": "https://www.youtube.com/watch?v=VIE2Ri2DQJg"
+    },
+    {
+      "id": "eFeDpUVEy48",
+      "title": "“The Biggest Android Update Ever”",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-13T20:53:07Z",
+      "description": "Everything we know so far about Android 17, Gemini Intelligence and Googlebooks\n\nPhone camera processing: https://youtu.be/coX4duwUCpw\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M59S",
+      "view_count": 4366671,
+      "like_count": 129842,
+      "comment_count": 9314,
+      "url": "https://www.youtube.com/watch?v=eFeDpUVEy48"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-28T18:45:11Z",
+    "count": 5
+  }
+}

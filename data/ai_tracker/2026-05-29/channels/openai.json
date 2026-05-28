@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-05-29",
+  "result": [
+    {
+      "id": "tXBRYPpIvms",
+      "title": "How Abridge uses GPT-5.5 for clinical decision support",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-28T18:11:11Z",
+      "description": "At the point of care, more context usually means more complexity.\n\nChaitanya Asawa from Abridge shares how GPT-5.5 helps synthesize patient context, live clinical conversations, and medical information through stronger reasoning and tool use, helping clinicians get denser, more useful information when decisions are being made.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
+      "duration": "PT1M14S",
+      "view_count": 584,
+      "like_count": 55,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=tXBRYPpIvms"
+    },
+    {
+      "id": "DHfZqTWlSc4",
+      "title": "R&D Part 1",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-28T16:01:56Z",
+      "description": "",
+      "duration": "PT8M7S",
+      "view_count": 2215,
+      "like_count": 135,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=DHfZqTWlSc4"
+    },
+    {
+      "id": "ovPVaSmDFcw",
+      "title": "Join us for Builders Unscripted Episode 3 on 5/29",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-27T16:48:12Z",
+      "description": "“The developer we’re building for has evolved.”\n\nMatias Castillo talks with Romain Huet about the new builder mindset, where ideas can move from thought to working software faster than before.\n\nFull episode drops 5/29.",
+      "duration": "PT17S",
+      "view_count": 3532,
+      "like_count": 85,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=ovPVaSmDFcw"
+    },
+    {
+      "id": "KHasJMg4zV4",
+      "title": "Sid vs Career | With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-26T06:18:36Z",
+      "description": "Expertise at your fingertips with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "duration": "PT30S",
+      "view_count": 10065,
+      "like_count": 194,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=KHasJMg4zV4"
+    },
+    {
+      "id": "HaaKUFAOi84",
+      "title": "Workspace agents in ChatGPT: Admin and builder controls",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-22T22:48:37Z",
+      "description": "Workspace agents in ChatGPT help teams turn repeatable workflows into shared agents that can pull in context, use tools, and move work forward on their own.\n\nIn this demo, you’ll see how admins and builders can set safeguards for workspace agents. Enterprise admins can centrally manage who can use, build, and publish agents, and define what agents are allowed to do. Builders can also configure when agents should ask for approval before taking specific actions, so agents work the way teams need them to across users and workflows.\n\nWorkspace agents are generally available to ChatGPT Business, Enterprise, and Edu.",
+      "duration": "PT2M18S",
+      "view_count": 14223,
+      "like_count": 264,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-28T18:45:13Z",
+    "count": 5
+  }
+}

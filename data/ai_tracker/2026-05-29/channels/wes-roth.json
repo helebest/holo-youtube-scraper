@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-05-29",
+  "result": [
+    {
+      "id": "jZg1EkujbJ0",
+      "title": "The \"AI Job Apocalypse\" is CANCELLED!",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-28T06:56:34Z",
+      "description": "Try Hapax here: https://askhapax.ai/?utm_source=wes_roth&utm_medium=youtube&utm_campaign=influencer_apr2026\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n00:00 AI Job Apocalypse\n04:50 Are IPOs the Cause?\n09:50 Hapax (sponsor)\n14:08 \"The Human Sandwich\"\n21:00 The Key Mechanism\n\n\n#ai #openai #llm",
+      "duration": "PT32M46S",
+      "view_count": 17157,
+      "like_count": 621,
+      "comment_count": 304,
+      "url": "https://www.youtube.com/watch?v=jZg1EkujbJ0"
+    },
+    {
+      "id": "uFnxyXlRxag",
+      "title": "Claude, The Pope, and AGI",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-26T05:05:02Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT19M",
+      "view_count": 21630,
+      "like_count": 750,
+      "comment_count": 287,
+      "url": "https://www.youtube.com/watch?v=uFnxyXlRxag"
+    },
+    {
+      "id": "DGw2KKyXuYQ",
+      "title": "The REAL Reason Andrej Karpathy Joined Anthropic",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-24T05:45:53Z",
+      "description": "Links, details, etc: https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic\n\nThe latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT25M21S",
+      "view_count": 45681,
+      "like_count": 1416,
+      "comment_count": 161,
+      "url": "https://www.youtube.com/watch?v=DGw2KKyXuYQ"
+    },
+    {
+      "id": "gCHEFZDPVYs",
+      "title": "OpenAI just SOLVED MATH....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-23T07:20:09Z",
+      "description": "Build Your Second Brain With Recall. \nFree To Start, Or use code Wes25 For 25% Off: https://www.recall.it/?t=wesroth \nvalid until July 1st, 2026.\n\nEpisode shownotes, links, sources etc:\nhttps://natural20.beehiiv.com/p/openai-s-internal-model-discovers-new-math\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 OpenAI Solves Math (for real this time)\n06:20 Recall (sponsor)\n09:52 the 'secret sauce'\n19:50 the implications\n\n#ai #openai #llm",
+      "duration": "PT27M52S",
+      "view_count": 50192,
+      "like_count": 1803,
+      "comment_count": 344,
+      "url": "https://www.youtube.com/watch?v=gCHEFZDPVYs"
+    },
+    {
+      "id": "kpKb7LI__78",
+      "title": "we are NOT PREPARED for the end of 2026",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-05-22T05:12:10Z",
+      "description": "Visit https://tastytrade.com/unleashed today\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n00:00:00 Google IO\n00:07:00 tastytrade (sponsor)\n00:09:45 Google's World Models\n00:17:46 OpenAI and Math\n00:35:45 You CAN'T outsource understanding...\n00:55:35 Google's Agentic Future\n01:11:00 AI IPOs (OpenAI, SpaceX, Anthropic)\n01:22:50 Google and Blackstone\n\n#ai #openai #llm",
+      "duration": "PT1H47M27S",
+      "view_count": 15716,
+      "like_count": 402,
+      "comment_count": 125,
+      "url": "https://www.youtube.com/watch?v=kpKb7LI__78"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-28T18:45:17Z",
+    "count": 5
+  }
+}
