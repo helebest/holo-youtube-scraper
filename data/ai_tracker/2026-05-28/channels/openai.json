@@ -20,9 +20,9 @@
       "published_at": "2026-05-27T16:48:12Z",
       "description": "“The developer we’re building for has evolved.”\n\nMatias Castillo talks with Romain Huet about the new builder mindset, where ideas can move from thought to working software faster than before.\n\nFull episode drops 5/29.",
       "duration": "PT17S",
-      "view_count": 555,
-      "like_count": 16,
-      "comment_count": 3,
+      "view_count": 2487,
+      "like_count": 57,
+      "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=ovPVaSmDFcw"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-26T06:18:36Z",
       "description": "Expertise at your fingertips with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
       "duration": "PT30S",
-      "view_count": 8708,
-      "like_count": 176,
-      "comment_count": 44,
+      "view_count": 9533,
+      "like_count": 186,
+      "comment_count": 48,
       "url": "https://www.youtube.com/watch?v=KHasJMg4zV4"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-05-22T22:48:37Z",
       "description": "Workspace agents in ChatGPT help teams turn repeatable workflows into shared agents that can pull in context, use tools, and move work forward on their own.\n\nIn this demo, you’ll see how admins and builders can set safeguards for workspace agents. Enterprise admins can centrally manage who can use, build, and publish agents, and define what agents are allowed to do. Builders can also configure when agents should ask for approval before taking specific actions, so agents work the way teams need them to across users and workflows.\n\nWorkspace agents are generally available to ChatGPT Business, Enterprise, and Edu.",
       "duration": "PT2M18S",
-      "view_count": 13707,
-      "like_count": 261,
+      "view_count": 13982,
+      "like_count": 262,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=HaaKUFAOi84"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-05-22T19:41:41Z",
       "description": "ChatGPT now works directly inside PowerPoint. \n\nSee how ChatGPT can help you turn source material into a polished presentation, right inside PowerPoint. Bring in files and context, draft a deck, refine the structure, and edit slide content without switching tools.\n\nChatGPT for PowerPoint is now available in beta to all customers. \n\nGet started today: https://chatgpt.com/apps/powerpoint/",
       "duration": "PT1M52S",
-      "view_count": 51282,
-      "like_count": 1458,
+      "view_count": 52387,
+      "like_count": 1474,
       "comment_count": 88,
       "url": "https://www.youtube.com/watch?v=ECkHTfvf2e8"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-05-22T16:56:18Z",
       "description": "Today we’re releasing a preview of a new personal finance experience in ChatGPT to Pro users in the U.S. \n\nNow you can securely connect your financial accounts, see a dashboard of where your money is going, and ask ChatGPT questions grounded in your financial context – all while staying in control of your data. \n\nWe’re starting with a preview to a smaller group so we can learn from real-world use, improve the experience, and expand thoughtfully. \nhttps://openai.com/index/personal-finance-chatgpt/",
       "duration": "PT53S",
-      "view_count": 182858,
-      "like_count": 5349,
-      "comment_count": 338,
+      "view_count": 185470,
+      "like_count": 5383,
+      "comment_count": 339,
       "url": "https://www.youtube.com/watch?v=ksfHQLmV-Fg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-27T18:36:49Z",
+    "generated_at": "2026-05-28T08:14:39Z",
     "count": 5
   }
 }
