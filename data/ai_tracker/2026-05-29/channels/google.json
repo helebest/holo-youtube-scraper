@@ -20,9 +20,9 @@
       "published_at": "2026-05-28T18:17:58Z",
       "description": "Put 30 seconds on the clock! ⏰ Jeff Dean, Chief Scientist, explains everything you should know about agentic coding in less than 30 seconds.\n\n#GoogleIO",
       "duration": "PT43S",
-      "view_count": 306,
-      "like_count": 25,
-      "comment_count": 3,
+      "view_count": 3732,
+      "like_count": 167,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=cKCU6Qpa660"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-27T22:48:02Z",
       "description": "Peek behind the curtain to see how we blended old-school puppetry, 3D animation, Gemini Omni and the latest experimental video tools to create TPU Training Day, the short film that debuted during Google I/O 2026. 🔦 📽️ 🎬 \n\nWatch TPU Training Day here: https://youtu.be/dhI4djOVEmI  \n\nSee more from I/O 2026: https://www.youtube.com/playlist?list=PL590L5WQmH8coVKyRYxxQo8NG9O5NVLRW\n\n#GoogleIO\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT2M59S",
-      "view_count": 11874,
-      "like_count": 441,
-      "comment_count": 54,
+      "view_count": 14244,
+      "like_count": 477,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=jHEEaQJxJyo"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-05-26T22:54:33Z",
       "description": "Neural Expressive is a new visual language for the Gemini app with fluid animations, vibrant colors, haptic feedback and more. See it in action on the stage at #GoogleIO. \n\n#GoogleIO #GoogleGemini",
       "duration": "PT1M30S",
-      "view_count": 18324,
-      "like_count": 956,
+      "view_count": 20735,
+      "like_count": 1017,
       "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=fQqDN-3dfB4"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-05-26T21:15:51Z",
       "description": "Introducing Daily Brief, an agent that gives you a personalized morning digest that’s designed to be your first stop every day. Here’s a look at how it works.  \n\n#GoogleIO #GoogleGemini",
       "duration": "PT1M5S",
-      "view_count": 12825,
-      "like_count": 534,
+      "view_count": 13791,
+      "like_count": 555,
       "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=q8B7z84NZUQ"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-05-26T19:38:18Z",
       "description": "4 questions with Jeff Dean (Chief Scientist, Google and one of the authors of the famous \"cat paper\" about unsupervised learning and neural networks in 2012) in under 2 minutes\n\n#GoogleIO",
       "duration": "PT1M39S",
-      "view_count": 8890,
-      "like_count": 377,
+      "view_count": 9622,
+      "like_count": 389,
       "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=YEwWD2RCUXk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-28T18:45:14Z",
+    "generated_at": "2026-05-29T08:11:52Z",
     "count": 5
   }
 }

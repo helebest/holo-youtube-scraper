@@ -14,15 +14,27 @@
   "date": "2026-05-29",
   "result": [
     {
+      "id": "tK32trvj_b4",
+      "title": "Build Hour: Agents SDK",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-28T20:09:34Z",
+      "description": "Build with the next evolution of the Agents SDK. In this Build Hour, you’ll learn how to use the updated Agents SDK to build long-running agents with a model-native harness. Give agents the tools, memory, and execution environment they need to work across files and systems — while staying flexible enough to fit your own stack.\n\nIn this session, Steve Coffey (Member of Technical Staff) and Nish Singaraju (Product, Agents) will cover how to:\n• Build agents that can inspect files, run commands, edit code, and operate across multi-step tasks\n• Use the updated Agents SDK harness for more reliable agent loops across documents, tools, and systems\n• Work with core agent primitives like MCP, skills, AGENTS.md, shell, and apply patch\n• Run agents safely in controlled sandbox environments with the files, dependencies, and tools they need\n\n👉 Agents SDK Docs: https://developers.openai.com/api/docs/guides/agents\n👉 Typescript SDK: http://github.com/openai/openai-agents-js\n👉 Python SDK: http://github.com/openai/openai-agents-python\n👉 Agents SDK Quickstart: https://openai.github.io/openai-agents-python/quickstart/\n👉 Follow along with the code repo: http://github.com/openai/build-hours\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction\n01:48 Agents SDK updates\n11:21 Recent releases in the API\n14:13 Demo: Building a task tracker with the Agents SDK\n37:50 Q&A",
+      "duration": "PT47M40S",
+      "view_count": 5315,
+      "like_count": 194,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=tK32trvj_b4"
+    },
+    {
       "id": "tXBRYPpIvms",
       "title": "How Abridge uses GPT-5.5 for clinical decision support",
       "channel_title": "OpenAI",
       "published_at": "2026-05-28T18:11:11Z",
       "description": "At the point of care, more context usually means more complexity.\n\nChaitanya Asawa from Abridge shares how GPT-5.5 helps synthesize patient context, live clinical conversations, and medical information through stronger reasoning and tool use, helping clinicians get denser, more useful information when decisions are being made.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
       "duration": "PT1M14S",
-      "view_count": 584,
-      "like_count": 55,
-      "comment_count": 9,
+      "view_count": 2925,
+      "like_count": 132,
+      "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=tXBRYPpIvms"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-28T16:01:56Z",
       "description": "",
       "duration": "PT8M7S",
-      "view_count": 2215,
-      "like_count": 135,
-      "comment_count": 23,
+      "view_count": 4855,
+      "like_count": 187,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=DHfZqTWlSc4"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-05-27T16:48:12Z",
       "description": "“The developer we’re building for has evolved.”\n\nMatias Castillo talks with Romain Huet about the new builder mindset, where ideas can move from thought to working software faster than before.\n\nFull episode drops 5/29.",
       "duration": "PT17S",
-      "view_count": 3532,
-      "like_count": 85,
+      "view_count": 4407,
+      "like_count": 100,
       "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=ovPVaSmDFcw"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-26T06:18:36Z",
       "description": "Expertise at your fingertips with ChatGPT\n\nCredits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
       "duration": "PT30S",
-      "view_count": 10065,
+      "view_count": 10313,
       "like_count": 194,
       "comment_count": 51,
       "url": "https://www.youtube.com/watch?v=KHasJMg4zV4"
-    },
-    {
-      "id": "HaaKUFAOi84",
-      "title": "Workspace agents in ChatGPT: Admin and builder controls",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-22T22:48:37Z",
-      "description": "Workspace agents in ChatGPT help teams turn repeatable workflows into shared agents that can pull in context, use tools, and move work forward on their own.\n\nIn this demo, you’ll see how admins and builders can set safeguards for workspace agents. Enterprise admins can centrally manage who can use, build, and publish agents, and define what agents are allowed to do. Builders can also configure when agents should ask for approval before taking specific actions, so agents work the way teams need them to across users and workflows.\n\nWorkspace agents are generally available to ChatGPT Business, Enterprise, and Edu.",
-      "duration": "PT2M18S",
-      "view_count": 14223,
-      "like_count": 264,
-      "comment_count": 24,
-      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-28T18:45:13Z",
+    "generated_at": "2026-05-29T08:11:51Z",
     "count": 5
   }
 }
