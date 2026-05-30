@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-05-31",
+  "result": [
+    {
+      "id": "ci7_eJTrGhQ",
+      "title": "Were Neanderthals Culturally Modern Humans? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-29T22:35:47Z",
+      "description": "",
+      "duration": "PT1M32S",
+      "view_count": 7589,
+      "like_count": 346,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
+    },
+    {
+      "id": "PhB3QgFnjGQ",
+      "title": "A Pit in Spain Holds the Key to a Neanderthal DNA Mystery - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-27T23:20:22Z",
+      "description": "",
+      "duration": "PT1M5S",
+      "view_count": 33212,
+      "like_count": 764,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
+    },
+    {
+      "id": "UN_zKhmFHjs",
+      "title": "The cultural transformations in Africa and Eurasia were linked - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-26T19:46:53Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 27617,
+      "like_count": 551,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
+    },
+    {
+      "id": "BeOLjsymljI",
+      "title": "Following the Yamnaya Trail into India - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-24T21:09:56Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 68801,
+      "like_count": 1445,
+      "comment_count": 86,
+      "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
+    },
+    {
+      "id": "-zsD-iw-arw",
+      "title": "The biological clock that doomed the Neanderthals - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-23T22:31:02Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 96540,
+      "like_count": 1746,
+      "comment_count": 63,
+      "url": "https://www.youtube.com/watch?v=-zsD-iw-arw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-05-30T17:33:17Z",
+    "count": 5
+  }
+}
