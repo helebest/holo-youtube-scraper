@@ -14,15 +14,27 @@
   "date": "2026-05-30",
   "result": [
     {
+      "id": "8QKqENa_eQQ",
+      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Leader at Alchemy",
+      "channel_title": "OpenAI",
+      "published_at": "2026-05-29T20:29:25Z",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.\n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Matias Castello, Product Lead at Alchemy. Matias shares how his team uses Codex for code review and product work, how he builds side projects with Codex App Server, and why he keeps rebuilding Snapcat as a personal eval for each new model.\n\nChapters:\n00:00 Intro\n00:58 Bringing Codex to work at Alchemy\n01:51 Using Codex for code review\n08:04 Building side projects with Codex\n18:51 Codex App Server projects\n24:01 Computer use, GPT-5.5, and Snapcat\n28:24 Advice for builders",
+      "duration": "PT29M50S",
+      "view_count": 2507,
+      "like_count": 77,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ"
+    },
+    {
       "id": "MPIAB-8VmCo",
       "title": "Windows Computer Use and mobile access for Codex",
       "channel_title": "OpenAI",
       "published_at": "2026-05-29T18:31:52Z",
       "description": "Codex on Windows can now use your computer to work across desktop apps, while you step away from your desk. You can also now use your mobile phone to control the Codex running on your Windows machine.\n\nSee how to enable Computer Use in the Codex app, mention installed apps in a conversation, and connect your Windows device to the ChatGPT mobile app to monitor or start tasks on the go.\n\nChapters:\n00:00 New features for Codex on Windows\n00:29 Enable Computer Use\n00:43 Let Codex work on your computer\n01:08 Connect to Codex from ChatGPT mobile app",
       "duration": "PT1M50S",
-      "view_count": 673,
-      "like_count": 84,
-      "comment_count": 11,
+      "view_count": 15378,
+      "like_count": 882,
+      "comment_count": 95,
       "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-29T17:10:58Z",
       "description": "\"It's taking me minutes and hours to do things that took teams weeks and months,\" - Lauren Steinberg, Loblaw Companies Limited.\n\nLauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/\n\n#codex #ecommerce",
       "duration": "PT25S",
-      "view_count": 676,
-      "like_count": 23,
-      "comment_count": 0,
+      "view_count": 2849,
+      "like_count": 62,
+      "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=JA3tmYqCacA"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-05-29T17:03:52Z",
       "description": "Lauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/",
       "duration": "PT1M5S",
-      "view_count": 697,
-      "like_count": 63,
+      "view_count": 2710,
+      "like_count": 112,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-05-28T20:09:34Z",
       "description": "Build with the next evolution of the Agents SDK. In this Build Hour, you’ll learn how to use the updated Agents SDK to build long-running agents with a model-native harness. Give agents the tools, memory, and execution environment they need to work across files and systems — while staying flexible enough to fit your own stack.\n\nIn this session, Steve Coffey (Member of Technical Staff) and Nish Singaraju (Product, Agents) will cover how to:\n• Build agents that can inspect files, run commands, edit code, and operate across multi-step tasks\n• Use the updated Agents SDK harness for more reliable agent loops across documents, tools, and systems\n• Work with core agent primitives like MCP, skills, AGENTS.md, shell, and apply patch\n• Run agents safely in controlled sandbox environments with the files, dependencies, and tools they need\n\n👉 Agents SDK Docs: https://developers.openai.com/api/docs/guides/agents\n👉 Typescript SDK: http://github.com/openai/openai-agents-js\n👉 Python SDK: http://github.com/openai/openai-agents-python\n👉 Agents SDK Quickstart: https://openai.github.io/openai-agents-python/quickstart/\n👉 Follow along with the code repo: http://github.com/openai/build-hours\n👉 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction\n01:48 Agents SDK updates\n11:21 Recent releases in the API\n14:13 Demo: Building a task tracker with the Agents SDK\n37:50 Q&A",
       "duration": "PT47M40S",
-      "view_count": 7708,
-      "like_count": 244,
-      "comment_count": 24,
+      "view_count": 9657,
+      "like_count": 281,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=tK32trvj_b4"
-    },
-    {
-      "id": "tXBRYPpIvms",
-      "title": "How Abridge uses GPT-5.5 for clinical decision support",
-      "channel_title": "OpenAI",
-      "published_at": "2026-05-28T18:11:11Z",
-      "description": "At the point of care, more context usually means more complexity.\n\nChaitanya Asawa from Abridge shares how GPT-5.5 helps synthesize patient context, live clinical conversations, and medical information through stronger reasoning and tool use, helping clinicians get denser, more useful information when decisions are being made.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
-      "duration": "PT1M14S",
-      "view_count": 3720,
-      "like_count": 142,
-      "comment_count": 21,
-      "url": "https://www.youtube.com/watch?v=tXBRYPpIvms"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-29T18:44:49Z",
+    "generated_at": "2026-05-30T07:24:08Z",
     "count": 5
   }
 }

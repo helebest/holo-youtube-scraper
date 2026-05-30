@@ -14,15 +14,27 @@
   "date": "2026-05-30",
   "result": [
     {
+      "id": "ci7_eJTrGhQ",
+      "title": "Were Neanderthals Culturally Modern Humans? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-29T22:35:47Z",
+      "description": "",
+      "duration": "PT1M32S",
+      "view_count": 4453,
+      "like_count": 232,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
+    },
+    {
       "id": "PhB3QgFnjGQ",
       "title": "A Pit in Spain Holds the Key to a Neanderthal DNA Mystery - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-27T23:20:22Z",
       "description": "",
       "duration": "PT1M5S",
-      "view_count": 29979,
-      "like_count": 701,
-      "comment_count": 24,
+      "view_count": 31941,
+      "like_count": 741,
+      "comment_count": 29,
       "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-05-26T19:46:53Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 26574,
-      "like_count": 530,
+      "view_count": 27217,
+      "like_count": 544,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-05-24T21:09:56Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 66569,
-      "like_count": 1401,
-      "comment_count": 82,
+      "view_count": 68069,
+      "like_count": 1435,
+      "comment_count": 85,
       "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-23T22:31:02Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 92601,
-      "like_count": 1688,
-      "comment_count": 59,
+      "view_count": 95404,
+      "like_count": 1730,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=-zsD-iw-arw"
-    },
-    {
-      "id": "avkBfPoennY",
-      "title": "The current story of human evolution may be incomplete - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-22T19:49:39Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 34381,
-      "like_count": 596,
-      "comment_count": 42,
-      "url": "https://www.youtube.com/watch?v=avkBfPoennY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-29T18:44:42Z",
+    "generated_at": "2026-05-30T07:24:04Z",
     "count": 5
   }
 }

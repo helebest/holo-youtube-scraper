@@ -14,15 +14,27 @@
   "date": "2026-05-30",
   "result": [
     {
+      "id": "pozLLAglGeU",
+      "title": "During last night's dinner, Jensen took a quick break for a very important TVBS shoutout.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-05-29T22:00:35Z",
+      "description": "",
+      "duration": "PT1M5S",
+      "view_count": 3466,
+      "like_count": 211,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=pozLLAglGeU"
+    },
+    {
       "id": "7VetBK3kxF0",
       "title": "Jensen Huang on the Robotaxi Moment",
       "channel_title": "NVIDIA",
       "published_at": "2026-05-28T19:09:20Z",
       "description": "“The ecosystem working with us to build L4 and robotaxis is expanding, and it’s going everywhere.” — Jensen Huang, Founder & CEO of NVIDIA\n\nRobotaxis are moving from demos to deployment, powered by AI that can help vehicles drive, reason and operate safely at scale.",
       "duration": "PT45S",
-      "view_count": 12221,
-      "like_count": 708,
-      "comment_count": 18,
+      "view_count": 17148,
+      "like_count": 758,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=7VetBK3kxF0"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-05-27T18:04:36Z",
       "description": "What happens when you give an AI agent a physical body? Seeed Studio connected OpenClaw to a robot arm — and it found its own libraries, read the instructions, and started moving.\n\nEric Pan, CEO, and Elaine Wu, Head of Robotics at Seed Studio, explain how open-source robot arms — starting at $200 — running on NVIDIA Jetson can now be controlled through plain-text commands, and why the future of physical AI will be built by millions of developers, not just robotics experts.\n\n🎧 Listen to the episode: https://youtu.be/C3lcadfxTio?si=ra1DDfCgwn0CJ5KG",
       "duration": "PT29S",
-      "view_count": 4209,
-      "like_count": 183,
+      "view_count": 4661,
+      "like_count": 199,
       "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=p_MVuUVZg30"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-05-27T16:54:46Z",
       "description": "Seeed Studio is a leader in open source robotics, delivering affordable NVIDIA Jetson‑powered arms that put embodied AI into the hands of millions of makers, students, and small businesses. In this episode, Seeed Studio CEO Eric Pan and Head of Robotics Elaine Wu explain how open hardware, the OpenClaw agentic framework, and NVIDIA Isaac Sim are turning robot arms into controllable, teachable agents—and what it takes to bring these physical AI tools into real‑world settings responsibly.\n\n🔬Topics covered:\nWhy open source is the fastest path to accessible robotics\nHow the $200 SOR arm (with Hugging Face) lowers the barrier to embodied AI\nTraining robot arms like a dog: from months of coding to intuitive hand‑guided learning\nOpenClaw on Jetson: turning natural‑language commands into robot skills\nUsing NVIDIA Isaac Sim and digital twins to bridge simulation and real‑world deployment\nBuilding modular robot parts (heads, arms, wheels) instead of monolithic humanoids\n\nChapters:\n00:00 – Welcome and introductions\n01:23 – From open hardware modules to robotics and edge AI\n04:17 – Why open source drives adoption and trust in robotics\n08:09 – The $200 SOR arm: open source with Hugging Face\n10:02 – Training robot arms like a dog: intuitive, hand‑guided learning\n12:58 – OpenClaw on Jetson: text‑to‑robot control\n18:35 – Isaac Sim and digital twins: bridging simulation and reality\n25:16 – Modular design: heads, arms, wheels instead of humanoids",
       "duration": "PT29M5S",
-      "view_count": 5515,
-      "like_count": 247,
-      "comment_count": 32,
+      "view_count": 6392,
+      "like_count": 261,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=C3lcadfxTio"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-27T16:04:14Z",
       "description": "Building and operating an AI factory requires managing immense complexity at incredible speed. \n\nHear from leaders at @jacobsworldwide , @ptc , and @phaidra-ai explore how AI factory digital twins, built on top of NVIDIA DSX and the Omniverse DSX Blueprint, are transforming the lifecycle of modern AI infrastructure. \n\nBy moving away from siloed design, teams can now collaborate and simulate an entire facility before ground is ever broken. \n\nWe discuss how these digital representations streamline the journey from concept to tokenization and allow operators to train predictive AI agents that anticipate thermal spikes, optimize liquid cooling, and maximize tokens per watt for highly efficient, next-generation data centers.\n\nLearn more about DSX: https://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support\n\nTry the blueprint: https://build.nvidia.com/nvidia/omniverse-dsx-blueprint-for-ai-factories",
       "duration": "PT3M19S",
-      "view_count": 3773,
-      "like_count": 177,
+      "view_count": 4144,
+      "like_count": 184,
       "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=4aw0HFGO32k"
-    },
-    {
-      "id": "dXWHnzGK4k4",
-      "title": "NVIDIA GTC Live pregame show at COMPUTEX 2026",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-05-26T15:06:54Z",
-      "description": "Everyone’s watching what comes next.\n\nStart with the NVIDIA GTC Live pregame show at COMPUTEX 2026.\n\nThen watch Jensen Huang take the stage in Taipei to unveil the latest breakthroughs in AI and accelerated computing.\n\nTune in: https://nvda.ws/4wFiPMs\n\n📍 Monday, June 1 | 9 a.m. Taipei Time\n📍 Sunday, May 31 | 6 p.m. Pacific Time\n\n#NVIDIAGTC",
-      "duration": "PT40S",
-      "view_count": 4752,
-      "like_count": 259,
-      "comment_count": 13,
-      "url": "https://www.youtube.com/watch?v=dXWHnzGK4k4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-29T18:44:48Z",
+    "generated_at": "2026-05-30T07:24:07Z",
     "count": 5
   }
 }
