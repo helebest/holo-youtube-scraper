@@ -20,9 +20,9 @@
       "published_at": "2026-05-29T22:00:35Z",
       "description": "",
       "duration": "PT1M5S",
-      "view_count": 7221,
-      "like_count": 431,
-      "comment_count": 12,
+      "view_count": 11443,
+      "like_count": 634,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=pozLLAglGeU"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-28T19:09:20Z",
       "description": "“The ecosystem working with us to build L4 and robotaxis is expanding, and it’s going everywhere.” — Jensen Huang, Founder & CEO of NVIDIA\n\nRobotaxis are moving from demos to deployment, powered by AI that can help vehicles drive, reason and operate safely at scale.",
       "duration": "PT45S",
-      "view_count": 19539,
-      "like_count": 795,
-      "comment_count": 26,
+      "view_count": 22301,
+      "like_count": 839,
+      "comment_count": 36,
       "url": "https://www.youtube.com/watch?v=7VetBK3kxF0"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-05-27T18:04:36Z",
       "description": "What happens when you give an AI agent a physical body? Seeed Studio connected OpenClaw to a robot arm — and it found its own libraries, read the instructions, and started moving.\n\nEric Pan, CEO, and Elaine Wu, Head of Robotics at Seed Studio, explain how open-source robot arms — starting at $200 — running on NVIDIA Jetson can now be controlled through plain-text commands, and why the future of physical AI will be built by millions of developers, not just robotics experts.\n\n🎧 Listen to the episode: https://youtu.be/C3lcadfxTio?si=ra1DDfCgwn0CJ5KG",
       "duration": "PT29S",
-      "view_count": 4892,
-      "like_count": 206,
-      "comment_count": 6,
+      "view_count": 5075,
+      "like_count": 0,
+      "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=p_MVuUVZg30"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-05-27T16:54:46Z",
       "description": "Seeed Studio is a leader in open source robotics, delivering affordable NVIDIA Jetson‑powered arms that put embodied AI into the hands of millions of makers, students, and small businesses. In this episode, Seeed Studio CEO Eric Pan and Head of Robotics Elaine Wu explain how open hardware, the OpenClaw agentic framework, and NVIDIA Isaac Sim are turning robot arms into controllable, teachable agents—and what it takes to bring these physical AI tools into real‑world settings responsibly.\n\n🔬Topics covered:\nWhy open source is the fastest path to accessible robotics\nHow the $200 SOR arm (with Hugging Face) lowers the barrier to embodied AI\nTraining robot arms like a dog: from months of coding to intuitive hand‑guided learning\nOpenClaw on Jetson: turning natural‑language commands into robot skills\nUsing NVIDIA Isaac Sim and digital twins to bridge simulation and real‑world deployment\nBuilding modular robot parts (heads, arms, wheels) instead of monolithic humanoids\n\nChapters:\n00:00 – Welcome and introductions\n01:23 – From open hardware modules to robotics and edge AI\n04:17 – Why open source drives adoption and trust in robotics\n08:09 – The $200 SOR arm: open source with Hugging Face\n10:02 – Training robot arms like a dog: intuitive, hand‑guided learning\n12:58 – OpenClaw on Jetson: text‑to‑robot control\n18:35 – Isaac Sim and digital twins: bridging simulation and reality\n25:16 – Modular design: heads, arms, wheels instead of humanoids",
       "duration": "PT29M5S",
-      "view_count": 6747,
-      "like_count": 261,
-      "comment_count": 36,
+      "view_count": 7041,
+      "like_count": 268,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=C3lcadfxTio"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-05-27T16:04:14Z",
       "description": "Building and operating an AI factory requires managing immense complexity at incredible speed. \n\nHear from leaders at @jacobsworldwide , @ptc , and @phaidra-ai explore how AI factory digital twins, built on top of NVIDIA DSX and the Omniverse DSX Blueprint, are transforming the lifecycle of modern AI infrastructure. \n\nBy moving away from siloed design, teams can now collaborate and simulate an entire facility before ground is ever broken. \n\nWe discuss how these digital representations streamline the journey from concept to tokenization and allow operators to train predictive AI agents that anticipate thermal spikes, optimize liquid cooling, and maximize tokens per watt for highly efficient, next-generation data centers.\n\nLearn more about DSX: https://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support\n\nTry the blueprint: https://build.nvidia.com/nvidia/omniverse-dsx-blueprint-for-ai-factories",
       "duration": "PT3M19S",
-      "view_count": 4431,
-      "like_count": 192,
+      "view_count": 4629,
+      "like_count": 196,
       "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=4aw0HFGO32k"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-30T17:33:21Z",
+    "generated_at": "2026-05-31T07:54:52Z",
     "count": 5
   }
 }

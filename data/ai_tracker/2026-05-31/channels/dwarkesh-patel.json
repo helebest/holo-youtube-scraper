@@ -14,15 +14,27 @@
   "date": "2026-05-31",
   "result": [
     {
+      "id": "iuVDb9hKn3w",
+      "title": "Why Neanderthals Might Be Our Cousins After All - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-30T22:11:51Z",
+      "description": "",
+      "duration": "PT1M28S",
+      "view_count": 5597,
+      "like_count": 241,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=iuVDb9hKn3w"
+    },
+    {
       "id": "ci7_eJTrGhQ",
       "title": "Were Neanderthals Culturally Modern Humans? - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-29T22:35:47Z",
       "description": "",
       "duration": "PT1M32S",
-      "view_count": 7589,
-      "like_count": 346,
-      "comment_count": 14,
+      "view_count": 13205,
+      "like_count": 495,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-05-27T23:20:22Z",
       "description": "",
       "duration": "PT1M5S",
-      "view_count": 33212,
-      "like_count": 764,
-      "comment_count": 30,
+      "view_count": 35217,
+      "like_count": 0,
+      "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-05-26T19:46:53Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 27617,
-      "like_count": 551,
-      "comment_count": 14,
+      "view_count": 28366,
+      "like_count": 0,
+      "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-24T21:09:56Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 68801,
-      "like_count": 1445,
-      "comment_count": 86,
+      "view_count": 70890,
+      "like_count": 0,
+      "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
-    },
-    {
-      "id": "-zsD-iw-arw",
-      "title": "The biological clock that doomed the Neanderthals - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-23T22:31:02Z",
-      "description": "",
-      "duration": "PT1M4S",
-      "view_count": 96540,
-      "like_count": 1746,
-      "comment_count": 63,
-      "url": "https://www.youtube.com/watch?v=-zsD-iw-arw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-30T17:33:17Z",
+    "generated_at": "2026-05-31T07:54:45Z",
     "count": 5
   }
 }
