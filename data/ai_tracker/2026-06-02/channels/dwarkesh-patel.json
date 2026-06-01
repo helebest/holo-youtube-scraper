@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-06-02",
+  "result": [
+    {
+      "id": "iuVDb9hKn3w",
+      "title": "Why Neanderthals Might Be Our Cousins After All - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-30T22:11:51Z",
+      "description": "",
+      "duration": "PT1M28S",
+      "view_count": 12050,
+      "like_count": 409,
+      "comment_count": 62,
+      "url": "https://www.youtube.com/watch?v=iuVDb9hKn3w"
+    },
+    {
+      "id": "ci7_eJTrGhQ",
+      "title": "Were Neanderthals Culturally Modern Humans? - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-29T22:35:47Z",
+      "description": "",
+      "duration": "PT1M32S",
+      "view_count": 22851,
+      "like_count": 728,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
+    },
+    {
+      "id": "PhB3QgFnjGQ",
+      "title": "A Pit in Spain Holds the Key to a Neanderthal DNA Mystery - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-27T23:20:22Z",
+      "description": "",
+      "duration": "PT1M5S",
+      "view_count": 38842,
+      "like_count": 836,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
+    },
+    {
+      "id": "UN_zKhmFHjs",
+      "title": "The cultural transformations in Africa and Eurasia were linked - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-26T19:46:53Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 29326,
+      "like_count": 578,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
+    },
+    {
+      "id": "BeOLjsymljI",
+      "title": "Following the Yamnaya Trail into India - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-05-24T21:09:56Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 76159,
+      "like_count": 1540,
+      "comment_count": 98,
+      "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-01T20:38:46Z",
+    "count": 5
+  }
+}
