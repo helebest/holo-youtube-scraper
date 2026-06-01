@@ -20,9 +20,9 @@
       "published_at": "2026-05-30T13:19:23Z",
       "description": "Fields Medal recipient Terence Tao explains how AI is changing the way mathematicians work, making it easier to experiment, explore new ideas, and collaborate on difficult problems.\nThe video also features OpenAI Chief Research Officer Mark Chen, who discusses OpenAI's broader goal of building tools that help scientists and researchers achieve breakthroughs at scale.\nTogether, they explore how AI can expand what's possible in mathematics and science while preserving the creativity, curiosity, and discovery that drive human progress.\nTerence Tao was interviewed at an OpenAI Forum event held in partnership with IPAM (the Institute for Pure and Applied Mathematics) in March 2026.",
       "duration": "PT1M16S",
-      "view_count": 29213,
-      "like_count": 1193,
-      "comment_count": 94,
+      "view_count": 48296,
+      "like_count": 1768,
+      "comment_count": 143,
       "url": "https://www.youtube.com/watch?v=cdflu9ZXZGE"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-05-29T20:29:25Z",
       "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.\n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Matias Castello, Product Lead at Alchemy. Matias shares how his team uses Codex for code review and product work, how he builds side projects with Codex App Server, and why he keeps rebuilding Snapcat as a personal eval for each new model.\n\nChapters:\n00:00 Intro\n00:58 Bringing Codex to work at Alchemy\n01:51 Using Codex for code review\n08:04 Building side projects with Codex\n18:51 Codex App Server projects\n24:01 Computer use, GPT-5.5, and Snapcat\n28:24 Advice for builders",
       "duration": "PT29M50S",
-      "view_count": 4500,
-      "like_count": 111,
-      "comment_count": 12,
+      "view_count": 4848,
+      "like_count": 116,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-05-29T18:31:52Z",
       "description": "Codex on Windows can now use your computer to work across desktop apps, while you step away from your desk. You can also now use your mobile phone to control the Codex running on your Windows machine.\n\nSee how to enable Computer Use in the Codex app, mention installed apps in a conversation, and connect your Windows device to the ChatGPT mobile app to monitor or start tasks on the go.\n\nChapters:\n00:00 New features for Codex on Windows\n00:29 Enable Computer Use\n00:43 Let Codex work on your computer\n01:08 Connect to Codex from ChatGPT mobile app",
       "duration": "PT1M50S",
-      "view_count": 29521,
-      "like_count": 1226,
-      "comment_count": 146,
+      "view_count": 31879,
+      "like_count": 1269,
+      "comment_count": 151,
       "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-05-29T17:10:58Z",
       "description": "\"It's taking me minutes and hours to do things that took teams weeks and months,\" - Lauren Steinberg, Loblaw Companies Limited.\n\nLauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/\n\n#codex #ecommerce",
       "duration": "PT25S",
-      "view_count": 5221,
-      "like_count": 117,
-      "comment_count": 5,
+      "view_count": 6306,
+      "like_count": 149,
+      "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=JA3tmYqCacA"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-05-29T17:03:52Z",
       "description": "Lauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/",
       "duration": "PT1M5S",
-      "view_count": 3836,
-      "like_count": 131,
+      "view_count": 4084,
+      "like_count": 134,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-05-31T17:33:54Z",
+    "generated_at": "2026-06-01T09:38:10Z",
     "count": 5
   }
 }
