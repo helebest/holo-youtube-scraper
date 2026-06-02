@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-03",
+  "result": [
+    {
+      "id": "hTogtUnYEGs",
+      "title": "Get picture-perfect 4K results with Google Search 📸",
+      "channel_title": "Google",
+      "published_at": "2026-06-01T19:52:18Z",
+      "description": "Sharpen your shot with Search. Tap the 🍌 button in the Google app, upload a picture or video frame, and use this prompt to get picture-perfect results.\n\n#GoogleSearch",
+      "duration": "PT21S",
+      "view_count": 17418,
+      "like_count": 402,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=hTogtUnYEGs"
+    },
+    {
+      "id": "LEldTW4Zkhg",
+      "title": "Meet Gemini Spark, your 24/7 personal AI agent✨",
+      "channel_title": "Google",
+      "published_at": "2026-05-29T21:08:54Z",
+      "description": "At #GoogleIO, we introduced @GoogleGemini Spark, your 24/7 personal AI agent that helps you navigate your digital life, taking action on your behalf and under your direction — and you can use it across mobile and desktop, even when your laptop is closed. It's available now to all Google AI Ultra subscribers in the U.S.\n\nHere’s a peek at what it can do.\n\n#GoogleGemini",
+      "duration": "PT2M1S",
+      "view_count": 20103,
+      "like_count": 778,
+      "comment_count": 93,
+      "url": "https://www.youtube.com/watch?v=LEldTW4Zkhg"
+    },
+    {
+      "id": "jugfLrYP-6c",
+      "title": "Calling bank all day 🏦 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-05-29T19:10:09Z",
+      "description": "We’re looking back at some of the best shots from the NBA Conference Finals. Tune in to see who takes home the ring, and dive deep on your favorite moments with simulations in Search. \n\n\nProud sponsor of the NBA.",
+      "duration": "PT10S",
+      "view_count": 18738,
+      "like_count": 373,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=jugfLrYP-6c"
+    },
+    {
+      "id": "cKCU6Qpa660",
+      "title": "What is Agentic Coding?",
+      "channel_title": "Google",
+      "published_at": "2026-05-28T18:17:58Z",
+      "description": "Put 30 seconds on the clock! ⏰ Jeff Dean, Chief Scientist, explains everything you should know about agentic coding in less than 30 seconds.\n\n#GoogleIO",
+      "duration": "PT43S",
+      "view_count": 11386,
+      "like_count": 385,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=cKCU6Qpa660"
+    },
+    {
+      "id": "jHEEaQJxJyo",
+      "title": "Puppets x AI | Behind the Scenes with Timmy TPU",
+      "channel_title": "Google",
+      "published_at": "2026-05-27T22:48:02Z",
+      "description": "Peek behind the curtain to see how we blended old-school puppetry, 3D animation, Gemini Omni and the latest experimental video tools to create TPU Training Day, the short film that debuted during Google I/O 2026. 🔦 📽️ 🎬 \n\nWatch TPU Training Day here: https://youtu.be/dhI4djOVEmI  \n\nSee more from I/O 2026: https://www.youtube.com/playlist?list=PL590L5WQmH8coVKyRYxxQo8NG9O5NVLRW\n\n#GoogleIO\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M59S",
+      "view_count": 22378,
+      "like_count": 588,
+      "comment_count": 107,
+      "url": "https://www.youtube.com/watch?v=jHEEaQJxJyo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-02T19:54:51Z",
+    "count": 5
+  }
+}
