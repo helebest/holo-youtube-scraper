@@ -20,9 +20,9 @@
       "published_at": "2026-06-01T19:40:47Z",
       "description": "Abilene, Texas wasn't known as a technology hub.\n\nNow it's the first home of Stargate, one of the most ambitious AI infrastructure projects ever built.\n\nLocal leaders share what Stargate means for their community, from new investment and infrastructure improvements to the opportunities it could create for generations to come.\n\nThis is the story of how a West Texas town became an early part of the future of AI.",
       "duration": "PT2M39S",
-      "view_count": 1006,
-      "like_count": 106,
-      "comment_count": 18,
+      "view_count": 5885,
+      "like_count": 229,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-06-01T17:41:51Z",
       "description": "“GPT-5.5 is a lot better at planning, which means that for large features, our users are much more likely to succeed in one shot.”\n\nAs Alexandre Pesant from Lovable shares, that planning jump unlocked more reliable complex builds: a 31% increase in intent understanding during planning and 22% fewer context-forgetting moments.\n\nWith GPT-5.5, Lovable lets users focus on their goal and build what they want without thinking about code.\n\nBuild with GPT-5.5 ➡️ https://openai.com/index/introducing-gpt-5-5/",
       "duration": "PT1M4S",
-      "view_count": 2826,
-      "like_count": 187,
+      "view_count": 7219,
+      "like_count": 271,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=ZrEc46wUIPU"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-05-30T13:19:23Z",
       "description": "Fields Medal recipient Terence Tao explains how AI is changing the way mathematicians work, making it easier to experiment, explore new ideas, and collaborate on difficult problems.\nThe video also features OpenAI Chief Research Officer Mark Chen, who discusses OpenAI's broader goal of building tools that help scientists and researchers achieve breakthroughs at scale.\nTogether, they explore how AI can expand what's possible in mathematics and science while preserving the creativity, curiosity, and discovery that drive human progress.\nTerence Tao was interviewed at an OpenAI Forum event held in partnership with IPAM (the Institute for Pure and Applied Mathematics) in March 2026.",
       "duration": "PT1M16S",
-      "view_count": 57718,
-      "like_count": 2026,
-      "comment_count": 170,
+      "view_count": 64026,
+      "like_count": 2169,
+      "comment_count": 174,
       "url": "https://www.youtube.com/watch?v=cdflu9ZXZGE"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-05-29T20:29:25Z",
       "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.\n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Matias Castello, Product Lead at Alchemy. Matias shares how his team uses Codex for code review and product work, how he builds side projects with Codex App Server, and why he keeps rebuilding Snapcat as a personal eval for each new model.\n\nChapters:\n00:00 Intro\n00:58 Bringing Codex to work at Alchemy\n01:51 Using Codex for code review\n08:04 Building side projects with Codex\n18:51 Codex App Server projects\n24:01 Computer use, GPT-5.5, and Snapcat\n28:24 Advice for builders",
       "duration": "PT29M50S",
-      "view_count": 5054,
-      "like_count": 120,
-      "comment_count": 15,
+      "view_count": 5147,
+      "like_count": 122,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-05-29T18:31:52Z",
       "description": "Codex on Windows can now use your computer to work across desktop apps, while you step away from your desk. You can also now use your mobile phone to control the Codex running on your Windows machine.\n\nSee how to enable Computer Use in the Codex app, mention installed apps in a conversation, and connect your Windows device to the ChatGPT mobile app to monitor or start tasks on the go.\n\nChapters:\n00:00 New features for Codex on Windows\n00:29 Enable Computer Use\n00:43 Let Codex work on your computer\n01:08 Connect to Codex from ChatGPT mobile app",
       "duration": "PT1M50S",
-      "view_count": 32979,
-      "like_count": 1293,
-      "comment_count": 154,
+      "view_count": 33763,
+      "like_count": 1311,
+      "comment_count": 157,
       "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-01T20:38:51Z",
+    "generated_at": "2026-06-02T08:49:53Z",
     "count": 5
   }
 }

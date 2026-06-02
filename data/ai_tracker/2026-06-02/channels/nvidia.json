@@ -14,15 +14,51 @@
   "date": "2026-06-02",
   "result": [
     {
+      "id": "PC-7XEf0R5k",
+      "title": "Tokens Turn Data Into Knowledge | Official Keynote Intro | GTC Taipei at COMPUTEX 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T03:32:17Z",
+      "description": "This is how intelligence is made. We're entering a new frontier where the AI factory generates tokens—the building blocks of modern intelligence. From autonomous AI agents to breakthroughs in robotics and healthcare, these tokens are reshaping our world. Explore how NVIDIA’s accelerated computing platform—built by our partners in Taiwan—and the Vera Rubin architecture are forging new paths for the global industry. Together, we take the next great leap into a bright future, built for all mankind. \n\nhttps://www.nvidia.com/en-tw/gtc/taipei/\n\n#AgenticAI, #NVIDIAAI, #NVIDIAGTC",
+      "duration": "PT3M19S",
+      "view_count": 2055,
+      "like_count": 144,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=PC-7XEf0R5k"
+    },
+    {
+      "id": "p6Fmp-_7p7o",
+      "title": "Official Keynote Closing Video | GTC Taipei 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T03:28:51Z",
+      "description": "Join a cast of robots from the GTC Taipei keynote for a celebration in the bustling Taipei night markets as they sing their way through the biggest announcements from CEO Jensen Huang's keynote address. From new AI breakthroughs to incredible agentic solutions, it’s a lighthearted recap of the innovations shaping the future.\n\nhttps://www.nvidia.com/en-tw/gtc/taipei/\n\n#NVIDIAGTC #COMPUTEX2026",
+      "duration": "PT3M21S",
+      "view_count": 3714,
+      "like_count": 242,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=p6Fmp-_7p7o"
+    },
+    {
+      "id": "vLfrBembjsk",
+      "title": "NVIDIA Vera—The CPU for Agents",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-01T21:41:29Z",
+      "description": "NVIDIA Vera is a new CPU for agents, delivering 80% faster agentic task completion than x86 processors while handling the heavy CPU workloads behind modern AI factories — from reinforcement learning to data orchestration. It extends NVIDIA's AI platform from GPU to CPU, powering standalone Vera servers, Vera Rubin systems, and Vera BlueField-4 STX AI storage platforms.\n\nRead the press release: https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-the-age-of-ai \n\nLearn more about the Vera CPU: https://www.nvidia.com/en-us/data-center/vera-cpu/\n\n#NVIDIAVeraCPU #NVIDIAGTC",
+      "duration": "PT2M54S",
+      "view_count": 13235,
+      "like_count": 770,
+      "comment_count": 91,
+      "url": "https://www.youtube.com/watch?v=vLfrBembjsk"
+    },
+    {
       "id": "yvDDpQZliY8",
       "title": "Accelerating Humanoid Robot Development With NVIDIA Isaac GR00T",
       "channel_title": "NVIDIA",
       "published_at": "2026-06-01T18:37:38Z",
       "description": "General-purpose humanoid robots represent the next leap in AI, but development remains fragmented.\n\nDevelopers spend significant time setting up robotics infrastructure before they can focus on core development work.\n\nWith NVIDIA Isaac™ GR00T, an open humanoid robot development platform, developers can set up simulation environments in Isaac Lab, capture human demonstrations on real or simulated robots, and generate synthetic data with NVIDIA Omniverse™ and NVIDIA Cosmos™ to cut setup time from days to hours.\n\nThe Isaac GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the Isaac GR00T platform helps research teams move faster from robot bring-up to skill development and real-world validation.\n\nRead the Press Release: https://nvda.ws/4vlY6fi\nLearn More About Isaac GR00T: https://nvda.ws/4vCPpxp\nExplore H2 Plus: https://www.unitree.com/H2plus\n\n#NVIDIAGTC #COMPUTEX2026 #NVIDIAIsaac #PhysicalAI #Robotics",
       "duration": "PT2M3S",
-      "view_count": 755,
-      "like_count": 77,
-      "comment_count": 11,
+      "view_count": 5208,
+      "like_count": 240,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=yvDDpQZliY8"
     },
     {
@@ -32,51 +68,15 @@
       "published_at": "2026-06-01T18:01:23Z",
       "description": "Get an early preview of NVIDIA RTX Spark laptops as NVIDIA's Jacob Freeman walks through demos powered by the RTX Spark Superchip. See how NVIDIA AI and RTX graphics come together in slim systems built to run personal agents, accelerate creative work, and deliver immersive RTX gaming.\n\nExplore more: https://www.nvidia.com/en-us/products/rtx-spark",
       "duration": "PT3M16S",
-      "view_count": 6778,
-      "like_count": 805,
-      "comment_count": 174,
+      "view_count": 32705,
+      "like_count": 1407,
+      "comment_count": 277,
       "url": "https://www.youtube.com/watch?v=suhxvEb5l2s"
-    },
-    {
-      "id": "rxHf6yVZXQM",
-      "title": "This is NVIDIA Alpamayo Thinking Out Loud",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-06-01T07:00:08Z",
-      "description": "What if you could hear what your car is thinking? 💭\n\nThis NVIDIA Alpamayo demo gives voice to the internal reasoning behind an autonomous drive — showing how the vehicle evaluates the road, plans its next move and adapts to city traffic while the driver enjoys the ride.\n\nWatch the demo 👉 https://nvda.ws/49ZTJhC",
-      "duration": "PT22S",
-      "view_count": 2410,
-      "like_count": 91,
-      "comment_count": 6,
-      "url": "https://www.youtube.com/watch?v=rxHf6yVZXQM"
-    },
-    {
-      "id": "z4wSlhS4w9I",
-      "title": "This is NVIDIA Alpamayo Thinking Out Loud",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-06-01T06:42:06Z",
-      "description": "NVIDIA Alpamayo is a reasoning-based autonomous driving model that continuously evaluates the road, plans next steps, and adapts to changing city traffic.\n\nThis demo gives voice to Alpamayo’s internal reasoning — showing what it could sound like if you could listen in, while the driver simply enjoys the ride.\n\n📖 Read the Press Release → https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis\n💻 Learn More About Alpamayo → https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/\n🚗 Explore on Github → https://github.com/NVlabs/alpamayo\n\n#NVIDIAGTC #COMPUTEX2026 #NVIDIAAlpamayo #Alpamayo #PhysicalAI #Automotive #AutonomousVehicles #AutonomousDriving",
-      "duration": "PT1M12S",
-      "view_count": 5622,
-      "like_count": 228,
-      "comment_count": 36,
-      "url": "https://www.youtube.com/watch?v=z4wSlhS4w9I"
-    },
-    {
-      "id": "k0Rgc3ZH5Co",
-      "title": "Cadence Cuts Chip Verification From Weeks to Hours With AI Engineers and NVIDIA OpenShell",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-06-01T06:11:33Z",
-      "description": "See how @cadencedesignsystems and NVIDIA are transforming chip design verification with autonomous AI agents. In this demo, an engineer directs Cadence ChipStack to launch a secure RTL verification loop powered by Nemotron and secured by NVIDIA OpenShell. The system runs dynamic simulation and formal verification, identifies RTL bugs, fixes code, and escalates major design issues for human review. By automating one of the most time-consuming parts of chip development, Cadence helps reduce verification cycles from five weeks to less than a day, accelerating the design of the AI factories that power frontier AI.\n\n 📕 Read the Press Release: https://nvda.ws/49z1fzU\n#NVIDIAGTC #ChipDesign #AutonomousAgents",
-      "duration": "PT1M55S",
-      "view_count": 4774,
-      "like_count": 139,
-      "comment_count": 8,
-      "url": "https://www.youtube.com/watch?v=k0Rgc3ZH5Co"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-01T20:38:50Z",
+    "generated_at": "2026-06-02T08:49:53Z",
     "count": 5
   }
 }
