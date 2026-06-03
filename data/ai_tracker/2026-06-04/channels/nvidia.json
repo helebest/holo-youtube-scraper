@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-06-04",
+  "result": [
+    {
+      "id": "MO8Yh_8VsmE",
+      "title": "The Taipei 101 Tribute to NVIDIA GTC",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-03T04:03:09Z",
+      "description": "Taipei's iconic skyline just got a little greener. 💚\n\nTonight, Taipei 101 lights up for hashtag#NVIDIAGTC",
+      "duration": "PT16S",
+      "view_count": 10538,
+      "like_count": 389,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=MO8Yh_8VsmE"
+    },
+    {
+      "id": "HyicRmHu17w",
+      "title": "Jensen Huang and Satya Nadella's Conversation at Microsoft Build",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-03T01:01:09Z",
+      "description": "At Microsoft Build, NVIDIA founder and CEO Jensen Huang joined Microsoft chairman and CEO Satya Nadella's keynote via livestream from Taipei to discuss the expanded partnership: NVIDIA RTX Spark and DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry, the NVIDIA OpenShell secure runtime in GitHub Copilot and the next generation of NVIDIA-powered AI factories.",
+      "duration": "PT11M2S",
+      "view_count": 22880,
+      "like_count": 647,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=HyicRmHu17w"
+    },
+    {
+      "id": "JLE5LI2lbWY",
+      "title": "Peritas AI Showcase",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T22:30:10Z",
+      "description": "Peritas AI, together with NVIDIA, is bringing data intelligence into the physical world with assistive humanoid robotics and real-time AI. The first deployment is at AdventHealth, focused on surgical workflows and enhancing the patient experience.",
+      "duration": "PT24S",
+      "view_count": 7364,
+      "like_count": 199,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=JLE5LI2lbWY"
+    },
+    {
+      "id": "q7Hj3J9SOXw",
+      "title": "Introducing NVIDIA Cosmos 3: The Open Model That Thinks, Generates, and Acts",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T16:17:47Z",
+      "description": "For physical AI, compute is data.\n\nNVIDIA Cosmos™ 3 is an open frontier omni-model for physical AI, built on a breakthrough mixture-of-transformers architecture. It reasons, generates, and acts — powering vision AI, synthetic data generation, closed-loop simulation, and world action models across robotics and autonomous vehicles.\nDevelopers around the world are adopting Cosmos to build the age of physical AI.\n\n📖 Read the Press Release → https://nvda.ws/4x11hL6\n💻 Learn More About Cosmos → https://nvda.ws/4wUHixp\n🤗 Try it on Hugging Face → https://huggingface.co/collections/nvidia/cosmos3\n\n#NVIDIAGTC #COMPUTEX2026 #NVIDIACosmos #PhysicalAI #Robotics #AutonomousVehicles #VisionAI",
+      "duration": "PT1M51S",
+      "view_count": 3536,
+      "like_count": 123,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=q7Hj3J9SOXw"
+    },
+    {
+      "id": "jMZgjAVR7bo",
+      "title": "NVIDIA Vera Rubin Platform Ramping into Full Production | Built for the Era of Agents",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T16:00:59Z",
+      "description": "A decade after NVIDIA DGX™-1, NVIDIA Vera Rubin redefines what an AI factory looks like. Built through extreme co-design, Vera Rubin unites trillions of transistors, modular compute, NVIDIA NVLink™, NVIDIA BlueField™, and silicon photonics into one unified platform—purpose-built for global-scale AI infrastructure. From model training to agentic AI workloads, Vera Rubin is the foundation for what comes next.\n\nNVIDIA Vera Rubin is now in full production: https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory\n\nLearn more about the Vera Rubin platform: https://www.nvidia.com/en-us/data-center/technologies/rubin/\n\n#NVIDIAVeraRubin #NVIDIAGTC",
+      "duration": "PT4M15S",
+      "view_count": 7244,
+      "like_count": 314,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=jMZgjAVR7bo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-03T19:59:39Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-04",
+  "result": [
+    {
+      "id": "bJcA23ckzcY",
+      "title": "It's time to fly | Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-03T19:11:26Z",
+      "description": "Welcome to the new frontier of building.\n\nTake on more tasks, move effortlessly across projects, and ship faster.\n\nTry Codex for free today:\nhttps://openai.com/codex/",
+      "duration": "PT1M31S",
+      "view_count": 3870,
+      "like_count": 393,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=bJcA23ckzcY"
+    },
+    {
+      "id": "09-krjdFfis",
+      "title": "Turn the world into cheese (or anything really) with this camera.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-02T16:30:09Z",
+      "description": "Build guide: https://github.com/openai/imagegencam",
+      "duration": "PT54S",
+      "view_count": 15623,
+      "like_count": 576,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=09-krjdFfis"
+    },
+    {
+      "id": "5UlRL_ImvQ0",
+      "title": "Build and share apps in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-02T16:29:33Z",
+      "description": "Starting in preview for business and enterprise customers, Codex can now create and share interactive, hosted websites and apps.\n\nSites are a new kind of canvas for your ideas. Codex can take your ideas, analysis, and plans and turn them into dashboards, planners, review workspaces, project boards, galleries, and lightweight tools. Today, sites can be shared with anyone in your workspace via URL, giving teams a shared place to explore work, contribute input, track progress, and make decisions together.",
+      "duration": "PT47S",
+      "view_count": 54615,
+      "like_count": 1727,
+      "comment_count": 85,
+      "url": "https://www.youtube.com/watch?v=5UlRL_ImvQ0"
+    },
+    {
+      "id": "dnzxcYl4xYI",
+      "title": "The Texas Town at the forefront of OpenAI's Stargate Project",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-01T19:40:47Z",
+      "description": "Abilene, Texas wasn't known as a technology hub.\n\nNow it's the first home of Stargate, one of the most ambitious AI infrastructure projects ever built.\n\nLocal leaders share what Stargate means for their community, from new investment and infrastructure improvements to the opportunities it could create for generations to come.\n\nThis is the story of how a West Texas town became an early part of the future of AI.",
+      "duration": "PT2M39S",
+      "view_count": 9686,
+      "like_count": 299,
+      "comment_count": 71,
+      "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI"
+    },
+    {
+      "id": "XwsTXmnB2oI",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-01T18:15:11Z",
+      "description": "A conversation between Erik Roen, Travelers Senior Vice President and CIO, Claim and Denise Dresser, OpenAI Chief Revenue Officer.",
+      "duration": "PT19M6S",
+      "view_count": 1262,
+      "like_count": 28,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=XwsTXmnB2oI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-03T19:59:41Z",
+    "count": 5
+  }
+}
