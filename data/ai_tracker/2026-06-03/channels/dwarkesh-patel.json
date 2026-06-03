@@ -14,14 +14,26 @@
   "date": "2026-06-03",
   "result": [
     {
+      "id": "yTOzy2W6_Lo",
+      "title": "The Neanderthal DNA Puzzle No One Can Explain - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-02T22:03:17Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 16062,
+      "like_count": 499,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=yTOzy2W6_Lo"
+    },
+    {
       "id": "iuVDb9hKn3w",
       "title": "Why Neanderthals Might Be Our Cousins After All - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-05-30T22:11:51Z",
       "description": "",
       "duration": "PT1M28S",
-      "view_count": 14516,
-      "like_count": 469,
+      "view_count": 15751,
+      "like_count": 492,
       "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=iuVDb9hKn3w"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-05-29T22:35:47Z",
       "description": "",
       "duration": "PT1M32S",
-      "view_count": 28003,
-      "like_count": 805,
+      "view_count": 29249,
+      "like_count": 828,
       "comment_count": 48,
       "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-05-27T23:20:22Z",
       "description": "",
       "duration": "PT1M5S",
-      "view_count": 39805,
-      "like_count": 849,
-      "comment_count": 32,
+      "view_count": 40246,
+      "like_count": 856,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-26T19:46:53Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 29842,
-      "like_count": 582,
-      "comment_count": 14,
+      "view_count": 30108,
+      "like_count": 586,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
-    },
-    {
-      "id": "BeOLjsymljI",
-      "title": "Following the Yamnaya Trail into India - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-24T21:09:56Z",
-      "description": "",
-      "duration": "PT55S",
-      "view_count": 77823,
-      "like_count": 1566,
-      "comment_count": 99,
-      "url": "https://www.youtube.com/watch?v=BeOLjsymljI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-02T19:54:46Z",
+    "generated_at": "2026-06-03T09:10:56Z",
     "count": 5
   }
 }
