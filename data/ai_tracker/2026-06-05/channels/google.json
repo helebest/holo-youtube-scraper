@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-05",
+  "result": [
+    {
+      "id": "2lyguwG8zlI",
+      "title": "See how our community is using Gemini Omni features to create magic! ✨",
+      "channel_title": "Google",
+      "published_at": "2026-06-03T19:28:14Z",
+      "description": "From experimenting with dynamic camera angles and video styles to editing scenes with natural conversation, the possibilities are endless. What will you create next?\n\nAvailable in #GoogleGemini, #GoogleFlow and #YouTubeShorts",
+      "duration": "PT1M13S",
+      "view_count": 8475,
+      "like_count": 521,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=2lyguwG8zlI"
+    },
+    {
+      "id": "pAz6mJxOcxc",
+      "title": "The NBA Finals are here",
+      "channel_title": "Google",
+      "published_at": "2026-06-03T16:01:29Z",
+      "description": "It all comes down to this 🏀🏆 The NBA Finals start tonight!",
+      "duration": "PT14S",
+      "view_count": 23902,
+      "like_count": 706,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=pAz6mJxOcxc"
+    },
+    {
+      "id": "hTogtUnYEGs",
+      "title": "Get picture-perfect 4K results with Google Search 📸",
+      "channel_title": "Google",
+      "published_at": "2026-06-01T19:52:18Z",
+      "description": "Sharpen your shot with Search. Tap the 🍌 button in the Google app, upload a picture or video frame, and use this prompt to get picture-perfect results.\n\n#GoogleSearch",
+      "duration": "PT21S",
+      "view_count": 27843,
+      "like_count": 518,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=hTogtUnYEGs"
+    },
+    {
+      "id": "LEldTW4Zkhg",
+      "title": "Meet Gemini Spark, your 24/7 personal AI agent✨",
+      "channel_title": "Google",
+      "published_at": "2026-05-29T21:08:54Z",
+      "description": "At #GoogleIO, we introduced @GoogleGemini Spark, your 24/7 personal AI agent that helps you navigate your digital life, taking action on your behalf and under your direction — and you can use it across mobile and desktop, even when your laptop is closed. It's available now to all Google AI Ultra subscribers in the U.S.\n\nHere’s a peek at what it can do.\n\n#GoogleGemini",
+      "duration": "PT2M1S",
+      "view_count": 22052,
+      "like_count": 826,
+      "comment_count": 97,
+      "url": "https://www.youtube.com/watch?v=LEldTW4Zkhg"
+    },
+    {
+      "id": "jugfLrYP-6c",
+      "title": "Calling bank all day 🏦 🏀",
+      "channel_title": "Google",
+      "published_at": "2026-05-29T19:10:09Z",
+      "description": "We’re looking back at some of the best shots from the NBA Conference Finals. Tune in to see who takes home the ring, and dive deep on your favorite moments with simulations in Search. \n\n\nProud sponsor of the NBA.",
+      "duration": "PT10S",
+      "view_count": 20699,
+      "like_count": 401,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=jugfLrYP-6c"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-04T18:32:22Z",
+    "count": 5
+  }
+}

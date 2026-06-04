@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-05",
+  "result": [
+    {
+      "id": "_9ImjmzAyus",
+      "title": "Idea to live prototype with the Product Design plugin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T18:06:29Z",
+      "description": "The Product Design plugin for Codex helps teams move from a rough idea to a prototype they can see, refine, and share for feedback.\n\nWith a single install, Codex becomes more useful for product design work, helping teams explore directions, build prototypes, and iterate faster.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527",
+      "duration": "PT2M29S",
+      "view_count": 996,
+      "like_count": 75,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=_9ImjmzAyus"
+    },
+    {
+      "id": "wNWz5Hbh5VQ",
+      "title": "How a reasoning model cracked an 80-year-old math problem — the OpenAI Podcast Ep. 20",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T17:00:35Z",
+      "description": "Last month AI found something mathematicians had missed for decades. Reasoning researchers Alexander Wei, Hongxun Wu, and Lijie Chen join the podcast to discuss how a general-purpose model helped disprove an 80-year-old conjecture from famed mathematician Paul Erdős. \n\nThey walk through the moment the result started looking real, what it took to verify the proof, and what’s happened since sharing the discovery with the world. They also explore what this means for the future of math and for researchers learning to work with AI.\n\nChapters\n\n0:44 AI and the International Math Olympiad and International Olympiad of Informatics\n6:35 An OpenAI model disproves the Erdős unit distance conjecture\n8:33 Running the model and checking the proof\n11:04 Why general models matter for discovery\n15:55 Creativity, tools, and how the proof worked\n18:25 Why AI should feel empowering for mathematicians\n22:31 Advice for researchers using AI\n27:24 What comes next for math and AI research\n37:30 Cryptography, quantum computing, and the future",
+      "duration": "PT41M18S",
+      "view_count": 1100,
+      "like_count": 100,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=wNWz5Hbh5VQ"
+    },
+    {
+      "id": "uU3LUMcNgfA",
+      "title": "Codex Helps Amgen Focus on Patients",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T16:28:02Z",
+      "description": "\"The ability to abstract away from the tedious boring bits of writing code and to spend your energy thinking about patients, that's where Codex is making the biggest impact at Amgen,\" Sean Bruich.\n\n➡️ https://lnkd.in/dnxrM282",
+      "duration": "PT1M10S",
+      "view_count": 774,
+      "like_count": 70,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=uU3LUMcNgfA"
+    },
+    {
+      "id": "bJcA23ckzcY",
+      "title": "It's time to fly | Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-03T19:11:26Z",
+      "description": "Welcome to the new frontier of building.\n\nTake on more tasks, move effortlessly across projects, and ship faster.\n\nTry Codex for free today:\nhttps://openai.com/codex/",
+      "duration": "PT1M31S",
+      "view_count": 56884,
+      "like_count": 2824,
+      "comment_count": 348,
+      "url": "https://www.youtube.com/watch?v=bJcA23ckzcY"
+    },
+    {
+      "id": "09-krjdFfis",
+      "title": "Turn the world into cheese (or anything really) with this camera.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-02T16:30:09Z",
+      "description": "Build guide: https://github.com/openai/imagegencam",
+      "duration": "PT54S",
+      "view_count": 24761,
+      "like_count": 840,
+      "comment_count": 85,
+      "url": "https://www.youtube.com/watch?v=09-krjdFfis"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-04T18:32:21Z",
+    "count": 5
+  }
+}
