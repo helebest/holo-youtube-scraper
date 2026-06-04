@@ -20,9 +20,9 @@
       "published_at": "2026-06-03T19:11:26Z",
       "description": "Welcome to the new frontier of building.\n\nTake on more tasks, move effortlessly across projects, and ship faster.\n\nTry Codex for free today:\nhttps://openai.com/codex/",
       "duration": "PT1M31S",
-      "view_count": 3870,
-      "like_count": 393,
-      "comment_count": 56,
+      "view_count": 41584,
+      "like_count": 2321,
+      "comment_count": 296,
       "url": "https://www.youtube.com/watch?v=bJcA23ckzcY"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-06-02T16:30:09Z",
       "description": "Build guide: https://github.com/openai/imagegencam",
       "duration": "PT54S",
-      "view_count": 15623,
-      "like_count": 576,
-      "comment_count": 54,
+      "view_count": 19938,
+      "like_count": 693,
+      "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=09-krjdFfis"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-06-02T16:29:33Z",
       "description": "Starting in preview for business and enterprise customers, Codex can now create and share interactive, hosted websites and apps.\n\nSites are a new kind of canvas for your ideas. Codex can take your ideas, analysis, and plans and turn them into dashboards, planners, review workspaces, project boards, galleries, and lightweight tools. Today, sites can be shared with anyone in your workspace via URL, giving teams a shared place to explore work, contribute input, track progress, and make decisions together.",
       "duration": "PT47S",
-      "view_count": 54615,
-      "like_count": 1727,
-      "comment_count": 85,
+      "view_count": 65641,
+      "like_count": 1940,
+      "comment_count": 87,
       "url": "https://www.youtube.com/watch?v=5UlRL_ImvQ0"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-06-01T19:40:47Z",
       "description": "Abilene, Texas wasn't known as a technology hub.\n\nNow it's the first home of Stargate, one of the most ambitious AI infrastructure projects ever built.\n\nLocal leaders share what Stargate means for their community, from new investment and infrastructure improvements to the opportunities it could create for generations to come.\n\nThis is the story of how a West Texas town became an early part of the future of AI.",
       "duration": "PT2M39S",
-      "view_count": 9686,
-      "like_count": 299,
-      "comment_count": 71,
+      "view_count": 10294,
+      "like_count": 307,
+      "comment_count": 77,
       "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-06-01T18:15:11Z",
       "description": "A conversation between Erik Roen, Travelers Senior Vice President and CIO, Claim and Denise Dresser, OpenAI Chief Revenue Officer.",
       "duration": "PT19M6S",
-      "view_count": 1262,
-      "like_count": 28,
+      "view_count": 1387,
+      "like_count": 30,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=XwsTXmnB2oI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-03T19:59:41Z",
+    "generated_at": "2026-06-04T08:36:32Z",
     "count": 5
   }
 }

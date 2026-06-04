@@ -14,15 +14,27 @@
   "date": "2026-06-04",
   "result": [
     {
+      "id": "Vg4QR8KsTgA",
+      "title": "Humans split into separate groups for a million years, then merged - David Reich",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-03T21:44:41Z",
+      "description": "",
+      "duration": "PT39S",
+      "view_count": 16245,
+      "like_count": 450,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=Vg4QR8KsTgA"
+    },
+    {
       "id": "yTOzy2W6_Lo",
       "title": "The Neanderthal DNA Puzzle No One Can Explain - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-02T22:03:17Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 26569,
-      "like_count": 716,
-      "comment_count": 69,
+      "view_count": 38850,
+      "like_count": 907,
+      "comment_count": 86,
       "url": "https://www.youtube.com/watch?v=yTOzy2W6_Lo"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-05-30T22:11:51Z",
       "description": "",
       "duration": "PT1M28S",
-      "view_count": 16274,
-      "like_count": 502,
+      "view_count": 16940,
+      "like_count": 514,
       "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=iuVDb9hKn3w"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-05-29T22:35:47Z",
       "description": "",
       "duration": "PT1M32S",
-      "view_count": 29777,
-      "like_count": 841,
-      "comment_count": 48,
+      "view_count": 30646,
+      "like_count": 853,
+      "comment_count": 49,
       "url": "https://www.youtube.com/watch?v=ci7_eJTrGhQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-05-27T23:20:22Z",
       "description": "",
       "duration": "PT1M5S",
-      "view_count": 40424,
-      "like_count": 859,
+      "view_count": 40640,
+      "like_count": 860,
       "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ"
-    },
-    {
-      "id": "UN_zKhmFHjs",
-      "title": "The cultural transformations in Africa and Eurasia were linked - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-26T19:46:53Z",
-      "description": "",
-      "duration": "PT56S",
-      "view_count": 30237,
-      "like_count": 586,
-      "comment_count": 15,
-      "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-03T19:59:36Z",
+    "generated_at": "2026-06-04T08:36:28Z",
     "count": 5
   }
 }
