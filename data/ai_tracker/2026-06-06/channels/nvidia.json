@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-06-06",
+  "result": [
+    {
+      "id": "11Y3B33oCLE",
+      "title": "Announcing NVIDIA RTX Spark | GTC Taipei 2026 Keynote by CEO Jensen Huang",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-04T16:00:33Z",
+      "description": "NVIDIA CEO Jensen Huang announces the NVIDIA RTX Spark, a new superchip that reinvents Windows PCs for the era of personal AI agents.\n \nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT17M7S",
+      "view_count": 41127,
+      "like_count": 1953,
+      "comment_count": 249,
+      "url": "https://www.youtube.com/watch?v=11Y3B33oCLE"
+    },
+    {
+      "id": "MEgWbFDVy8k",
+      "title": "Introducing NVIDIA Nemotron 3 Ultra",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-04T13:17:40Z",
+      "description": "Introducing NVIDIA Nemotron 3 Ultra.\n\nA frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise workflows.\n\nUp to 5x faster inference and up to 30% lower cost for agentic tasks.\n\nLearn more: https://nvda.ws/4adiCq9",
+      "duration": "PT25S",
+      "view_count": 18169,
+      "like_count": 577,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=MEgWbFDVy8k"
+    },
+    {
+      "id": "MO8Yh_8VsmE",
+      "title": "The Taipei 101 Tribute to NVIDIA GTC",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-03T04:03:09Z",
+      "description": "Taipei's iconic skyline just got a little greener. 💚\n\nTonight, Taipei 101 lights up for hashtag#NVIDIAGTC",
+      "duration": "PT16S",
+      "view_count": 16240,
+      "like_count": 508,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=MO8Yh_8VsmE"
+    },
+    {
+      "id": "HyicRmHu17w",
+      "title": "Jensen Huang and Satya Nadella's Conversation at Microsoft Build",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-03T01:01:09Z",
+      "description": "At Microsoft Build, NVIDIA founder and CEO Jensen Huang joined Microsoft chairman and CEO Satya Nadella's keynote via livestream from Taipei to discuss the expanded partnership: NVIDIA RTX Spark and DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry, the NVIDIA OpenShell secure runtime in GitHub Copilot and the next generation of NVIDIA-powered AI factories.",
+      "duration": "PT11M2S",
+      "view_count": 32266,
+      "like_count": 845,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=HyicRmHu17w"
+    },
+    {
+      "id": "JLE5LI2lbWY",
+      "title": "Peritas AI Showcase",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-02T22:30:10Z",
+      "description": "Peritas AI, together with NVIDIA, is bringing data intelligence into the physical world with assistive humanoid robotics and real-time AI. The first deployment is at AdventHealth, focused on surgical workflows and enhancing the patient experience.",
+      "duration": "PT24S",
+      "view_count": 13388,
+      "like_count": 333,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=JLE5LI2lbWY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-05T18:17:07Z",
+    "count": 5
+  }
+}
