@@ -14,15 +14,27 @@
   "date": "2026-06-06",
   "result": [
     {
+      "id": "_BE4NSst6yA",
+      "title": "Dell Technologies World 2026 Keynote | May 18–21 | Las Vegas",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-05T21:01:29Z",
+      "description": "Jensen Huang joined Dell CEO Michael Dell onstage to unveil the next-generation Dell AI Factory, powered by NVIDIA.  The spotlight was on scaling AI factories and disaggregated inference using Dell and NVIDIA networking. Jensen shares his vision for the future of computing at #DellTechWorld. From AI factories and accelerated infrastructure to the next evolution of intelligent systems, the architecture of computing itself is being reinvented in real time. Michael Dell emphasized a pragmatic approach to scaling AI, balancing ambition with power availability and data quality.",
+      "duration": "PT12M59S",
+      "view_count": 4472,
+      "like_count": 220,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=_BE4NSst6yA"
+    },
+    {
       "id": "11Y3B33oCLE",
       "title": "Announcing NVIDIA RTX Spark | GTC Taipei 2026 Keynote by CEO Jensen Huang",
       "channel_title": "NVIDIA",
       "published_at": "2026-06-04T16:00:33Z",
       "description": "NVIDIA CEO Jensen Huang announces the NVIDIA RTX Spark, a new superchip that reinvents Windows PCs for the era of personal AI agents.\n \nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT17M7S",
-      "view_count": 41127,
-      "like_count": 1953,
-      "comment_count": 249,
+      "view_count": 50876,
+      "like_count": 2239,
+      "comment_count": 277,
       "url": "https://www.youtube.com/watch?v=11Y3B33oCLE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-04T13:17:40Z",
       "description": "Introducing NVIDIA Nemotron 3 Ultra.\n\nA frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise workflows.\n\nUp to 5x faster inference and up to 30% lower cost for agentic tasks.\n\nLearn more: https://nvda.ws/4adiCq9",
       "duration": "PT25S",
-      "view_count": 18169,
-      "like_count": 577,
-      "comment_count": 27,
+      "view_count": 22506,
+      "like_count": 700,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=MEgWbFDVy8k"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-03T04:03:09Z",
       "description": "Taipei's iconic skyline just got a little greener. 💚\n\nTonight, Taipei 101 lights up for hashtag#NVIDIAGTC",
       "duration": "PT16S",
-      "view_count": 16240,
-      "like_count": 508,
+      "view_count": 17204,
+      "like_count": 526,
       "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=MO8Yh_8VsmE"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-03T01:01:09Z",
       "description": "At Microsoft Build, NVIDIA founder and CEO Jensen Huang joined Microsoft chairman and CEO Satya Nadella's keynote via livestream from Taipei to discuss the expanded partnership: NVIDIA RTX Spark and DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry, the NVIDIA OpenShell secure runtime in GitHub Copilot and the next generation of NVIDIA-powered AI factories.",
       "duration": "PT11M2S",
-      "view_count": 32266,
-      "like_count": 845,
-      "comment_count": 82,
+      "view_count": 32862,
+      "like_count": 859,
+      "comment_count": 83,
       "url": "https://www.youtube.com/watch?v=HyicRmHu17w"
-    },
-    {
-      "id": "JLE5LI2lbWY",
-      "title": "Peritas AI Showcase",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-06-02T22:30:10Z",
-      "description": "Peritas AI, together with NVIDIA, is bringing data intelligence into the physical world with assistive humanoid robotics and real-time AI. The first deployment is at AdventHealth, focused on surgical workflows and enhancing the patient experience.",
-      "duration": "PT24S",
-      "view_count": 13388,
-      "like_count": 333,
-      "comment_count": 9,
-      "url": "https://www.youtube.com/watch?v=JLE5LI2lbWY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-05T18:17:07Z",
+    "generated_at": "2026-06-06T07:28:28Z",
     "count": 5
   }
 }

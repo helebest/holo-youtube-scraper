@@ -14,15 +14,27 @@
   "date": "2026-06-06",
   "result": [
     {
+      "id": "82m7YqosdgU",
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-06-06T06:20:46Z",
+      "description": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested inside immersive game environments to change how we play. 🧠 \nHashtags: #aiingames #gaming #ai #gamedev #futuretech",
+      "duration": "PT19S",
+      "view_count": 302,
+      "like_count": 1,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=82m7YqosdgU"
+    },
+    {
       "id": "Dkqzqw8rxXI",
       "title": "DeepMind’s New AI Found A Strange New Way To Think",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-06-05T15:50:26Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT7M30S",
-      "view_count": 9280,
-      "like_count": 1134,
-      "comment_count": 102,
+      "view_count": 64367,
+      "like_count": 3979,
+      "comment_count": 294,
       "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-03T17:00:19Z",
       "description": "",
       "duration": "PT26S",
-      "view_count": 8480,
-      "like_count": 74,
-      "comment_count": 7,
+      "view_count": 8884,
+      "like_count": 76,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=iz7elwbqZVI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-03T13:49:31Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nAnthropic's Opus 4.8: https://www.anthropic.com/news/claude-opus-4-8\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT7M19S",
-      "view_count": 83336,
-      "like_count": 3441,
-      "comment_count": 374,
+      "view_count": 86840,
+      "like_count": 3529,
+      "comment_count": 392,
       "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-02T07:13:59Z",
       "description": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million researchers already using AlphaFold, the real-world impact is already historic. Hear what the experts think about what comes next for scientific discovery! 🔬",
       "duration": "PT21S",
-      "view_count": 13146,
-      "like_count": 79,
+      "view_count": 13388,
+      "like_count": 80,
       "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=MOviZKtFeHM"
-    },
-    {
-      "id": "yz6I23VRbdg",
-      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
-      "channel_title": "Two Minute Papers",
-      "published_at": "2026-06-01T15:41:22Z",
-      "description": "Thank you to Google for the invite! 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\nChapters:\n00:00 Intro\n02:07 Are We Running Out of AI Data?\n06:22 The 90% Shift: Why Inference is Taking Over\n09:34 The End of the Pre-Training and Post-Training Split\n12:02 What Happens After a 1,000,000x Compute Leap?\n15:03 How Distillation is Supercharging Open Models\n16:17 The Quest for a \"Lifetime AI\"\n17:25 Multi-Agent Workflows\n18:40 AI Generating Operating Systems (and Running Doom)\n20:15 Solving The Attention Problem\n22:13 Data Center Disasters: Supernovas and Cosmic Rays\n24:45 The Lightning Round: Jeff Dean Chuck Norris Jokes\n25:40 The One Thing Jeff Dean Got Wrong (Healthcare AI)\n26:50 The Ultimate Developer Debate: Vim vs. Emacs",
-      "duration": "PT28M36S",
-      "view_count": 34053,
-      "like_count": 1482,
-      "comment_count": 126,
-      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-05T18:17:05Z",
+    "generated_at": "2026-06-06T07:28:26Z",
     "count": 5
   }
 }
