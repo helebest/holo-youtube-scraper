@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-07",
+  "result": [
+    {
+      "id": "VRvC5smyzso",
+      "title": "Introducing Sites in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-05T17:42:23Z",
+      "description": "Sites in Codex lets anyone on your team turn an idea into a secure application and publish it in minutes. Build internal tools, mini apps, and shareable resources with hosting, authentication, storage, and database support included.\n\nSee how teams can use Sites to prepare for executive business reviews, upcoming events, and internal investment decisions, and more and then share and refine those apps across their workspace.",
+      "duration": "PT2M14S",
+      "view_count": 61212,
+      "like_count": 1854,
+      "comment_count": 128,
+      "url": "https://www.youtube.com/watch?v=VRvC5smyzso"
+    },
+    {
+      "id": "xZ5J81Lwyk8",
+      "title": "1Password One Shots with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-05T13:01:28Z",
+      "description": "“With Codex, it’s helped us get to feature launches faster,” Nancy Wang. \n\nThe 1Password team is going from idea to prototype in one shot. 💥 \n\n\"What's been eye opening for our engineers is really that shortening of the life cycle between planning and being able to actually see a feature in production.\"\n\n☑️ Check out Codex for every role: https://lnkd.in/dnxrM282",
+      "duration": "PT1M12S",
+      "view_count": 9346,
+      "like_count": 182,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=xZ5J81Lwyk8"
+    },
+    {
+      "id": "BdBxQz8e-o8",
+      "title": "Codex is your BFF when things are everything, everywhere, all at once 💫",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T20:27:50Z",
+      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan Fitzgerald, Codex is the one piece that pulls it all together. \n\n➡️ https://lnkd.in/dnxrM282",
+      "duration": "PT33S",
+      "view_count": 4734,
+      "like_count": 97,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=BdBxQz8e-o8"
+    },
+    {
+      "id": "DDnGhZ01PqM",
+      "title": "What Codex Unlocks for Zapier",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T20:25:18Z",
+      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan Fitzgerald, Codex is the one piece that pulls it all together. \n\nThe headline: Codex is your BFF when things are everything, everywhere, all at once 💫 \n\n➡️ https://lnkd.in/dnxrM282",
+      "duration": "PT54S",
+      "view_count": 8191,
+      "like_count": 148,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=DDnGhZ01PqM"
+    },
+    {
+      "id": "U2C55LC0ZLM",
+      "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-04T19:32:57Z",
+      "description": "Check out the quick ways Ashton and our sales team are leaning into Codex for prep work, ultimately delivering a better customer experience. \n\n✅ Pulls data for customer queries in 5 minutes\n✅ Creates demos & prototypes for customer convos \n✅ Sends recurring Slack updates with account specific headlines \n✅ Writes in Ashton's tone of voice  \n\nCodex is for every role, tool and workflow: https://lnkd.in/dnxrM282",
+      "duration": "PT54S",
+      "view_count": 4821,
+      "like_count": 147,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=U2C55LC0ZLM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-06T17:37:44Z",
+    "count": 5
+  }
+}
