@@ -14,15 +14,27 @@
   "date": "2026-06-07",
   "result": [
     {
+      "id": "zh0CuHT3fvc",
+      "title": "A 10-mile ride turned into a 1,000-mile spiritual quest - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-06T20:52:34Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 6643,
+      "like_count": 254,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=zh0CuHT3fvc"
+    },
+    {
       "id": "njrTiwWnxaU",
       "title": "This Theory Explains the Neanderthal DNA Mystery - David Reich",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-04T21:56:23Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 15927,
-      "like_count": 395,
-      "comment_count": 46,
+      "view_count": 17347,
+      "like_count": 417,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=njrTiwWnxaU"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-04T16:37:38Z",
       "description": "Economics of AGI episode w Alex Imas and Phil Trammell.\n\nThere's a bunch of important questions about how we deal with AI that only economics can answer.\n\nWhat is the optimal way to tax and redistribute the wealth that will be generated? How should countries not in the AI supply chain index into the gains? Is there any world where inequality doesn't explode?\n\nIt might seem like these questions have obvious answers, but the first thing economics teaches you is that your intuitions can often be entirely wrong.\n\nIt was very helpful to chat through these things with Alex and Phil. \n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/alex-imas-phil-trammell\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/alex-imas-and-phil-trammell-what-remains-scarce-after-agi/id1516093381?i=1000771185825\n* Spotify: https://open.spotify.com/episode/52wp90vqwiRmmQaOm9M2uZ?si=8a81MnA4Tf-X3VUzpzE1qg\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street invests heavily in turning smart people into exceptional researchers and engineers. In addition to their apprenticeship model, Jane Street runs lectures and bootcamps in their in-office classrooms -- managers clear their teams' schedules to encourage attendance. If you'd like to work at a place that takes learning this seriously, Jane Street is hiring. Check out their open roles at https://janestreet.com/dwarkesh\n\n* Google's Gemini Omni has incredible video editing capabilities -- you can upload a video and have Omni change the background, adjust lighting, or add specific elements. But Omni is also a preview of how future frontier models will be trained -- fully multimodal on both input and output. You can try it yourself in the Gemini app at https://gemini.google or in Flow at https://flow.google\n\n* Cursor used targeted RL with textual feedback to help train their Composer 2.5 model. One of their researchers, Sasha Rush, gave me an impromptu blackboard lecture to explain how this form of on-policy self-distillation works -- I posted the full thing on X. If you want to try Composer 2.5, go to https://cursor.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Will capital share increase?\n00:19:36 – Messy Middle scenario\n00:25:57 – How to tax and redistribute AI wealth\n00:30:02 – Why demand collapse is unlikely\n00:39:26 – Human employees would be hard to integrate into the machine economy\n00:43:08 – What if some humans (or AIs) value wealth accumulation intrinsically?\n01:01:28 – What should developing countries do?",
       "duration": "PT1H16M9S",
-      "view_count": 49791,
-      "like_count": 1120,
-      "comment_count": 250,
+      "view_count": 56895,
+      "like_count": 1195,
+      "comment_count": 265,
       "url": "https://www.youtube.com/watch?v=Jj-kBHzUohs"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-03T21:44:41Z",
       "description": "",
       "duration": "PT39S",
-      "view_count": 32573,
-      "like_count": 682,
+      "view_count": 33299,
+      "like_count": 691,
       "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=Vg4QR8KsTgA"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-02T22:03:17Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 63543,
-      "like_count": 1226,
-      "comment_count": 110,
+      "view_count": 64612,
+      "like_count": 1243,
+      "comment_count": 112,
       "url": "https://www.youtube.com/watch?v=yTOzy2W6_Lo"
-    },
-    {
-      "id": "iuVDb9hKn3w",
-      "title": "Why Neanderthals Might Be Our Cousins After All - David Reich",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-05-30T22:11:51Z",
-      "description": "",
-      "duration": "PT1M28S",
-      "view_count": 18274,
-      "like_count": 534,
-      "comment_count": 68,
-      "url": "https://www.youtube.com/watch?v=iuVDb9hKn3w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-06T17:37:39Z",
+    "generated_at": "2026-06-07T08:04:15Z",
     "count": 5
   }
 }

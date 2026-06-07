@@ -20,9 +20,9 @@
       "published_at": "2026-06-05T21:01:29Z",
       "description": "Jensen Huang joined Dell CEO Michael Dell onstage to unveil the next-generation Dell AI Factory, powered by NVIDIA.  The spotlight was on scaling AI factories and disaggregated inference using Dell and NVIDIA networking. Jensen shares his vision for the future of computing at #DellTechWorld. From AI factories and accelerated infrastructure to the next evolution of intelligent systems, the architecture of computing itself is being reinvented in real time. Michael Dell emphasized a pragmatic approach to scaling AI, balancing ambition with power availability and data quality.",
       "duration": "PT12M59S",
-      "view_count": 7359,
-      "like_count": 305,
-      "comment_count": 24,
+      "view_count": 9295,
+      "like_count": 356,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=_BE4NSst6yA"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-06-04T16:00:33Z",
       "description": "NVIDIA CEO Jensen Huang announces the NVIDIA RTX Spark, a new superchip that reinvents Windows PCs for the era of personal AI agents.\n \nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT17M7S",
-      "view_count": 58535,
-      "like_count": 2523,
-      "comment_count": 310,
+      "view_count": 70054,
+      "like_count": 2887,
+      "comment_count": 339,
       "url": "https://www.youtube.com/watch?v=11Y3B33oCLE"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-06-04T13:17:40Z",
       "description": "Introducing NVIDIA Nemotron 3 Ultra.\n\nA frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise workflows.\n\nUp to 5x faster inference and up to 30% lower cost for agentic tasks.\n\nLearn more: https://nvda.ws/4adiCq9",
       "duration": "PT25S",
-      "view_count": 23996,
-      "like_count": 724,
-      "comment_count": 34,
+      "view_count": 26273,
+      "like_count": 780,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=MEgWbFDVy8k"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-06-03T04:03:09Z",
       "description": "Taipei's iconic skyline just got a little greener. 💚\n\nTonight, Taipei 101 lights up for hashtag#NVIDIAGTC",
       "duration": "PT16S",
-      "view_count": 17918,
-      "like_count": 545,
-      "comment_count": 25,
+      "view_count": 18841,
+      "like_count": 561,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=MO8Yh_8VsmE"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-06-03T01:01:09Z",
       "description": "At Microsoft Build, NVIDIA founder and CEO Jensen Huang joined Microsoft chairman and CEO Satya Nadella's keynote via livestream from Taipei to discuss the expanded partnership: NVIDIA RTX Spark and DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry, the NVIDIA OpenShell secure runtime in GitHub Copilot and the next generation of NVIDIA-powered AI factories.",
       "duration": "PT11M2S",
-      "view_count": 33253,
-      "like_count": 870,
+      "view_count": 33577,
+      "like_count": 881,
       "comment_count": 84,
       "url": "https://www.youtube.com/watch?v=HyicRmHu17w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-06T17:37:43Z",
+    "generated_at": "2026-06-07T08:04:19Z",
     "count": 5
   }
 }
