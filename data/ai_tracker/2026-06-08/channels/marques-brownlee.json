@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-06-08",
+  "result": [
+    {
+      "id": "n3V3LZh_r40",
+      "title": "Apple Products That DON'T Exist",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-04T19:41:28Z",
+      "description": "yet",
+      "duration": "PT2M45S",
+      "view_count": 1941889,
+      "like_count": 80571,
+      "comment_count": 1894,
+      "url": "https://www.youtube.com/watch?v=n3V3LZh_r40"
+    },
+    {
+      "id": "ImRy_PiXstI",
+      "title": "Lewis Hamilton Explains F1 Tire Strategy",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-29T16:16:48Z",
+      "description": "You have $100 to spend in the tires",
+      "duration": "PT33S",
+      "view_count": 3244933,
+      "like_count": 73443,
+      "comment_count": 776,
+      "url": "https://www.youtube.com/watch?v=ImRy_PiXstI"
+    },
+    {
+      "id": "mk_wdHePbtQ",
+      "title": "The Hidden Tech Behind an NBA Broadcast!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-28T21:02:37Z",
+      "description": "Every camera, microphone and piece of gear behind an NBA NBC playoff broadcast in 2026\n\nThat shirt: http://shop.MKBHD.com\n\nDallas Taylor on all of the microphones: https://youtu.be/zBw-uEnzBtw?si=bB3PKaWEhg-TthT6\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M3S",
+      "view_count": 1977598,
+      "like_count": 80414,
+      "comment_count": 2713,
+      "url": "https://www.youtube.com/watch?v=mk_wdHePbtQ"
+    },
+    {
+      "id": "M4xlXvCAc2E",
+      "title": "ELITE Camera Work",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-28T18:21:57Z",
+      "description": "NBA Camera people are incredible",
+      "duration": "PT28S",
+      "view_count": 799886,
+      "like_count": 20913,
+      "comment_count": 288,
+      "url": "https://www.youtube.com/watch?v=M4xlXvCAc2E"
+    },
+    {
+      "id": "9GSDvO0LFFE",
+      "title": "The Truth About the \"Whoop Killer\"",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-26T13:49:28Z",
+      "description": "Is the Fitbit Air the true Whoop 5.0 killer?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nAffiliate Links\nFitbit Air: https://geni.us/W24DGJY \nWhoop: https://geni.us/0vkguAL\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nFitbit provided by Google for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT17M42S",
+      "view_count": 3680656,
+      "like_count": 82686,
+      "comment_count": 5351,
+      "url": "https://www.youtube.com/watch?v=9GSDvO0LFFE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-07T17:43:31Z",
+    "count": 5
+  }
+}
