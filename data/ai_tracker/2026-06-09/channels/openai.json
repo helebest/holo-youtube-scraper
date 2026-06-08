@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-09",
+  "result": [
+    {
+      "id": "KWAE5G7nF8Q",
+      "title": "Palo Alto Networks Moves Faster with GPT-5.5",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T18:06:21Z",
+      "description": "With GPT-5.5 and Codex, there were two big unlocks for Gunjan Patel and the Palo Alto Networks team: \n\n💥 Cyber security vulnerability reporting workflows: first pass output is detailed and understandable.\n💥 Token Efficiency. GPT-5.5 uses tools in parallel, considers more angles, and does it very effectively. \n\nCodex is for every role, tool and workflow. Check it out ➡️ https://lnkd.in/dnxrM282",
+      "duration": "PT44S",
+      "view_count": 235,
+      "like_count": 9,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=KWAE5G7nF8Q"
+    },
+    {
+      "id": "m1PV1a9BWao",
+      "title": "Codex Unlocks Next Level Intelligence for Balyasny Asset Management",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T14:38:03Z",
+      "description": "\"Codex has been a game changer. GPT-5.5 in particular has really unlocked a new level of intelligence, but also a new level of work that the system is capable of doing,\" Charlie Flanagan. \n\nBalyasny Asset Management L.P. has 97% of the firm using their internal AI platform that accelerates everything from: \n\n☑️ Investment research\n☑️ Coding\n☑️ Automation of back office operations and processes \n\nThe investment firm operates at the frontier, embracing 2026 as the year their workflows are enabled by the Codex harness.",
+      "duration": "PT1M7S",
+      "view_count": 1258,
+      "like_count": 51,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=m1PV1a9BWao"
+    },
+    {
+      "id": "1NtS2KdnDok",
+      "title": "OpenAI on OpenAI: Stacie Faggioli, Business Finance Officer Applications, OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T08:30:39Z",
+      "description": "Showcasing how OpenAI’s own finance organization is using AI tools like ChatGPT, ChatGPT for Excel, Codex, and custom agents to re-design finance operations.",
+      "duration": "PT18M33S",
+      "view_count": 2465,
+      "like_count": 70,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=1NtS2KdnDok"
+    },
+    {
+      "id": "fAxlEcXiSts",
+      "title": "Operationalizing AI in workflows: Lee Spacagna, Solutions Engineer, OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T08:30:21Z",
+      "description": "How OpenAI’s newest enterprise products, including Workspace Agents and Codex - can operationalize AI across financial services organizations.",
+      "duration": "PT11M41S",
+      "view_count": 3194,
+      "like_count": 84,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=fAxlEcXiSts"
+    },
+    {
+      "id": "ykNmTvRcqPQ",
+      "title": "Frontier Intelligence & Financial Services: Katy Elkin, GTM Lead, OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T08:30:20Z",
+      "description": "OpenAI’s vision for how financial services firms can use AI across three pillars: transforming workflows, amplifying workforce productivity, and building AI-native customer products.",
+      "duration": "PT6M50S",
+      "view_count": 669,
+      "like_count": 17,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ykNmTvRcqPQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-08T18:39:25Z",
+    "count": 5
+  }
+}
