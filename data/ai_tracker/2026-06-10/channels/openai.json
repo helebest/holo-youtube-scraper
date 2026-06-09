@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-10",
+  "result": [
+    {
+      "id": "gRSzTChV_bk",
+      "title": "Intelligence At Work - Enterprise Readiness",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T21:51:05Z",
+      "description": "At our Intelligence at Work CEO event we shared updates to our product roadmap. Companies that are leading in this next chapter are really leaning in with AI and reimagining industry. \n\nFive Takeaways: \n\n1️⃣ ChatGPT + Codex: one unified experience.\n\n2️⃣ Agent Plugins: six role specific agents that do the work for you \n\n3️⃣ Annotations: collab with the model in the tools you use everyday \n\n4️⃣ Sites: go from idea to deployment in one shot\n\n5️⃣ Robin Vince, CEO of BNY dropped knowledge: \n\n“Are we going to be AI optimists or are we going to be AI pessimists? We choose optimism at BNY because it's the ultimate capacity creator.\" \n\nCheck out the full livestream ➡️  https://openai.com/business/intelligence-at-work/",
+      "duration": "PT1M22S",
+      "view_count": 6822,
+      "like_count": 163,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=gRSzTChV_bk"
+    },
+    {
+      "id": "KWAE5G7nF8Q",
+      "title": "Palo Alto Networks Moves Faster with GPT-5.5",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T18:06:21Z",
+      "description": "With GPT-5.5 and Codex, there were two big unlocks for Gunjan Patel and the Palo Alto Networks team: \n\n💥 Cyber security vulnerability reporting workflows: first pass output is detailed and understandable.\n💥 Token Efficiency. GPT-5.5 uses tools in parallel, considers more angles, and does it very effectively. \n\nCodex is for every role, tool and workflow. Check it out ➡️ https://lnkd.in/dnxrM282",
+      "duration": "PT44S",
+      "view_count": 2530,
+      "like_count": 45,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=KWAE5G7nF8Q"
+    },
+    {
+      "id": "m1PV1a9BWao",
+      "title": "Codex Unlocks Next Level Intelligence for Balyasny Asset Management",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T14:38:03Z",
+      "description": "\"Codex has been a game changer. GPT-5.5 in particular has really unlocked a new level of intelligence, but also a new level of work that the system is capable of doing,\" Charlie Flanagan. \n\nBalyasny Asset Management L.P. has 97% of the firm using their internal AI platform that accelerates everything from: \n\n☑️ Investment research\n☑️ Coding\n☑️ Automation of back office operations and processes \n\nThe investment firm operates at the frontier, embracing 2026 as the year their workflows are enabled by the Codex harness.",
+      "duration": "PT1M7S",
+      "view_count": 3993,
+      "like_count": 104,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=m1PV1a9BWao"
+    },
+    {
+      "id": "1NtS2KdnDok",
+      "title": "OpenAI on OpenAI: Stacie Faggioli, Business Finance Officer Applications, OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T08:30:39Z",
+      "description": "Showcasing how OpenAI’s own finance organization is using AI tools like ChatGPT, ChatGPT for Excel, Codex, and custom agents to re-design finance operations.",
+      "duration": "PT18M33S",
+      "view_count": 4042,
+      "like_count": 105,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=1NtS2KdnDok"
+    },
+    {
+      "id": "fAxlEcXiSts",
+      "title": "Operationalizing AI in workflows: Lee Spacagna, Solutions Engineer, OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-08T08:30:21Z",
+      "description": "How OpenAI’s newest enterprise products, including Workspace Agents and Codex - can operationalize AI across financial services organizations.",
+      "duration": "PT11M41S",
+      "view_count": 4976,
+      "like_count": 118,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=fAxlEcXiSts"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-09T18:25:46Z",
+    "count": 5
+  }
+}

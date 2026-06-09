@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "AI Explained",
+    "tier": "news_tools",
+    "handle": "@aiexplained-official",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
+  },
+  "date": "2026-06-10",
+  "result": [
+    {
+      "id": "aJvP3nXWkwM",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "channel_title": "AI Explained",
+      "published_at": "2026-05-29T15:07:35Z",
+      "description": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT22M29S",
+      "view_count": 81462,
+      "like_count": 3158,
+      "comment_count": 268,
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM"
+    },
+    {
+      "id": "o_av1b9rs2g",
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "channel_title": "AI Explained",
+      "published_at": "2026-05-20T16:50:34Z",
+      "description": "The biggest Google AI push of the year, but what is the bigger story? Why is Google pursuing a different fork in the road than OpenAI or Anthropic? \n\nhttps://assemblyai.com/aiexplained\n\nWhat does Gemini 3.5 Flash mean for the near-term future of AI? Plus the highlights from a provocative new paper on AI, 8 key moments you may have missed, and the signal from 5+ hours of AI lab interviews.\n\n\n\nCheck out my free app, code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:38 - Vibes and Google Goal\n02:18 - Omni, again?\n06:57 - Taking the same road\n07:44 - Gemini 3 Flash\n12:37 - Pitching on Cost?\n13:55 - Agentic Task Search\n14:30 - 1-shot OS but jagged, negation paper\n20:02 - The Karpathy Moonshot \n\nMostafa Deghani Interview: https://www.youtube.com/watch?v=Bo19sXssYXI\n\nNegation Neglect Paper: https://arxiv.org/pdf/2605.13829\n\nGemini 3.5 Flash Headline Scores: https://deepmind.google/models/model-cards/gemini-3-5-flash/\n\nSors original AGI Path: https://www.theguardian.com/commentisfree/2024/feb/24/openai-video-generation-tool-sora-babies-ai-artificial-intelligence\n\nHassabis Helped Set-up Anthropic: https://archive.fo/20260519070857/https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5\n\nIntelligence to Output Speed: https://artificialanalysis.ai/models?intelligence-comparison=intelligence-vs-output-speed#intelligence\n\nVibeCodeBench + Finance Agent: https://www.vals.ai/home\n\nOpenAI Needs Ads: https://archive.ph/20260409123153/https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/\n\nAnthropic Core Views: https://www.anthropic.com/news/core-views-on-ai-safety\n\nKarpathy Move: https://x.com/karpathy/status/2056753169888334312\nhttps://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude\n\nRecursive Self-Improvement: https://www.patreon.com/posts/ineffably-smart-156866417\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT21M31S",
+      "view_count": 72173,
+      "like_count": 2359,
+      "comment_count": 321,
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g"
+    },
+    {
+      "id": "jz0rNhfAKo8",
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-24T18:45:02Z",
+      "description": "GPT 5.5 full analysis, plus DeepSeek V4 paper highlights, comparisons with Mythos, a vibe-coded game w/ GPT Image 2, and 50 data-points you wouldn’t get from just reading the headlines.\n\nhttps://80000hours.org/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:11 - GPT 5.5 Comparison\n06:04 - Mythos Marketing\n11:50 - Recursive Self-Improvement?\n14:11 - Deepseek V4\n18:03 - VibeCode Experiment Extravaganza\n21:44 - The Scarce Compute Era\n\n\nOpenAI Benchmarks: https://openai.com/index/introducing-gpt-5-5/\n\n5.5 System Card: https://deploymentsafety.openai.com/gpt-5-5/gpt-5-5.pdf\n\nDirect Comparison: https://pbs.twimg.com/media/HGnNm5GWEAAJ1Ob?format=jpg&name=4096x4096\n\nDeepSeek Paper: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro\n\nSWE Bench Pro - benchmark of choice? https://x.com/ChowdhuryNeil/status/2047416077622395025\n\n\nAA Omniscience: https://artificialanalysis.ai/evaluations/omniscience\n\nVending Bench: https://x.com/andonlabs/status/2047377260412649967\n\nOpus 4.7 System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nSam Altman Drunk Phase: https://x.com/sama/with_replies\n\nNoam Brown: https://x.com/polynoamial/status/2047387675762802998\n\nDeepSeek Compute Crunch: https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough?srnd=phx-ai\n\nSpreadsheet Bench: https://x.com/nicochristie/status/2047476237464211721\n\nPattern Recognition: https://arcprize.org/leaderboard\n\nLeader Interviews: \nCore Memory: https://www.youtube.com/watch?v=NCKQL0op30E\nKnowledge Podcast: https://www.youtube.com/watch?v=6JoUcQ1qmAc\nBig Tech Round 1: https://www.youtube.com/watch?v=J6vYvk7R190&t=1116s\nBig Tech Round 2: https://www.youtube.com/watch?v=YnoQ8RJbALw&t=8s\n\nClaude Code Limitations: https://x.com/TheAmolAvasare/status/2046724659039932830\n\nChatGPT 5.4 for Clinicians: https://openai.com/index/making-chatgpt-better-for-clinicians/\n\nImage Arena: https://x.com/arena/status/2046670703311884548\n\nVibeCode Bench: https://www.vals.ai/benchmarks/vibe-code\n\n5.5-made Game +Seedance 2.0: https://rosemere-quest.pages.dev/\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT25M19S",
+      "view_count": 107436,
+      "like_count": 3394,
+      "comment_count": 348,
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8"
+    },
+    {
+      "id": "QVJcdfkRpH8",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-17T18:07:46Z",
+      "description": "Claude Opus 4.7 just dropped, but behind every headline lies a deeper story. From a bonanza of benchmarks, to seeing the fruits of one of the biggest mega-projects in US history, to sneaky Mythos disclaimers, to Anthropic admitting compute restraints and, forcing lower capability of Opus 4.7. Where the new model falls behind Gemini but ahead of GPT 5.4, plus why some users are furious at Anthropic. Ending with a 9-year animus, that still affects AI today…\n\nhttps://assemblyai.com/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:58 - Benchmarks\n05:21 - Market Share + Compute Problems\n08:12 - Mythos Exclusives\n12:56 - User Frustration + Claude Code Updates\n14:03 - Brockman Amodei Rivalry\n17:40 - OpenAI vs Anthropic Approach to Code\n\nClaude 4.7 Opus Release Notes: https://www.anthropic.com/news/claude-opus-4-7\nvs Mythos: https://pbs.twimg.com/media/HGCGugrXUAAKcHp?format=jpg&name=medium\n\n232-page System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nARC-AGI 2: https://x.com/arcprize/status/2044834615417053305/photo/1\n\nParseBench: https://x.com/jerryjliu0/status/2044902620746363016/photo/1\n\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVidoc Security Replication: https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models\n\nBoris Cherny Settings: https://x.com/Hesamation/status/2043016923961577516/photo/2\n\nUser Frustration: https://x.com/RileyRalmuto/status/2044836116189069660\n\nVibeCode Bench: https://x.com/ValsAI/status/2044791415524471099/photo/1\n\nVerge Memo: https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic\n\n5.4 Cyber: ​​https://openai.com/index/scaling-trusted-access-for-cyber-defense/\n\nData Centers in Absolute $: https://x.com/finmoorhouse/status/2044933442236776794/photo/1\n\n…in % of GDP: https://pbs.twimg.com/media/HGEN8FGWQAAN7Np?format=jpg&name=4096x4096\n\nWSJ Exclusive: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde\n\nBrockman Interview: https://www.youtube.com/watch?v=J6vYvk7R190\n\n$1T Valuation: https://x.com/StefanFSchubert/status/2045039686997967082\n\nEmotions: https://www.patreon.com/c/aiexplained/posts\n\nhttps://lmcouncil.ai/benchmarks\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT19M41S",
+      "view_count": 88257,
+      "like_count": 2718,
+      "comment_count": 306,
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8"
+    },
+    {
+      "id": "txx6ec6MLNY",
+      "title": "Claude Mythos: Highlights from 244-page Release",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-08T17:39:20Z",
+      "description": "The model, the mythos, the legend. We have a new best AI model, but not all of us. How good is it, what does it’s new offensive capabilities mean? Why does it’s 244 page report card remind me of Her, and why did the creator of Claude Code call it ‘terrifying’. 30+ highlights sourced by reading the paper in full, old-school, no AI summary.\n\nhttps://80000hours.org/aiexplained\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:56 - Internal Release + Availability\n02:37 - General Capabilities\n05:12 - Self-improvement?\n06:15 - ‘Terrifying’ Landscape\n11:07 - Safety Decision\n13:22 - Coding\n14:49 - Alignment, Awareness\n19:52 - GUI for Agents/Claws + Hallucinations\n21:34 - …Emotions?\n25:29 - Her connection\n\n244-page System Card: https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\n\nProject Glasswing: https://www.anthropic.com/glasswing\nZero-Day Details: https://red.anthropic.com/2026/mythos-preview/\n\nMythos ‘terrifying’: https://x.com/bcherny/status/2041605852382351666\n\nNew Yorker Altman/Amodei: https://archive.fo/20260406100412/https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted\n\nAlignment Risk Update: https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf\n\nIn a Park: https://x.com/sleepinyourhat/status/2041584808514744742\n\n“Uhm” - https://x.com/thsottiaux/status/2041749947385815109\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT27M32S",
+      "view_count": 151119,
+      "like_count": 5711,
+      "comment_count": 529,
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-09T18:25:49Z",
+    "count": 5
+  }
+}

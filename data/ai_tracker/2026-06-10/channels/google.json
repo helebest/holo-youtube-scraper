@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-10",
+  "result": [
+    {
+      "id": "5XHeFuKbw5M",
+      "title": "Our latest screenless wearable, Google Fitbit Air¹, available now.",
+      "channel_title": "Google",
+      "published_at": "2026-06-08T22:27:12Z",
+      "description": "¹Google Fitbit Air works with most phones running on Android 11 or higher and Apple iOS 16.4 or higher. Requires a Google Account and the Google Health app. Feature availability varies; some features require a Google Health Premium membership. Not intended for medical purposes. See g.co/health/fitbit-air and g.co/fitbit/compatibility for more information. \n\n¹Colors may vary and change over time with use. Not all colors are available in all areas. Accessory bands sold separately. Options may vary by country and retailer.",
+      "duration": "PT20S",
+      "view_count": 19169,
+      "like_count": 321,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=5XHeFuKbw5M"
+    },
+    {
+      "id": "wBLiKxf1lWQ",
+      "title": "Yes, jellyfish DJ’d the “opening set” at #GoogleIO this year 🪼",
+      "channel_title": "Google",
+      "published_at": "2026-06-08T15:57:27Z",
+      "description": "In collaboration with @MontereyBayAquarium we built a generative music experiment where moon jellies controlled music made by Lyria 3, serving as the opening act at Google I/O!\n\nThe jellies were live streamed from their home at the Monterey Bay Aquarium. They were then tracked by a lightweight object detection model, running on Google’s tiny, low powered Coral NPU housed on a Synaptics Coralboard.\n\nThe Coralboard sent the jellies’ coordinates to our music generation engine. Each quadrant of the screen represented an instrument: drums, bass, chords or melody. The number of jellies in each quadrant determined the weighting of the Lyria 3 Pro generated music.\n\nWhile it was technology that translated the jellies' movement into sound, the real magic came from the animals themselves.\n\n#Lyria3 #GoogleIO #GoogleGemini",
+      "duration": "PT47S",
+      "view_count": 5315,
+      "like_count": 218,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=wBLiKxf1lWQ"
+    },
+    {
+      "id": "2lyguwG8zlI",
+      "title": "See how our community is using Gemini Omni features to create magic! ✨",
+      "channel_title": "Google",
+      "published_at": "2026-06-03T19:28:14Z",
+      "description": "From experimenting with dynamic camera angles and video styles to editing scenes with natural conversation, the possibilities are endless. What will you create next?\n\nAvailable in #GoogleGemini, #GoogleFlow and #YouTubeShorts",
+      "duration": "PT1M13S",
+      "view_count": 17729,
+      "like_count": 879,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=2lyguwG8zlI"
+    },
+    {
+      "id": "pAz6mJxOcxc",
+      "title": "The NBA Finals are here",
+      "channel_title": "Google",
+      "published_at": "2026-06-03T16:01:29Z",
+      "description": "It all comes down to this 🏀🏆 The NBA Finals start tonight!",
+      "duration": "PT14S",
+      "view_count": 35016,
+      "like_count": 934,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=pAz6mJxOcxc"
+    },
+    {
+      "id": "hTogtUnYEGs",
+      "title": "Get picture-perfect 4K results with Google Search 📸",
+      "channel_title": "Google",
+      "published_at": "2026-06-01T19:52:18Z",
+      "description": "Sharpen your shot with Search. Tap the 🍌 button in the Google app, upload a picture or video frame, and use this prompt to get picture-perfect results.\n\n#GoogleSearch",
+      "duration": "PT21S",
+      "view_count": 37075,
+      "like_count": 656,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=hTogtUnYEGs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-09T18:25:47Z",
+    "count": 5
+  }
+}
