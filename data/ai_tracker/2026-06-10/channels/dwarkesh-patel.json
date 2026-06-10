@@ -14,15 +14,27 @@
   "date": "2026-06-10",
   "result": [
     {
+      "id": "U7aYxYwNS5Y",
+      "title": "Why Particle Physics Became a Victim of Its Own Success - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-09T22:12:49Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 9867,
+      "like_count": 225,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=U7aYxYwNS5Y"
+    },
+    {
       "id": "OS1NZLgKM2c",
-      "title": "Sarah Paine - Why Russia and China can't escape geography",
+      "title": "Sarah Paine - Why Putin and Xi can't escape geography",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-09T18:14:13Z",
       "description": "In this lecture, military historian Sarah Paine lays out the geopolitical framework that has shaped global power for two thousand years: the divide between continental empires that pursue security through territorial conquest (China, Russia) and maritime powers that pursue prosperity through trade (Britain, the US). Recorded first in Paine's 2025 series, this is the framework that all her other lectures build on.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Setting the stage\n00:12:10 - The continental powers\n00:29:12 - The maritime alternative\n00:42:00 - How the Industrial Revolution changed everything\n00:52:00 - Why Putin wants to break the world",
       "duration": "PT1H2M7S",
-      "view_count": 425,
-      "like_count": 47,
-      "comment_count": 15,
+      "view_count": 64600,
+      "like_count": 3312,
+      "comment_count": 386,
       "url": "https://www.youtube.com/watch?v=OS1NZLgKM2c"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-07T21:44:42Z",
       "description": "",
       "duration": "PT54S",
-      "view_count": 11875,
-      "like_count": 296,
-      "comment_count": 11,
+      "view_count": 13620,
+      "like_count": 328,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=U8oM9ggxaxg"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-06T20:52:34Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 16705,
-      "like_count": 429,
+      "view_count": 18518,
+      "like_count": 453,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=zh0CuHT3fvc"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-04T21:56:23Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 21428,
-      "like_count": 474,
-      "comment_count": 51,
+      "view_count": 21838,
+      "like_count": 478,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=njrTiwWnxaU"
-    },
-    {
-      "id": "Jj-kBHzUohs",
-      "title": "The better AI gets, the smaller its share of the economy might get – Alex Imas and Phil Trammell",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-04T16:37:38Z",
-      "description": "Economics of AGI episode w Alex Imas and Phil Trammell.\n\nThere's a bunch of important questions about how we deal with AI that only economics can answer.\n\nWhat is the optimal way to tax and redistribute the wealth that will be generated? How should countries not in the AI supply chain index into the gains? Is there any world where inequality doesn't explode?\n\nIt might seem like these questions have obvious answers, but the first thing economics teaches you is that your intuitions can often be entirely wrong.\n\nIt was very helpful to chat through these things with Alex and Phil. \n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/alex-imas-phil-trammell\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/alex-imas-and-phil-trammell-what-remains-scarce-after-agi/id1516093381?i=1000771185825\n* Spotify: https://open.spotify.com/episode/52wp90vqwiRmmQaOm9M2uZ?si=8a81MnA4Tf-X3VUzpzE1qg\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street invests heavily in turning smart people into exceptional researchers and engineers. In addition to their apprenticeship model, Jane Street runs lectures and bootcamps in their in-office classrooms -- managers clear their teams' schedules to encourage attendance. If you'd like to work at a place that takes learning this seriously, Jane Street is hiring. Check out their open roles at https://janestreet.com/dwarkesh\n\n* Google's Gemini Omni has incredible video editing capabilities -- you can upload a video and have Omni change the background, adjust lighting, or add specific elements. But Omni is also a preview of how future frontier models will be trained -- fully multimodal on both input and output. You can try it yourself in the Gemini app at https://gemini.google or in Flow at https://flow.google\n\n* Cursor used targeted RL with textual feedback to help train their Composer 2.5 model. One of their researchers, Sasha Rush, gave me an impromptu blackboard lecture to explain how this form of on-policy self-distillation works -- I posted the full thing on X. If you want to try Composer 2.5, go to https://cursor.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Will capital share increase?\n00:19:36 – Messy Middle scenario\n00:25:57 – How to tax and redistribute AI wealth\n00:30:02 – Why demand collapse is unlikely\n00:39:26 – Human employees would be hard to integrate into the machine economy\n00:43:08 – What if some humans (or AIs) value wealth accumulation intrinsically?\n01:01:28 – What should developing countries do?",
-      "duration": "PT1H16M9S",
-      "view_count": 74788,
-      "like_count": 1443,
-      "comment_count": 311,
-      "url": "https://www.youtube.com/watch?v=Jj-kBHzUohs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-09T18:25:41Z",
+    "generated_at": "2026-06-10T08:29:31Z",
     "count": 5
   }
 }
