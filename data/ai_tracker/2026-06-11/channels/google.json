@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-11",
+  "result": [
+    {
+      "id": "7l9kV1ndFS8",
+      "title": "This is what every hoops fan dreams of",
+      "channel_title": "Google",
+      "published_at": "2026-06-10T17:07:41Z",
+      "description": "Visit the @NBA HQ where the league’s expert trophy handler, Katy Snyder, answers the top-trending searches about the Larry O’Brien Trophy 🏀🏆\n\nProud sponsor of the NBA.",
+      "duration": "PT37S",
+      "view_count": 1166,
+      "like_count": 44,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=7l9kV1ndFS8"
+    },
+    {
+      "id": "zASY1bewxbs",
+      "title": "Searching For: The Larry O’Brien Trophy",
+      "channel_title": "Google",
+      "published_at": "2026-06-10T16:31:02Z",
+      "description": "NBA trophy handler and expert Katy Snyder answers the top-trending searches about the famous Larry O’Brien Trophy – its history, how it’s made, and who gets to keep it. Step into the NBA headquarters in New York City, and get a hands-on experience with basketball’s ultimate prize 🏀🏆 \n\nProud sponsor of the NBA.\n\n00:11 Introductions \n00:25 What is the name of the NBA championship trophy? \n00:46 Why is the NBA trophy called the Larry O’Brien? \n01:07 Who makes the Larry O’Brien trophy? \n01:58 How heavy is the NBA championship trophy? \n02:04 Who gets to keep the NBA championship trophy? \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M51S",
+      "view_count": 1123,
+      "like_count": 113,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=zASY1bewxbs"
+    },
+    {
+      "id": "iGmMf-5GZes",
+      "title": "Build your own mini apps in Google Search",
+      "channel_title": "Google",
+      "published_at": "2026-06-09T22:17:41Z",
+      "description": "For ongoing tasks you find yourself searching for over and over, like planning a wedding or managing a home move, Search will soon be able to build you custom experiences with Antigravity. Think of them as mini apps or trackers you can continue to come back to regularly.\n\nHere’s Robby Stein, VP of Product at Search, demoing the new feature on the #GoogleIO stage.",
+      "duration": "PT1M43S",
+      "view_count": 7724,
+      "like_count": 594,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=iGmMf-5GZes"
+    },
+    {
+      "id": "5XHeFuKbw5M",
+      "title": "Our latest screenless wearable, Google Fitbit Air¹, available now.",
+      "channel_title": "Google",
+      "published_at": "2026-06-08T22:27:12Z",
+      "description": "¹Google Fitbit Air works with most phones running on Android 11 or higher and Apple iOS 16.4 or higher. Requires a Google Account and the Google Health app. Feature availability varies; some features require a Google Health Premium membership. Not intended for medical purposes. See g.co/health/fitbit-air and g.co/fitbit/compatibility for more information. \n\n¹Colors may vary and change over time with use. Not all colors are available in all areas. Accessory bands sold separately. Options may vary by country and retailer.",
+      "duration": "PT20S",
+      "view_count": 28203,
+      "like_count": 409,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=5XHeFuKbw5M"
+    },
+    {
+      "id": "wBLiKxf1lWQ",
+      "title": "Yes, jellyfish DJ’d the “opening set” at #GoogleIO this year 🪼",
+      "channel_title": "Google",
+      "published_at": "2026-06-08T15:57:27Z",
+      "description": "In collaboration with @MontereyBayAquarium we built a generative music experiment where moon jellies controlled music made by Lyria 3, serving as the opening act at Google I/O!\n\nThe jellies were live streamed from their home at the Monterey Bay Aquarium. They were then tracked by a lightweight object detection model, running on Google’s tiny, low powered Coral NPU housed on a Synaptics Coralboard.\n\nThe Coralboard sent the jellies’ coordinates to our music generation engine. Each quadrant of the screen represented an instrument: drums, bass, chords or melody. The number of jellies in each quadrant determined the weighting of the Lyria 3 Pro generated music.\n\nWhile it was technology that translated the jellies' movement into sound, the real magic came from the animals themselves.\n\n#Lyria3 #GoogleIO #GoogleGemini",
+      "duration": "PT47S",
+      "view_count": 7192,
+      "like_count": 286,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=wBLiKxf1lWQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-10T18:45:26Z",
+    "count": 5
+  }
+}

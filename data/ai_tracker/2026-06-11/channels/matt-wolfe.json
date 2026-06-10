@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-06-11",
+  "result": [
+    {
+      "id": "X9cvCQ3qrVk",
+      "title": "I Ran Home To Try This New AI Feature",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-10T14:11:43Z",
+      "description": "This new feature just changed the game for GitHub Copilot. \n\nThe new GitHub Copilot app lets you choose literally ANY model provider out there, unlike using a coding app like Codex where you're locked in to only OpenAI models. \n\nThis was such an exciting update for me I went to download the app the moment I got home. And, well... it wouldn't let me download it 😭\n\nI haven't checked since I made this video, but hopefully it's available now!\n\n#AI #ainews #github #coding #copilot",
+      "duration": "PT1M8S",
+      "view_count": 1172,
+      "like_count": 28,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=X9cvCQ3qrVk"
+    },
+    {
+      "id": "wg9jm_d7Emk",
+      "title": "THIS was the whole point of Microsoft Builld",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-09T12:49:35Z",
+      "description": "Is @Microsoft quietly trying to step out of OpenAI’s shadow? \n\nDuring my chat with Microsoft AI CEO Mustafa Suleyman at #MicrosoftBuild2026, he made their goal crystal clear: Microsoft wants the capacity to build the \"absolute frontier\" of AI models in house and entirely from scratch.\n\nWhich is a departure from what they've been doing for the past few years of integrating OpenAI's models into their products. \n\nHe also gave a really interesting answer about AI scraping for training data and I'm curious if it makes you want to give them a try more....\n\n#Microsoft #AInews #AI #openai",
+      "duration": "PT1M3S",
+      "view_count": 2968,
+      "like_count": 55,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=wg9jm_d7Emk"
+    },
+    {
+      "id": "QzDCfJpVGN8",
+      "title": "Shopping Online Is About To Change Forever",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-08T19:59:05Z",
+      "description": "#Ad You’re going to be hearing about this AI trend a lot soon: agentic commerce.\n\nBasically, instead of searching through endless websites trying to figure out what to buy, AI agents start doing the discovery work for you before you even search so you’re matched to the right products with less work. \n\nOne leader in the agentic commerce space is called @glanceinspires and I used it to match me with new clothing pieces based on my style, hair color, skin tone, body shape, even the weather. \n\nBut this is way bigger than just fashion. I can see this being used for travel, home decor, cars, tech… basically all of e-commerce is going to be shifting in this direction. \n\nAnd I’m all about using AI to make everyday tasks like shopping easier. \n\nSo if you’re on the same boat, check out what Glance is building at the link in the comments.",
+      "duration": "PT1M44S",
+      "view_count": 10433,
+      "like_count": 444,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=QzDCfJpVGN8"
+    },
+    {
+      "id": "jKgrNh_q_b0",
+      "title": "The Biggest Microsoft Build News in 82 seconds",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-08T14:43:43Z",
+      "description": "Did @Microsoft actually take the lead in the AI race?\n\nI just got back from Microsoft Build last week, and they dropped A TON of news, but here's what's actually important. \n\nThey released 7 NEW in-house Microsoft AI models that focus on reasoning, coding, images, and voice. \n\nPlus they're making a big bet on AI Agents with the new Microsoft Scout. It's Microsoft’s new \"Autopilot\" agent powered by OpenClaw that has direct access to literally manage Windows for you. It can operate across Teams, Outlook, OneDrive, and SharePoint to handle your chats, emails, and calendar.\n\nEven with all of these new releases, it's still TBD which AI products will get the most usage and outlast the others. Let me know who you think is winning in the comments 🤔\n\n#MicrosoftBuild #AI #AIagents #AInews #openclaw",
+      "duration": "PT1M23S",
+      "view_count": 5692,
+      "like_count": 170,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=jKgrNh_q_b0"
+    },
+    {
+      "id": "08uMw4_BWOA",
+      "title": "How Big Tech Lies About AI Layoffs",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-07T17:54:13Z",
+      "description": "🚨 The \"AI is taking our jobs\" narrative is apparently a massive corporate cover-up.\n\nBig companies aren’t laying off thousands of people because AI suddenly replaced them overnight. They’re laying people off because they over-hired and got WAY too bloated. 📉\n\nInstead of CEOs admitting they made a massive management mistake (which looks terrible to investors), they’re saying \"we're becoming more efficient with AI\" instead and hoping it'll pump stock prices.\n\nBut it seems like investors have caught on. Companies using the \"AI excuse\" are actually seeing their stock prices drop nowadays.\n\nWhat do you think? Are companies using AI to hide bad management, or is AI a real threat in your industry?\n\n#AI #AInews #Layoffs #BusinessNews",
+      "duration": "PT1M6S",
+      "view_count": 19309,
+      "like_count": 553,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=08uMw4_BWOA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-10T18:45:27Z",
+    "count": 5
+  }
+}
