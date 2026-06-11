@@ -20,9 +20,9 @@
       "published_at": "2026-06-10T17:15:03Z",
       "description": "See how the creative production plugin for Codex helps marketing teams move from product and campaign context to visual concepts, asset variations, and editable creative.\n\nIn this demo, Codex creates a campaign mood board, refines visual directions, generates a launch asset, and hands it off for final edits.\n\nMore than 5 million people now use Codex every week, with marketers, creators, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49",
       "duration": "PT1M43S",
-      "view_count": 999,
-      "like_count": 60,
-      "comment_count": 9,
+      "view_count": 9937,
+      "like_count": 357,
+      "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=2ey7znf8SI0"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-06-09T21:42:40Z",
       "description": "“Codex is essential in our finance workflows today. It's not just a niche tool for coding,” Wei Loke, Enterprise Platforms and Technology. \n\nWei leads AI initiatives across the finance org and sees our OpenAI teams leveraging Codex to build:\n\n✅ Internal apps across procurement and accounting\n✅ Slides and memos\n✅ Month-end executive reports\n✅ Custom dashboards for vendor-rich reviews\n✅ Journal entry preparation support\n\nWhat will you build? \n\nCodex is for every role, tool and workflow: https://lnkd.in/dnxrM282",
       "duration": "PT48S",
-      "view_count": 4048,
-      "like_count": 99,
+      "view_count": 5030,
+      "like_count": 113,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-06-09T21:30:13Z",
       "description": "See how the data analytics plugin for Codex helps teams go from a business question to a decision-ready insight report using data from Databricks.\n\nIn this demo, Codex analyzes the data, explains what changed and why it matters, and packages the answer into a report your team can use.\n\nMore than 5 million people now use Codex every week, with data analysts, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/32687761205248ae9b517f3d30ad8dd1",
       "duration": "PT1M41S",
-      "view_count": 21632,
-      "like_count": 639,
-      "comment_count": 35,
+      "view_count": 27881,
+      "like_count": 825,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-06-09T20:39:20Z",
       "description": "\"Codex has fundamentally changed how we think about engineering to the point that we can't even imagine engineering without it,\" Cory Dolphin. \n\nEnter, Codex  👋  Engineers shipped Opportunity Alerts - a game changing feature that helps connects home service professionals with local customers.\n\nCodex is for every role, tool & workflow: https://lnkd.in/dnxrM282",
       "duration": "PT55S",
-      "view_count": 2820,
-      "like_count": 94,
+      "view_count": 3124,
+      "like_count": 96,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=evPsMeSiP_4"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-06-09T20:38:48Z",
       "description": "OpenAI CFO Sarah Friar joined UC CIO Jagdeep Singh Bachher for an OpenAI Forum conversation on AI’s impact on finance and careers. Friar reflected on her nonlinear path from engineering to finance leadership, emphasizing curiosity, adaptability, and kindness as essential skills for students entering a changing workforce. She described how OpenAI’s finance team is using tools like custom GPTs for investor relations, audit support, and more. While AI is transforming finance tasks and expanding what lean teams can do, Friar stressed that human trust and relationships remain central, especially in fundraising and leadership.\n\nYou can find out more about the OpenAI Forum here: https://forum.openai.com",
       "duration": "PT32M8S",
-      "view_count": 2814,
-      "like_count": 86,
-      "comment_count": 11,
+      "view_count": 3213,
+      "like_count": 96,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=76ABuBGX4IY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-10T18:45:25Z",
+    "generated_at": "2026-06-11T08:57:06Z",
     "count": 5
   }
 }
