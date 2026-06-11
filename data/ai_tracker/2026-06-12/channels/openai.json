@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-12",
+  "result": [
+    {
+      "id": "4XSI4SClBMA",
+      "title": "Creating black hole simulations with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-11T16:14:47Z",
+      "description": "To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of one. CK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. \n\nCK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. So he uses Codex to generate new algorithms to test. It would normally take him ten days to create ten new algorithms. With Codex, it takes just a few minutes, making previously impossible simulations possible.\n\nLearn how Codex is changing science in fundamental ways, and how it’s helping CK reach the edge of the universe.",
+      "duration": "PT2M50S",
+      "view_count": 2227,
+      "like_count": 196,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=4XSI4SClBMA"
+    },
+    {
+      "id": "ACue0bPkrPs",
+      "title": "Training to cycle across Antarctica | with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-11T15:59:45Z",
+      "description": "In November, @jamesbensonking will attempt to become the first person to cycle solo and unsupported from the edge of Antarctica to the South Pole, a journey that could take up to 60 days. But for James, the real challenge begins long before he sets foot or wheel on the ice.\n\nWith no existing blueprint to follow, James uses ChatGPT to build and refine his training in real time, bringing together multiple disciplines, logging ideas, and troubleshooting problems as they arise.\n\nFollow James’ journey as he trains in the Icelandic highlands, where unpredictable weather and terrain offer a closer approximation of what he’ll face in Antarctica, and where ChatGPT becomes part of how he prepares, adapts, and keeps moving forward.",
+      "duration": "PT2M44S",
+      "view_count": 2707,
+      "like_count": 140,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=ACue0bPkrPs"
+    },
+    {
+      "id": "2ey7znf8SI0",
+      "title": "Create campaign concepts and assets with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-10T17:15:03Z",
+      "description": "See how the creative production plugin for Codex helps marketing teams move from product and campaign context to visual concepts, asset variations, and editable creative.\n\nIn this demo, Codex creates a campaign mood board, refines visual directions, generates a launch asset, and hands it off for final edits.\n\nMore than 5 million people now use Codex every week, with marketers, creators, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49",
+      "duration": "PT1M43S",
+      "view_count": 13154,
+      "like_count": 423,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=2ey7znf8SI0"
+    },
+    {
+      "id": "IEYU-CgLo3E",
+      "title": "Codex for Finance: Faster Reports, Dashboards, and Decisions",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-09T21:42:40Z",
+      "description": "“Codex is essential in our finance workflows today. It's not just a niche tool for coding,” Wei Loke, Enterprise Platforms and Technology. \n\nWei leads AI initiatives across the finance org and sees our OpenAI teams leveraging Codex to build:\n\n✅ Internal apps across procurement and accounting\n✅ Slides and memos\n✅ Month-end executive reports\n✅ Custom dashboards for vendor-rich reviews\n✅ Journal entry preparation support\n\nWhat will you build? \n\nCodex is for every role, tool and workflow: https://lnkd.in/dnxrM282",
+      "duration": "PT48S",
+      "view_count": 5543,
+      "like_count": 126,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E"
+    },
+    {
+      "id": "Lvk_VZOppIY",
+      "title": "Codex for data science",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-09T21:30:13Z",
+      "description": "See how the data analytics plugin for Codex helps teams go from a business question to a decision-ready insight report using data from Databricks.\n\nIn this demo, Codex analyzes the data, explains what changed and why it matters, and packages the answer into a report your team can use.\n\nMore than 5 million people now use Codex every week, with data analysts, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/32687761205248ae9b517f3d30ad8dd1",
+      "duration": "PT1M41S",
+      "view_count": 30802,
+      "like_count": 865,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-11T19:16:13Z",
+    "count": 5
+  }
+}

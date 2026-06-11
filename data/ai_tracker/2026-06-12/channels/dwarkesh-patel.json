@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-06-12",
+  "result": [
+    {
+      "id": "v-BMWHEaFdw",
+      "title": "How a perfectly even universe grew galaxies - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-10T22:09:35Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 9963,
+      "like_count": 294,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=v-BMWHEaFdw"
+    },
+    {
+      "id": "U7aYxYwNS5Y",
+      "title": "Why Particle Physics Became a Victim of Its Own Success - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-09T22:12:49Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 23421,
+      "like_count": 388,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=U7aYxYwNS5Y"
+    },
+    {
+      "id": "OS1NZLgKM2c",
+      "title": "Sarah Paine - Why Putin and Xi can't escape geography",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-09T18:14:13Z",
+      "description": "In this lecture, military historian Sarah Paine lays out the geopolitical framework that has shaped global power for two thousand years: the divide between continental empires that pursue security through territorial conquest (China, Russia) and maritime powers that pursue prosperity through trade (Britain, the US). Recorded first in Paine's 2025 series, this is the framework that all her other lectures build on.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Setting the stage\n00:12:10 - The continental powers\n00:29:12 - The maritime alternative\n00:42:00 - How the Industrial Revolution changed everything\n00:52:00 - Why Putin wants to break the world",
+      "duration": "PT1H2M7S",
+      "view_count": 211674,
+      "like_count": 8827,
+      "comment_count": 864,
+      "url": "https://www.youtube.com/watch?v=OS1NZLgKM2c"
+    },
+    {
+      "id": "U8oM9ggxaxg",
+      "title": "The one sentence that opened up the universe for a stranger - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-07T21:44:42Z",
+      "description": "",
+      "duration": "PT54S",
+      "view_count": 16322,
+      "like_count": 370,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=U8oM9ggxaxg"
+    },
+    {
+      "id": "zh0CuHT3fvc",
+      "title": "A 10-mile ride turned into a 1,000-mile spiritual quest - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-06T20:52:34Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 19798,
+      "like_count": 464,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=zh0CuHT3fvc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-11T19:16:09Z",
+    "count": 5
+  }
+}

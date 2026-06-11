@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-06-12",
+  "result": [
+    {
+      "id": "1greFablcZY",
+      "title": "Why Eveyone Should Have A Local AI Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-11T12:55:30Z",
+      "description": "This might be an unpopular opinion, but most people don't need to use cloud AI models.\n\nMost people are using the most state-of-the-art AI models from ChatGPT or Claude to summarize documents or write emails for them, and frankly these models have gotten too smart for that. You don't need all the compute for everyday tasks. \n\nRunning local models directly on your computer means you don't need the internet, your data is completely private, and you're not at the whims of the big AI labs. \n\nWith amazing new local models and even better hardware, your computer can handle 90% of the simple things we ask AI to do.\n\nWould you switch to using a local AI model?\n\n#ai #ainews #NVIDIA #chatGPT #claude",
+      "duration": "PT1M14S",
+      "view_count": 1761,
+      "like_count": 84,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=1greFablcZY"
+    },
+    {
+      "id": "2lE1-5hBfKk",
+      "title": "Why Everyone Is Freaking Out About Mythos",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-11T01:34:23Z",
+      "description": "Here's a breakdown of what you need know about Mythos 5.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nBlog Post: https://www.anthropic.com/news/claude-fable-5-mythos-5\nDan Shipper Post: https://x.com/danshipper/status/2064393970856124501\nExamples 1: https://x.com/minchoi/status/2064547105662996921?s=12\nExamples 2: https://x.com/minchoi/status/2064729915623440759?s=12\nGripes: https://x.com/scobleizer/status/2064641097310335294?s=12\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #artificialintelligence \n\nTimestamps:\n0:00 Intro\n0:41 What is Fable 5?\n1:45 Pricing & Temporary Access\n2:36 Misinformation: Fable 5 vs. Mythos 5\n4:05 Mind-Blowing Use Cases & Demos\n7:02 The Downsides: Heavy Token Usage\n7:54 The Backlash Over Safety Constraints\n10:04 Hidden Restrictions on AI Development\n11:18 AI Power Concentration & Open Source\n12:10 Analyzing the Coding Benchmarks\n15:27 The Overall Verdict on Fable 5\n15:55 Hands-On: Testing Safety Guardrails\n17:16 Hands-On: Coding a 3D Game Clone\n19:48 Conclusion & Outro",
+      "duration": "PT20M45S",
+      "view_count": 35689,
+      "like_count": 1680,
+      "comment_count": 182,
+      "url": "https://www.youtube.com/watch?v=2lE1-5hBfKk"
+    },
+    {
+      "id": "X9cvCQ3qrVk",
+      "title": "GitHub Just Made a Big AI Coding Move",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-10T14:11:43Z",
+      "description": "This new feature just changed the game for GitHub Copilot. \n\nThe new GitHub Copilot app lets you choose literally ANY model provider out there, unlike using a coding app like Codex where you're locked in to only OpenAI models. \n\nThis was such an exciting update for me I went to download the app the moment I got home. And, well... it wouldn't let me download it 😭\n\nI haven't checked since I made this video, but hopefully it's available now!\n\n#AI #ainews #github #coding #copilot",
+      "duration": "PT1M8S",
+      "view_count": 3620,
+      "like_count": 72,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=X9cvCQ3qrVk"
+    },
+    {
+      "id": "wg9jm_d7Emk",
+      "title": "THIS was the whole point of Microsoft Builld",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-09T12:49:35Z",
+      "description": "Is @Microsoft quietly trying to step out of OpenAI’s shadow? \n\nDuring my chat with Microsoft AI CEO Mustafa Suleyman at #MicrosoftBuild2026, he made their goal crystal clear: Microsoft wants the capacity to build the \"absolute frontier\" of AI models in house and entirely from scratch.\n\nWhich is a departure from what they've been doing for the past few years of integrating OpenAI's models into their products. \n\nHe also gave a really interesting answer about AI scraping for training data and I'm curious if it makes you want to give them a try more....\n\n#Microsoft #AInews #AI #openai",
+      "duration": "PT1M3S",
+      "view_count": 4013,
+      "like_count": 71,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=wg9jm_d7Emk"
+    },
+    {
+      "id": "QzDCfJpVGN8",
+      "title": "Shopping Online Is About To Change Forever",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-08T19:59:05Z",
+      "description": "#Ad You’re going to be hearing about this AI trend a lot soon: agentic commerce.\n\nBasically, instead of searching through endless websites trying to figure out what to buy, AI agents start doing the discovery work for you before you even search so you’re matched to the right products with less work. \n\nOne leader in the agentic commerce space is called @glanceinspires and I used it to match me with new clothing pieces based on my style, hair color, skin tone, body shape, even the weather. \n\nBut this is way bigger than just fashion. I can see this being used for travel, home decor, cars, tech… basically all of e-commerce is going to be shifting in this direction. \n\nAnd I’m all about using AI to make everyday tasks like shopping easier. \n\nSo if you’re on the same boat, check out what Glance is building at the link in the comments.",
+      "duration": "PT1M44S",
+      "view_count": 11162,
+      "like_count": 474,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=QzDCfJpVGN8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-11T19:16:14Z",
+    "count": 5
+  }
+}

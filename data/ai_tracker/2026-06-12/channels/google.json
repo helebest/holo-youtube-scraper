@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-12",
+  "result": [
+    {
+      "id": "gPx12V4yiIk",
+      "title": "The Most Searched Sport",
+      "channel_title": "Google",
+      "published_at": "2026-06-11T15:59:37Z",
+      "description": "Big match days inspire even bigger questions ⚽ Break down all parts of the beautiful game, from tactical whys to squad comparisons, with AI Mode in Google Search.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M1S",
+      "view_count": 2806,
+      "like_count": 249,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=gPx12V4yiIk"
+    },
+    {
+      "id": "jR4jcH1KD-M",
+      "title": "Let the games begin ⚽ #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-06-11T14:00:01Z",
+      "description": "Over the next five weeks, the world speaks one language: ⚽ The World Cup kicks off today! #GoogleDoodle",
+      "duration": "PT7S",
+      "view_count": 5192,
+      "like_count": 242,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=jR4jcH1KD-M"
+    },
+    {
+      "id": "jfUjk_FcST8",
+      "title": "See 3 interactive and stunning visual apps made with @GoogleGemini in Google AI Studio.",
+      "channel_title": "Google",
+      "published_at": "2026-06-10T21:02:15Z",
+      "description": "From idea to reality, just like that. 🪄 \n\nCheck out more examples of what people are building with AI Studio in our app gallery and start building https://aistudio.google.com/apps.\n\n\n\n#GoogleGemini #AIStudio",
+      "duration": "PT59S",
+      "view_count": 7095,
+      "like_count": 292,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=jfUjk_FcST8"
+    },
+    {
+      "id": "7l9kV1ndFS8",
+      "title": "This is what every hoops fan dreams of",
+      "channel_title": "Google",
+      "published_at": "2026-06-10T17:07:41Z",
+      "description": "Visit the @NBA HQ where the league’s expert trophy handler, Katy Snyder, answers the top-trending searches about the Larry O’Brien Trophy 🏀🏆\n\nProud sponsor of the NBA.",
+      "duration": "PT37S",
+      "view_count": 6128,
+      "like_count": 263,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=7l9kV1ndFS8"
+    },
+    {
+      "id": "zASY1bewxbs",
+      "title": "Searching For: The Larry O’Brien Trophy",
+      "channel_title": "Google",
+      "published_at": "2026-06-10T16:31:02Z",
+      "description": "NBA trophy handler and expert Katy Snyder answers the top-trending searches about the famous Larry O’Brien Trophy – its history, how it’s made, and who gets to keep it. Step into the NBA headquarters in New York City, and get a hands-on experience with basketball’s ultimate prize 🏀🏆 \n\nProud sponsor of the NBA.\n\n00:11 Introductions \n00:25 What is the name of the NBA championship trophy? \n00:46 Why is the NBA trophy called the Larry O’Brien? \n01:07 Who makes the Larry O’Brien trophy? \n01:58 How heavy is the NBA championship trophy? \n02:04 Who gets to keep the NBA championship trophy? \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M51S",
+      "view_count": 13607,
+      "like_count": 272,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=zASY1bewxbs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-11T19:16:14Z",
+    "count": 5
+  }
+}
