@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-13",
+  "result": [
+    {
+      "id": "sU9-u5p-jA0",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-12T16:24:47Z",
+      "description": "What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market intelligence with AI?\n\nIn this customer story, LSEG shares how it's using ChatGPT Enterprise and OpenAI APIs to accelerate insight generation, speed up product innovation, and help employees and customers make better decisions with confidence.\n\nHear from Emily Prince, Group Head of Enterprise AI, and Max Grigoryev, Group Director AI Products, as they discuss scaling AI responsibly, transforming workflows, and bringing trusted financial data into AI-powered experiences.\n\nRead the full story: www.openai.com/index/lseg",
+      "duration": "PT2M31S",
+      "view_count": 714,
+      "like_count": 63,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0"
+    },
+    {
+      "id": "-Jm-Bf3g9r8",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-12T09:53:26Z",
+      "description": "What happens when one of the world's largest language-learning platforms combines human expertise with AI?\n\nIn this customer story, Preply shares how it's using OpenAI to create more personalized learning experiences for learners around the world—while giving tutors more time to focus on teaching, motivation, and human connection.\n\nHear from Preply's Co-founder & CTO, Dmytro Voloshyn, Staff Product Manager, Emily Stott, and tutor Michelle Garcia Ramos as they discuss how AI is transforming language learning and helping build a future that is human-led and AI-enabled.\n\nRead the full story: www.openai.com/index/preply",
+      "duration": "PT3M6S",
+      "view_count": 1590,
+      "like_count": 63,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=-Jm-Bf3g9r8"
+    },
+    {
+      "id": "bhgYFRZLyKI",
+      "title": "Debug web apps with browser use in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-12T00:15:38Z",
+      "description": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, applied styling, network traffic, and performance profiles while working on web applications.\n\nIn this demo, Codex investigates a slow chat app by profiling interactions and inspecting network requests, then fixes the issues and supports the changes with clear measurements.\n\nTo use this functionality, enable Developer mode in the Browser settings of your Codex app and approve CDP access when Codex starts inspecting a website.\n\nLearn more here: https://developers.openai.com/codex/app/browser#developer-mode\n\nChapters:\n00:00 CDP support in Browser Use\n00:23 Enable Developer Mode and approve access\n00:37 Debugging a slow chat app\n00:56 Profiling real bottlenecks\n01:15 More in-depth browser capabilities",
+      "duration": "PT1M28S",
+      "view_count": 12643,
+      "like_count": 387,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI"
+    },
+    {
+      "id": "K6wxZOqD-HY",
+      "title": "Codex for Creatives: Riff, Design, Ship",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-11T21:28:51Z",
+      "description": "“Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.  \n\nDon’t sleep on Codex for creatives. It understands brand books, style guides, fonts, composition and can create ship-worthy full funnel campaign visuals in a few hours. \n\nPut Codex to work. Tell us what you create. \n\nhttps://lnkd.in/dnxrM282",
+      "duration": "PT1M7S",
+      "view_count": 3294,
+      "like_count": 88,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY"
+    },
+    {
+      "id": "6QoMzZ8FdTA",
+      "title": "Life Near OpenAI's Stargate Project",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-11T20:58:53Z",
+      "description": "For more than 40 years, Tom and Lisa Perini have welcomed visitors to their ranch and restaurant in Buffalo Gap, Texas, just outside Abilene.\n\nAs new investment and AI infrastructure arrive in the region, they've seen firsthand how growth can create new opportunities for local businesses while raising important questions about preserving the character of rural communities.\n\nIn this conversation, the Perinis reflect on what makes their community special, why they believe small towns need opportunity to thrive, and how they think about balancing growth with the traditions and way of life they hope will endure for generations to come.",
+      "duration": "PT3M7S",
+      "view_count": 3139,
+      "like_count": 97,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=6QoMzZ8FdTA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-12T18:21:37Z",
+    "count": 5
+  }
+}
