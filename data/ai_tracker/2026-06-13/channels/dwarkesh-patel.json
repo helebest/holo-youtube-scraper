@@ -14,15 +14,27 @@
   "date": "2026-06-13",
   "result": [
     {
+      "id": "z5BkwnEBw8I",
+      "title": "The historical trap Putin can't escape - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-12T22:04:27Z",
+      "description": "",
+      "duration": "PT39S",
+      "view_count": 93836,
+      "like_count": 2854,
+      "comment_count": 119,
+      "url": "https://www.youtube.com/watch?v=z5BkwnEBw8I"
+    },
+    {
       "id": "y9eGsI2C9iY",
       "title": "Why Inventing General Relativity Is the Final Test for AI - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-11T20:28:05Z",
       "description": "",
       "duration": "PT57S",
-      "view_count": 9925,
-      "like_count": 176,
-      "comment_count": 20,
+      "view_count": 14993,
+      "like_count": 235,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=y9eGsI2C9iY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-10T22:09:35Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 13681,
-      "like_count": 383,
-      "comment_count": 16,
+      "view_count": 16896,
+      "like_count": 458,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=v-BMWHEaFdw"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-09T22:12:49Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 31824,
-      "like_count": 505,
-      "comment_count": 21,
+      "view_count": 37187,
+      "like_count": 566,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=U7aYxYwNS5Y"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-09T18:14:13Z",
       "description": "In this lecture, military historian Sarah Paine lays out the geopolitical framework that has shaped global power for two thousand years: the divide between continental empires that pursue security through territorial conquest (China, Russia) and maritime powers that pursue prosperity through trade (Britain, the US). Recorded first in Paine's 2025 series, this is the framework that all her other lectures build on.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Setting the stage\n00:12:10 - The continental powers\n00:29:12 - The maritime alternative\n00:42:00 - How the Industrial Revolution changed everything\n00:52:00 - Why Putin wants to break the world",
       "duration": "PT1H2M7S",
-      "view_count": 279505,
-      "like_count": 10842,
-      "comment_count": 998,
+      "view_count": 310160,
+      "like_count": 11904,
+      "comment_count": 1059,
       "url": "https://www.youtube.com/watch?v=OS1NZLgKM2c"
-    },
-    {
-      "id": "U8oM9ggxaxg",
-      "title": "The one sentence that opened up the universe for a stranger - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-07T21:44:42Z",
-      "description": "",
-      "duration": "PT54S",
-      "view_count": 17459,
-      "like_count": 393,
-      "comment_count": 13,
-      "url": "https://www.youtube.com/watch?v=U8oM9ggxaxg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-12T18:21:32Z",
+    "generated_at": "2026-06-13T07:59:34Z",
     "count": 5
   }
 }
