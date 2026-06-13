@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-06-14",
+  "result": [
+    {
+      "id": "z5BkwnEBw8I",
+      "title": "The historical trap Putin can't escape - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-12T22:04:27Z",
+      "description": "",
+      "duration": "PT39S",
+      "view_count": 206816,
+      "like_count": 4132,
+      "comment_count": 202,
+      "url": "https://www.youtube.com/watch?v=z5BkwnEBw8I"
+    },
+    {
+      "id": "y9eGsI2C9iY",
+      "title": "Why Inventing General Relativity Is the Final Test for AI - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-11T20:28:05Z",
+      "description": "",
+      "duration": "PT57S",
+      "view_count": 17541,
+      "like_count": 275,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=y9eGsI2C9iY"
+    },
+    {
+      "id": "v-BMWHEaFdw",
+      "title": "How a perfectly even universe grew galaxies - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-10T22:09:35Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 20122,
+      "like_count": 502,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=v-BMWHEaFdw"
+    },
+    {
+      "id": "U7aYxYwNS5Y",
+      "title": "Why Particle Physics Became a Victim of Its Own Success - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-09T22:12:49Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 40339,
+      "like_count": 610,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=U7aYxYwNS5Y"
+    },
+    {
+      "id": "OS1NZLgKM2c",
+      "title": "Sarah Paine - Why Putin and Xi can't escape geography",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-09T18:14:13Z",
+      "description": "In this lecture, military historian Sarah Paine lays out the geopolitical framework that has shaped global power for two thousand years: the divide between continental empires that pursue security through territorial conquest (China, Russia) and maritime powers that pursue prosperity through trade (Britain, the US). Recorded first in Paine's 2025 series, this is the framework that all her other lectures build on.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Setting the stage\n00:12:10 - The continental powers\n00:29:12 - The maritime alternative\n00:42:00 - How the Industrial Revolution changed everything\n00:52:00 - Why Putin wants to break the world",
+      "duration": "PT1H2M7S",
+      "view_count": 331198,
+      "like_count": 12599,
+      "comment_count": 1126,
+      "url": "https://www.youtube.com/watch?v=OS1NZLgKM2c"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-13T17:49:11Z",
+    "count": 5
+  }
+}
