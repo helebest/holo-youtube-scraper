@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-06-15",
+  "result": [
+    {
+      "id": "VBnocNg69o4",
+      "title": "The Rising Cost of Dissent in America | Miles Taylor | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-14T15:00:16Z",
+      "description": "Former senior US national security official Miles Taylor shares a personal account that raises a broader civic concern: the growing cost of dissent in American public life. Drawing on his experience inside government and living the consequences of speaking openly, he says that the real threat to US democracy isn't the politicians or hard-liners — it's the two-thirds of Americans who don’t speak up. (This talk contains mature language.) (Recorded at TEDxMidAtlantic on November 1, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/milestaylor\n\nhttps://youtu.be/VBnocNg69o4\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Politics",
+      "duration": "PT19M27S",
+      "view_count": 2713,
+      "like_count": 287,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=VBnocNg69o4"
+    },
+    {
+      "id": "Sn30jYOXn2M",
+      "title": "You are more creative than you think! #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-14T15:00:01Z",
+      "description": "Elizabeth Gilbert was once an \"unpublished diner waitress,\" devastated by rejection letters. And yet, in the wake of the success of 'Eat, Pray, Love,' she found herself identifying strongly with her former self. With beautiful insight, Gilbert reflects on why success can be as disorienting as failure and offers a simple -- though hard -- way to carry on, regardless of outcomes.",
+      "duration": "PT1M7S",
+      "view_count": 3285,
+      "like_count": 200,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=Sn30jYOXn2M"
+    },
+    {
+      "id": "tNOYoJib0XE",
+      "title": "You don’t need a special talent to learn a new language #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-12T20:00:32Z",
+      "description": "Want to learn a new language but feel daunted or unsure where to begin? You don't need some special talent or a \"language gene,\" says Lýdia Machová. In an upbeat, inspiring talk, she reveals the secrets of polyglots (people who speak multiple languages) and shares four principles to help unlock your own hidden language talent -- and have fun while doing it.",
+      "duration": "PT1M18S",
+      "view_count": 37177,
+      "like_count": 893,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=tNOYoJib0XE"
+    },
+    {
+      "id": "Kxw_e4bDxoQ",
+      "title": "The Invisible Infrastructure in the Sky | Adam Bry | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-12T15:00:26Z",
+      "description": "Drones aren't just weapons of war; they're becoming first responders, infrastructure inspectors and guardians of the grid. Adam Bry, who leads the top drone manufacturer in the US, shows how autonomous flying robots are transforming emergency response and public safety — from detecting faulty power lines and preventing wildfires to catching crime in real time. Watch as he demos the technology live from the TED stage, piloting a drone in Tokyo from his laptop in Vancouver. (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/adambry\n\nhttps://youtu.be/Kxw_e4bDxoQ\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Drones",
+      "duration": "PT9M35S",
+      "view_count": 15059,
+      "like_count": 391,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=Kxw_e4bDxoQ"
+    },
+    {
+      "id": "6bIORK0izg4",
+      "title": "Why the Best Ideas Come from Play | Maxwell Pearce | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-11T15:00:23Z",
+      "description": "Coaches kept telling Maxwell Pearce to stick to the fundamentals. Good thing he didn't listen. A Harlem Globetrotter and artist, he went on to build a global reputation for gravity-defying dunks and a theory that the same playful rule-breaking is what powers progress in every field. In this joyful talk, he makes the case that play isn't the opposite of serious work — it's the secret ingredient behind it. (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/maxwellpearce\n\nhttps://youtu.be/6bIORK0izg4\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Creativity",
+      "duration": "PT9M56S",
+      "view_count": 14071,
+      "like_count": 403,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=6bIORK0izg4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-14T17:53:48Z",
+    "count": 5
+  }
+}

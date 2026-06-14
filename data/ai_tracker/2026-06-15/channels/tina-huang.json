@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Tina Huang",
+    "tier": "education_fundamentals",
+    "handle": "@TinaHuang1",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UC2UXDak6o7rBm23k3Vv5dww"
+  },
+  "date": "2026-06-15",
+  "result": [
+    {
+      "id": "d9cnud8KYFk",
+      "title": "My 2026 AI Tool Stack",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-14T15:55:23Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT28S",
+      "view_count": 1256,
+      "like_count": 67,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=d9cnud8KYFk"
+    },
+    {
+      "id": "Eq2mnoa4Kxo",
+      "title": "Canceling Subscriptions, Building Local AI Agents",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-10T15:00:06Z",
+      "description": "I've been on a cancellation spree lately.\n\nThere are tools I was paying for monthly that I realized I could just build myself, better, more specific to what I actually need, and free to run after the initial build.\n\nThe one that started it was accounting software. I was paying for something that handled maybe 80% of what I needed, and the other 20% was always a workaround. So I built my own using open-source AI, hosted locally.\nAnd then I started looking at everything else the same way. What am I paying for that's only 80% of what I need? What's too specific for any company to build for me?\n\nThe answer was more things than I expected.\n\nLocal agents are more accessible than people think right now. You don't need a huge technical background to get started. And the privacy angle alone, keeping your data on your own machine, is worth it for certain workflows.\nWhat's a subscription you have that you've thought about replacing? Drop it in the comments 👇",
+      "duration": "PT15S",
+      "view_count": 17287,
+      "like_count": 292,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=Eq2mnoa4Kxo"
+    },
+    {
+      "id": "SaVehcXEPZ0",
+      "title": "Cowork Built Me 5 things Yesterday In My Sleep",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-07T15:00:17Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT24S",
+      "view_count": 20285,
+      "like_count": 445,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=SaVehcXEPZ0"
+    },
+    {
+      "id": "l1YqN93sN3w",
+      "title": "Claude Cowork Fundamentals",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-04T15:02:15Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT28S",
+      "view_count": 33398,
+      "like_count": 896,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=l1YqN93sN3w"
+    },
+    {
+      "id": "OxJo1fy7_Mo",
+      "title": "AI Agents Fail",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-01T15:00:22Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT20S",
+      "view_count": 18981,
+      "like_count": 384,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=OxJo1fy7_Mo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-14T17:53:56Z",
+    "count": 5
+  }
+}
