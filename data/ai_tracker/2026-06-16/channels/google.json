@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-16",
+  "result": [
+    {
+      "id": "TMQkISHKH6g",
+      "title": "Search explains the offside rule 🚩",
+      "channel_title": "Google",
+      "published_at": "2026-06-15T18:54:13Z",
+      "description": "No more guessing. We’re using Search to break down the offside rule once and for all.\n\n#GoogleSearch",
+      "duration": "PT37S",
+      "view_count": 563,
+      "like_count": 23,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=TMQkISHKH6g"
+    },
+    {
+      "id": "BwqhoWERQIo",
+      "title": "The Most Searched Sport | Bicycle kick breakdown",
+      "channel_title": "Google",
+      "published_at": "2026-06-13T16:02:54Z",
+      "description": "Inspired by moves like Zlatan’s? Search what you see with AI Mode in Google Search. \n\n#GooglePartner",
+      "duration": "PT16S",
+      "view_count": 263630,
+      "like_count": 1085,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=BwqhoWERQIo"
+    },
+    {
+      "id": "J2oAw1td51Q",
+      "title": "The ultimate office tour for a sports fan",
+      "channel_title": "Google",
+      "published_at": "2026-06-13T14:14:36Z",
+      "description": "The @NBA welcomed us into their headquarters in NYC, where we met the most legendary basketball trophy of them all. #LarryOBrienTrophy 🏀🏆 \n\nProud sponsor of the NBA.",
+      "duration": "PT30S",
+      "view_count": 9225,
+      "like_count": 333,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=J2oAw1td51Q"
+    },
+    {
+      "id": "bDiULGfJ5cs",
+      "title": "Search explains the soccer positions ⚽️",
+      "channel_title": "Google",
+      "published_at": "2026-06-12T22:06:49Z",
+      "description": "Midfielders, forwards, defenders… what does it all mean? We used Search to find out who does what. \n\n#GoogleSearch",
+      "duration": "PT42S",
+      "view_count": 10600,
+      "like_count": 191,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=bDiULGfJ5cs"
+    },
+    {
+      "id": "gPx12V4yiIk",
+      "title": "The Most Searched Sport",
+      "channel_title": "Google",
+      "published_at": "2026-06-11T15:59:37Z",
+      "description": "Big match days inspire even bigger questions ⚽ Break down all parts of the beautiful game, from tactical whys to squad comparisons, with AI Mode in Google Search.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M1S",
+      "view_count": 1038031,
+      "like_count": 741,
+      "comment_count": 50,
+      "url": "https://www.youtube.com/watch?v=gPx12V4yiIk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-15T19:58:23Z",
+    "count": 5
+  }
+}

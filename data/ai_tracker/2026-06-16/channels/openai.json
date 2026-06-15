@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-16",
+  "result": [
+    {
+      "id": "TDM2Dz_MuPk",
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T18:02:23Z",
+      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M products — helping improve how product information is organized, differentiated, and understood.\n\nNext up? Pointing Codex at their gnarliest problems.\nhttps://openai.com/index/wayfair/",
+      "duration": "PT50S",
+      "view_count": 786,
+      "like_count": 62,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk"
+    },
+    {
+      "id": "_jNbM8pV9oI",
+      "title": "Codex as a Solutions Engineering Partner",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T13:03:41Z",
+      "description": "“A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI. \n\nStephanie points Codex to Trustpilot reviews and will mock up a customer website based on the feedback to show them how easy it is to make changes. \n\nCodex can be a partner in every sort of context for you ⬇️ https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "duration": "PT1M14S",
+      "view_count": 3394,
+      "like_count": 129,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI"
+    },
+    {
+      "id": "NxAxwsu6_Zs",
+      "title": "How Payward Ships Faster with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-14T22:44:45Z",
+      "description": "\"Without Codex, we probably would be six months behind where we are today.\" \n\nKamo Asatryan and his team are building the core infrastructure to power inference across all products at Payward. Speed is the #1 value for his team and Codex has unlocked the ability to ship faster. 🚀 \n\nIf you like to move slow 🐢 , don't click here: https://chatgpt.com/codex",
+      "duration": "PT52S",
+      "view_count": 3921,
+      "like_count": 124,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs"
+    },
+    {
+      "id": "Rlju1Z9e110",
+      "title": "Analyze earnings and update your investment thesis with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-12T20:36:47Z",
+      "description": "See how the public equity investing plugin for Codex turns a company’s latest quarter into a post-earnings analysis. \n\nUsing connected data from sources like Quartr, Daloopa, and S&P Global, Codex evaluates a company’s growth drivers, guidance, margin trends, and quality of print. It then packages the analysis into bull, base, and bear cases, a monitoring checklist, and can create detailed Excel workbooks or presentation-ready PowerPoint decks.\n\nMore than 5 million people now use Codex every week, with researchers, investors, and bankers and operators among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\n\nTry the plugin today: https://chatgpt.com/plugins/share/8f2f2fb7215f4688a0853afd038f2a1a",
+      "duration": "PT1M29S",
+      "view_count": 11287,
+      "like_count": 350,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110"
+    },
+    {
+      "id": "sU9-u5p-jA0",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-12T16:24:47Z",
+      "description": "What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market intelligence with AI?\n\nIn this customer story, LSEG shares how it's using ChatGPT Enterprise and OpenAI APIs to accelerate insight generation, speed up product innovation, and help employees and customers make better decisions with confidence.\n\nHear from Emily Prince, Group Head of Enterprise AI, and Max Grigoryev, Group Director AI Products, as they discuss scaling AI responsibly, transforming workflows, and bringing trusted financial data into AI-powered experiences.\n\nRead the full story: www.openai.com/index/lseg",
+      "duration": "PT2M31S",
+      "view_count": 4009,
+      "like_count": 137,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-15T19:58:22Z",
+    "count": 5
+  }
+}
