@@ -14,14 +14,26 @@
   "date": "2026-06-15",
   "result": [
     {
+      "id": "NxAxwsu6_Zs",
+      "title": "How Payward Ships Faster with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-14T22:44:45Z",
+      "description": "\"Without Codex, we probably would be six months behind where we are today.\" \n\nKamo Asatryan and his team are building the core infrastructure to power inference across all products at Payward. Speed is the #1 value for his team and Codex has unlocked the ability to ship faster. 🚀 \n\nIf you like to move slow 🐢 , don't click here: https://chatgpt.com/codex",
+      "duration": "PT52S",
+      "view_count": 2831,
+      "like_count": 106,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs"
+    },
+    {
       "id": "Rlju1Z9e110",
       "title": "Analyze earnings and update your investment thesis with Codex",
       "channel_title": "OpenAI",
       "published_at": "2026-06-12T20:36:47Z",
       "description": "See how the public equity investing plugin for Codex turns a company’s latest quarter into a post-earnings analysis. \n\nUsing connected data from sources like Quartr, Daloopa, and S&P Global, Codex evaluates a company’s growth drivers, guidance, margin trends, and quality of print. It then packages the analysis into bull, base, and bear cases, a monitoring checklist, and can create detailed Excel workbooks or presentation-ready PowerPoint decks.\n\nMore than 5 million people now use Codex every week, with researchers, investors, and bankers and operators among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\n\nTry the plugin today: https://chatgpt.com/plugins/share/8f2f2fb7215f4688a0853afd038f2a1a",
       "duration": "PT1M29S",
-      "view_count": 9673,
-      "like_count": 311,
+      "view_count": 10822,
+      "like_count": 339,
       "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=Rlju1Z9e110"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-06-12T16:24:47Z",
       "description": "What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market intelligence with AI?\n\nIn this customer story, LSEG shares how it's using ChatGPT Enterprise and OpenAI APIs to accelerate insight generation, speed up product innovation, and help employees and customers make better decisions with confidence.\n\nHear from Emily Prince, Group Head of Enterprise AI, and Max Grigoryev, Group Director AI Products, as they discuss scaling AI responsibly, transforming workflows, and bringing trusted financial data into AI-powered experiences.\n\nRead the full story: www.openai.com/index/lseg",
       "duration": "PT2M31S",
-      "view_count": 3604,
-      "like_count": 126,
+      "view_count": 3886,
+      "like_count": 135,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-06-12T09:53:26Z",
       "description": "What happens when one of the world's largest language-learning platforms combines human expertise with AI?\n\nIn this customer story, Preply shares how it's using OpenAI to create more personalized learning experiences for learners around the world—while giving tutors more time to focus on teaching, motivation, and human connection.\n\nHear from Preply's Co-founder & CTO, Dmytro Voloshyn, Staff Product Manager, Emily Stott, and tutor Michelle Garcia Ramos as they discuss how AI is transforming language learning and helping build a future that is human-led and AI-enabled.\n\nRead the full story: www.openai.com/index/preply",
       "duration": "PT3M6S",
-      "view_count": 2956,
-      "like_count": 89,
+      "view_count": 3162,
+      "like_count": 96,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=-Jm-Bf3g9r8"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-12T00:15:38Z",
       "description": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, applied styling, network traffic, and performance profiles while working on web applications.\n\nIn this demo, Codex investigates a slow chat app by profiling interactions and inspecting network requests, then fixes the issues and supports the changes with clear measurements.\n\nTo use this functionality, enable Developer mode in the Browser settings of your Codex app and approve CDP access when Codex starts inspecting a website.\n\nLearn more here: https://developers.openai.com/codex/app/browser#developer-mode\n\nChapters:\n00:00 CDP support in Browser Use\n00:23 Enable Developer Mode and approve access\n00:37 Debugging a slow chat app\n00:56 Profiling real bottlenecks\n01:15 More in-depth browser capabilities",
       "duration": "PT1M28S",
-      "view_count": 17580,
-      "like_count": 456,
+      "view_count": 18249,
+      "like_count": 464,
       "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI"
-    },
-    {
-      "id": "K6wxZOqD-HY",
-      "title": "Codex for Creatives: Riff, Design, Ship",
-      "channel_title": "OpenAI",
-      "published_at": "2026-06-11T21:28:51Z",
-      "description": "“Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.  \n\nDon’t sleep on Codex for creatives. It understands brand books, style guides, fonts, composition and can create ship-worthy full funnel campaign visuals in a few hours. \n\nPut Codex to work. Tell us what you create. \n\nhttps://lnkd.in/dnxrM282",
-      "duration": "PT1M7S",
-      "view_count": 4445,
-      "like_count": 123,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-14T17:53:51Z",
+    "generated_at": "2026-06-15T10:40:47Z",
     "count": 5
   }
 }
