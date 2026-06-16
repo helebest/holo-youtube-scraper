@@ -14,15 +14,27 @@
   "date": "2026-06-16",
   "result": [
     {
+      "id": "4C06q5TaMAo",
+      "title": "The forgotten violence that shaped modern China - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-15T20:24:30Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 115665,
+      "like_count": 3569,
+      "comment_count": 215,
+      "url": "https://www.youtube.com/watch?v=4C06q5TaMAo"
+    },
+    {
       "id": "2JZtp7i8ICE",
       "title": "What sanctions are actually designed to do - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-13T21:26:49Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 172245,
-      "like_count": 4504,
-      "comment_count": 237,
+      "view_count": 182466,
+      "like_count": 4864,
+      "comment_count": 256,
       "url": "https://www.youtube.com/watch?v=2JZtp7i8ICE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-12T22:04:27Z",
       "description": "",
       "duration": "PT39S",
-      "view_count": 349771,
-      "like_count": 6831,
-      "comment_count": 294,
+      "view_count": 374119,
+      "like_count": 7628,
+      "comment_count": 315,
       "url": "https://www.youtube.com/watch?v=z5BkwnEBw8I"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-11T20:28:05Z",
       "description": "",
       "duration": "PT57S",
-      "view_count": 27251,
-      "like_count": 376,
-      "comment_count": 32,
+      "view_count": 28761,
+      "like_count": 399,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=y9eGsI2C9iY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-10T22:09:35Z",
       "description": "",
       "duration": "PT1M11S",
-      "view_count": 29670,
-      "like_count": 631,
+      "view_count": 31040,
+      "like_count": 648,
       "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=v-BMWHEaFdw"
-    },
-    {
-      "id": "U7aYxYwNS5Y",
-      "title": "Why Particle Physics Became a Victim of Its Own Success - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-09T22:12:49Z",
-      "description": "",
-      "duration": "PT40S",
-      "view_count": 56669,
-      "like_count": 827,
-      "comment_count": 30,
-      "url": "https://www.youtube.com/watch?v=U7aYxYwNS5Y"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-15T19:58:18Z",
+    "generated_at": "2026-06-16T09:37:31Z",
     "count": 5
   }
 }
