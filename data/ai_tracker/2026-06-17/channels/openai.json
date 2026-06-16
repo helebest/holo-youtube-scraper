@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-17",
+  "result": [
+    {
+      "id": "CFqjjKp9Y-Q",
+      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-16T17:00:02Z",
+      "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI’s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models need to be judged on next.\n\nChapters\n\n00:00:24 Growing up at OpenAI\n00:03:10 Why reasoning changed everything\n00:06:28 What made o1 surprising\n00:11:20 Why old benchmarks stopped working\n00:14:45 What makes a good benchmark\n00:17:35 Why evals are getting harder\n00:22:09 Measuring voice and vision models\n00:24:48 Testing models on real science\n00:33:23 How OpenAI tracks frontier progress\n00:40:47 What AI means for work",
+      "duration": "PT44M23S",
+      "view_count": 1313,
+      "like_count": 68,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
+    },
+    {
+      "id": "u9zLlcsCDiQ",
+      "title": "Build and test iOS apps without leaving Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T23:20:32Z",
+      "description": "More of the iOS app loop, now inside Codex.\n\nThe Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.\n\nShoutout to the open source projects behind this:\n• Serve-sim powers the streaming simulator by \n@Baconbrix  https://github.com/EvanBacon/serve-sim\n• SnapshotPreviews extracts SwiftUI previews by Sentry https://github.com/getsentry/SnapshotPreviews",
+      "duration": "PT42S",
+      "view_count": 68403,
+      "like_count": 2244,
+      "comment_count": 142,
+      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
+    },
+    {
+      "id": "TDM2Dz_MuPk",
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T18:02:23Z",
+      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M products — helping improve how product information is organized, differentiated, and understood.\n\nNext up? Pointing Codex at their gnarliest problems.\nhttps://openai.com/index/wayfair/",
+      "duration": "PT50S",
+      "view_count": 4568,
+      "like_count": 136,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk"
+    },
+    {
+      "id": "_jNbM8pV9oI",
+      "title": "Codex as a Solutions Engineering Partner",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T13:03:41Z",
+      "description": "“A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI. \n\nStephanie points Codex to Trustpilot reviews and will mock up a customer website based on the feedback to show them how easy it is to make changes. \n\nCodex can be a partner in every sort of context for you ⬇️ https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "duration": "PT1M14S",
+      "view_count": 5787,
+      "like_count": 178,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI"
+    },
+    {
+      "id": "NxAxwsu6_Zs",
+      "title": "How Payward Ships Faster with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-14T22:44:45Z",
+      "description": "\"Without Codex, we probably would be six months behind where we are today.\" \n\nKamo Asatryan and his team are building the core infrastructure to power inference across all products at Payward. Speed is the #1 value for his team and Codex has unlocked the ability to ship faster. 🚀 \n\nIf you like to move slow 🐢 , don't click here: https://chatgpt.com/codex",
+      "duration": "PT52S",
+      "view_count": 4516,
+      "like_count": 131,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-16T19:53:25Z",
+    "count": 5
+  }
+}
