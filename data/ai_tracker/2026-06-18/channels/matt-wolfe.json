@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-06-18",
+  "result": [
+    {
+      "id": "_7BHqZayPOc",
+      "title": "PewDiePie Wants To Take Down The Big AI Companies",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-17T16:12:43Z",
+      "description": "Try Recraft V4.1 now and experience an image generation model with exceptional visual taste : https://go.recraft.ai/MattWolfe\n\nPewDiePie built an open source AI workspace called Project Odysseus and I put it through its paces so you don't have to.\n\nOdysseus is a self-hosted AI platform that lets you run local AI models, connect APIs, do deep research, manage files, and keep your data completely off the cloud. Think ChatGPT or Claude but running on your own machine, with your own models, and full privacy control.\n\nIn this video I install it on my M3 Mac, connect local models through Ollama, run model comparisons between Gemma 3 12B and GPT 5.5, test the deep research module, and explore every feature the app has to offer including the brain memory system, the model comparison scoreboard, and the image editor (spoiler: some things work great, some things I absolutely could not get to work no matter how hard I tried).\n\nIf you've ever wanted to run AI completely offline without paying API fees or sending your data to a server, this is worth knowing about.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nhttps://pewdiepie-archdaemon.github.io/odysseus/\nhttps://github.com/pewdiepie-archdaemon/odysseus\nhttps://www.youtube.com/watch?v=rAzT5lcezPs&pp=ygUJcGV3ZGllcGll\nhttps://ollama.com/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n #AITools #LocalAI #PewDiePie\n\nTime Stamps:\n00:00 PewDiePie's Secret AI Project\n00:23 What Odysseus Actually Is\n01:39 GitHub Setup & Install\n04:18 Sponsor: Recraft\n06:12 Sidebar Tour\n07:04 Connecting Ollama & Local Models\n08:13 Testing The Local Model\n09:50 Adding OpenAI's API\n10:41 Trying A Bigger Local Model\n11:18 Brain Memory\n11:49 Model Compare & SVG Test\n16:39 Deep Research Test\n21:01 Scoreboard Results\n23:01 Calendar, Gallery & Notes Tour\n23:54 Fighting The Image Editor\n27:13 What Worked, What Didn't\n29:43 The Future Of Local AI\n31:00 Final Thoughts",
+      "duration": "PT31M47S",
+      "view_count": 4327,
+      "like_count": 285,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=_7BHqZayPOc"
+    },
+    {
+      "id": "NQof8hG8FwE",
+      "title": "The Most Insane New Apple AI Features",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-15T23:35:04Z",
+      "description": "SAVE ✅ this so you can try these out later!\n\nApple announced a bunch of cool new Siri AI features at WWDC 2026 and showed off some crazy use-cases. \n\nI shared my personal favorite at the end of the video, but let me know in the comments which one you're most excited about.\n\n#AI #apple #siri #ainews #appleintelligence",
+      "duration": "PT1M48S",
+      "view_count": 6786,
+      "like_count": 206,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=NQof8hG8FwE"
+    },
+    {
+      "id": "nydHKXjwu0U",
+      "title": "AI News: An INSANE Week… Here’s What Matters",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-12T15:00:18Z",
+      "description": "Here's the AI News you probably missed this week.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nClaude Fable & Mythos 5: https://www.anthropic.com/news/claude-fable-5-mythos-5\nAnthropic Downgrade Transparency: https://fortune.com/2026/06/11/anthropic-fable-5-silent-downgrade-backlash-national-security-transparency/\nCube Basher: https://mreflow.github.io/cube-basher/\nCube Basher Repo: https://github.com/mreflow/cube-basher\nApple Intelligence Update: https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/\nNew Siri AI: https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/\nApple AI Unveiled: https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/\nNotebookLM Research: https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/\nGemini Live Translate: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/\nDiffusionGemma: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/\nPolicy on AI Exponential: https://darioamodei.com/post/policy-on-the-ai-exponential\nOpenAI's Plan: https://openai.com/index/built-to-benefit-everyone-our-plan/\nChatGPT Email Sending: https://x.com/ChatGPTapp/status/2062944254591430917\nOpenAI S-1 Filing: https://openai.com/index/openai-submits-confidential-s-1/\nSpaceX $75B IPO: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/spacex-officially-raises-75-billion-in-record-breaking-ipo-t5v8TEdBcsthXAazNflu\nCoinbase for Agents: https://www.coinbase.com/blog/coinbase-for-agents\nMidjourney Hardware Launch: https://x.com/DavidSHolz/status/2064140944149189055\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:07 Claude Mythos / Fable 5\n5:35 Fable Coding Examples\n10:43 Apple Intelligence and Siri\n18:25 NotebookLM Updates\n19:45 Gemini 3.5 Live Translate\n21:45 DiffusionGemma\n23:56 Dario's Manifesto\n25:40 Sam's Manifesto\n27:07 Email in ChatGPT\n27:27 OpenAI IPO\n27:46 Starlink IPO\n28:23 Coinbase for Agents\n28:41 MidJourney Hardware\n29:11 Final Thoughts\n30:40 I've Been Bonked",
+      "duration": "PT30M52S",
+      "view_count": 90243,
+      "like_count": 2779,
+      "comment_count": 224,
+      "url": "https://www.youtube.com/watch?v=nydHKXjwu0U"
+    },
+    {
+      "id": "1greFablcZY",
+      "title": "Unpopular opinion: you don't need to ask ChatGPT everything",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-11T12:55:30Z",
+      "description": "This might be an unpopular opinion, but most people don't need to use cloud AI models for everything.\n\nMost people are using the most state-of-the-art AI models from ChatGPT or Claude to summarize documents or write emails for them, and frankly these models have gotten too smart for that. You don't need all the compute for everyday tasks. \n\nRunning local models directly on your computer means you don't need the internet, your data is completely private, and you're not at the whims of the big AI labs. \n\nWith amazing new local models and even better hardware, your computer can handle 90% of the simple things we ask AI to do.\n\nWould you switch to using a local AI model?\n\n#ai #ainews #NVIDIA #chatGPT #claude",
+      "duration": "PT1M14S",
+      "view_count": 9055,
+      "like_count": 317,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=1greFablcZY"
+    },
+    {
+      "id": "2lE1-5hBfKk",
+      "title": "Why Everyone Is Freaking Out About Fable 5 (Mythos)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-11T01:34:23Z",
+      "description": "Here's a breakdown of what you need know about Mythos 5.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nBlog Post: https://www.anthropic.com/news/claude-fable-5-mythos-5\nDan Shipper Post: https://x.com/danshipper/status/2064393970856124501\nExamples 1: https://x.com/minchoi/status/2064547105662996921?s=12\nExamples 2: https://x.com/minchoi/status/2064729915623440759?s=12\nGripes: https://x.com/scobleizer/status/2064641097310335294?s=12\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #artificialintelligence \n\nTimestamps:\n0:00 Intro\n0:41 What is Fable 5?\n1:45 Pricing & Temporary Access\n2:36 Misinformation: Fable 5 vs. Mythos 5\n4:05 Mind-Blowing Use Cases & Demos\n7:02 The Downsides: Heavy Token Usage\n7:54 The Backlash Over Safety Constraints\n10:04 Hidden Restrictions on AI Development\n11:18 AI Power Concentration & Open Source\n12:10 Analyzing the Coding Benchmarks\n15:27 The Overall Verdict on Fable 5\n15:55 Hands-On: Testing Safety Guardrails\n17:16 Hands-On: Coding a 3D Game Clone\n19:48 Conclusion & Outro",
+      "duration": "PT20M45S",
+      "view_count": 66382,
+      "like_count": 2401,
+      "comment_count": 245,
+      "url": "https://www.youtube.com/watch?v=2lE1-5hBfKk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-17T18:37:29Z",
+    "count": 5
+  }
+}

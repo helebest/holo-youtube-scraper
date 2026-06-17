@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-18",
+  "result": [
+    {
+      "id": "Tgubu3HhreY",
+      "title": "At least we have the memories…",
+      "channel_title": "Google",
+      "published_at": "2026-06-16T19:17:55Z",
+      "description": "The pics are always a surprise. Want another one? Search “toy story 5” on Google 🩵",
+      "duration": "PT15S",
+      "view_count": 29973,
+      "like_count": 810,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=Tgubu3HhreY"
+    },
+    {
+      "id": "ag_g-ksGBdg",
+      "title": "Where did the word soccer actually come from? 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-06-16T16:07:02Z",
+      "description": "The answer might shock you! The British invented the word “soccer” 🇬🇧 Here’s the story of how a piece of 1800s slang crossed the ocean.\n\n#GoogleSearch",
+      "duration": "PT50S",
+      "view_count": 8963,
+      "like_count": 269,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=ag_g-ksGBdg"
+    },
+    {
+      "id": "oy8_DGRTinQ",
+      "title": "Build your custom soccer schedule with Search 📅",
+      "channel_title": "Google",
+      "published_at": "2026-06-15T22:59:58Z",
+      "description": "Search your favorite teams and players to build a personalized match schedule in seconds.\n\n#GooglePartner",
+      "duration": "PT20S",
+      "view_count": 4621,
+      "like_count": 112,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=oy8_DGRTinQ"
+    },
+    {
+      "id": "VN1lRt5lsv4",
+      "title": "Bend it, dip it, or knuckle it with a kick simulator in Search 👟⚽️",
+      "channel_title": "Google",
+      "published_at": "2026-06-15T21:15:34Z",
+      "description": "Tap AI Mode and select the “Pro” model to build your own.\n\n#GooglePartner",
+      "duration": "PT20S",
+      "view_count": 10403,
+      "like_count": 261,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=VN1lRt5lsv4"
+    },
+    {
+      "id": "TMQkISHKH6g",
+      "title": "Search explains the offside rule 🚩",
+      "channel_title": "Google",
+      "published_at": "2026-06-15T18:54:13Z",
+      "description": "No more guessing. We’re using Search to break down the offside rule once and for all.\n\n#GoogleSearch",
+      "duration": "PT37S",
+      "view_count": 9896,
+      "like_count": 235,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=TMQkISHKH6g"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-17T18:37:29Z",
+    "count": 5
+  }
+}
