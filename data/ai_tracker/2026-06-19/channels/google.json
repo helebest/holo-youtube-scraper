@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-19",
+  "result": [
+    {
+      "id": "lafbmfUxN2k",
+      "title": "Organize your vision with a notebook in Gemini",
+      "channel_title": "Google",
+      "published_at": "2026-06-18T16:49:33Z",
+      "description": "From a 4am brain dump to a master plan. 📝 Organize your vision with a notebook in Gemini.\n\n #GoogleGemini",
+      "duration": "PT51S",
+      "view_count": 701,
+      "like_count": 56,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=lafbmfUxN2k"
+    },
+    {
+      "id": "07tnPL6yorU",
+      "title": "Their turf. Their time. This is @ussoccer  🦅 #GooglePartner",
+      "channel_title": "Google",
+      "published_at": "2026-06-17T23:53:46Z",
+      "description": "The World Is Searching | The Stars and Stripes",
+      "duration": "PT31S",
+      "view_count": 4581,
+      "like_count": 231,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=07tnPL6yorU"
+    },
+    {
+      "id": "Tgubu3HhreY",
+      "title": "At least we have the memories…",
+      "channel_title": "Google",
+      "published_at": "2026-06-16T19:17:55Z",
+      "description": "The pics are always a surprise. Want another one? Search “toy story 5” on Google 🩵",
+      "duration": "PT15S",
+      "view_count": 48329,
+      "like_count": 1133,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=Tgubu3HhreY"
+    },
+    {
+      "id": "ag_g-ksGBdg",
+      "title": "Where did the word soccer actually come from? 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-06-16T16:07:02Z",
+      "description": "The answer might shock you! The British invented the word “soccer” 🇬🇧 Here’s the story of how a piece of 1800s slang crossed the ocean.\n\n#GoogleSearch",
+      "duration": "PT50S",
+      "view_count": 11953,
+      "like_count": 321,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=ag_g-ksGBdg"
+    },
+    {
+      "id": "oy8_DGRTinQ",
+      "title": "Build your custom soccer schedule with Search 📅",
+      "channel_title": "Google",
+      "published_at": "2026-06-15T22:59:58Z",
+      "description": "Search your favorite teams and players to build a personalized match schedule in seconds.\n\n#GooglePartner",
+      "duration": "PT20S",
+      "view_count": 5441,
+      "like_count": 125,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=oy8_DGRTinQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-18T18:38:24Z",
+    "count": 5
+  }
+}

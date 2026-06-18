@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-06-19",
+  "result": [
+    {
+      "id": "W23KEEcFqTk",
+      "title": "How Community Notes Reduce Viral Misinformation | Keith Coleman, Jay Baxter | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-18T15:00:27Z",
+      "description": "Community Notes on X started with a wild idea: Instead of tech companies deciding what's true, what if you let people fact-check each other? Jay Baxter and Keith Coleman, who helped build the crowdsourced system adding context to misleading posts, discuss how the program reduces viral misinformation — and why people across the political spectrum trust it. In conversation with TED guest curator Audrey Tang, they discuss how their \"surprising agreement\" algorithm could reveal the common ground that quietly exists across a polarized internet. (Followed by a note from TED guest curators Divya Siddarth and Audrey Tang) (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/baxtercoleman\n\nhttps://youtu.be/W23KEEcFqTk\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Technology #X",
+      "duration": "PT27M7S",
+      "view_count": 2321,
+      "like_count": 114,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=W23KEEcFqTk"
+    },
+    {
+      "id": "H9fwa6kn28c",
+      "title": "\"Take a hike\" just got a whole new meaning #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-17T22:00:36Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 7290,
+      "like_count": 219,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=H9fwa6kn28c"
+    },
+    {
+      "id": "NVTI-y5CeY8",
+      "title": "Clearing tropical forests is also a threat to human health and well-being #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-16T22:00:07Z",
+      "description": "Clearing tropical forests isn't just dangerous to the natural world — it's also a threat to human health and wellbeing, says physician Neil Vora. Tracing how environmental devastation led to deadly epidemics like Ebola, he presents three ways deforestation unleashes disease and calls on each of us to help preserve the delicate ecological balance we depend upon.",
+      "duration": "PT1M13S",
+      "view_count": 17444,
+      "like_count": 650,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=NVTI-y5CeY8"
+    },
+    {
+      "id": "EbN-jQztAgA",
+      "title": "Reimagining Traditional Architecture for Modern Needs | Riyad Joucka | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-16T15:00:28Z",
+      "description": "Architect Riyad Joucka believes your home should be a mirror of who you are. Using 3D printing and ancient architectural wisdom, he's designing efficient, personal homes that respond to context, climate and culture without sacrificing character. He makes the case that we should start designing for people, not the market. (Recorded at TED@BCG on October 23, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/riyadjoucka\n\nhttps://youtu.be/EbN-jQztAgA\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Architecture",
+      "duration": "PT8M13S",
+      "view_count": 11760,
+      "like_count": 312,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=EbN-jQztAgA"
+    },
+    {
+      "id": "z-WfDn_0AWE",
+      "title": "How to Build a Career You Love | Bill Gurley | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-15T15:00:14Z",
+      "description": "Passion doesn't drive work — fascination does, says venture capitalist and author Bill Gurley. Drawing on years of research into the lives of high achievers, he shows why obsessive, lifelong learning is the real engine of career excellence. (Recorded at TED2026 on April 17, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/billgurley\n\nhttps://youtu.be/z-WfDn_0AWE\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #PersonalGrowth",
+      "duration": "PT12M41S",
+      "view_count": 29968,
+      "like_count": 1095,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=z-WfDn_0AWE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-18T18:38:19Z",
+    "count": 5
+  }
+}
