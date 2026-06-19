@@ -14,14 +14,38 @@
   "date": "2026-06-19",
   "result": [
     {
+      "id": "UxY8zJKRrHU",
+      "title": "Improving health intelligence in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-18T19:10:18Z",
+      "description": "Health is one of the most meaningful ways people use ChatGPT. \n\nEvery week, more than 230 million people turn to ChatGPT for help with health and wellness questions: making sense of health information, understanding lab results, preparing for appointments, navigating insurance, building healthier habits, and figuring out what to ask next.\n\nWith GPT‑5.5 Instant, we’re seeing a substantial step forward in health, with improvements in recognizing when urgent care may be needed, asking for relevant context, explaining uncertainty, and making complex information easier to understand. On our most challenging health evaluations, GPT‑5.5 Instant now performs at a level comparable to our frontier Thinking models. Because it is available to all free users in ChatGPT, more people can benefit from these improvements.\n\nThat progress reflects both advances in model capabilities and the physician-led work behind our health evaluations. Across our efforts, a global network of physicians helps define what “good” looks like in real-world health situations by reviewing example model responses, describing ideal behavior, and identifying failure modes. Working with physicians gives us a way to measure progress in health and improve how ChatGPT responds over time.\n\nLearn more: https://openai.com/index/improving-health-intelligence-in-chatgpt/",
+      "duration": "PT2M52S",
+      "view_count": 5748,
+      "like_count": 297,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU"
+    },
+    {
+      "id": "ZK3JhU73W18",
+      "title": "Record & Replay in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-18T18:57:34Z",
+      "description": "Show Codex a workflow once. Reuse it as a skill.\n\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\n\nCodex turns that demo into an inspectable, editable skill. \n\nYou control when recording starts and stops.",
+      "duration": "PT2M5S",
+      "view_count": 36950,
+      "like_count": 2252,
+      "comment_count": 132,
+      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18"
+    },
+    {
       "id": "rOLKQJMLBHI",
       "title": "Build and test iOS apps without leaving Codex!",
       "channel_title": "OpenAI",
       "published_at": "2026-06-17T18:01:46Z",
       "description": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.",
       "duration": "PT42S",
-      "view_count": 5981,
-      "like_count": 192,
+      "view_count": 7386,
+      "like_count": 235,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI"
     },
@@ -32,9 +56,9 @@
       "published_at": "2026-06-16T17:00:02Z",
       "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI’s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models need to be judged on next.\n\nChapters\n\n00:00:24 Growing up at OpenAI\n00:03:10 Why reasoning changed everything\n00:06:28 What made o1 surprising\n00:11:20 Why old benchmarks stopped working\n00:14:45 What makes a good benchmark\n00:17:35 Why evals are getting harder\n00:22:09 Measuring voice and vision models\n00:24:48 Testing models on real science\n00:33:23 How OpenAI tracks frontier progress\n00:40:47 What AI means for work",
       "duration": "PT44M23S",
-      "view_count": 12407,
-      "like_count": 378,
-      "comment_count": 60,
+      "view_count": 13061,
+      "like_count": 393,
+      "comment_count": 64,
       "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-06-15T23:20:32Z",
       "description": "More of the iOS app loop, now inside Codex.\n\nThe Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.\n\nShoutout to the open source projects behind this:\n• Serve-sim powers the streaming simulator by \n@Baconbrix  https://github.com/EvanBacon/serve-sim\n• SnapshotPreviews extracts SwiftUI previews by Sentry https://github.com/getsentry/SnapshotPreviews",
       "duration": "PT42S",
-      "view_count": 122823,
-      "like_count": 3737,
-      "comment_count": 215,
+      "view_count": 128680,
+      "like_count": 3846,
+      "comment_count": 220,
       "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
-    },
-    {
-      "id": "TDM2Dz_MuPk",
-      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
-      "channel_title": "OpenAI",
-      "published_at": "2026-06-15T18:02:23Z",
-      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M products — helping improve how product information is organized, differentiated, and understood.\n\nNext up? Pointing Codex at their gnarliest problems.\nhttps://openai.com/index/wayfair/",
-      "duration": "PT50S",
-      "view_count": 5638,
-      "like_count": 145,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk"
-    },
-    {
-      "id": "_jNbM8pV9oI",
-      "title": "Codex as a Solutions Engineering Partner",
-      "channel_title": "OpenAI",
-      "published_at": "2026-06-15T13:03:41Z",
-      "description": "“A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI. \n\nStephanie points Codex to Trustpilot reviews and will mock up a customer website based on the feedback to show them how easy it is to make changes. \n\nCodex can be a partner in every sort of context for you ⬇️ https://openai.com/index/codex-for-every-role-tool-workflow/",
-      "duration": "PT1M14S",
-      "view_count": 6634,
-      "like_count": 196,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-18T18:38:23Z",
+    "generated_at": "2026-06-19T09:16:48Z",
     "count": 5
   }
 }
