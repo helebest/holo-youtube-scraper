@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-06-20",
+  "result": [
+    {
+      "id": "UxY8zJKRrHU",
+      "title": "Improving health intelligence in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-18T19:10:18Z",
+      "description": "Health is one of the most meaningful ways people use ChatGPT. \n\nEvery week, more than 230 million people turn to ChatGPT for help with health and wellness questions: making sense of health information, understanding lab results, preparing for appointments, navigating insurance, building healthier habits, and figuring out what to ask next.\n\nWith GPT‑5.5 Instant, we’re seeing a substantial step forward in health, with improvements in recognizing when urgent care may be needed, asking for relevant context, explaining uncertainty, and making complex information easier to understand. On our most challenging health evaluations, GPT‑5.5 Instant now performs at a level comparable to our frontier Thinking models. Because it is available to all free users in ChatGPT, more people can benefit from these improvements.\n\nThat progress reflects both advances in model capabilities and the physician-led work behind our health evaluations. Across our efforts, a global network of physicians helps define what “good” looks like in real-world health situations by reviewing example model responses, describing ideal behavior, and identifying failure modes. Working with physicians gives us a way to measure progress in health and improve how ChatGPT responds over time.\n\nLearn more: https://openai.com/index/improving-health-intelligence-in-chatgpt/",
+      "duration": "PT2M52S",
+      "view_count": 7527,
+      "like_count": 350,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU"
+    },
+    {
+      "id": "ZK3JhU73W18",
+      "title": "Record & Replay in Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-18T18:57:34Z",
+      "description": "Show Codex a workflow once. Reuse it as a skill.\n\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\n\nCodex turns that demo into an inspectable, editable skill. \n\nYou control when recording starts and stops.",
+      "duration": "PT2M5S",
+      "view_count": 53898,
+      "like_count": 2942,
+      "comment_count": 168,
+      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18"
+    },
+    {
+      "id": "rOLKQJMLBHI",
+      "title": "Build and test iOS apps without leaving Codex!",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-17T18:01:46Z",
+      "description": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.",
+      "duration": "PT42S",
+      "view_count": 8026,
+      "like_count": 259,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI"
+    },
+    {
+      "id": "CFqjjKp9Y-Q",
+      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-16T17:00:02Z",
+      "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI’s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models need to be judged on next.\n\nChapters\n\n00:00:24 Growing up at OpenAI\n00:03:10 Why reasoning changed everything\n00:06:28 What made o1 surprising\n00:11:20 Why old benchmarks stopped working\n00:14:45 What makes a good benchmark\n00:17:35 Why evals are getting harder\n00:22:09 Measuring voice and vision models\n00:24:48 Testing models on real science\n00:33:23 How OpenAI tracks frontier progress\n00:40:47 What AI means for work",
+      "duration": "PT44M23S",
+      "view_count": 13588,
+      "like_count": 402,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
+    },
+    {
+      "id": "u9zLlcsCDiQ",
+      "title": "Build and test iOS apps without leaving Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-15T23:20:32Z",
+      "description": "More of the iOS app loop, now inside Codex.\n\nThe Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.\n\nShoutout to the open source projects behind this:\n• Serve-sim powers the streaming simulator by \n@Baconbrix  https://github.com/EvanBacon/serve-sim\n• SnapshotPreviews extracts SwiftUI previews by Sentry https://github.com/getsentry/SnapshotPreviews",
+      "duration": "PT42S",
+      "view_count": 131667,
+      "like_count": 3950,
+      "comment_count": 221,
+      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-19T18:11:53Z",
+    "count": 5
+  }
+}

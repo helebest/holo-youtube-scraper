@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-06-20",
+  "result": [
+    {
+      "id": "U-jd4DdZyXw",
+      "title": "NVIDIA Certification: Real Talk from AI Professionals Who Got Certified at GTC",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-11T16:11:06Z",
+      "description": "What does it actually take to get NVIDIA Certified — and is it worth it?\n\nAt GTC, we sat down with five AI professionals who went through the certification process and came out the other side. They shared their stories: why they chose to get certified, how they prepared, and what changed afterward — in their skills, their confidence, and the way their teams work.\n\nFrom generative and agentic AI to physical AI, AI infrastructure, and accelerated data science — these are practitioners working at the edge of what's possible, and certification is how they're proving it.\n\nWhether you're exploring your first certification or leveling up in a specialized domain, this is the perspective you need from people who've done it.\n\nReady to get certified? Explore NVIDIA Certification programs → https://nvda.ws/4ubhCKl\n\n#NVIDIACertification #AICertification",
+      "duration": "PT3M25S",
+      "view_count": 3461,
+      "like_count": 141,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=U-jd4DdZyXw"
+    },
+    {
+      "id": "0B62mzkASs8",
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T20:54:33Z",
+      "description": "We asked people around the NVIDIA office what they really think about robotaxis.\n\nThe answers: better vibes, safer rides, precise pickups, no parking, and no awkward small talk.\n\nWatch the office takes, then learn how NVIDIA Halos OS helps build safety into AI-driven vehicles from the start: https://nvda.ws/4utsOCa",
+      "duration": "PT43S",
+      "view_count": 7395,
+      "like_count": 198,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=0B62mzkASs8"
+    },
+    {
+      "id": "GZABwnUHypA",
+      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T18:08:41Z",
+      "description": "What does it take to bring open models into the enterprise?\n\nOn the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss Mistral’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron Coalition.\n\n🎧 Listen now: https://nvda.ws/49Tw42q",
+      "duration": "PT31S",
+      "view_count": 3720,
+      "like_count": 73,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=GZABwnUHypA"
+    },
+    {
+      "id": "mYQR-xfqOPY",
+      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T15:57:32Z",
+      "description": "\"Open-weight models are closing the gap with proprietary AI — and Timothée Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permission systems right before write access becomes the norm.\n\n🔬Topics covered:\nHow open models and weights accelerate research\nMistral Forge: bringing enterprise-grade model customization to production\nThe Nemotron Coalition—what Mistral and NVIDIA are building together\n2.5x training gains on GB200s for large sparse mixture-of-experts models\nWhy AI agent permissions—especially write access—is important to solve\n\nChapters:\n00:00 – Introduction and Mistral’s origin story\n04:05 – The case for open weights and why the community builds faster\n09:34 – Mistral Forge: enterprise model customization in production\n14:21 – What enterprise customers actually want from AI right now\n18:46 – The hardest open problem: AI agent permissions and write access\"",
+      "duration": "PT21M34S",
+      "view_count": 2819,
+      "like_count": 62,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY"
+    },
+    {
+      "id": "TCOU1imv09U",
+      "title": "NVIDIA GTC 2026: Healthcare Special Address",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-09T23:00:05Z",
+      "description": "In her special address at GTC 2026, Kimberly Powell, Vice President of Healthcare and Life Sciences at NVIDIA, explores how AI, accelerated computing, and robotics are driving a once-in-a-generation transformation in healthcare. She highlights how open foundation models, agentic AI, and physical AI are enabling new breakthroughs across care delivery, drug discovery, and laboratory operations. By connecting digital dry labs with autonomous wet labs and advancing robotics that expand access to care worldwide, these technologies are accelerating discovery and improving patient outcomes. Together with industry leaders, NVIDIA is building the AI-powered platforms shaping the future of medicine.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT40M59S",
+      "view_count": 17471,
+      "like_count": 577,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=TCOU1imv09U"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-19T18:11:52Z",
+    "count": 5
+  }
+}
