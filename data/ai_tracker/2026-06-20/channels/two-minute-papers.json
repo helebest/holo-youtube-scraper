@@ -15,14 +15,14 @@
   "result": [
     {
       "id": "dUmT0OIGoqE",
-      "title": "AI Agents Just Learned A Language Humans Can’t Read",
+      "title": "Scientists Found A Better Language For AI Agents",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-06-19T14:06:00Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper  is available here:\nhttps://recursivemas.github.io/\nhttps://github.com/RecursiveMAS/RecursiveMAS\n\nBrain reading video: https://www.youtube.com/watch?v=IUg-t609byg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M57S",
-      "view_count": 12837,
-      "like_count": 925,
-      "comment_count": 97,
+      "view_count": 42449,
+      "like_count": 2201,
+      "comment_count": 230,
       "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-06-16T15:53:17Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT6M57S",
-      "view_count": 80395,
-      "like_count": 4093,
-      "comment_count": 280,
+      "view_count": 82273,
+      "like_count": 4154,
+      "comment_count": 284,
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-06-14T15:27:17Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/\n\nFree Rendering course and source code:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nThumbnail design: https://felicia.hu\n\n#nvidia",
       "duration": "PT7M51S",
-      "view_count": 60847,
-      "like_count": 2269,
+      "view_count": 61380,
+      "like_count": 2285,
       "comment_count": 163,
       "url": "https://www.youtube.com/watch?v=zJvN8PDX1is"
     },
@@ -56,7 +56,7 @@
       "published_at": "2026-06-06T06:20:46Z",
       "description": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested inside immersive game environments to change how we play. 🧠 \nHashtags: #aiingames #gaming #ai #gamedev #futuretech",
       "duration": "PT19S",
-      "view_count": 16023,
+      "view_count": 16077,
       "like_count": 109,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=82m7YqosdgU"
@@ -68,15 +68,15 @@
       "published_at": "2026-06-05T15:50:26Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT7M30S",
-      "view_count": 143849,
-      "like_count": 7277,
+      "view_count": 144146,
+      "like_count": 7285,
       "comment_count": 553,
       "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-19T18:11:50Z",
+    "generated_at": "2026-06-20T08:00:34Z",
     "count": 5
   }
 }
