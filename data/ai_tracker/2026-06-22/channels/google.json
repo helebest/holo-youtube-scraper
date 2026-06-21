@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-22",
+  "result": [
+    {
+      "id": "UNI-m8HKOT0",
+      "title": "The World Is Searching | La Albiceleste",
+      "channel_title": "Google",
+      "published_at": "2026-06-21T16:02:16Z",
+      "description": "For Argentina, fútbol isn’t just a game. It’s everything ⚽ Discover more from @afaseleccionen with Google Search. #GooglePartner",
+      "duration": "PT31S",
+      "view_count": 774,
+      "like_count": 44,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=UNI-m8HKOT0"
+    },
+    {
+      "id": "iGOmDRYctOw",
+      "title": "Behind the Doodle: Father’s Day #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-06-21T12:58:50Z",
+      "description": "Today’s #GoogleDoodle is for the dads who help us grow with patience, guidance, and a healthy dose of hilarious jokes. Happy Father’s Day! Comment with your best dad joke 👇😅\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT33S",
+      "view_count": 2667,
+      "like_count": 230,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=iGOmDRYctOw"
+    },
+    {
+      "id": "SJlhYV-cRnQ",
+      "title": "How'd @LamineYamal get so good at dribbling?",
+      "channel_title": "Google",
+      "published_at": "2026-06-20T12:59:34Z",
+      "description": "Chase down the answer with Google Search #GooglePartner \nThe World Is Searching | Lamine Yamal",
+      "duration": "PT31S",
+      "view_count": 6242,
+      "like_count": 250,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=SJlhYV-cRnQ"
+    },
+    {
+      "id": "d3jlow2FCH4",
+      "title": "Honoring Juneteenth #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-06-19T15:23:16Z",
+      "description": "Honoring the origins of Juneteenth, today’s #GoogleDoodle highlights unique elements of African American heritage and Texas culture: from the community found in line dancing to the beloved mockingbirds. Illustrated by guest artist Monique Wray, the work is a celebration of progress, liberation, and the enduring spirit of freedom.",
+      "duration": "PT19S",
+      "view_count": 7879,
+      "like_count": 263,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=d3jlow2FCH4"
+    },
+    {
+      "id": "ECquAokER_8",
+      "title": "How to use Tools in Google Flow | Find Your Flow",
+      "channel_title": "Google",
+      "published_at": "2026-06-18T19:18:00Z",
+      "description": "With Google Flow Tools, you can now use natural language to create bespoke tools and workflows in Google Flow. Whether you’re looking for a particular image editor, video resizer or custom shaders, you can now easily develop them, no coding experience required.  \n\n00:00 Introduction to Google Flow Tools\n00:25 Accessing the Tools Gallery & Remixing\n01:14 Creating a Custom Tool From Scratch\n01:56 Sharing and Managing Your Tools\n\nTry Google Flow for yourself: flow.google\nLearn how to create in Google Flow: https://www.youtube.com/watch?v=oKjDeMtBZ4g\nSee our full Google Flow playlist on YouTube: https://youtube.com/playlist?list=PL590L5WQmH8cZy80Ko7dzpH2MyvNJFE-p&si=V9KugOtPAsuvN9jw\nFollow Google Flow on X: https://twitter.com/FlowbyGoogle\nFollow Google on  Instagram: https://www.instagram.com/googleflow/\n\n#GoogleFlow #GenerativeAI\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M31S",
+      "view_count": 16480,
+      "like_count": 515,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=ECquAokER_8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-21T17:58:39Z",
+    "count": 5
+  }
+}
