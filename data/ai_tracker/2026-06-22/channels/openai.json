@@ -20,8 +20,8 @@
       "published_at": "2026-06-19T22:57:58Z",
       "description": "After introducing Codex, it grew to more than 10,000 active users and became one of the largest internal community in just a few months.\"\n\nWe chatted with Hiroaki Sato, Head of the AI CoE at NTT DATA who gave us insight into all of the new ways his technical and non-tech teams are leveraging Codex. \n\nHis Sales teams uses Codex to automate tasks like customer list maintenance, which has created net new workflows and report creation that used to take 2 days now takes 30 min 💥",
       "duration": "PT51S",
-      "view_count": 4776,
-      "like_count": 112,
+      "view_count": 5337,
+      "like_count": 116,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=0JIbgZ544wU"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-06-19T21:22:26Z",
       "description": "",
       "duration": "PT31S",
-      "view_count": 8575,
-      "like_count": 221,
-      "comment_count": 36,
+      "view_count": 9627,
+      "like_count": 244,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-06-19T21:20:04Z",
       "description": "",
       "duration": "PT31S",
-      "view_count": 6475,
-      "like_count": 170,
-      "comment_count": 27,
+      "view_count": 7059,
+      "like_count": 183,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-06-18T19:10:18Z",
       "description": "Health is one of the most meaningful ways people use ChatGPT. \n\nEvery week, more than 230 million people turn to ChatGPT for help with health and wellness questions: making sense of health information, understanding lab results, preparing for appointments, navigating insurance, building healthier habits, and figuring out what to ask next.\n\nWith GPT‑5.5 Instant, we’re seeing a substantial step forward in health, with improvements in recognizing when urgent care may be needed, asking for relevant context, explaining uncertainty, and making complex information easier to understand. On our most challenging health evaluations, GPT‑5.5 Instant now performs at a level comparable to our frontier Thinking models. Because it is available to all free users in ChatGPT, more people can benefit from these improvements.\n\nThat progress reflects both advances in model capabilities and the physician-led work behind our health evaluations. Across our efforts, a global network of physicians helps define what “good” looks like in real-world health situations by reviewing example model responses, describing ideal behavior, and identifying failure modes. Working with physicians gives us a way to measure progress in health and improve how ChatGPT responds over time.\n\nLearn more: https://openai.com/index/improving-health-intelligence-in-chatgpt/",
       "duration": "PT2M52S",
-      "view_count": 11060,
-      "like_count": 454,
+      "view_count": 11449,
+      "like_count": 459,
       "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-06-18T18:57:34Z",
       "description": "Show Codex a workflow once. Reuse it as a skill.\n\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\n\nCodex turns that demo into an inspectable, editable skill. \n\nYou control when recording starts and stops.",
       "duration": "PT2M5S",
-      "view_count": 91696,
-      "like_count": 4236,
-      "comment_count": 234,
+      "view_count": 95759,
+      "like_count": 4333,
+      "comment_count": 243,
       "url": "https://www.youtube.com/watch?v=ZK3JhU73W18"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-21T17:58:38Z",
+    "generated_at": "2026-06-22T10:18:57Z",
     "count": 5
   }
 }
