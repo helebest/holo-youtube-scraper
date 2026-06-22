@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-06-23",
+  "result": [
+    {
+      "id": "WOzcFkld6_g",
+      "title": "The Most Interesting Displays In The World!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-16T18:17:15Z",
+      "description": "From touchscreen Macbooks to holograms\n\nGet 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD\n\nMagic screen: https://www.kickstarter.com/projects/intricuit/magic-screen-the-first-snap-on-touchscreen-for-your-macbook\n\nStudio hologram video: https://youtu.be/luq4Vsy38Ac?si=p6hkSmttytl8Vkmg\n\n(Affiliate Link) Dell UltraSharp 52 U5226KW: https://geni.us/Hxv9\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M57S",
+      "view_count": 2415929,
+      "like_count": 67741,
+      "comment_count": 2038,
+      "url": "https://www.youtube.com/watch?v=WOzcFkld6_g"
+    },
+    {
+      "id": "_gCXmKjDecU",
+      "title": "WWDC 2026 Impressions: Yeah, That's About Right",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-09T05:48:41Z",
+      "description": "Everything you need to know about the new Siri AI and iOS 27\n\nGet up to 40% off at https://ridge.com/MKBHD for Father’s Day! Ends June 21st!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT16M28S",
+      "view_count": 3975482,
+      "like_count": 113515,
+      "comment_count": 6289,
+      "url": "https://www.youtube.com/watch?v=_gCXmKjDecU"
+    },
+    {
+      "id": "n3V3LZh_r40",
+      "title": "Apple Products That DON'T Exist",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-04T19:41:28Z",
+      "description": "yet",
+      "duration": "PT2M45S",
+      "view_count": 3113164,
+      "like_count": 119906,
+      "comment_count": 2605,
+      "url": "https://www.youtube.com/watch?v=n3V3LZh_r40"
+    },
+    {
+      "id": "ImRy_PiXstI",
+      "title": "Lewis Hamilton Explains F1 Tire Strategy",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-29T16:16:48Z",
+      "description": "You have $100 to spend in the tires",
+      "duration": "PT33S",
+      "view_count": 4058187,
+      "like_count": 88869,
+      "comment_count": 884,
+      "url": "https://www.youtube.com/watch?v=ImRy_PiXstI"
+    },
+    {
+      "id": "mk_wdHePbtQ",
+      "title": "The Hidden Tech Behind an NBA Broadcast!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-05-28T21:02:37Z",
+      "description": "Every camera, microphone and piece of gear behind an NBA NBC playoff broadcast in 2026\n\nThat shirt: http://shop.MKBHD.com\n\nDallas Taylor on all of the microphones: https://youtu.be/zBw-uEnzBtw?si=bB3PKaWEhg-TthT6\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M3S",
+      "view_count": 2237960,
+      "like_count": 87045,
+      "comment_count": 2851,
+      "url": "https://www.youtube.com/watch?v=mk_wdHePbtQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-22T19:51:09Z",
+    "count": 5
+  }
+}

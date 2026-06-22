@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-06-23",
+  "result": [
+    {
+      "id": "ZuJpE5HIIYE",
+      "title": "Checkbook Diplomacy - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-21T21:01:40Z",
+      "description": "",
+      "duration": "PT1M18S",
+      "view_count": 234122,
+      "like_count": 8876,
+      "comment_count": 206,
+      "url": "https://www.youtube.com/watch?v=ZuJpE5HIIYE"
+    },
+    {
+      "id": "IsWr9Lir8Pc",
+      "title": "They loved Trajan so much they rewrote the afterlife for him - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-20T20:22:07Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 99805,
+      "like_count": 4286,
+      "comment_count": 109,
+      "url": "https://www.youtube.com/watch?v=IsWr9Lir8Pc"
+    },
+    {
+      "id": "H0Tgz9Nnx2s",
+      "title": "The strangest riot in papal history - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-19T21:43:28Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 43373,
+      "like_count": 1909,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=H0Tgz9Nnx2s"
+    },
+    {
+      "id": "4pG3SJQPAwk",
+      "title": "The data black hole at the center of AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-19T17:17:05Z",
+      "description": "It is easy to forget how much data these models are trained on, and how much more it is than what we humans see in our lifetimes. We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to the naked eye, holding all the constellations together, is an unimaginably massive black hole of data.\n\nThanks to Mercury for sponsoring this essay. Mercury is my banking platform, and they just released a new AI feature called Command. Since I already use Mercury to run basically my entire business, Command has access to all the info it needs to get real work done. I can ask it to send invoices, or categorize expenses, or even transfer money… and Command just handles it. Learn more at https://mercury.com/command\n\nRead the transcript here:\nhttps://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2\n\nTIMESTAMPS\n00:00:00 – What is really driving AI progress?\n00:03:11 – Comparing human vs AI sample efficiency\n00:08:46 – Does sample efficiency matter?",
+      "duration": "PT11M57S",
+      "view_count": 72628,
+      "like_count": 2900,
+      "comment_count": 319,
+      "url": "https://www.youtube.com/watch?v=4pG3SJQPAwk"
+    },
+    {
+      "id": "tT1iBtehOSo",
+      "title": "Putin's playbook - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-18T20:37:11Z",
+      "description": "",
+      "duration": "PT1M28S",
+      "view_count": 416698,
+      "like_count": 15676,
+      "comment_count": 364,
+      "url": "https://www.youtube.com/watch?v=tT1iBtehOSo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-22T19:51:06Z",
+    "count": 5
+  }
+}
