@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-06-24",
+  "result": [
+    {
+      "id": "Il4dhCv0Li0",
+      "title": "Advancing Scientific Discovery in the Agentic AI Era",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-23T16:45:33Z",
+      "description": "Over the past decade, NVIDIA BioNeMo has helped researchers and pharmaceutical companies harness the power of generative AI to accelerate drug discovery, protein structure prediction, and molecular design. From early breakthroughs to today's state-of-the-art foundation models.\n\nScience is entering a new era, where accelerated computing, open models, and intelligent agents help researchers understand biology at unprecedented speed.\n\nLearn More: https://www.nvidia.com/en-us/industries/healthcare-life-sciences/\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT1M57S",
+      "view_count": 428,
+      "like_count": 92,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=Il4dhCv0Li0"
+    },
+    {
+      "id": "U-jd4DdZyXw",
+      "title": "NVIDIA Certification: Real Talk from AI Professionals Who Got Certified at GTC",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-11T16:11:06Z",
+      "description": "What does it actually take to get NVIDIA Certified — and is it worth it?\n\nAt GTC, we sat down with five AI professionals who went through the certification process and came out the other side. They shared their stories: why they chose to get certified, how they prepared, and what changed afterward — in their skills, their confidence, and the way their teams work.\n\nFrom generative and agentic AI to physical AI, AI infrastructure, and accelerated data science — these are practitioners working at the edge of what's possible, and certification is how they're proving it.\n\nWhether you're exploring your first certification or leveling up in a specialized domain, this is the perspective you need from people who've done it.\n\nReady to get certified? Explore NVIDIA Certification programs → https://nvda.ws/4ubhCKl\n\n#NVIDIACertification #AICertification",
+      "duration": "PT3M25S",
+      "view_count": 3844,
+      "like_count": 154,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=U-jd4DdZyXw"
+    },
+    {
+      "id": "0B62mzkASs8",
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T20:54:33Z",
+      "description": "We asked people around the NVIDIA office what they really think about robotaxis.\n\nThe answers: better vibes, safer rides, precise pickups, no parking, and no awkward small talk.\n\nWatch the office takes, then learn how NVIDIA Halos OS helps build safety into AI-driven vehicles from the start: https://nvda.ws/4utsOCa",
+      "duration": "PT43S",
+      "view_count": 7809,
+      "like_count": 205,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=0B62mzkASs8"
+    },
+    {
+      "id": "GZABwnUHypA",
+      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T18:08:41Z",
+      "description": "What does it take to bring open models into the enterprise?\n\nOn the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss Mistral’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron Coalition.\n\n🎧 Listen now: https://nvda.ws/49Tw42q",
+      "duration": "PT31S",
+      "view_count": 3968,
+      "like_count": 74,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=GZABwnUHypA"
+    },
+    {
+      "id": "mYQR-xfqOPY",
+      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T15:57:32Z",
+      "description": "\"Open-weight models are closing the gap with proprietary AI — and Timothée Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permission systems right before write access becomes the norm.\n\n🔬Topics covered:\nHow open models and weights accelerate research\nMistral Forge: bringing enterprise-grade model customization to production\nThe Nemotron Coalition—what Mistral and NVIDIA are building together\n2.5x training gains on GB200s for large sparse mixture-of-experts models\nWhy AI agent permissions—especially write access—is important to solve\n\nChapters:\n00:00 – Introduction and Mistral’s origin story\n04:05 – The case for open weights and why the community builds faster\n09:34 – Mistral Forge: enterprise model customization in production\n14:21 – What enterprise customers actually want from AI right now\n18:46 – The hardest open problem: AI agent permissions and write access\"",
+      "duration": "PT21M34S",
+      "view_count": 3059,
+      "like_count": 67,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-23T18:17:23Z",
+    "count": 5
+  }
+}

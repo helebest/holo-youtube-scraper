@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "World Economic Forum (Davos)",
+    "tier": "tier1_forum",
+    "handle": "@wef",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCw-kH-Od73XDAt7qtH9uBYA"
+  },
+  "date": "2026-06-24",
+  "result": [
+    {
+      "id": "V5tLHRrfnEg",
+      "title": "Where Are We on Belt and Road?",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-23T18:09:21Z",
+      "description": "In 2025, the Belt and Road Initiative saw signs of renewed activity, with investment and construction picking up and trade with the Global South on the rise. Beyond infrastructure, the initiative evolved, combining megaprojects with growing investment in green energy and industrial ecosystems, while helping China rewire trade flows.\n\nAmid an uncertain geoeconomic landscape, what do efforts to transition the initiative toward a more sustainable and innovation-led approach mean for participating countries?",
+      "duration": "PT1H2M51S",
+      "view_count": 452,
+      "like_count": 14,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=V5tLHRrfnEg"
+    },
+    {
+      "id": "Qk6XhFXlghA",
+      "title": "What if Fixing the System Isn’t the Answer?",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-23T17:46:23Z",
+      "description": "Many of today’s systems are under strain, yet solving global challenges increasingly depends on them. From climate to healthcare, meaningful change often requires coordination across complex, slow-moving structures. But what if transformation doesn’t always start by fixing the system? \n\nJoin this session to discover how “workarounds” can become powerful pathways to systems change, unlocking progress where traditional approaches stall.",
+      "duration": "PT35M50S",
+      "view_count": 139,
+      "like_count": 3,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Qk6XhFXlghA"
+    },
+    {
+      "id": "FvOleT3X_VM",
+      "title": "Media Session: Meet the Founders on the Frontier",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-23T17:40:16Z",
+      "description": "Emerging businesses are reshaping the global economy, scaling rapidly and achieving market influence once reserved for established institutions. Today, eight of the world’s ten largest publicly listed companies are technology firms, most built on innovations that did not exist a generation ago. Join leading Technology Pioneers and Innovators to explore what distinguishes their business models from traditional market players and how they are poised to shape the next decade of growth and transformation",
+      "duration": "PT33M29S",
+      "view_count": 214,
+      "like_count": 5,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=FvOleT3X_VM"
+    },
+    {
+      "id": "MTw5GUQlrxk",
+      "title": "Nature Is Infrastructure",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-23T16:57:20Z",
+      "description": "Biodiversity loss and ecosystem degradation are not only environmental concerns but also economic ones, affecting agricultural output, water security and supply chain stability. Nature-positive models could unlock significant business value.\n\nHow can leaders integrate natural capital into economic strategy and treat ecosystem protection as a foundation of long-term competitiveness?",
+      "duration": "PT1H1M19S",
+      "view_count": 308,
+      "like_count": 7,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=MTw5GUQlrxk"
+    },
+    {
+      "id": "ydr3UcByBvE",
+      "title": "Are Women Missing Out on AI?",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-23T16:46:58Z",
+      "description": "AI is reshaping markets in ways that fall unevenly on women, from automating roles where they are overrepresented to\nconcentrating venture capital in male-dominated networks. \n\nAs the technology accelerates, what steps are needed to ensure the AI transformation supports a level playing field rather than widening the gap?",
+      "duration": "PT53M47S",
+      "view_count": 170,
+      "like_count": 7,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=ydr3UcByBvE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-23T18:17:32Z",
+    "count": 5
+  }
+}
