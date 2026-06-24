@@ -14,15 +14,27 @@
   "date": "2026-06-24",
   "result": [
     {
+      "id": "9VmJewRHL7s",
+      "title": "Why Italians Saw the Pope Very Differently - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-23T18:47:59Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 32377,
+      "like_count": 1677,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=9VmJewRHL7s"
+    },
+    {
       "id": "ZuJpE5HIIYE",
       "title": "Checkbook Diplomacy - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-21T21:01:40Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 333296,
-      "like_count": 11116,
-      "comment_count": 248,
+      "view_count": 355345,
+      "like_count": 11863,
+      "comment_count": 267,
       "url": "https://www.youtube.com/watch?v=ZuJpE5HIIYE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-20T20:22:07Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 127213,
-      "like_count": 5209,
-      "comment_count": 138,
+      "view_count": 134534,
+      "like_count": 5487,
+      "comment_count": 143,
       "url": "https://www.youtube.com/watch?v=IsWr9Lir8Pc"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-19T21:43:28Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 49634,
-      "like_count": 2144,
+      "view_count": 52221,
+      "like_count": 2258,
       "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=H0Tgz9Nnx2s"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-19T17:17:05Z",
       "description": "It is easy to forget how much data these models are trained on, and how much more it is than what we humans see in our lifetimes. We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to the naked eye, holding all the constellations together, is an unimaginably massive black hole of data.\n\nThanks to Mercury for sponsoring this essay. Mercury is my banking platform, and they just released a new AI feature called Command. Since I already use Mercury to run basically my entire business, Command has access to all the info it needs to get real work done. I can ask it to send invoices, or categorize expenses, or even transfer money… and Command just handles it. Learn more at https://mercury.com/command\n\nRead the transcript here:\nhttps://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2\n\nTIMESTAMPS\n00:00:00 – What is really driving AI progress?\n00:03:11 – Comparing human vs AI sample efficiency\n00:08:46 – Does sample efficiency matter?",
       "duration": "PT11M57S",
-      "view_count": 78740,
-      "like_count": 3056,
-      "comment_count": 334,
+      "view_count": 82165,
+      "like_count": 3136,
+      "comment_count": 338,
       "url": "https://www.youtube.com/watch?v=4pG3SJQPAwk"
-    },
-    {
-      "id": "tT1iBtehOSo",
-      "title": "Putin's playbook - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-18T20:37:11Z",
-      "description": "",
-      "duration": "PT1M28S",
-      "view_count": 449451,
-      "like_count": 16661,
-      "comment_count": 419,
-      "url": "https://www.youtube.com/watch?v=tT1iBtehOSo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-23T18:17:19Z",
+    "generated_at": "2026-06-24T07:56:36Z",
     "count": 5
   }
 }

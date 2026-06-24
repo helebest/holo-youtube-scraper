@@ -14,15 +14,27 @@
   "date": "2026-06-24",
   "result": [
     {
+      "id": "W6l7J7Bpl7U",
+      "title": "The World Is Searching | La Roja",
+      "channel_title": "Google",
+      "published_at": "2026-06-23T21:17:03Z",
+      "description": "Young squad with a playful mentality 🇪🇸 See how Spain’s Lamine Yamal shapes up for the world stage with Search. #GooglePartner",
+      "duration": "PT31S",
+      "view_count": 3392,
+      "like_count": 136,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
+    },
+    {
       "id": "-liNEDhNkzE",
       "title": "The World Is Searching | Weston McKennie",
       "channel_title": "Google",
       "published_at": "2026-06-23T18:08:44Z",
       "description": "Dig into the magic of Weston McKennie’s celly with Google Search 🪄 #GooglePartner",
       "duration": "PT31S",
-      "view_count": 42,
-      "like_count": 3,
-      "comment_count": 0,
+      "view_count": 2822,
+      "like_count": 83,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=-liNEDhNkzE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-22T19:30:18Z",
       "description": "Whether you're building games, interactive tools, or data-driven apps, it’s easy to deploy from Google AI Studio.  \n\nIn this tutorial, we show you how to take your project from the Playground to the public in just a few clicks. You’ve built something you’re proud of — now, it’s time to share it!\n\n#VibeCoding #BuildWithGemini #AIStudio\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT1M11S",
-      "view_count": 9389,
-      "like_count": 333,
-      "comment_count": 42,
+      "view_count": 12078,
+      "like_count": 357,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=mx0xFpVjxHE"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-22T16:39:46Z",
       "description": "Is the French attack the best in the world? Get up to speed with Google Search 🇫🇷 #GooglePartner",
       "duration": "PT31S",
-      "view_count": 7284,
-      "like_count": 152,
+      "view_count": 8717,
+      "like_count": 175,
       "comment_count": 11,
       "url": "https://www.youtube.com/watch?v=ZXK6M8ldMJM"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-21T20:15:22Z",
       "description": "The internet has a lot of questions about the world’s most popular sport ⚽ So we brought in two icons to settle them. Settle your own match day debates with Google Search. #GooglePartner",
       "duration": "PT2M9S",
-      "view_count": 8888,
-      "like_count": 425,
+      "view_count": 9813,
+      "like_count": 479,
       "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=sl1R37FopZc"
-    },
-    {
-      "id": "iGOmDRYctOw",
-      "title": "Behind the Doodle: Father’s Day #GoogleDoodle",
-      "channel_title": "Google",
-      "published_at": "2026-06-21T12:58:50Z",
-      "description": "Today’s #GoogleDoodle is for the dads who help us grow with patience, guidance, and a healthy dose of hilarious jokes. Happy Father’s Day! Comment with your best dad joke 👇😅\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
-      "duration": "PT33S",
-      "view_count": 10096,
-      "like_count": 353,
-      "comment_count": 55,
-      "url": "https://www.youtube.com/watch?v=iGOmDRYctOw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-23T18:17:25Z",
+    "generated_at": "2026-06-24T07:56:41Z",
     "count": 5
   }
 }
