@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "World Economic Forum (Davos)",
+    "tier": "tier1_forum",
+    "handle": "@wef",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCw-kH-Od73XDAt7qtH9uBYA"
+  },
+  "date": "2026-06-25",
+  "result": [
+    {
+      "id": "FSGeBgQTPdc",
+      "title": "Radio Davos: Top 10 Emerging Technologies",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-24T18:00:22Z",
+      "description": "These 10 technologies could change the world in the next five years.\n\nAdvances in clean energy, healthcare, environmental protection and cybersecurity are among the tech selected for this year's World Economic Forum's Top 10 Emerging Technologies report.\n\nThe Forum's Kimmy Bettinger talks us through all 10 - watch the #RadioDavos podcast. \n\nhttps://www.youtube.com/watch?v=2H4pXNZldHs&t=141s\n\nThe World Economic Forum is the International Organization for Public-Private Cooperation. It provides a global, impartial and not-for-profit platform for meaningful connection between stakeholders to establish trust, and build initiatives for cooperation and progress.\n\nFind out more below:\nWorld Economic Forum Website ► http://www.weforum.org/\nYouTube ► https://www.youtube.com/wef\nLinkedIn ► https://www.linkedin.com/company/world-economic-forum\nFacebook ► https://www.facebook.com/worldeconomicforum/\nInstagram ► https://www.instagram.com/worldeconomicforum/ \nX ► https://twitter.com/wef\nTikTok ► https://www.tiktok.com/@worldeconomicforum\nWhatsApp ► https://www.whatsapp.com/channel/0029VaDcHBKGZNCihKxwiD0L\nThreads ► https://www.threads.com/@worldeconomicforum\nFlipboard ► https://flipboard.com/@WEF\n\n#WorldEconomicForum #wef",
+      "duration": "PT41S",
+      "view_count": 10,
+      "like_count": 1,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=FSGeBgQTPdc"
+    },
+    {
+      "id": "AYsnA2wu1-U",
+      "title": "Press Conference: Energy Transition Index 2026",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-24T17:42:12Z",
+      "description": "Now in its 16th year, the World Economic Forum’s Energy Transition Index 2026 tracks global progress towards a more secure, equitable and sustainable energy system. Join us for the launch of this year’s report as experts unpack why transition readiness has stalled despite record investment, how geopolitical tensions and the Hormuz crisis are reshaping energy security priorities, and which countries and regions are emerging as leaders, or falling behind,  in an increasingly fragmented global transition.",
+      "duration": "PT36M13S",
+      "view_count": 114,
+      "like_count": 4,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=AYsnA2wu1-U"
+    },
+    {
+      "id": "ZOboI1ishMc",
+      "title": "Is Finance Dividing Us?",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-24T16:53:46Z",
+      "description": "From the growing use of the renminbi in cross-border transactions to the rise of the Cross-Border Interbank Payment System (CIPS), China is creating its own financial infrastructure that is increasingly competing with the long-established Western system. \n\nAs governments and companies consider their relationships in competing geoeconomic blocs, will they have to choose a financial side?",
+      "duration": "PT1H3M28S",
+      "view_count": 168,
+      "like_count": 6,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ZOboI1ishMc"
+    },
+    {
+      "id": "fscyvRtZ-5U",
+      "title": "In Dialogue with Our Heritage",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-24T16:44:59Z",
+      "description": "Whether set in a historic courtyard in Guangdong province or at an Italian embassy in Europe, public art grounded in collaboration with communities can transform a space into a platform for cultural exchange. \n\nIn this visual journey, artist and creative director Adalberto Lonardi examines how socially engaged art can foster cross-sector collaborations and collective identity and preserve heritage for future generations.",
+      "duration": "PT34M7S",
+      "view_count": 149,
+      "like_count": 1,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=fscyvRtZ-5U"
+    },
+    {
+      "id": "NgAelBvSPBE",
+      "title": "The Latest on Industrial Clusters",
+      "channel_title": "World Economic Forum",
+      "published_at": "2026-06-24T16:44:44Z",
+      "description": "China has placed industrial clusters at the centre of its industrial and green transition efforts, positioning them as piloting ecosystems of integrated solutions, from accelerating clean power and technology development to informing policy and market mechanisms.\n\nHow are clusters spearheading industrial transformation in China and what lessons does it have for the rest of the world?",
+      "duration": "PT35M7S",
+      "view_count": 182,
+      "like_count": 4,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=NgAelBvSPBE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-24T18:14:36Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-06-25",
+  "result": [
+    {
+      "id": "TjOeI2dFz5o",
+      "title": "An Early Preview of Creator Workflows on NVIDIA RTX Spark Laptops",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-24T17:00:10Z",
+      "description": "See how the new NVIDIA RTX Spark laptops accelerate heavy creative workflows. Featuring 128GB of unified memory, these systems enable creators to edit up to 12K video and render massive 3D scenes locally. Watch as DLSS Ray Reconstruction delivers real-time, final-quality viewport previews directly within Blender, replacing traditional denoising methods with instant visual feedback.\n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT50S",
+      "view_count": 342,
+      "like_count": 16,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=TjOeI2dFz5o"
+    },
+    {
+      "id": "Alz-bhXqyXM",
+      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-24T16:05:22Z",
+      "description": "Instacart has 1.6 billion lifetime grocery orders—and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart—powered by an NVIDIA Jetson™ board and a sensor fusion system combining cameras, weight sensors, and location data—is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store operations, and why in-store and online shopping will merge into a single unified experience within the decade.\n\n🔬Topics covered:\nHow Caper Carts use NVIDIA Jetson and sensor fusion to identify items in real time\nWhy edge AI matters: hundreds-of-milliseconds response vs. seconds in the cloud\nDouble-digit sales lift from personalized in-cart recommendations\nBuilding a grocery foundation model from 1.6B orders and live in-store data\nAI agents for store ops: proactive out-of-stock alerts and CPG shelf optimization\n\nChapters:\n00:00 – Introduction and the Connected Store vision\n04:00 – Caper Cart: NVIDIA Jetson, sensor fusion, and edge AI\n08:06 – How basket recognition and recommendations work\n15:53 – Double-digit sales lift and what shoppers actually want\n22:25 – Store ops, employees, and the real-time data flywheel\n28:26 – AI agents, the grocery foundation model, and what's next",
+      "duration": "PT39M55S",
+      "view_count": 331,
+      "like_count": 33,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=Alz-bhXqyXM"
+    },
+    {
+      "id": "Il4dhCv0Li0",
+      "title": "Advancing Scientific Discovery in the Agentic AI Era",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-23T16:45:33Z",
+      "description": "Over the past decade, NVIDIA BioNeMo has helped researchers and pharmaceutical companies harness the power of generative AI to accelerate drug discovery, protein structure prediction, and molecular design. From early breakthroughs to today's state-of-the-art foundation models.\n\nScience is entering a new era, where accelerated computing, open models, and intelligent agents help researchers understand biology at unprecedented speed.\n\nLearn More: https://www.nvidia.com/en-us/industries/healthcare-life-sciences/\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT1M57S",
+      "view_count": 4053,
+      "like_count": 324,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=Il4dhCv0Li0"
+    },
+    {
+      "id": "U-jd4DdZyXw",
+      "title": "NVIDIA Certification: Real Talk from AI Professionals Who Got Certified at GTC",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-11T16:11:06Z",
+      "description": "What does it actually take to get NVIDIA Certified — and is it worth it?\n\nAt GTC, we sat down with five AI professionals who went through the certification process and came out the other side. They shared their stories: why they chose to get certified, how they prepared, and what changed afterward — in their skills, their confidence, and the way their teams work.\n\nFrom generative and agentic AI to physical AI, AI infrastructure, and accelerated data science — these are practitioners working at the edge of what's possible, and certification is how they're proving it.\n\nWhether you're exploring your first certification or leveling up in a specialized domain, this is the perspective you need from people who've done it.\n\nReady to get certified? Explore NVIDIA Certification programs → https://nvda.ws/4ubhCKl\n\n#NVIDIACertification #AICertification",
+      "duration": "PT3M25S",
+      "view_count": 3953,
+      "like_count": 156,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=U-jd4DdZyXw"
+    },
+    {
+      "id": "0B62mzkASs8",
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-10T20:54:33Z",
+      "description": "We asked people around the NVIDIA office what they really think about robotaxis.\n\nThe answers: better vibes, safer rides, precise pickups, no parking, and no awkward small talk.\n\nWatch the office takes, then learn how NVIDIA Halos OS helps build safety into AI-driven vehicles from the start: https://nvda.ws/4utsOCa",
+      "duration": "PT43S",
+      "view_count": 7938,
+      "like_count": 208,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=0B62mzkASs8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-24T18:14:28Z",
+    "count": 5
+  }
+}
