@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-06-26",
+  "result": [
+    {
+      "id": "t9UtuxXABZo",
+      "title": "The Patron Saint of Murderers - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-24T18:26:29Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 22988,
+      "like_count": 1330,
+      "comment_count": 50,
+      "url": "https://www.youtube.com/watch?v=t9UtuxXABZo"
+    },
+    {
+      "id": "9VmJewRHL7s",
+      "title": "Why Italians Saw the Pope Very Differently - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-23T18:47:59Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 71616,
+      "like_count": 2851,
+      "comment_count": 50,
+      "url": "https://www.youtube.com/watch?v=9VmJewRHL7s"
+    },
+    {
+      "id": "ZuJpE5HIIYE",
+      "title": "Checkbook Diplomacy - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-21T21:01:40Z",
+      "description": "",
+      "duration": "PT1M18S",
+      "view_count": 436976,
+      "like_count": 14618,
+      "comment_count": 321,
+      "url": "https://www.youtube.com/watch?v=ZuJpE5HIIYE"
+    },
+    {
+      "id": "IsWr9Lir8Pc",
+      "title": "They loved Trajan so much they rewrote the afterlife for him - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-20T20:22:07Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 142723,
+      "like_count": 5829,
+      "comment_count": 157,
+      "url": "https://www.youtube.com/watch?v=IsWr9Lir8Pc"
+    },
+    {
+      "id": "H0Tgz9Nnx2s",
+      "title": "The strangest riot in papal history - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-19T21:43:28Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 57354,
+      "like_count": 2500,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=H0Tgz9Nnx2s"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-25T18:28:18Z",
+    "count": 5
+  }
+}

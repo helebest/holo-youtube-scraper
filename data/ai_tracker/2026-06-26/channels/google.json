@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-06-26",
+  "result": [
+    {
+      "id": "JJTdXTf12oQ",
+      "title": "How to use Agent in Google Flow | Find Your Flow",
+      "channel_title": "Google",
+      "published_at": "2026-06-24T16:04:04Z",
+      "description": "Google Flow Agent is your creative partner that can plan and reason through complex tasks with your inputs, under your control. Built with Gemini models, it brings expertise and a deep understanding of your project to help with early brainstorming, creating and editing. For example, your agent can be a sounding board for dialogue between characters in a specific scene, or even make plot recommendations. \n\n00:00 Introduction to Google Flow\n00:32 Activating the Creative Agent\n00:59 Prompting Variations & Character Adherence\n01:26 Editing Assets & Organizing Collections with Gemini Omni\n\nThe agent is available to all Google Flow users globally.\nTry Google Flow for yourself: https://labs.google/fx/tools/flow\nLearn how to create in Google Flow: https://www.youtube.com/watch?v=oKjDeMtBZ4g\nSee our full Google Flow playlist on YouTube: https://www.youtube.com/playlist?list=PL590L5WQmH8cZy80Ko7dzpH2MyvNJFE-p\nFollow Google Flow on X: https://twitter.com/FlowbyGoogle\nFollow Google Flow on Instagram: https://www.instagram.com/googleflow/\n\n#GoogleFlow #GenerativeAI\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M57S",
+      "view_count": 10020,
+      "like_count": 358,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=JJTdXTf12oQ"
+    },
+    {
+      "id": "W6l7J7Bpl7U",
+      "title": "The World Is Searching | La Roja",
+      "channel_title": "Google",
+      "published_at": "2026-06-23T21:17:03Z",
+      "description": "Young squad with a playful mentality 🇪🇸 See how Spain’s Lamine Yamal shapes up for the world stage with Search. #GooglePartner",
+      "duration": "PT31S",
+      "view_count": 8220,
+      "like_count": 217,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
+    },
+    {
+      "id": "-liNEDhNkzE",
+      "title": "The World Is Searching | Weston McKennie",
+      "channel_title": "Google",
+      "published_at": "2026-06-23T18:08:44Z",
+      "description": "Dig into the magic of Weston McKennie’s celly with Google Search 🪄 #GooglePartner",
+      "duration": "PT31S",
+      "view_count": 6502,
+      "like_count": 131,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=-liNEDhNkzE"
+    },
+    {
+      "id": "mx0xFpVjxHE",
+      "title": "Google AI Studio Tutorial: Shipping Apps",
+      "channel_title": "Google",
+      "published_at": "2026-06-22T19:30:18Z",
+      "description": "Whether you're building games, interactive tools, or data-driven apps, it’s easy to deploy from Google AI Studio.  \n\nIn this tutorial, we show you how to take your project from the Playground to the public in just a few clicks. You’ve built something you’re proud of — now, it’s time to share it!\n\n#VibeCoding #BuildWithGemini #AIStudio\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M11S",
+      "view_count": 5181086,
+      "like_count": 479,
+      "comment_count": 62,
+      "url": "https://www.youtube.com/watch?v=mx0xFpVjxHE"
+    },
+    {
+      "id": "ZXK6M8ldMJM",
+      "title": "The World Is Searching | Les Bleus",
+      "channel_title": "Google",
+      "published_at": "2026-06-22T16:39:46Z",
+      "description": "Is the French attack the best in the world? Get up to speed with Google Search 🇫🇷 #GooglePartner",
+      "duration": "PT31S",
+      "view_count": 11580,
+      "like_count": 215,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=ZXK6M8ldMJM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-25T18:28:24Z",
+    "count": 5
+  }
+}
