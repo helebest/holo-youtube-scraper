@@ -14,15 +14,27 @@
   "date": "2026-06-25",
   "result": [
     {
+      "id": "t9UtuxXABZo",
+      "title": "The Patron Saint of Murderers - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-24T18:26:29Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 8629,
+      "like_count": 528,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=t9UtuxXABZo"
+    },
+    {
       "id": "9VmJewRHL7s",
       "title": "Why Italians Saw the Pope Very Differently - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-23T18:47:59Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 54783,
-      "like_count": 2345,
-      "comment_count": 34,
+      "view_count": 67561,
+      "like_count": 2715,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=9VmJewRHL7s"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-21T21:01:40Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 372971,
-      "like_count": 12436,
-      "comment_count": 276,
+      "view_count": 413571,
+      "like_count": 13856,
+      "comment_count": 313,
       "url": "https://www.youtube.com/watch?v=ZuJpE5HIIYE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-20T20:22:07Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 138238,
-      "like_count": 5628,
-      "comment_count": 146,
+      "view_count": 141281,
+      "like_count": 5780,
+      "comment_count": 155,
       "url": "https://www.youtube.com/watch?v=IsWr9Lir8Pc"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-19T21:43:28Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 53745,
-      "like_count": 2316,
-      "comment_count": 45,
+      "view_count": 56373,
+      "like_count": 2457,
+      "comment_count": 46,
       "url": "https://www.youtube.com/watch?v=H0Tgz9Nnx2s"
-    },
-    {
-      "id": "4pG3SJQPAwk",
-      "title": "The data black hole at the center of AI",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-19T17:17:05Z",
-      "description": "It is easy to forget how much data these models are trained on, and how much more it is than what we humans see in our lifetimes. We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to the naked eye, holding all the constellations together, is an unimaginably massive black hole of data.\n\nThanks to Mercury for sponsoring this essay. Mercury is my banking platform, and they just released a new AI feature called Command. Since I already use Mercury to run basically my entire business, Command has access to all the info it needs to get real work done. I can ask it to send invoices, or categorize expenses, or even transfer money… and Command just handles it. Learn more at https://mercury.com/command\n\nRead the transcript here:\nhttps://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2\n\nTIMESTAMPS\n00:00:00 – What is really driving AI progress?\n00:03:11 – Comparing human vs AI sample efficiency\n00:08:46 – Does sample efficiency matter?",
-      "duration": "PT11M57S",
-      "view_count": 83929,
-      "like_count": 3179,
-      "comment_count": 342,
-      "url": "https://www.youtube.com/watch?v=4pG3SJQPAwk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-24T18:14:25Z",
+    "generated_at": "2026-06-25T07:57:57Z",
     "count": 5
   }
 }
