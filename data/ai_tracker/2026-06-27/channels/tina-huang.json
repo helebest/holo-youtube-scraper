@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Tina Huang",
+    "tier": "education_fundamentals",
+    "handle": "@TinaHuang1",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UC2UXDak6o7rBm23k3Vv5dww"
+  },
+  "date": "2026-06-27",
+  "result": [
+    {
+      "id": "ZTlM9VkBxlE",
+      "title": "3 Claude Cowork Features That Will Change How You Use It",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-21T15:00:04Z",
+      "description": "If you've been using Claude Cowork, these are the three features that will completely change how you use it:\n\nFirst - Skills. This is the one that makes Cowork feel like it was built specifically for you. Skills are essentially custom commands you can trigger to get Claude to do very specific things the way you want them done. Once you set these up they become muscle memory. You stop typing long prompts and start just telling it what you need in one word.\n\nSecond - Connectors. You can connect it to the tools you're already using - Gmail, Google Drive, Slack, Notion, Google Calendar, and Claude can actually read and work across all of them at the same time. So when you ask it to prep you for a meeting, it's not just working with what you tell it in the chat. It's pulling from your actual emails, your actual calendar, your actual documents. The context it has access to completely changes the quality of what it can do for you.\n\nThird - Scheduled Tasks. You can tell Cowork to do something at a specific time - run a daily digest every morning, pull a report every Friday, follow up on something next week. You set it once, and it runs without you having to think about it again. This is the closest thing to having an assistant that works while you sleep.\n\nThe combination of all three is what makes Cowork feel different from just chatting with AI. It's less of a tool you use and more of a system that works around you.\n\nWhich one are you trying first? Drop it in the comments 👇",
+      "duration": "PT6S",
+      "view_count": 16001,
+      "like_count": 223,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=ZTlM9VkBxlE"
+    },
+    {
+      "id": "Gw-m2b43WN4",
+      "title": "Stop Watching AI Slop Build These Projects Instead",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-18T15:19:03Z",
+      "description": "If your feed looks anything like mine right now, it is full of AI content. And a lot of it is the same thing recycled over and over with a new thumbnail.\nSo here's what I'd actually build instead of watching another top 10 AI tools video:\n\nBuild a personal finance tracker that reads your actual statements and automatically categorizes your spending. You'll use it every month.\nBuild an email agent that triages your inbox and drafts responses for the ones that follow a pattern. You'll feel the time savings immediately.\nBuild a research tool that takes a topic, pulls sources, and gives you a summary you can actually trust. Every time you need to learn something new, it's already there.\n\nThe difference between people who are getting better at AI and people who just know a lot about AI is the building. That's it. That's the whole gap.\n\nPick one. Start today.",
+      "duration": "PT15S",
+      "view_count": 12999,
+      "like_count": 190,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=Gw-m2b43WN4"
+    },
+    {
+      "id": "d9cnud8KYFk",
+      "title": "My 2026 AI Tool Stack",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-14T15:55:23Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT28S",
+      "view_count": 24784,
+      "like_count": 662,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=d9cnud8KYFk"
+    },
+    {
+      "id": "Eq2mnoa4Kxo",
+      "title": "Canceling Subscriptions, Building Local AI Agents",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-10T15:00:06Z",
+      "description": "I've been on a cancellation spree lately.\n\nThere are tools I was paying for monthly that I realized I could just build myself, better, more specific to what I actually need, and free to run after the initial build.\n\nThe one that started it was accounting software. I was paying for something that handled maybe 80% of what I needed, and the other 20% was always a workaround. So I built my own using open-source AI, hosted locally.\nAnd then I started looking at everything else the same way. What am I paying for that's only 80% of what I need? What's too specific for any company to build for me?\n\nThe answer was more things than I expected.\n\nLocal agents are more accessible than people think right now. You don't need a huge technical background to get started. And the privacy angle alone, keeping your data on your own machine, is worth it for certain workflows.\nWhat's a subscription you have that you've thought about replacing? Drop it in the comments 👇",
+      "duration": "PT15S",
+      "view_count": 22861,
+      "like_count": 356,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=Eq2mnoa4Kxo"
+    },
+    {
+      "id": "SaVehcXEPZ0",
+      "title": "Cowork Built Me 5 things Yesterday In My Sleep",
+      "channel_title": "Tina Huang",
+      "published_at": "2026-06-07T15:00:17Z",
+      "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp",
+      "duration": "PT24S",
+      "view_count": 22003,
+      "like_count": 473,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=SaVehcXEPZ0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-26T18:07:36Z",
+    "count": 5
+  }
+}
