@@ -14,15 +14,27 @@
   "date": "2026-06-26",
   "result": [
     {
+      "id": "DdU9PJP7Cbs",
+      "title": "When Forgiveness Was a Trap - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-25T19:55:43Z",
+      "description": "",
+      "duration": "PT1M18S",
+      "view_count": 18579,
+      "like_count": 927,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=DdU9PJP7Cbs"
+    },
+    {
       "id": "t9UtuxXABZo",
       "title": "The Patron Saint of Murderers - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-24T18:26:29Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 22988,
-      "like_count": 1330,
-      "comment_count": 50,
+      "view_count": 34546,
+      "like_count": 1827,
+      "comment_count": 56,
       "url": "https://www.youtube.com/watch?v=t9UtuxXABZo"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-23T18:47:59Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 71616,
-      "like_count": 2851,
-      "comment_count": 50,
+      "view_count": 75536,
+      "like_count": 2989,
+      "comment_count": 53,
       "url": "https://www.youtube.com/watch?v=9VmJewRHL7s"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-21T21:01:40Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 436976,
-      "like_count": 14618,
-      "comment_count": 321,
+      "view_count": 473874,
+      "like_count": 15770,
+      "comment_count": 341,
       "url": "https://www.youtube.com/watch?v=ZuJpE5HIIYE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-20T20:22:07Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 142723,
-      "like_count": 5829,
-      "comment_count": 157,
+      "view_count": 143627,
+      "like_count": 5862,
+      "comment_count": 161,
       "url": "https://www.youtube.com/watch?v=IsWr9Lir8Pc"
-    },
-    {
-      "id": "H0Tgz9Nnx2s",
-      "title": "The strangest riot in papal history - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-19T21:43:28Z",
-      "description": "",
-      "duration": "PT1M7S",
-      "view_count": 57354,
-      "like_count": 2500,
-      "comment_count": 46,
-      "url": "https://www.youtube.com/watch?v=H0Tgz9Nnx2s"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-25T18:28:18Z",
+    "generated_at": "2026-06-26T08:05:09Z",
     "count": 5
   }
 }
