@@ -14,14 +14,26 @@
   "date": "2026-06-27",
   "result": [
     {
+      "id": "SPC_yCe1cUw",
+      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-26T19:40:00Z",
+      "description": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing",
+      "duration": "PT28M31S",
+      "view_count": 2120,
+      "like_count": 85,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw"
+    },
+    {
       "id": "mFwWax5pLTs",
       "title": "Verso, l'entreprise qui ne dort jamais",
       "channel_title": "OpenAI",
       "published_at": "2026-06-26T11:00:22Z",
       "description": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-agents pour automatiser ses opérations, accélérer la recherche consommateur et faire évoluer l'entreprise avec une structure particulièrement légère.\n\nLydia explique comment fonctionne le « Verso Brain », un système conçu pour écouter, raisonner et agir de manière autonome, ainsi que les choix techniques et organisationnels qui permettent à Verso de livrer des études consommateurs jusqu'à dix fois plus rapidement et à moitié prix par rapport aux approches traditionnelles.",
       "duration": "PT8M13S",
-      "view_count": 1811,
-      "like_count": 51,
+      "view_count": 2920,
+      "like_count": 69,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=mFwWax5pLTs"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-06-25T17:19:53Z",
       "description": "Now our plants won't shut up. \n\nGive your plants a voice: https://github.com/openai/planttalk",
       "duration": "PT1M",
-      "view_count": 17027,
-      "like_count": 760,
-      "comment_count": 106,
+      "view_count": 19011,
+      "like_count": 862,
+      "comment_count": 121,
       "url": "https://www.youtube.com/watch?v=q_diWy3xdrw"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-23T18:45:29Z",
       "description": "We asked the ChatGPT Futures Class of 2026 what they hope AI helps people do next.\n\nTheir answers came back to access, education, connection, and possibility: AI that helps close gaps instead of widening them, gives more people the tools to learn and build, and creates more room for the human parts of life.",
       "duration": "PT1M46S",
-      "view_count": 4572,
-      "like_count": 163,
+      "view_count": 4803,
+      "like_count": 166,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=mVpCDzoNtxA"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-23T11:30:20Z",
       "description": "What happens when one of the world's leading travel platforms combines real-time transportation data with AI?\n\nIn this customer story, Omio shares how it's using ChatGPT, Codex, and the OpenAI API to reimagine how travelers discover and book journeys, while transforming how teams build and operate across the business.\n\nHear from Tomas Vocetka, CTO at Omio, as he discusses the shift from search-based experiences to conversational travel, the company's journey to becoming AI-native, and how AI is helping accelerate product development, experimentation, and innovation at scale.\n\nRead the full story: www.openai.com/customer-stories/omio",
       "duration": "PT1M50S",
-      "view_count": 4913,
-      "like_count": 106,
+      "view_count": 4998,
+      "like_count": 110,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=qU5-komJ-GE"
-    },
-    {
-      "id": "GhCP2eDrKHk",
-      "title": "Meet the ChatGPT Futures, Class of 2026",
-      "channel_title": "OpenAI",
-      "published_at": "2026-06-22T21:06:32Z",
-      "description": "The next generation is already building the future with AI.\n\nThe ChatGPT Futures Class of 2026 came together in San Francisco to share the ideas they're pursuing, the projects they're building, and the experiences that inspired them to start.\n\nAs the first graduating class to have ChatGPT throughout college, they offer a glimpse of how young builders, researchers, creators, and advocates are turning new tools into real-world progress.",
-      "duration": "PT1M2S",
-      "view_count": 11594,
-      "like_count": 412,
-      "comment_count": 13,
-      "url": "https://www.youtube.com/watch?v=GhCP2eDrKHk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-26T18:07:29Z",
+    "generated_at": "2026-06-27T07:30:24Z",
     "count": 5
   }
 }
