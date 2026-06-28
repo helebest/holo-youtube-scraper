@@ -14,15 +14,27 @@
   "date": "2026-06-28",
   "result": [
     {
+      "id": "w3-bxLJ2ms0",
+      "title": "What Machiavelli thought freedom actually was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-27T21:51:54Z",
+      "description": "",
+      "duration": "PT1M15S",
+      "view_count": 19951,
+      "like_count": 1398,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=w3-bxLJ2ms0"
+    },
+    {
       "id": "2Fcd1U1SXKM",
       "title": "The hidden system behind every Renaissance trial - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-26T19:21:12Z",
       "description": "",
       "duration": "PT1M16S",
-      "view_count": 20866,
-      "like_count": 1140,
-      "comment_count": 32,
+      "view_count": 25006,
+      "like_count": 1265,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=2Fcd1U1SXKM"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-26T16:56:10Z",
       "description": "Thanks to Mercury for sponsoring this essay.\n\nMercury has automated basically my entire bill pay process for my business. I just give contractors a dedicated email address, and when they send an invoice, Mercury automatically creates a draft payment for me to review. I no longer have to hunt through my inbox for invoices or deal with messy spreadsheets to track my bills. Mercury handles it all. Learn more at https://mercury.com\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n\nRead the essay here:\nhttps://www.dwarkesh.com/p/the-next-paradigm\n\nSasha Rush lecture:\nhttps://youtu.be/wxOZWD6wYVY\n\nTIMESTAMPS\n00:00:00 – The big research bet the labs are making\n00:02:12 – Grindability is just as important as verifiability\n00:06:10 – Will RLVR alone generalize?\n00:08:41 – Getting the learning back to the weights\n00:15:22 – Dreaming\n00:17:23 – What 2027 looks like",
       "duration": "PT19M53S",
-      "view_count": 65707,
-      "like_count": 2303,
-      "comment_count": 226,
+      "view_count": 77285,
+      "like_count": 2533,
+      "comment_count": 247,
       "url": "https://www.youtube.com/watch?v=20p5-kQXF_Q"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-06-25T19:55:43Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 32233,
-      "like_count": 1426,
+      "view_count": 33983,
+      "like_count": 1493,
       "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=DdU9PJP7Cbs"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-24T18:26:29Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 45297,
-      "like_count": 2262,
-      "comment_count": 65,
+      "view_count": 47718,
+      "like_count": 2357,
+      "comment_count": 67,
       "url": "https://www.youtube.com/watch?v=t9UtuxXABZo"
-    },
-    {
-      "id": "9VmJewRHL7s",
-      "title": "Why Italians Saw the Pope Very Differently - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-23T18:47:59Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 82093,
-      "like_count": 3216,
-      "comment_count": 71,
-      "url": "https://www.youtube.com/watch?v=9VmJewRHL7s"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-27T17:34:50Z",
+    "generated_at": "2026-06-28T08:02:56Z",
     "count": 5
   }
 }

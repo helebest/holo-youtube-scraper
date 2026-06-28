@@ -20,9 +20,9 @@
       "published_at": "2026-06-26T17:30:05Z",
       "description": "Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and 200+ models in one place for one price with Nexos. Get 50% off with my code: https://nexos.ai/wolf\n\nSakana AI just released a model that beats Fable on some benchmarks, ties it on others, and loses on a few, and we put it to the test ourselves this week.\n\nThis week's AI news isn't huge in volume, but it's massive in stakes. I break down Sakana's new Fugu model, an orchestrator system that routes your prompts across multiple AI models instead of being just one model itself, and test it head to head against Fable on a couple of real build challenges. I also cover Anthropic's new Claude Tag feature, which lets you tag Claude directly inside Slack like a coworker, and the news that the US government is now getting directly involved in how OpenAI releases new models.\n\nPlus a full rapid fire on Seed Dance 2.5, Krea 2 going open weights, a new searchable database of AI training data from The Atlantic, OpenAI's own inference chip news, and a wave of new Meta Ray-Ban styles.\n\nIf you want to stay looped in on AI news every single week, make sure to subscribe. I post a news breakdown every Friday and tool tutorials midweek.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #SakanaFugu #claudeai \n\nTime Stamps:\n00:00 Sakana Fugu: A New AI Model Router\n02:00 Testing Fugu vs. Fable (Setup & Cost)\n04:24 Fugu Test Results: Game & Website Clones\n08:21 Nexos\n10:03 Anthropic's Claude Tag\n12:19 OpenAI, GPT 5.6 & Government Oversight\n14:10 Rapid Fire: Seed Dance, Krea 2 & More\n18:34 Final Thoughts & Outro\n\nThanks to Nexos for sponsoring this video.",
       "duration": "PT20M1S",
-      "view_count": 63064,
-      "like_count": 2233,
-      "comment_count": 176,
+      "view_count": 76146,
+      "like_count": 2494,
+      "comment_count": 186,
       "url": "https://www.youtube.com/watch?v=zMVZvgCOr40"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-06-25T20:19:01Z",
       "description": "Here's the truth about that MIT AI study everyone's been referencing.\n\nYes, leaning on AI too early or too completely can make you \"dumber.\" But the full study reveals a much more nuanced reality: human skill + AI performs better than human skill alone.\n\nWhen you already know how to think critically, AI becomes a superpower. When you use it to replace all critical thinking, well... you may lose the ability to think for yourself 🤷‍♂️\n\nWhat's another AI claim you keep hearing about that's not entirely true, or more complicated than people are saying?\n\n#AI #science",
       "duration": "PT1M26S",
-      "view_count": 10193,
-      "like_count": 652,
-      "comment_count": 45,
+      "view_count": 11870,
+      "like_count": 734,
+      "comment_count": 49,
       "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-06-24T20:31:00Z",
       "description": "9 free skills and plug-ins that make Claude Code, Codex, and other AI coding agents dramatically more useful, and yes, all of them are free.\nSkills and plug-ins are reusable instruction files that give your AI agent a repeatable behavior instead of starting from scratch every time. In this video I break down 9 of my favorites, install them live, and put several of them head to head so you can see exactly what changes.\n\nI cover GStack (turns Claude Code into a full virtual engineering team), Stop Slop (strips AI tells out of your writing), Graphify (turns any codebase or knowledge base into a queryable graph your agent can use as memory), Understand Anything (visual onboarding maps for any codebase), Last 30 Days (real time sentiment research across Reddit, X, YouTube, and more), Anthropic's Front End Design skill and the Taste skill (head to head design tests), and ReMotion vs HyperFrames (AI generated animations from a single prompt).\n\nEvery skill works across Claude Code, Codex, Cursor, OpenClaw, Hermes, VS Code, and GitHub Copilot. Links to every single one below.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nSkills and plug-ins mentioned:\nGStack: https://github.com/garrytan/gstack\nStop Slop: https://github.com/hardikpandya/stop-slop\nGraphify: https://github.com/safishamsi/graphify\nUnderstand Anything: https://github.com/Egonex-AI/Understand-Anything\nLast 30 Days: https://github.com/mvanhorn/last30days-skill\nFront End Design (Anthropic): https://www.skills.sh/anthropics/skills/frontend-design\nTaste Skill: https://github.com/Leonxlnx/taste-skill\nReMotion: https://github.com/remotion-dev/remotion\nHyperFrames: https://github.com/heygen-com/hyperframes\n\nIf you want more breakdowns like this, let me know in the comments and I'll keep them coming.\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\nTimestamps: \n00:00 Why Skills Matter\n01:05 Skills vs Plugins Explained\n02:45 GStack: Your AI Engineering Team\n08:14 Stop Slop: Cleaner AI Writing\n09:25 Graphify: Knowledge Graphs as Memory\n14:14 Understand Anything: Visual Code Maps\n17:55 Newsletter Quick Plug\n18:39 Last 30 Days: Real Time Sentiment Research\n20:55 Front End Design vs. Taste Skill\n24:46 Animation Showdown: ReMotion vs. HyperFrames\n28:07 Final Thoughts and Outro\n\n#ClaudeCode #AIAgents #FreeAITools",
       "duration": "PT29M14S",
-      "view_count": 60480,
-      "like_count": 2838,
-      "comment_count": 114,
+      "view_count": 64996,
+      "like_count": 2996,
+      "comment_count": 116,
       "url": "https://www.youtube.com/watch?v=STH929HARLo"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-06-24T14:46:21Z",
       "description": "I messed up. \n\nEveryone has been talking about the drama that went down around Claude Fable and Mythos getting shut down, including myself. But I got distracted from the REAL story here, which is just how crazy good these models were and the amazing things people were able to build with them.  \n\nThese are just a few examples, but it's insane that people built full scale projects and business ideas and NONE of them were engineers with massive dev budgets. They were just regular people with a good idea. \n\nWhat used to require a full development team and months of work now takes a single afternoon and a good AI model. We are watching in real time a massive shift in WHO gets to build things. \n\nBut of course, the party was cut short because Anthropic was ordered to suspend foreign access to Fable 5 over security concerns, literally describing their own tech as \"too powerful.\" \n\nAnd I get why that sounds terrifying. But look at what people actually did with it in the short window they had: they solved problems, built businesses, and created cool things to share with the world. That’s what happens when you put genuinely useful tech into the hands of the people. \n\n#Claude #Anthropic #AI #Entrepreneurship #vibecoding",
       "duration": "PT1M25S",
-      "view_count": 17744,
-      "like_count": 647,
-      "comment_count": 28,
+      "view_count": 18512,
+      "like_count": 671,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=2a3nXQjR1nM"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-06-23T12:52:33Z",
       "description": "Codex can now watch your screen, learn what repetitive tasks you need done, and then do them for you.\n\nOpenAI just dropped a new feature called \"Record and Replay\" and it’s the ultimate cheat code for repetitive tasks.\n\nFirst, you record yourself doing a task once and the AI will watch your screen, understand your clicks, and turn that task into a brand-new \"skill\" that it saves. Then, the next time you need to do this task, just drop whatever context you need into the chat box and tell it to use the skill it saved.\n\nWhat is the FIRST repetitive task you would let this AI copy for you? Let me know in the comments👇\n\n#OpenAI #AI #ProductivityHacks #AInews #chatgpt",
       "duration": "PT47S",
-      "view_count": 71633,
-      "like_count": 1863,
+      "view_count": 73535,
+      "like_count": 1902,
       "comment_count": 82,
       "url": "https://www.youtube.com/watch?v=qv-KPydJhXs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-27T17:34:57Z",
+    "generated_at": "2026-06-28T08:03:02Z",
     "count": 5
   }
 }
