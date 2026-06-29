@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-06-30",
+  "result": [
+    {
+      "id": "rKgtm81yi94",
+      "title": "What Sitting All Day Does to Your Brain and Body | Keith Diaz | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-29T15:00:13Z",
+      "description": "Can a five-minute walk change how you feel all day? Exercise scientist Keith Diaz shows how your body is built for the kind of movement that modern life has quietly erased — and suggests something refreshingly doable: making time for small doses of movement sprinkled throughout the day, as a way to boost your brain and body. (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/keithdiaz\n\nhttps://youtu.be/rKgtm81yi94\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Health",
+      "duration": "PT11M24S",
+      "view_count": 4588,
+      "like_count": 389,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=rKgtm81yi94"
+    },
+    {
+      "id": "ZmZkQ-YvM1g",
+      "title": "What was your favorite toy growing up? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-28T16:00:30Z",
+      "description": "What was your favorite toy when you were a kid? Your answer might reveal more about you than you expect, says toy historian Chris Byrne. From Matchbox cars and Barbie to Rubik's Cube and Squishmallows, he explores how playthings reflect cultural values and influence who you become as an adult.",
+      "duration": "PT1M49S",
+      "view_count": 25193,
+      "like_count": 808,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=ZmZkQ-YvM1g"
+    },
+    {
+      "id": "GTCZz_QWBKs",
+      "title": "Welcome to My AI Surrealist World | David Szauder | TED",
+      "channel_title": "TED",
+      "published_at": "2026-06-28T15:00:06Z",
+      "description": "Step inside artist David Szauder's mind, where strange, extravagantly dressed characters live in an ever-changing opera. In this visually stunning talk, he presents a digitally rewired world — part AI-generated dreamscape, part inner theater — and probes the line between artist and algorithm. (Recorded at TEDNext 2025 on November 9, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/davidszauder\n\nhttps://youtu.be/GTCZz_QWBKs\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Art",
+      "duration": "PT6M58S",
+      "view_count": 10944,
+      "like_count": 251,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=GTCZz_QWBKs"
+    },
+    {
+      "id": "q4QDN6YbxSA",
+      "title": "What's your 5-9 after your 9-5? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-26T23:00:24Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 43061,
+      "like_count": 713,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=q4QDN6YbxSA"
+    },
+    {
+      "id": "HaTL8icSZzk",
+      "title": "When Afghanistan fell again, here’s how Malala Yousafzai rediscovered hope #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-06-26T17:30:23Z",
+      "description": "Malala Yousafzai has spent her life advocating for girls' education — surviving an assassination attempt at 15, meeting with world leaders and then watching hard-won progress collapse when Afghanistan fell to the Taliban in 2021. That moment of despair forced her to completely rethink what it means to create change, and what she discovered replaced her shattered optimism with something more powerful and more honest. Hear how to keep fighting for the future you want, even when hope feels lost.",
+      "duration": "PT1M44S",
+      "view_count": 28401,
+      "like_count": 459,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=HaTL8icSZzk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-29T18:27:32Z",
+    "count": 5
+  }
+}
