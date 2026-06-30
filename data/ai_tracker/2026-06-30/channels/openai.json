@@ -20,8 +20,8 @@
       "published_at": "2026-06-29T14:30:09Z",
       "description": "ChatGPT + Codex are a one-two punch for investment firms. \n\n\"Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows,\" - Jasmine Azizi (Advent). \n\nFinancial firms hold a tremendous amount of context. ChatGPT acts like a brain layer so teams can spend more time focusing on the next big bet.",
       "duration": "PT1M",
-      "view_count": 2191,
-      "like_count": 97,
+      "view_count": 5364,
+      "like_count": 150,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=f-HiB82Tl94"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-06-26T19:40:00Z",
       "description": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing",
       "duration": "PT28M31S",
-      "view_count": 4953,
-      "like_count": 145,
+      "view_count": 5209,
+      "like_count": 148,
       "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw"
     },
@@ -44,7 +44,7 @@
       "published_at": "2026-06-26T11:00:22Z",
       "description": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-agents pour automatiser ses opérations, accélérer la recherche consommateur et faire évoluer l'entreprise avec une structure particulièrement légère.\n\nLydia explique comment fonctionne le « Verso Brain », un système conçu pour écouter, raisonner et agir de manière autonome, ainsi que les choix techniques et organisationnels qui permettent à Verso de livrer des études consommateurs jusqu'à dix fois plus rapidement et à moitié prix par rapport aux approches traditionnelles.",
       "duration": "PT8M13S",
-      "view_count": 4063,
+      "view_count": 4171,
       "like_count": 83,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=mFwWax5pLTs"
@@ -56,9 +56,9 @@
       "published_at": "2026-06-25T17:19:53Z",
       "description": "Now our plants won't shut up. \n\nGive your plants a voice: https://github.com/openai/planttalk",
       "duration": "PT1M",
-      "view_count": 24314,
-      "like_count": 1051,
-      "comment_count": 135,
+      "view_count": 24598,
+      "like_count": 1055,
+      "comment_count": 137,
       "url": "https://www.youtube.com/watch?v=q_diWy3xdrw"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-06-23T18:45:29Z",
       "description": "We asked the ChatGPT Futures Class of 2026 what they hope AI helps people do next.\n\nTheir answers came back to access, education, connection, and possibility: AI that helps close gaps instead of widening them, gives more people the tools to learn and build, and creates more room for the human parts of life.",
       "duration": "PT1M46S",
-      "view_count": 5722,
-      "like_count": 187,
-      "comment_count": 14,
+      "view_count": 5858,
+      "like_count": 192,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=mVpCDzoNtxA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-29T18:27:35Z",
+    "generated_at": "2026-06-30T08:03:54Z",
     "count": 5
   }
 }

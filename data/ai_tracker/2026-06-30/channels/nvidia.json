@@ -14,15 +14,27 @@
   "date": "2026-06-30",
   "result": [
     {
+      "id": "ZeIYVHxHnQ0",
+      "title": "An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-29T22:23:07Z",
+      "description": "See how NVIDIA RTX Spark laptops accelerate advanced local AI and agentic workflows. Featuring up to 128GB of unified memory, these systems enable creators to run large models entirely on-device. Watch as the OpenClaw personal agent automates complex ComfyUI tasks, managing prompts and hyperparameters to seamlessly transform a concept sketch from Adobe Photoshop into a fully animated video while keeping your data private and secure.\n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M23S",
+      "view_count": 2717,
+      "like_count": 129,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=ZeIYVHxHnQ0"
+    },
+    {
       "id": "zDuZmccxjlA",
       "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
       "channel_title": "NVIDIA",
       "published_at": "2026-06-29T14:00:17Z",
       "description": "Discover how NVIDIA is collaborating with the Naval Postgraduate School (NPS) to empower thousands of students to work and build applications with AI.\n\nTodd Lyons, EVP at the Naval Postgraduate School Foundation, details how NPS is utilizing NVIDIA DGX and NVIDIA Omniverse technologies to create synthetic data, train foundational models, and deploy solutions at scale for the public sector.\n\nLearn more about the NPS and NVIDIA partnership at Converge @ NPS: https://www.npsfoundation.org/partners/convergenps",
       "duration": "PT2M24S",
-      "view_count": 930,
-      "like_count": 73,
-      "comment_count": 7,
+      "view_count": 2211,
+      "like_count": 101,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=zDuZmccxjlA"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-29T14:00:06Z",
       "description": "Discover how NVIDIA is collaborating with the Naval Postgraduate School (NPS) to empower thousands of students to work and build applications with AI.\n\nTodd Lyons, EVP at the Naval Postgraduate School Foundation, details how NPS is utilizing NVIDIA DGX and NVIDIA Omniverse technologies to create synthetic data, train foundational models, and deploy solutions at scale for the public sector.",
       "duration": "PT29S",
-      "view_count": 1826,
-      "like_count": 67,
-      "comment_count": 1,
+      "view_count": 5315,
+      "like_count": 168,
+      "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=hA0S7_jr1F0"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-25T17:00:14Z",
       "description": "Premium on the outside. Powerful on the inside.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at the new Microsoft Surface Laptop Ultra powered by NVIDIA RTX Spark. \n\nLearn more about the Microsoft Surface Laptop Ultra: https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra",
       "duration": "PT1M9S",
-      "view_count": 16442,
-      "like_count": 704,
-      "comment_count": 29,
+      "view_count": 16994,
+      "like_count": 719,
+      "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=Vy4cAPglzZo"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-25T16:45:32Z",
       "description": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. \n\nBioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and developers to build, customize and deploy AI applications across the life sciences ecosystem.\n\nRead more about the announcement: https://nvda.ws/4f1J3BV",
       "duration": "PT1M38S",
-      "view_count": 10186,
-      "like_count": 197,
+      "view_count": 10289,
+      "like_count": 200,
       "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=mnd-SxN-SFk"
-    },
-    {
-      "id": "Ywgx2AqcdM8",
-      "title": "NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-06-25T03:51:55Z",
-      "description": "High in the Chilean mountains, the Rubin Observatory—home to the largest digital camera ever built—captures a staggering 20 terabytes of sky data every single night. Hidden within these petabytes are the ultimate secrets of dark matter and dark energy, which make up 95% of our universe.\n\nThe problem? Traditional workflows are slow and processing this data can take months.\n\nEnter NVIDIA cuPhoton.\n\nBy leveraging CPU/GPU-accelerated pipelines on multi-GPU, multi-node systems, cuPhoton speeds up image loading and reading by a massive 15,000x, and accelerates data processing and analysis by up to 8,400x. What once took months can now happen in minutes.\n\nWith cuPhoton, scientists can finally load, process, and analyze multidimensional data in near real-time—including AI training and signal detection. Watch to see how NVIDIA is bringing the universe into focus, faster than ever before.\n\n🌌 Learn more about NVIDIA cuPhoton: https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "duration": "PT1M14S",
-      "view_count": 5504,
-      "like_count": 208,
-      "comment_count": 14,
-      "url": "https://www.youtube.com/watch?v=Ywgx2AqcdM8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-29T18:27:34Z",
+    "generated_at": "2026-06-30T08:03:53Z",
     "count": 5
   }
 }

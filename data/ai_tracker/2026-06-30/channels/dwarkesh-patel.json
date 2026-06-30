@@ -14,15 +14,27 @@
   "date": "2026-06-30",
   "result": [
     {
+      "id": "vieJ4e63cHA",
+      "title": "Renaissance art was a weapon - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-29T19:44:16Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 15282,
+      "like_count": 904,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=vieJ4e63cHA"
+    },
+    {
       "id": "w3-bxLJ2ms0",
       "title": "What Machiavelli thought freedom actually was - Ada Palmer",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-06-27T21:51:54Z",
       "description": "",
       "duration": "PT1M15S",
-      "view_count": 56970,
-      "like_count": 2935,
-      "comment_count": 64,
+      "view_count": 66339,
+      "like_count": 3329,
+      "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=w3-bxLJ2ms0"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-06-26T19:21:12Z",
       "description": "",
       "duration": "PT1M16S",
-      "view_count": 29470,
-      "like_count": 1432,
+      "view_count": 30562,
+      "like_count": 1465,
       "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=2Fcd1U1SXKM"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-06-26T16:56:10Z",
       "description": "Thanks to Mercury for sponsoring this essay.\n\nMercury has automated basically my entire bill pay process for my business. I just give contractors a dedicated email address, and when they send an invoice, Mercury automatically creates a draft payment for me to review. I no longer have to hunt through my inbox for invoices or deal with messy spreadsheets to track my bills. Mercury handles it all. Learn more at https://mercury.com\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n\nRead the essay here:\nhttps://www.dwarkesh.com/p/the-next-paradigm\n\nSasha Rush lecture:\nhttps://youtu.be/wxOZWD6wYVY\n\nTIMESTAMPS\n00:00:00 – The big research bet the labs are making\n00:02:12 – Grindability is just as important as verifiability\n00:06:10 – Will RLVR alone generalize?\n00:08:41 – Getting the learning back to the weights\n00:15:22 – Dreaming\n00:17:23 – What 2027 looks like",
       "duration": "PT19M53S",
-      "view_count": 104407,
-      "like_count": 3182,
-      "comment_count": 311,
+      "view_count": 111377,
+      "like_count": 3370,
+      "comment_count": 317,
       "url": "https://www.youtube.com/watch?v=20p5-kQXF_Q"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-25T19:55:43Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 37482,
-      "like_count": 1622,
+      "view_count": 38139,
+      "like_count": 1648,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=DdU9PJP7Cbs"
-    },
-    {
-      "id": "t9UtuxXABZo",
-      "title": "The Patron Saint of Murderers - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-24T18:26:29Z",
-      "description": "",
-      "duration": "PT1M10S",
-      "view_count": 50984,
-      "like_count": 2502,
-      "comment_count": 70,
-      "url": "https://www.youtube.com/watch?v=t9UtuxXABZo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-29T18:27:30Z",
+    "generated_at": "2026-06-30T08:03:50Z",
     "count": 5
   }
 }
