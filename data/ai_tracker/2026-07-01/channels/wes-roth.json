@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-07-01",
+  "result": [
+    {
+      "id": "CTKe2tmdy7s",
+      "title": "it's all bad now...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-30T05:05:56Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT22M49S",
+      "view_count": 54042,
+      "like_count": 2173,
+      "comment_count": 1130,
+      "url": "https://www.youtube.com/watch?v=CTKe2tmdy7s"
+    },
+    {
+      "id": "st_HMMt0T7g",
+      "title": "HERMES AGENT + Stripe Payments + NVIDIA Nemotron is INSANE!",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-27T15:46:01Z",
+      "description": "Go to: http://hostinger.com/hermeswesroth\nand use code: WESROTH \nfor an additional discount on HOSTINGER yearly plans.\n\nHere are the two previous videos I did on installing Hermes:\n\nHERMES AGENT SETUP: the OpenClaw killer is here:\nhttps://www.youtube.com/watch?v=3jNp14bJpgs\n\nHermes Agent is INSANE...\nhttps://www.youtube.com/watch?v=bFO0uAMPx1g\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n00:00 Hermes Business Hackathon\n02:40 where to install Hermes\n04:30 what I use\n05:00 Installing Hermes on Hostinger (sponsor)\n09:48 using Hermes with Nous Portal\n13:25 using Hermes with OpenAI Codex\n16:36 basic commands\n20:00 Using Stripe Payment Skills\n32:10 NVIDIA Nemotron\n51:38 more resources\n\n#ai #openai #llm",
+      "duration": "PT53M30S",
+      "view_count": 28408,
+      "like_count": 729,
+      "comment_count": 109,
+      "url": "https://www.youtube.com/watch?v=st_HMMt0T7g"
+    },
+    {
+      "id": "HAsEYh6jTks",
+      "title": "OpenAI JUST announced \"JALAPENO\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-25T20:07:06Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M54S",
+      "view_count": 77916,
+      "like_count": 1827,
+      "comment_count": 482,
+      "url": "https://www.youtube.com/watch?v=HAsEYh6jTks"
+    },
+    {
+      "id": "VBi_4cWpup8",
+      "title": "Cursor JUST beat EVERYONE...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-23T08:21:31Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\nSOURCES:\n\nCursor Compile 26 opening keynote: \nhttps://www.youtube.com/watch?v=fWa7uxyhVDE\n\nTim Ferriss and Sebastian Mallaby \nhttps://www.youtube.com/watch?v=-UetKKxKqKU\n\nCursor, Introducing Composer 2.5: \nhttps://cursor.com/blog/composer-2-5\n\n\n\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT19M34S",
+      "view_count": 57298,
+      "like_count": 1664,
+      "comment_count": 308,
+      "url": "https://www.youtube.com/watch?v=VBi_4cWpup8"
+    },
+    {
+      "id": "OdlUXu2sAb4",
+      "title": "Google's SHOCKING \"POST AGI\" paper...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-18T22:11:36Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT30M10S",
+      "view_count": 148543,
+      "like_count": 3498,
+      "comment_count": 996,
+      "url": "https://www.youtube.com/watch?v=OdlUXu2sAb4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-06-30T18:17:14Z",
+    "count": 5
+  }
+}
