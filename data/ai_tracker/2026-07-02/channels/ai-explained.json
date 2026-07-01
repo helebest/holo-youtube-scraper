@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "AI Explained",
+    "tier": "news_tools",
+    "handle": "@aiexplained-official",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
+  },
+  "date": "2026-07-02",
+  "result": [
+    {
+      "id": "Qj71N0tBzRo",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "channel_title": "AI Explained",
+      "published_at": "2026-06-14T14:52:27Z",
+      "description": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-extrapolations going on.\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:51 - Came from an Anthropic Investor ‘and other tech leaders’\n01:47 - Govt pressured by CEOs like Jamie Dimon\n03:01 - ‘Already decided’\n04:02 - Prompt Injection Robustness Comparison\n05:15 - Wellness?\n06:36 - “Overreach”\n08:17 - Anthropic Did Admit it would cause Difficulty\n09:32 - 90 Minutes\n10:02 - Equity Absence \n10:31 - Lobbying and OpenAI\n\n‘Already Decided’ - https://www.theinformation.com/articles/amazons-jassy-raised-concerns-anthropic-model-trump-crackdown?rc=sy0ihq\n\nNot for Other Models: https://www.theinformation.com/briefings/u-s-government-unlikely-extend-anthropic-export-control-ai-companies?rc=sy0ihq\n\n90 Minutes: https://archive.fo/20260614001605/https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519#selection-807.1-807.219\n\nAnthropic Statement: https://www.anthropic.com/news/fable-mythos-access\n\nLife Comes at you Fast: https://x.com/etbrooking/status/2065638276388495742\n\nAnthropic Deputy CISO: https://x.com/TheTranscript_/status/2065883670053847324\n\nHegseth Gloat: https://x.com/PeteHegseth/status/2065897156226015690\n\nRoon Speculation: https://x.com/tszzl/status/2065939227167392147\n\nMythos System Card: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nSachs Statement: https://x.com/DavidSacks/status/2065853007619588171\n\n\nOpenAI Lobbying: https://thehill.com/policy/technology/5912720-altman-openai-get-bogged-down-in-political-spending-fight/\n\nAbsent from Equity Talks: https://finance.yahoo.com/sectors/technology/articles/trump-ai-ownership-plan-could-131053732.html\n\nPliny Jaibreak: https://x.com/elder_plinius/status/2064776322979676227\n\nFusion: https://x.com/OpenRouter/status/2065856871215329545\n\nhttps://lmcouncil.ai \n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT13M21S",
+      "view_count": 74833,
+      "like_count": 2847,
+      "comment_count": 554,
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo"
+    },
+    {
+      "id": "haK1KoQWm18",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "channel_title": "AI Explained",
+      "published_at": "2026-06-10T18:43:12Z",
+      "description": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. \n\nhttps://assemblyai.com/aiexplained\n\nPlus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning.\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:06 - Blocks + Better Models\n02:42 - Fable 5 Upgrade over Mythos Preview\n04:49 - ML Acceleration Bombshell\n07:11 - No RSI yet\n07:41 - Bio-capable\n14:51 - Creative Writing … no\n17:23 - Does need bug-checks\n18:57 - OpenAI Response\n19:23 - Benchmark Bonanza\n28:06 - Chain of Thought worrying trend\n\nFable 5 Release: https://www.anthropic.com/news/claude-fable-5-mythos-5\n\nSystem Card: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nIntelligence Explosion: https://www.patreon.com/posts/anthropic-charts-160231656\n\nAnnotated: https://x.com/Miles_Brundage/status/2064500190523113816/photo/1\n\nOpenAI Counter: https://x.com/thsottiaux/status/2064572118264913923\nhttps://x.com/thsottiaux/status/2043177597434306699\n\nDouble Lifespan: https://darioamodei.com/essay/machines-of-loving-grace\n\nAutomationBench: https://zapier.com/benchmarks\nVending Bench: https://x.com/andonlabs/status/2064429817530085804\nCritPt: https://critpt.com/\nRiemann Bench: https://surgehq.ai/leaderboards/riemann-bench\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\nBluePrint Bench 2: https://andonlabs.com/evals/blueprint-bench-2\nMCP Atlas: https://labs.scale.com/leaderboard/mcp_atlas\nFutureSim: https://x.com/nikhilchandak29/status/2064676801440358774\n\nRoon Stun Lock: https://x.com/tszzl/status/2064454617568874669\n\nNoam Brown Inference Ceiling: https://x.com/polynoamial/status/2064210146558136827\n\nIsochronic Chart: https://isochronic-passage-chart.netlify.app/#nyc\nRose Tavern: https://claude.ai/public/artifacts/2295bebe-77e6-43e2-ae94-0fe49e9a776b\nRedwall Game: https://redwall-mossflower.surge.sh/\n\nRisk Report: https://www-cdn.anthropic.com/097c63b5fe7dd8b14866e1f15bb1910ec713658a.pdf\n\nTransformer Inventor Warning: https://x.com/tszzl/status/2064563986914554125\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT34M",
+      "view_count": 111157,
+      "like_count": 4447,
+      "comment_count": 397,
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18"
+    },
+    {
+      "id": "aJvP3nXWkwM",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "channel_title": "AI Explained",
+      "published_at": "2026-05-29T15:07:35Z",
+      "description": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT22M29S",
+      "view_count": 84752,
+      "like_count": 3198,
+      "comment_count": 272,
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM"
+    },
+    {
+      "id": "o_av1b9rs2g",
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "channel_title": "AI Explained",
+      "published_at": "2026-05-20T16:50:34Z",
+      "description": "The biggest Google AI push of the year, but what is the bigger story? Why is Google pursuing a different fork in the road than OpenAI or Anthropic? \n\nhttps://assemblyai.com/aiexplained\n\nWhat does Gemini 3.5 Flash mean for the near-term future of AI? Plus the highlights from a provocative new paper on AI, 8 key moments you may have missed, and the signal from 5+ hours of AI lab interviews.\n\n\n\nCheck out my free app, code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:38 - Vibes and Google Goal\n02:18 - Omni, again?\n06:57 - Taking the same road\n07:44 - Gemini 3 Flash\n12:37 - Pitching on Cost?\n13:55 - Agentic Task Search\n14:30 - 1-shot OS but jagged, negation paper\n20:02 - The Karpathy Moonshot \n\nMostafa Deghani Interview: https://www.youtube.com/watch?v=Bo19sXssYXI\n\nNegation Neglect Paper: https://arxiv.org/pdf/2605.13829\n\nGemini 3.5 Flash Headline Scores: https://deepmind.google/models/model-cards/gemini-3-5-flash/\n\nSors original AGI Path: https://www.theguardian.com/commentisfree/2024/feb/24/openai-video-generation-tool-sora-babies-ai-artificial-intelligence\n\nHassabis Helped Set-up Anthropic: https://archive.fo/20260519070857/https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5\n\nIntelligence to Output Speed: https://artificialanalysis.ai/models?intelligence-comparison=intelligence-vs-output-speed#intelligence\n\nVibeCodeBench + Finance Agent: https://www.vals.ai/home\n\nOpenAI Needs Ads: https://archive.ph/20260409123153/https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/\n\nAnthropic Core Views: https://www.anthropic.com/news/core-views-on-ai-safety\n\nKarpathy Move: https://x.com/karpathy/status/2056753169888334312\nhttps://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude\n\nRecursive Self-Improvement: https://www.patreon.com/posts/ineffably-smart-156866417\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT21M31S",
+      "view_count": 73728,
+      "like_count": 2374,
+      "comment_count": 322,
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g"
+    },
+    {
+      "id": "jz0rNhfAKo8",
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "channel_title": "AI Explained",
+      "published_at": "2026-04-24T18:45:02Z",
+      "description": "GPT 5.5 full analysis, plus DeepSeek V4 paper highlights, comparisons with Mythos, a vibe-coded game w/ GPT Image 2, and 50 data-points you wouldn’t get from just reading the headlines.\n\nhttps://80000hours.org/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:11 - GPT 5.5 Comparison\n06:04 - Mythos Marketing\n11:50 - Recursive Self-Improvement?\n14:11 - Deepseek V4\n18:03 - VibeCode Experiment Extravaganza\n21:44 - The Scarce Compute Era\n\n\nOpenAI Benchmarks: https://openai.com/index/introducing-gpt-5-5/\n\n5.5 System Card: https://deploymentsafety.openai.com/gpt-5-5/gpt-5-5.pdf\n\nDirect Comparison: https://pbs.twimg.com/media/HGnNm5GWEAAJ1Ob?format=jpg&name=4096x4096\n\nDeepSeek Paper: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro\n\nSWE Bench Pro - benchmark of choice? https://x.com/ChowdhuryNeil/status/2047416077622395025\n\n\nAA Omniscience: https://artificialanalysis.ai/evaluations/omniscience\n\nVending Bench: https://x.com/andonlabs/status/2047377260412649967\n\nOpus 4.7 System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nSam Altman Drunk Phase: https://x.com/sama/with_replies\n\nNoam Brown: https://x.com/polynoamial/status/2047387675762802998\n\nDeepSeek Compute Crunch: https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough?srnd=phx-ai\n\nSpreadsheet Bench: https://x.com/nicochristie/status/2047476237464211721\n\nPattern Recognition: https://arcprize.org/leaderboard\n\nLeader Interviews: \nCore Memory: https://www.youtube.com/watch?v=NCKQL0op30E\nKnowledge Podcast: https://www.youtube.com/watch?v=6JoUcQ1qmAc\nBig Tech Round 1: https://www.youtube.com/watch?v=J6vYvk7R190&t=1116s\nBig Tech Round 2: https://www.youtube.com/watch?v=YnoQ8RJbALw&t=8s\n\nClaude Code Limitations: https://x.com/TheAmolAvasare/status/2046724659039932830\n\nChatGPT 5.4 for Clinicians: https://openai.com/index/making-chatgpt-better-for-clinicians/\n\nImage Arena: https://x.com/arena/status/2046670703311884548\n\nVibeCode Bench: https://www.vals.ai/benchmarks/vibe-code\n\n5.5-made Game +Seedance 2.0: https://rosemere-quest.pages.dev/\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT25M19S",
+      "view_count": 108173,
+      "like_count": 3403,
+      "comment_count": 347,
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-01T18:19:35Z",
+    "count": 5
+  }
+}

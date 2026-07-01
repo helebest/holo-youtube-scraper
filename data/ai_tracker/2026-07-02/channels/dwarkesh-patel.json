@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-02",
+  "result": [
+    {
+      "id": "fKEo9qNPk0A",
+      "title": "The reason Russia and China can't win at sea - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T23:00:08Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 175837,
+      "like_count": 7329,
+      "comment_count": 517,
+      "url": "https://www.youtube.com/watch?v=fKEo9qNPk0A"
+    },
+    {
+      "id": "IKfSfwbN-H0",
+      "title": "The One Job AI Can't Replace, According to @3blue1brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T21:16:53Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 19279,
+      "like_count": 568,
+      "comment_count": 44,
+      "url": "https://www.youtube.com/watch?v=IKfSfwbN-H0"
+    },
+    {
+      "id": "TfyPshgMbug",
+      "title": "Grant Sanderson (3Blue1Brown) – AI and the future of math",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T16:30:04Z",
+      "description": "Always so much fun to chat with @3blue1brown \n\nAI has been making much faster progress in math than in other fields. As a result, mathematics is showing us, very concretely, what AI progress in other fields will look like. Even within mathematics, there's a jagged landscape. What does it look like? \n\nWhat is the nature of the most important conceptual breakthroughs in the history of mathematics, and how different are they from what AIs are currently able to do? \n\nDoes AI (on net) increase or decrease human understanding of the field? \n\nHow big is the overhang from having AIs systematically try to connect ideas already in the literature?\n\nAnd what advice does Grant have for aspiring mathematicians, coders, and other students who are passionate about fields that are being most transformed upon by AI?\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/grant-sanderson-2\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/grant-sanderson-ai-and-the-future-of-math/id1516093381?i=1000774870615\n* Spotify: https://open.spotify.com/episode/0X3t4uRlpVT4MXPYDIrNYX?si=HZf_0Ky2Q42tOWYZNvWi6w\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Gemini 3.5 Live Translate is what I wished I'd had on my last trip to China. It detects more than 70 languages and translates them in near real-time… and it preserves your original pacing and intonation. If you're building an app that needs live translation, you should check out Gemini 3.5 Live Translate. Get started at https://ai.studio/live\n\n* Cursor’s harness lets me use models for a huge range of tasks at the podcast. For example, Cursor cuts out the ads from each episode I produce so I can post them on Bilibili. It also helps me prep for interviews — I have a repo full of books and papers that Cursor sorts through to find the exact right file for any given question. Try Cursor yourself at https://cursor.com/dwarkesh \n\n* Jane Street sponsors 3Blue1Brown, so Grant has gotten to spend a lot of time with various Jane Streeters. He actually just recorded an interview with a few of them, so when we sat down for this episode, he told me about some of the things he learned, like how Jane Street keeps their role definitions fuzzy to make sure their people keep learning and growing. Go check out Grant’s full interview at https://3b1b.co/janestreet\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – AI is discovering new proofs. Is that AGI?\n00:11:32 – The verification loop on conceptual breakthroughs can be a century long\n00:26:12 – Will we understand an AI proof of the Riemann hypothesis?\n00:38:08 – Can AI find the hidden bridges between fields?\n00:53:48 – Why real-world tasks don’t fit into RL environments\n01:07:07 – Good writing requires theory of mind that AI still lacks\n01:16:02 – Why learning will still depend on human curation",
+      "duration": "PT1H33M39S",
+      "view_count": 91297,
+      "like_count": 2940,
+      "comment_count": 280,
+      "url": "https://www.youtube.com/watch?v=TfyPshgMbug"
+    },
+    {
+      "id": "vieJ4e63cHA",
+      "title": "Renaissance art was a weapon - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-29T19:44:16Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 35862,
+      "like_count": 1575,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=vieJ4e63cHA"
+    },
+    {
+      "id": "w3-bxLJ2ms0",
+      "title": "What Machiavelli thought freedom actually was - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-27T21:51:54Z",
+      "description": "",
+      "duration": "PT1M15S",
+      "view_count": 82552,
+      "like_count": 3972,
+      "comment_count": 77,
+      "url": "https://www.youtube.com/watch?v=w3-bxLJ2ms0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-01T18:19:28Z",
+    "count": 5
+  }
+}

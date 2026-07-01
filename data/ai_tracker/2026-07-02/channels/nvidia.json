@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-07-02",
+  "result": [
+    {
+      "id": "sUdEcG824YQ",
+      "title": "NVIDIA Data Center Partners Recap | GTC Taipei 2026 Recap",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-01T15:37:52Z",
+      "description": "Purpose-built infrastructure for the era of agentic AI is here. Join us as we recap the biggest announcements from #NVIDIAGTC Taipei, featuring NVIDIA Vera Rubin, the Vera CPU, the DSX platform, and the ecosystem innovations from Foxconn, Quanta, Wistron, ASUS, GIGABYTE, Pegatron, and Wiwynn that are driving the next generation of AI factories.",
+      "duration": "PT6M21S",
+      "view_count": 932,
+      "like_count": 116,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
+    },
+    {
+      "id": "NcjBCtqRgtE",
+      "title": "Redefining Financial Services With Next-Generation Compute and Agentic AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-30T19:31:51Z",
+      "description": "Jyh-Shing Jang from E.SUN FHC will discuss how agentic AI and next-generation compute are redefining financial services by improving reporting, sentiment analysis, workflow support, and executive decision-making.\n\nKey Takeaways:\nAgentic AI can transform financial operations by gathering, analyzing, and structuring information for reporting and decision support\nNext-generation GPUs such as NVIDIA Blackwell can improve model inference efficiency, latency, and scalability for enterprise AI workflows\nFinancial institutions can use AI agents to monitor market and public sentiment, reduce manual workload, and turn fragmented data into actionable insights\n\nIndustry: Financial Services\nTopic: Agentic AI and Reasoning AI / Generative AI - Retrieval-Augmented Generation (RAG)\nTechnical Level: General Interest\nIntended Audience: Business Executive\nNVIDIA Technology: Blackwell, Hopper, RTX GPU\n\n#NVIDIAGTC",
+      "duration": "PT39M30S",
+      "view_count": 1670,
+      "like_count": 61,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=NcjBCtqRgtE"
+    },
+    {
+      "id": "10Kb3IB0d70",
+      "title": "How Together AI Uses NVIDIA's Full Stack to Deliver AI Responses in Under 100ms",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-30T16:20:15Z",
+      "description": "Together AI's Dan Fu, Vice President of Kernels, explains how Together AI leverages NVIDIA GPUs to deliver AI responses in under 100 milliseconds while achieving some of the industry's lowest token costs. From developing a megakernel that fits an entire model into a single CUDA kernel to powering real-time voice agents that return their first 64 words in under 100 milliseconds, Together AI is focused on minimizing latency at every layer of the AI stack.\n\nLearn how Together AI uses NVIDIA CUDA, TensorRT-LLM, Together ATLAS, and NVIDIA Blackwell to power real-time inference at scale. Fu also shares how Together AI helped Cursor accelerate the path from model optimization to production-ready inference endpoints using NVIDIA TensorRT-LLM on Blackwell, enabling a fast, responsive coding experience.\n\nHe also highlights ATLAS (AdapTive-LeArning Speculator System), which dynamically adapts models to changing traffic and workload patterns, and explains why NVIDIA's software stack—including CUDA, CUTLASS, Dynamo, and TensorRT-LLM—is foundational to Together AI's infrastructure. Looking ahead, Fu discusses the team's excitement for NVIDIA Vera Rubin as the platform for the next generation of long-context, ultra-low-latency AI applications.\n\nRead more in the blog: https://blogs.nvidia.com/blog/inference-software-lowest-token-cost?ncid=so-yout-289386\n\nhttps://www.together.ai/customers/cursor",
+      "duration": "PT1M52S",
+      "view_count": 1235,
+      "like_count": 64,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=10Kb3IB0d70"
+    },
+    {
+      "id": "ZeIYVHxHnQ0",
+      "title": "An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-29T22:23:07Z",
+      "description": "See how NVIDIA RTX Spark laptops accelerate advanced local AI and agentic workflows. Featuring up to 128GB of unified memory, these systems enable creators to run large models entirely on-device. Watch as the OpenClaw personal agent automates complex ComfyUI tasks, managing prompts and hyperparameters to seamlessly transform a concept sketch from Adobe Photoshop into a fully animated video while keeping your data private and secure.\n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M23S",
+      "view_count": 7492,
+      "like_count": 273,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=ZeIYVHxHnQ0"
+    },
+    {
+      "id": "zDuZmccxjlA",
+      "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-06-29T14:00:17Z",
+      "description": "Discover how NVIDIA is collaborating with the Naval Postgraduate School (NPS) to empower thousands of students to work and build applications with AI.\n\nTodd Lyons, EVP at the Naval Postgraduate School Foundation, details how NPS is utilizing NVIDIA DGX and NVIDIA Omniverse technologies to create synthetic data, train foundational models, and deploy solutions at scale for the public sector.\n\nLearn more about the NPS and NVIDIA partnership at Converge @ NPS: https://www.npsfoundation.org/partners/convergenps",
+      "duration": "PT2M24S",
+      "view_count": 3033,
+      "like_count": 125,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=zDuZmccxjlA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-01T18:19:32Z",
+    "count": 5
+  }
+}
