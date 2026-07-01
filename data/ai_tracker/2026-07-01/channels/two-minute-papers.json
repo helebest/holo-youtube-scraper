@@ -14,14 +14,26 @@
   "date": "2026-07-01",
   "result": [
     {
+      "id": "qks6dGQFd_c",
+      "title": "This New AI Model Changes Everything",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-07-01T05:23:54Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT7M27S",
+      "view_count": 10799,
+      "like_count": 922,
+      "comment_count": 120,
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c"
+    },
+    {
       "id": "mG4SmhWyeFA",
       "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-06-22T15:53:06Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n#deepseek",
       "duration": "PT5M50S",
-      "view_count": 217574,
-      "like_count": 10152,
+      "view_count": 218525,
+      "like_count": 10168,
       "comment_count": 672,
       "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-06-19T14:06:00Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper  is available here:\nhttps://recursivemas.github.io/\nhttps://github.com/RecursiveMAS/RecursiveMAS\n\nBrain reading video: https://www.youtube.com/watch?v=IUg-t609byg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M57S",
-      "view_count": 112919,
-      "like_count": 4730,
+      "view_count": 113216,
+      "like_count": 4736,
       "comment_count": 404,
       "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-06-16T15:53:17Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT6M57S",
-      "view_count": 88570,
-      "like_count": 4396,
+      "view_count": 88690,
+      "like_count": 4400,
       "comment_count": 294,
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-06-14T15:27:17Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/\n\nFree Rendering course and source code:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nThumbnail design: https://felicia.hu\n\n#nvidia",
       "duration": "PT7M51S",
-      "view_count": 67568,
-      "like_count": 2465,
+      "view_count": 67656,
+      "like_count": 2467,
       "comment_count": 175,
       "url": "https://www.youtube.com/watch?v=zJvN8PDX1is"
-    },
-    {
-      "id": "82m7YqosdgU",
-      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
-      "channel_title": "Two Minute Papers",
-      "published_at": "2026-06-06T06:20:46Z",
-      "description": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested inside immersive game environments to change how we play. 🧠 \nHashtags: #aiingames #gaming #ai #gamedev #futuretech",
-      "duration": "PT19S",
-      "view_count": 16542,
-      "like_count": 127,
-      "comment_count": 14,
-      "url": "https://www.youtube.com/watch?v=82m7YqosdgU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-30T18:17:07Z",
+    "generated_at": "2026-07-01T08:33:44Z",
     "count": 5
   }
 }

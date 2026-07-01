@@ -14,15 +14,27 @@
   "date": "2026-07-01",
   "result": [
     {
+      "id": "VUh3HDSsS5g",
+      "title": "I Can't Believe A Company Made This",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-06-30T18:43:44Z",
+      "description": "The future is here, and it’s ready to take your crap 😂\n\nThis is a self driving toilet called Xiaoban made by Chinese company Yueban that just debuted at a Shanghai aged-care expo.\n\nYou just summon it to your bedside and it has a built-in bidet. When you’re done, it autonomously drives to your regular bathroom, dumps the waste into the toilet, scrubs its own bowl, and docks itself to recharge and refill.\n\nObviously this was made for folks with mobility issues, and it’s pretty cool that tech has come this far to be able to help people in this way! \n\nAt the same time, I can’t help but imagine some people using this just for fun or out of laziness.\n\n#AI #Robotics #FutureTech",
+      "duration": "PT1M10S",
+      "view_count": 1885,
+      "like_count": 75,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=VUh3HDSsS5g"
+    },
+    {
       "id": "BF7ohr7OJcE",
       "title": "Don't Fall For This AI Trap",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-06-30T13:00:09Z",
       "description": "This is the biggest mistake I see people making with AI.\n\nWe’ve all fallen into the trap of trying to use AI for EVERYTHING. But the difference between an AI novice and a power user is knowing when to step back.\n\nThe goal isn't to automate your entire life. It's to know which tasks AI should automate, which ones it should help with, and which ones are still better left to humans.\n\nThat’s exactly what I’ll be covering in my webinar with @TeachableTV  as part of their AI Academy.\n\nWe'll go through a practical framework for deciding what to automate (and what not to), real-world AI workflows you can start using immediately, common automation mistakes to avoid, and how to use AI as a collaborator without sacrificing your own creativity and judgment.\n\nRegister at the link in the comments. And while you're there, let me know: what's something you've tried to automate with AI that completely flopped?\n\n#teachablepartner #AIforbusiness #contentcreation #Ai #aiagents",
       "duration": "PT1M37S",
-      "view_count": 3212,
-      "like_count": 196,
-      "comment_count": 11,
+      "view_count": 8746,
+      "like_count": 365,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=BF7ohr7OJcE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-06-29T12:52:49Z",
       "description": "How to generate motion graphics using AI:\n\nStep 1: Choose your AI assistant\nThese frameworks act as plugins or \"skills\" that work directly inside AI coding assistants. In the video, I used Claude Code, but they also work with VS Code, GitHub Copilot, Codex, Cowork, and more.\n\nStep 2: Find the framework you want to use\nTo make this work, you'll need a programmable video framework like Remotion or Hyperframes. You can find ones like Remotion or Hyperframes (the ones I use in this video) by simply searching for them on GitHub or in a search engine. \n\nStep 3: Install it\nYou don’t need to be a developer to set this up. I literally went into the Claude Code prompt box, pasted the GitHub URL for the framework, and typed: \"Install this for me, please.\" That is actually how easy it is.\n\nStep 4: Write your prompt\nJust describe the exact animation you want. The AI writes the underlying code and automatically renders out a clean MP4 file that you can drop directly into your video edit.\n\nIf you need professional looking graphics but don't want to spend hours keyframing in After Effects, this workflow is going to save you an enormous amount of time.\n\n✅ SAVE this reel so you can try out this workflow next time you need it!\n\n#motiongraphics #videoediting #AI #AIhack #contentcreator",
       "duration": "PT1M33S",
-      "view_count": 8742,
-      "like_count": 396,
-      "comment_count": 17,
+      "view_count": 10473,
+      "like_count": 455,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=sNzsGC2zf6c"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-26T17:30:05Z",
       "description": "Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and 200+ models in one place for one price with Nexos. Get 50% off with my code: https://nexos.ai/wolf\n\nSakana AI just released a model that beats Fable on some benchmarks, ties it on others, and loses on a few, and we put it to the test ourselves this week.\n\nThis week's AI news isn't huge in volume, but it's massive in stakes. I break down Sakana's new Fugu model, an orchestrator system that routes your prompts across multiple AI models instead of being just one model itself, and test it head to head against Fable on a couple of real build challenges. I also cover Anthropic's new Claude Tag feature, which lets you tag Claude directly inside Slack like a coworker, and the news that the US government is now getting directly involved in how OpenAI releases new models.\n\nPlus a full rapid fire on Seed Dance 2.5, Krea 2 going open weights, a new searchable database of AI training data from The Atlantic, OpenAI's own inference chip news, and a wave of new Meta Ray-Ban styles.\n\nIf you want to stay looped in on AI news every single week, make sure to subscribe. I post a news breakdown every Friday and tool tutorials midweek.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #SakanaFugu #claudeai \n\nTime Stamps:\n00:00 Sakana Fugu: A New AI Model Router\n02:00 Testing Fugu vs. Fable (Setup & Cost)\n04:24 Fugu Test Results: Game & Website Clones\n08:21 Nexos\n10:03 Anthropic's Claude Tag\n12:19 OpenAI, GPT 5.6 & Government Oversight\n14:10 Rapid Fire: Seed Dance, Krea 2 & More\n18:34 Final Thoughts & Outro\n\nThanks to Nexos for sponsoring this video.",
       "duration": "PT20M1S",
-      "view_count": 94148,
-      "like_count": 2907,
-      "comment_count": 209,
+      "view_count": 95878,
+      "like_count": 2935,
+      "comment_count": 208,
       "url": "https://www.youtube.com/watch?v=zMVZvgCOr40"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-25T20:19:01Z",
       "description": "Here's the truth about that MIT AI study everyone's been referencing.\n\nYes, leaning on AI too early or too completely can make you \"dumber.\" But the full study reveals a much more nuanced reality: human skill + AI performs better than human skill alone.\n\nWhen you already know how to think critically, AI becomes a superpower. When you use it to replace all critical thinking, well... you may lose the ability to think for yourself 🤷‍♂️\n\nWhat's another AI claim you keep hearing about that's not entirely true, or more complicated than people are saying?\n\n#AI #science",
       "duration": "PT1M26S",
-      "view_count": 13959,
-      "like_count": 839,
+      "view_count": 14048,
+      "like_count": 846,
       "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM"
-    },
-    {
-      "id": "STH929HARLo",
-      "title": "9 Free AI Skills That Feel Like Cheat Codes",
-      "channel_title": "Matt Wolfe",
-      "published_at": "2026-06-24T20:31:00Z",
-      "description": "9 free skills and plug-ins that make Claude Code, Codex, and other AI coding agents dramatically more useful, and yes, all of them are free.\nSkills and plug-ins are reusable instruction files that give your AI agent a repeatable behavior instead of starting from scratch every time. In this video I break down 9 of my favorites, install them live, and put several of them head to head so you can see exactly what changes.\n\nI cover GStack (turns Claude Code into a full virtual engineering team), Stop Slop (strips AI tells out of your writing), Graphify (turns any codebase or knowledge base into a queryable graph your agent can use as memory), Understand Anything (visual onboarding maps for any codebase), Last 30 Days (real time sentiment research across Reddit, X, YouTube, and more), Anthropic's Front End Design skill and the Taste skill (head to head design tests), and ReMotion vs HyperFrames (AI generated animations from a single prompt).\n\nEvery skill works across Claude Code, Codex, Cursor, OpenClaw, Hermes, VS Code, and GitHub Copilot. Links to every single one below.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nSkills and plug-ins mentioned:\nGStack: https://github.com/garrytan/gstack\nStop Slop: https://github.com/hardikpandya/stop-slop\nGraphify: https://github.com/safishamsi/graphify\nUnderstand Anything: https://github.com/Egonex-AI/Understand-Anything\nLast 30 Days: https://github.com/mvanhorn/last30days-skill\nFront End Design (Anthropic): https://www.skills.sh/anthropics/skills/frontend-design\nTaste Skill: https://github.com/Leonxlnx/taste-skill\nReMotion: https://github.com/remotion-dev/remotion\nHyperFrames: https://github.com/heygen-com/hyperframes\n\nIf you want more breakdowns like this, let me know in the comments and I'll keep them coming.\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\nTimestamps: \n00:00 Why Skills Matter\n01:05 Skills vs Plugins Explained\n02:45 GStack: Your AI Engineering Team\n08:14 Stop Slop: Cleaner AI Writing\n09:25 Graphify: Knowledge Graphs as Memory\n14:14 Understand Anything: Visual Code Maps\n17:55 Newsletter Quick Plug\n18:39 Last 30 Days: Real Time Sentiment Research\n20:55 Front End Design vs. Taste Skill\n24:46 Animation Showdown: ReMotion vs. HyperFrames\n28:07 Final Thoughts and Outro\n\n#ClaudeCode #AIAgents #FreeAITools",
-      "duration": "PT29M14S",
-      "view_count": 75332,
-      "like_count": 3306,
-      "comment_count": 136,
-      "url": "https://www.youtube.com/watch?v=STH929HARLo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-06-30T18:17:12Z",
+    "generated_at": "2026-07-01T08:33:49Z",
     "count": 5
   }
 }
