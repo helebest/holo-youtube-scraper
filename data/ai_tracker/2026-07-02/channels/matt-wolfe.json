@@ -14,27 +14,39 @@
   "date": "2026-07-02",
   "result": [
     {
+      "id": "XbHeJL45USQ",
+      "title": "GLM-5.2 Proves Open-Source AI is Finally Good Now!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-01T18:30:22Z",
+      "description": "Z.ai's GLM-5.2 is a 1 million token, MIT-licensed open weight model that costs a fraction of frontier AI prices, and I put it through real tests to show you exactly where it holds up and where it doesn't. Also join my newsletter: https://futuretools.io/newsletter\n\nI cover the three ways to actually use it (hosted web app, API and agent harness, or self-hosted if you have the infrastructure), build a webpage with it live, run it inside Cursor to create self-improving automation skills from my own meeting notes, generate a Remotion animation comparing GLM-5.2 against Opus 4.6, GPT-5.5, and Gemini 3.5, and show you a tool from Inference.net that lets you mirror production traffic to GLM-5.2 risk-free before fully committing.\n\nIf your workflows are long, code-heavy, document-heavy, or burning through tokens faster than you'd like, this model is worth serious attention. It's not beating Claude or GPT across the board, but for the right use cases the cost difference alone changes the math.\nAll links mentioned are below.\n\n\nResources:\nhttps://gptzero.me/\nhttps://z.ai/subscribe\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\nChapters:\n00:00 What Is GLM-5.2 and Why It Matters\n02:18 Three Ways to Access It\n05:19 Newsletter Quick Plug\n05:57 Live Tests: Webpage, Logic & Ethics\n11:56 BuseyBench: SVG Challenge\n13:51 Using GLM-5.2 in Cursor\n15:03 MegaBonk Clone Test\n17:22 Building a Chrome Extension & Cleaning Downloads\n20:12 \"Improve Your Matt\": Self-Improving AI Skills\n23:36 Remotion Animation Test\n25:10 Inference.net: Risk-Free Model Switching\n26:28 Final Verdict and Outro\n\n\n#ZAI #GLM52 #OpenSourceAI",
+      "duration": "PT28M52S",
+      "view_count": 24249,
+      "like_count": 1098,
+      "comment_count": 165,
+      "url": "https://www.youtube.com/watch?v=XbHeJL45USQ"
+    },
+    {
       "id": "Qt0oRFQm_3U",
-      "title": "Why OpenAI Is Worth LESS Than Anthropic",
+      "title": "How OpenAI LOST To Anthropic's Valuation",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-07-01T12:42:32Z",
       "description": "The market seems to think Anthropic just won the AI war against OpenAI. But what's the real story?\n\nEveryone is talking about Anthropic's massive $965B valuation filing compared to OpenAI's $852B. And if we look at the business fundamentals, Anthropic brought the receipts:\n💰 $30B vs $25B in annualized revenue\n🤝 70% win rate for massive enterprise clients\n📈 Projected profitability by 2028 (OpenAI isn't expected until 2030)\n🇻🇦 And the cherry on top: a acknowledgment on AI safety from the Pope himself\n\nBUT... OpenAI is still the undefeated king of the consumer market with a staggering 905 MILLION weekly active users for ChatGPT. \n\nThe real battle isn't just about valuation. It’s Enterprise Revenue vs. Consumer Growth. Claude is winning on precision and nuance, while ChatGPT is winning on convenience and brand dominance.\n\nWhich team are you on? Let me know in the comments! \n\n#ChatGPT #OpenAI #Claude #Anthropic #Ainews",
       "duration": "PT2M13S",
-      "view_count": 2197,
-      "like_count": 78,
-      "comment_count": 9,
+      "view_count": 5458,
+      "like_count": 207,
+      "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=Qt0oRFQm_3U"
     },
     {
       "id": "VUh3HDSsS5g",
-      "title": "I Can't Believe This Is A Real Product",
+      "title": "WTF is China building now 😂",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-06-30T18:43:44Z",
       "description": "The future is here, and it’s ready to take your crap 😂\n\nThis is a self driving toilet called Xiaoban made by Chinese company Yueban that just debuted at a Shanghai aged-care expo.\n\nYou just summon it to your bedside and it has a built-in bidet. When you’re done, it autonomously drives to your regular bathroom, dumps the waste into the toilet, scrubs its own bowl, and docks itself to recharge and refill.\n\nObviously this was made for folks with mobility issues, and it’s pretty cool that tech has come this far to be able to help people in this way! \n\nAt the same time, I can’t help but imagine some people using this just for fun or out of laziness.\n\n#AI #Robotics #FutureTech",
       "duration": "PT1M10S",
-      "view_count": 3129,
-      "like_count": 102,
-      "comment_count": 15,
+      "view_count": 5107,
+      "like_count": 172,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=VUh3HDSsS5g"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-30T13:00:09Z",
       "description": "This is the biggest mistake I see people making with AI.\n\nWe’ve all fallen into the trap of trying to use AI for EVERYTHING. But the difference between an AI novice and a power user is knowing when to step back.\n\nThe goal isn't to automate your entire life. It's to know which tasks AI should automate, which ones it should help with, and which ones are still better left to humans.\n\nThat’s exactly what I’ll be covering in my webinar with @TeachableTV  as part of their AI Academy.\n\nWe'll go through a practical framework for deciding what to automate (and what not to), real-world AI workflows you can start using immediately, common automation mistakes to avoid, and how to use AI as a collaborator without sacrificing your own creativity and judgment.\n\nRegister at the link in the comments. And while you're there, let me know: what's something you've tried to automate with AI that completely flopped?\n\n#teachablepartner #AIforbusiness #contentcreation #Ai #aiagents",
       "duration": "PT1M37S",
-      "view_count": 10305,
-      "like_count": 402,
-      "comment_count": 16,
+      "view_count": 10980,
+      "like_count": 425,
+      "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=BF7ohr7OJcE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-29T12:52:49Z",
       "description": "How to generate motion graphics using AI:\n\nStep 1: Choose your AI assistant\nThese frameworks act as plugins or \"skills\" that work directly inside AI coding assistants. In the video, I used Claude Code, but they also work with VS Code, GitHub Copilot, Codex, Cowork, and more.\n\nStep 2: Find the framework you want to use\nTo make this work, you'll need a programmable video framework like Remotion or Hyperframes. You can find ones like Remotion or Hyperframes (the ones I use in this video) by simply searching for them on GitHub or in a search engine. \n\nStep 3: Install it\nYou don’t need to be a developer to set this up. I literally went into the Claude Code prompt box, pasted the GitHub URL for the framework, and typed: \"Install this for me, please.\" That is actually how easy it is.\n\nStep 4: Write your prompt\nJust describe the exact animation you want. The AI writes the underlying code and automatically renders out a clean MP4 file that you can drop directly into your video edit.\n\nIf you need professional looking graphics but don't want to spend hours keyframing in After Effects, this workflow is going to save you an enormous amount of time.\n\n✅ SAVE this reel so you can try out this workflow next time you need it!\n\n#motiongraphics #videoediting #AI #AIhack #contentcreator",
       "duration": "PT1M33S",
-      "view_count": 11046,
-      "like_count": 471,
+      "view_count": 11515,
+      "like_count": 487,
       "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=sNzsGC2zf6c"
-    },
-    {
-      "id": "zMVZvgCOr40",
-      "title": "AI News: The New Model That's As Good As Fable",
-      "channel_title": "Matt Wolfe",
-      "published_at": "2026-06-26T17:30:05Z",
-      "description": "Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and 200+ models in one place for one price with Nexos. Get 50% off with my code: https://nexos.ai/wolf\n\nSakana AI just released a model that beats Fable on some benchmarks, ties it on others, and loses on a few, and we put it to the test ourselves this week.\n\nThis week's AI news isn't huge in volume, but it's massive in stakes. I break down Sakana's new Fugu model, an orchestrator system that routes your prompts across multiple AI models instead of being just one model itself, and test it head to head against Fable on a couple of real build challenges. I also cover Anthropic's new Claude Tag feature, which lets you tag Claude directly inside Slack like a coworker, and the news that the US government is now getting directly involved in how OpenAI releases new models.\n\nPlus a full rapid fire on Seed Dance 2.5, Krea 2 going open weights, a new searchable database of AI training data from The Atlantic, OpenAI's own inference chip news, and a wave of new Meta Ray-Ban styles.\n\nIf you want to stay looped in on AI news every single week, make sure to subscribe. I post a news breakdown every Friday and tool tutorials midweek.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #SakanaFugu #claudeai \n\nTime Stamps:\n00:00 Sakana Fugu: A New AI Model Router\n02:00 Testing Fugu vs. Fable (Setup & Cost)\n04:24 Fugu Test Results: Game & Website Clones\n08:21 Nexos\n10:03 Anthropic's Claude Tag\n12:19 OpenAI, GPT 5.6 & Government Oversight\n14:10 Rapid Fire: Seed Dance, Krea 2 & More\n18:34 Final Thoughts & Outro\n\nThanks to Nexos for sponsoring this video.",
-      "duration": "PT20M1S",
-      "view_count": 96980,
-      "like_count": 2957,
-      "comment_count": 210,
-      "url": "https://www.youtube.com/watch?v=zMVZvgCOr40"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-01T18:19:34Z",
+    "generated_at": "2026-07-02T07:48:01Z",
     "count": 5
   }
 }
