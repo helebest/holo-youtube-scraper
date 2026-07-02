@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-03",
+  "result": [
+    {
+      "id": "08hgAtg-P_8",
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-01T18:31:25Z",
+      "description": "\"As a solutions engineer, my job is to make customers believe our technology can take them where they want to go. Codex helps me turn raw, messy context - customer emails, industry signals, product information, and even Trustpilot reviews - into something they can react to. I can analyze what their customers are asking for, mock up their website, apply those changes, and package the demo with a voiceover walkthrough. It makes the value tangible in their world, not ours.”\n\nStephanie Anani, Solutions Engineer, OpenAI",
+      "duration": "PT1M14S",
+      "view_count": 4676,
+      "like_count": 157,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8"
+    },
+    {
+      "id": "IUGEvzfvUWU",
+      "title": "Setup with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-01T14:30:32Z",
+      "description": "",
+      "duration": "PT31S",
+      "view_count": 5384,
+      "like_count": 156,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU"
+    },
+    {
+      "id": "N3Hzsf2PuHA",
+      "title": "Grow With ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-01T14:28:59Z",
+      "description": "",
+      "duration": "PT31S",
+      "view_count": 3802,
+      "like_count": 123,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA"
+    },
+    {
+      "id": "f-HiB82Tl94",
+      "title": "Advent Accelerates Deals with ChatGPT + Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-29T14:30:09Z",
+      "description": "ChatGPT + Codex are a one-two punch for investment firms. \n\n\"Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows,\" - Jasmine Azizi (Advent). \n\nFinancial firms hold a tremendous amount of context. ChatGPT acts like a brain layer so teams can spend more time focusing on the next big bet.",
+      "duration": "PT1M",
+      "view_count": 7985,
+      "like_count": 190,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94"
+    },
+    {
+      "id": "SPC_yCe1cUw",
+      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+      "channel_title": "OpenAI",
+      "published_at": "2026-06-26T19:40:00Z",
+      "description": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing",
+      "duration": "PT28M31S",
+      "view_count": 5760,
+      "like_count": 157,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-02T18:07:16Z",
+    "count": 5
+  }
+}
