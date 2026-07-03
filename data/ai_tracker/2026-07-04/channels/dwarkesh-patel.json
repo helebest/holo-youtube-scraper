@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-04",
+  "result": [
+    {
+      "id": "6-oXxHclchE",
+      "title": "Why Russia Never Stops Expanding - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T21:41:15Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 133669,
+      "like_count": 4722,
+      "comment_count": 292,
+      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
+    },
+    {
+      "id": "l69nxm9dFT4",
+      "title": "How a violent conqueror became the most beloved man in the city - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T19:30:11Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 14353,
+      "like_count": 901,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
+    },
+    {
+      "id": "kmv7ayxnE-Y",
+      "title": "AI That Discovers Math Will Also Explain It Better Than Us - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-01T21:51:18Z",
+      "description": "",
+      "duration": "PT47S",
+      "view_count": 41624,
+      "like_count": 1149,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
+    },
+    {
+      "id": "fKEo9qNPk0A",
+      "title": "The reason Russia and China can't win at sea - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T23:00:08Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 337185,
+      "like_count": 12861,
+      "comment_count": 847,
+      "url": "https://www.youtube.com/watch?v=fKEo9qNPk0A"
+    },
+    {
+      "id": "IKfSfwbN-H0",
+      "title": "The One Job AI Can't Replace, According to @3blue1brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T21:16:53Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 25591,
+      "like_count": 634,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=IKfSfwbN-H0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-03T17:53:10Z",
+    "count": 5
+  }
+}
