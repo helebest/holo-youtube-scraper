@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-05",
+  "result": [
+    {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 9475,
+      "like_count": 549,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    },
+    {
+      "id": "6-oXxHclchE",
+      "title": "Why Russia Never Stops Expanding - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T21:41:15Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 198758,
+      "like_count": 6038,
+      "comment_count": 369,
+      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
+    },
+    {
+      "id": "l69nxm9dFT4",
+      "title": "How a violent conqueror became the most beloved man in the city - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T19:30:11Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 18565,
+      "like_count": 1062,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
+    },
+    {
+      "id": "kmv7ayxnE-Y",
+      "title": "AI That Discovers Math Will Also Explain It Better Than Us - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-01T21:51:18Z",
+      "description": "",
+      "duration": "PT47S",
+      "view_count": 59205,
+      "like_count": 1562,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
+    },
+    {
+      "id": "fKEo9qNPk0A",
+      "title": "The reason Russia and China can't win at sea - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-06-30T23:00:08Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 375057,
+      "like_count": 14236,
+      "comment_count": 898,
+      "url": "https://www.youtube.com/watch?v=fKEo9qNPk0A"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-04T17:31:10Z",
+    "count": 5
+  }
+}

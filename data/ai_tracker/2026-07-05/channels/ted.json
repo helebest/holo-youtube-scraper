@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-07-05",
+  "result": [
+    {
+      "id": "pRiu3lxPZAw",
+      "title": "Why Democracy Requires Renewal | Michael Dimock | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-04T15:00:01Z",
+      "description": "Pew Research Center president Michael Dimock has spent years listening to what Americans think — and what they're telling him right now is pretty dark. But buried in the data is something revealing: people are ready for bold democratic reform that the country hasn’t seen in decades. He explores how America's founders didn't create a finished system of government but rather launched an ongoing project that requires each generation to renew, adapt and reimagine democracy. The survey says Americans are ready to do the work.\n (Recorded at TED Democracy Philadelphia on June 13, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/michaeldimock\n\nhttps://youtu.be/pRiu3lxPZAw\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Democracy",
+      "duration": "PT14M10S",
+      "view_count": 1724,
+      "like_count": 123,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=pRiu3lxPZAw"
+    },
+    {
+      "id": "kiHmIZHp9uI",
+      "title": "These costumes did not throw away their shot #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-07-03T18:00:23Z",
+      "description": "If you've ever been swept away by the worlds of \"Wicked,\" \"Hamilton\" or \"West Side Story,\" you've seen Paul Tazewell's breathtaking costumes. The Oscar-winning designer (whose work features in \"Wicked: For Good\") explores the subconscious language of clothing and how it shapes who we view as heroes — and who we view as villains.",
+      "duration": "PT2M34S",
+      "view_count": 27962,
+      "like_count": 383,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=kiHmIZHp9uI"
+    },
+    {
+      "id": "xx8mwytj4CY",
+      "title": "A Simple Solution to Fix Workplace Miscommunication | Melissa M. Mikus | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-03T15:00:02Z",
+      "description": "Leadership expert Melissa M. Mikus breaks down why most workplace friction isn't about personality clashes or bad intentions — it's about not knowing how to effectively communicate. Her solution? A small, visible and easy tweak that anyone can implement right away. (Recorded at TED@BCG on October 23, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/melissammikus\n\nhttps://youtu.be/xx8mwytj4CY\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Business",
+      "duration": "PT9M55S",
+      "view_count": 11778,
+      "like_count": 431,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=xx8mwytj4CY"
+    },
+    {
+      "id": "xhfwWqvaWPU",
+      "title": "A special message for TED fans from Sal Khan #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-07-02T21:50:34Z",
+      "description": "",
+      "duration": "PT2M37S",
+      "view_count": 33275,
+      "like_count": 337,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=xhfwWqvaWPU"
+    },
+    {
+      "id": "Vzbz--aPQLE",
+      "title": "Why a Social Media Ban Won’t Save Teens | Candice Odgers | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-02T15:00:19Z",
+      "description": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows social media may not actually be the culprit for mental health problems. Hear her analysis of what’s really troubling kids these days, and why banning them from online spaces may make things worse. (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/candiceodgers\n\nhttps://youtu.be/Vzbz--aPQLE\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #SocialMedia",
+      "duration": "PT12M24S",
+      "view_count": 21252,
+      "like_count": 883,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=Vzbz--aPQLE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-04T17:31:10Z",
+    "count": 5
+  }
+}
