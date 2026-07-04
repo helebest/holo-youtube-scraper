@@ -15,14 +15,14 @@
   "result": [
     {
       "id": "uO5cvkzh3P0",
-      "title": "Game Physics Just Got 170 Times Faster",
+      "title": "They Said This Will Never Run In Real Time",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-07-03T17:19:59Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtube.com/shorts/Tx7167DXr8U\nhttps://www.youtube.com/watch?v=55F9dY2Y1zc\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M18S",
-      "view_count": 1137,
-      "like_count": 143,
-      "comment_count": 12,
+      "view_count": 15055,
+      "like_count": 1057,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-01T05:23:54Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT7M27S",
-      "view_count": 79273,
-      "like_count": 3768,
-      "comment_count": 374,
+      "view_count": 82125,
+      "like_count": 3850,
+      "comment_count": 384,
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-06-22T15:53:06Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n#deepseek",
       "duration": "PT5M50S",
-      "view_count": 221695,
-      "like_count": 10250,
-      "comment_count": 676,
+      "view_count": 222280,
+      "like_count": 10264,
+      "comment_count": 677,
       "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-06-19T14:06:00Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper  is available here:\nhttps://recursivemas.github.io/\nhttps://github.com/RecursiveMAS/RecursiveMAS\n\nBrain reading video: https://www.youtube.com/watch?v=IUg-t609byg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M57S",
-      "view_count": 114179,
-      "like_count": 4767,
+      "view_count": 114414,
+      "like_count": 4779,
       "comment_count": 407,
       "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-06-16T15:53:17Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "duration": "PT6M57S",
-      "view_count": 89027,
-      "like_count": 4406,
+      "view_count": 89114,
+      "like_count": 4409,
       "comment_count": 294,
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-03T17:53:12Z",
+    "generated_at": "2026-07-04T07:21:56Z",
     "count": 5
   }
 }

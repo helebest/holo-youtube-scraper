@@ -14,15 +14,27 @@
   "date": "2026-07-04",
   "result": [
     {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 4029,
+      "like_count": 246,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    },
+    {
       "id": "6-oXxHclchE",
       "title": "Why Russia Never Stops Expanding - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-02T21:41:15Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 133669,
-      "like_count": 4722,
-      "comment_count": 292,
+      "view_count": 185778,
+      "like_count": 5730,
+      "comment_count": 355,
       "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-02T19:30:11Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 14353,
-      "like_count": 901,
-      "comment_count": 10,
+      "view_count": 17464,
+      "like_count": 1008,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-01T21:51:18Z",
       "description": "",
       "duration": "PT47S",
-      "view_count": 41624,
-      "like_count": 1149,
-      "comment_count": 38,
+      "view_count": 49202,
+      "like_count": 1332,
+      "comment_count": 43,
       "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-30T23:00:08Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 337185,
-      "like_count": 12861,
-      "comment_count": 847,
+      "view_count": 360817,
+      "like_count": 13742,
+      "comment_count": 874,
       "url": "https://www.youtube.com/watch?v=fKEo9qNPk0A"
-    },
-    {
-      "id": "IKfSfwbN-H0",
-      "title": "The One Job AI Can't Replace, According to @3blue1brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-30T21:16:53Z",
-      "description": "",
-      "duration": "PT30S",
-      "view_count": 25591,
-      "like_count": 634,
-      "comment_count": 46,
-      "url": "https://www.youtube.com/watch?v=IKfSfwbN-H0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-03T17:53:10Z",
+    "generated_at": "2026-07-04T07:21:54Z",
     "count": 5
   }
 }

@@ -20,9 +20,9 @@
       "published_at": "2026-07-03T16:00:01Z",
       "description": "Game Ready. World-leading gaming tech on the slimmest RTX laptops ever.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at high-performance gaming powered by the NVIDIA RTX Spark superchip.\n\nLearn more about NVIDIA RTX Spark:\nhttps://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT37S",
-      "view_count": 873,
-      "like_count": 18,
-      "comment_count": 3,
+      "view_count": 3368,
+      "like_count": 74,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=B0gTeYq0Emg"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-02T20:50:56Z",
       "description": "NVIDIA released a new toolkit called BioNeMo Agent Toolkit that's meant to let AI agents actually do hands-on scientific work in biology and chemistry - not just answer questions about it. Instead of an AI just chatting about a protein or a drug compound, it can now use real scientific software tools: predicting protein shapes, testing how well a drug molecule binds to a target, analyzing genetic sequencing data, and suggesting which lab experiments to try next.\n\nCompanies including Dassault Systèmes, Databricks, Eli Lilly, Schrödinger, Snowflake, and the University of Washington's Institute for Protein Design are adopting it, and both Anthropic and OpenAI are integrating it into their systems. The idea is that a general AI chatbot is bad at knowing which specialized scientific tool to use for a given task - this toolkit hands it the right tools and know-how so it can work more like a research assistant.\n\nChapters\n00:00 - 07:20 - Intro\n07:21 - 20:25 - BioNeMo Agent Toolkit\n20:26 - 1:02:42 - Panel: Benchling, Chai Discovery, Edison Scientific\n\nPress Release https://nvda.ws/4g0tPyf\nTech Blog https://nvda.ws/4uS6x1c\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT1H2M47S",
-      "view_count": 2206,
-      "like_count": 122,
-      "comment_count": 11,
+      "view_count": 3447,
+      "like_count": 184,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=RNY0p5wL4AA"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-07-02T18:20:12Z",
       "description": "BioNeMo Agent Toolkit is an open, agent-ready toolkit that gives any AI agent callable tools for protein structure prediction, molecular docking, generative chemistry, genomic analysis, and more. Built on more than a decade of NVIDIA life sciences libraries and models, BioNeMo Agent Toolkit has tools and skills for agentic software throughout the full drug discovery stack: from early biology to molecular design to translational science.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT37S",
-      "view_count": 4109,
-      "like_count": 75,
+      "view_count": 4849,
+      "like_count": 77,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=HAiBGTrdOwI"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-07-02T17:00:05Z",
       "description": "Revolutionary AI for creativity. Strikingly slim, incredibly powerful.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at the new ASUS ProArt P16 and P14 laptops powered by the NVIDIA RTX Spark superchip.\n\nLearn more: https://www.asus.com/blog/the-future-of-creation-why-asus-proart-p16-p14-stole-the-show-at-computex/",
       "duration": "PT1M15S",
-      "view_count": 4982,
-      "like_count": 170,
-      "comment_count": 6,
+      "view_count": 6441,
+      "like_count": 216,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=wHv_vYL4bqI"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-07-01T15:37:52Z",
       "description": "Purpose-built infrastructure for the era of agentic AI is here. Join us as we recap the biggest announcements from #NVIDIAGTC Taipei, featuring NVIDIA Vera Rubin, the Vera CPU, the DSX platform, and the ecosystem innovations from Foxconn, Quanta, Wistron, ASUS, GIGABYTE, Pegatron, and Wiwynn that are driving the next generation of AI factories.",
       "duration": "PT6M21S",
-      "view_count": 4818,
-      "like_count": 262,
+      "view_count": 5049,
+      "like_count": 265,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-03T17:53:13Z",
+    "generated_at": "2026-07-04T07:21:58Z",
     "count": 5
   }
 }
