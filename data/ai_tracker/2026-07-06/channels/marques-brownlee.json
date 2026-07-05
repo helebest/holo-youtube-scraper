@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-07-06",
+  "result": [
+    {
+      "id": "7KRabLH7jcE",
+      "title": "The Best Car I've Ever Driven: McLaren W1",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-02T20:42:45Z",
+      "description": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT16M31S",
+      "view_count": 1204646,
+      "like_count": 51008,
+      "comment_count": 2231,
+      "url": "https://www.youtube.com/watch?v=7KRabLH7jcE"
+    },
+    {
+      "id": "ZpF6IE0rdxA",
+      "title": "Antigravity A1: A New Take on Drones!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-29T19:22:20Z",
+      "description": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 people get a free flight battery and a double-lens replacement kit with their A1 purchase.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M10S",
+      "view_count": 1745949,
+      "like_count": 47136,
+      "comment_count": 1553,
+      "url": "https://www.youtube.com/watch?v=ZpF6IE0rdxA"
+    },
+    {
+      "id": "oYAnEH0JoqI",
+      "title": "Apple's Big Price Hike",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-25T15:32:20Z",
+      "description": "New prices across the board for everything.",
+      "duration": "PT1M1S",
+      "view_count": 1589578,
+      "like_count": 52537,
+      "comment_count": 2199,
+      "url": "https://www.youtube.com/watch?v=oYAnEH0JoqI"
+    },
+    {
+      "id": "QrT4S9i3agE",
+      "title": "Top 5 Android 17 Features: I Swear It's New!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-24T21:06:51Z",
+      "description": "Android 17 Cinnamon bun. We're bringing the dessert names back.\n\nSave 60% off site-wide with dbrand at https://dbrand.com/summersale during their limited-time Summer Sale!\n\nThat shirt! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT9M24S",
+      "view_count": 1804908,
+      "like_count": 60888,
+      "comment_count": 2977,
+      "url": "https://www.youtube.com/watch?v=QrT4S9i3agE"
+    },
+    {
+      "id": "WOzcFkld6_g",
+      "title": "The Most Interesting Displays In The World!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-16T18:17:15Z",
+      "description": "From touchscreen Macbooks to holograms\n\nGet 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD\n\nMagic screen: https://www.kickstarter.com/projects/intricuit/magic-screen-the-first-snap-on-touchscreen-for-your-macbook\n\nStudio hologram video: https://youtu.be/luq4Vsy38Ac?si=p6hkSmttytl8Vkmg\n\n(Affiliate Link) Dell UltraSharp 52 U5226KW: https://geni.us/Hxv9\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M57S",
+      "view_count": 2587381,
+      "like_count": 70827,
+      "comment_count": 2092,
+      "url": "https://www.youtube.com/watch?v=WOzcFkld6_g"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-05T17:34:16Z",
+    "count": 5
+  }
+}

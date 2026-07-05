@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-06",
+  "result": [
+    {
+      "id": "Gr5cOV3mOGs",
+      "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-04T18:20:07Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 13577,
+      "like_count": 589,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
+    },
+    {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 19685,
+      "like_count": 1169,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    },
+    {
+      "id": "6-oXxHclchE",
+      "title": "Why Russia Never Stops Expanding - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T21:41:15Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 223388,
+      "like_count": 6740,
+      "comment_count": 390,
+      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
+    },
+    {
+      "id": "l69nxm9dFT4",
+      "title": "How a violent conqueror became the most beloved man in the city - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T19:30:11Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 20148,
+      "like_count": 1120,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
+    },
+    {
+      "id": "kmv7ayxnE-Y",
+      "title": "AI That Discovers Math Will Also Explain It Better Than Us - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-01T21:51:18Z",
+      "description": "",
+      "duration": "PT47S",
+      "view_count": 90193,
+      "like_count": 2265,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-05T17:34:13Z",
+    "count": 5
+  }
+}

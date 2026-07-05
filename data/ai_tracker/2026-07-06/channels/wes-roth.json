@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-07-06",
+  "result": [
+    {
+      "id": "GPxUhrdDbKE",
+      "title": "Fable 5 is WILD...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-07-02T00:48:33Z",
+      "description": "Connect it yourself in 30 seconds\n➡️ https://higgsfield.ai/s/mcp-wesroth-OMQSbO\nSelect whether you want to use it as MCP, CLI or Skill.\nThen select your AI Agent; Claude, Cursor, OpenClaw, Hermes etc.\nFollow the simple steps to get started.\n\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\nTIMELINE\n00:00 Fable 5 is back\n01:34 first project: Embervale\n02:47 Embervale Demo\n08:00 Higgfield AI (sponsor)\n11:51 second project: Sail\n12:51 Sail Demo\n17:24 Third Project: Sheets\n21:46 Guardrails\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M28S",
+      "view_count": 54987,
+      "like_count": 1579,
+      "comment_count": 365,
+      "url": "https://www.youtube.com/watch?v=GPxUhrdDbKE"
+    },
+    {
+      "id": "73RZkEgC3AE",
+      "title": "FABLE 5 IS BACK",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-07-01T03:13:15Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT13M1S",
+      "view_count": 70843,
+      "like_count": 1849,
+      "comment_count": 445,
+      "url": "https://www.youtube.com/watch?v=73RZkEgC3AE"
+    },
+    {
+      "id": "CTKe2tmdy7s",
+      "title": "it's all bad now...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-30T05:05:56Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT22M49S",
+      "view_count": 81460,
+      "like_count": 2752,
+      "comment_count": 1350,
+      "url": "https://www.youtube.com/watch?v=CTKe2tmdy7s"
+    },
+    {
+      "id": "st_HMMt0T7g",
+      "title": "Hermes AI Setup (plus business skills)",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-27T15:46:01Z",
+      "description": "Go to: http://hostinger.com/hermeswesroth\nand use code: WESROTH \nfor an additional discount on HOSTINGER yearly plans.\n\nHere are the two previous videos I did on installing Hermes:\n\nHERMES AGENT SETUP: the OpenClaw killer is here:\nhttps://www.youtube.com/watch?v=3jNp14bJpgs\n\nHermes Agent is INSANE...\nhttps://www.youtube.com/watch?v=bFO0uAMPx1g\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n00:00 Hermes Business Hackathon\n02:40 where to install Hermes\n04:30 what I use\n05:00 Installing Hermes on Hostinger (sponsor)\n09:48 using Hermes with Nous Portal\n13:25 using Hermes with OpenAI Codex\n16:36 basic commands\n20:00 Using Stripe Payment Skills\n32:10 NVIDIA Nemotron\n51:38 more resources\n\n#ai #openai #llm",
+      "duration": "PT53M30S",
+      "view_count": 31792,
+      "like_count": 794,
+      "comment_count": 114,
+      "url": "https://www.youtube.com/watch?v=st_HMMt0T7g"
+    },
+    {
+      "id": "HAsEYh6jTks",
+      "title": "OpenAI JUST announced \"JALAPENO\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-06-25T20:07:06Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M54S",
+      "view_count": 79274,
+      "like_count": 1835,
+      "comment_count": 484,
+      "url": "https://www.youtube.com/watch?v=HAsEYh6jTks"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-05T17:34:21Z",
+    "count": 5
+  }
+}
