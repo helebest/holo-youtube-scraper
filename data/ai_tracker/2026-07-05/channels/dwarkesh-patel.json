@@ -14,15 +14,27 @@
   "date": "2026-07-05",
   "result": [
     {
+      "id": "Gr5cOV3mOGs",
+      "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-04T18:20:07Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 9903,
+      "like_count": 396,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
+    },
+    {
       "id": "Cn12N7Vm32A",
       "title": "Mathematicians will become art curators - Grant Sanderson",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-03T22:31:30Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 9475,
-      "like_count": 549,
-      "comment_count": 10,
+      "view_count": 15603,
+      "like_count": 920,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-02T21:41:15Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 198758,
-      "like_count": 6038,
-      "comment_count": 369,
+      "view_count": 215081,
+      "like_count": 6506,
+      "comment_count": 381,
       "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-02T19:30:11Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 18565,
-      "like_count": 1062,
-      "comment_count": 12,
+      "view_count": 19571,
+      "like_count": 1096,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-01T21:51:18Z",
       "description": "",
       "duration": "PT47S",
-      "view_count": 59205,
-      "like_count": 1562,
-      "comment_count": 48,
+      "view_count": 75856,
+      "like_count": 1919,
+      "comment_count": 57,
       "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
-    },
-    {
-      "id": "fKEo9qNPk0A",
-      "title": "The reason Russia and China can't win at sea - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-06-30T23:00:08Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 375057,
-      "like_count": 14236,
-      "comment_count": 898,
-      "url": "https://www.youtube.com/watch?v=fKEo9qNPk0A"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-04T17:31:10Z",
+    "generated_at": "2026-07-05T07:44:41Z",
     "count": 5
   }
 }
