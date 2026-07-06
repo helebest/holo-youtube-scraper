@@ -14,15 +14,27 @@
   "date": "2026-07-06",
   "result": [
     {
+      "id": "ymxAcpVIclA",
+      "title": "Britain turned its biggest weakness into the source of its power - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-05T21:02:25Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 94470,
+      "like_count": 4617,
+      "comment_count": 159,
+      "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
+    },
+    {
       "id": "Gr5cOV3mOGs",
       "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-04T18:20:07Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 13577,
-      "like_count": 589,
-      "comment_count": 15,
+      "view_count": 26457,
+      "like_count": 1267,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-03T22:31:30Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 19685,
-      "like_count": 1169,
-      "comment_count": 27,
+      "view_count": 25944,
+      "like_count": 1399,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-02T21:41:15Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 223388,
-      "like_count": 6740,
-      "comment_count": 390,
+      "view_count": 233732,
+      "like_count": 7015,
+      "comment_count": 404,
       "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-02T19:30:11Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 20148,
-      "like_count": 1120,
+      "view_count": 23024,
+      "like_count": 1249,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
-    },
-    {
-      "id": "kmv7ayxnE-Y",
-      "title": "AI That Discovers Math Will Also Explain It Better Than Us - Grant Sanderson",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-01T21:51:18Z",
-      "description": "",
-      "duration": "PT47S",
-      "view_count": 90193,
-      "like_count": 2265,
-      "comment_count": 76,
-      "url": "https://www.youtube.com/watch?v=kmv7ayxnE-Y"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-05T17:34:13Z",
+    "generated_at": "2026-07-06T08:44:24Z",
     "count": 5
   }
 }
