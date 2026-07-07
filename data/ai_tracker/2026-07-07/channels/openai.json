@@ -14,14 +14,26 @@
   "date": "2026-07-07",
   "result": [
     {
+      "id": "4sexN3yE8xg",
+      "title": "Builders Unscripted: Ep. 5 - Derya Unutmaz",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-06T20:03:49Z",
+      "description": "Derya Unutmaz, M.D., an immunologist and professor at The Jackson Laboratory, chats with Romain Huet about building tools for biology with Codex and a future where AI helps scientists simulate experiments.\n\n00:00 Builders Unscripted Episode 5\n09:17 Cell analysis with Codex\n13:26 Simulating immune cells\n29:48 The future of AI-powered science",
+      "duration": "PT36M4S",
+      "view_count": 2717,
+      "like_count": 123,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=4sexN3yE8xg"
+    },
+    {
       "id": "sha3EL1ngN8",
       "title": "Thomson Reuters CEO Steve Hasker swears by this AI Routine",
       "channel_title": "OpenAI",
       "published_at": "2026-07-06T14:39:55Z",
       "description": "The Monday morning AI routine that Thomson Reuters CEO Steve Hasker Steve Hasker swears by: \n\n🎙️ Listen to the Reuters News World pod\n💡 Prep for the day with your GPT \n📈 Roll up your sleeves & immerse yourself in the work",
       "duration": "PT1M17S",
-      "view_count": 1411,
-      "like_count": 72,
+      "view_count": 4341,
+      "like_count": 118,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=sha3EL1ngN8"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-07-01T18:31:25Z",
       "description": "\"As a solutions engineer, my job is to make customers believe our technology can take them where they want to go. Codex helps me turn raw, messy context - customer emails, industry signals, product information, and even Trustpilot reviews - into something they can react to. I can analyze what their customers are asking for, mock up their website, apply those changes, and package the demo with a voiceover walkthrough. It makes the value tangible in their world, not ours.”\n\nStephanie Anani, Solutions Engineer, OpenAI",
       "duration": "PT1M14S",
-      "view_count": 8591,
-      "like_count": 226,
+      "view_count": 8768,
+      "like_count": 230,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=08hgAtg-P_8"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-07-01T14:30:32Z",
       "description": "",
       "duration": "PT31S",
-      "view_count": 7564,
-      "like_count": 185,
+      "view_count": 7723,
+      "like_count": 189,
       "comment_count": 62,
       "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-07-01T14:28:59Z",
       "description": "",
       "duration": "PT31S",
-      "view_count": 5289,
-      "like_count": 144,
+      "view_count": 5446,
+      "like_count": 145,
       "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA"
-    },
-    {
-      "id": "f-HiB82Tl94",
-      "title": "Advent Accelerates Deals with ChatGPT + Codex",
-      "channel_title": "OpenAI",
-      "published_at": "2026-06-29T14:30:09Z",
-      "description": "ChatGPT + Codex are a one-two punch for investment firms. \n\n\"Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows,\" - Jasmine Azizi (Advent). \n\nFinancial firms hold a tremendous amount of context. ChatGPT acts like a brain layer so teams can spend more time focusing on the next big bet.",
-      "duration": "PT1M",
-      "view_count": 8657,
-      "like_count": 204,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-06T18:22:53Z",
+    "generated_at": "2026-07-07T07:56:08Z",
     "count": 5
   }
 }
