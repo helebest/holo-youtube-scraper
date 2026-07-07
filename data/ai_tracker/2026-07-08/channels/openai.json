@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "mC8nKdQbbO4",
+      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-07T17:33:50Z",
+      "description": "For investment firms, getting smart faster is a competitive advantage.\n\n“My team uses ChatGPT on a daily basis… for market studies and desktop information scrapes… It enables us to get smart on industries really, really quickly.” -David Bessel, TPG\n\nSee how TPG is putting ChatGPT to work across research and diligence.",
+      "duration": "PT21S",
+      "view_count": 380,
+      "like_count": 3,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=mC8nKdQbbO4"
+    },
+    {
+      "id": "SRXJevuTnNI",
+      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-07T17:15:23Z",
+      "description": "For investment firms, getting smart faster is a competitive advantage.\n\n“My team uses ChatGPT on a daily basis… for market studies and desktop information scrapes… It enables us to get smart on industries really, really quickly.” -David Bessel, TPG\n\nSee how TPG is putting ChatGPT to work across research and diligence.",
+      "duration": "PT55S",
+      "view_count": 616,
+      "like_count": 49,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=SRXJevuTnNI"
+    },
+    {
+      "id": "sLYXRA5Ay9g",
+      "title": "Réinventer l'expérience beauté grâce à l'IA",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-07T09:01:40Z",
+      "description": "Découvrez comment Sephora réinvente l'expérience beauté grâce à l'intelligence artificielle. Lors de cette session enregistrée à l'occasion de l'événement OpenAI France en juin 2026, Géraldine Servouze, Global VP Data, AI & Insights chez Sephora, présente la stratégie IA de l'entreprise et la manière dont elle s'appuie sur les modèles d'OpenAI pour proposer des expériences toujours plus personnalisées à ses clients, tout en accompagnant ses équipes et ses partenaires.\n\nGéraldine revient notamment sur le développement du Shopping Assistant de Sephora et sur l'intégration de l'application dans ChatGPT. Elle partage les enseignements tirés de ces projets, de l'importance d'une expérience utilisateur guidée, à la transparence des recommandations et à une approche continue de test and learn pour améliorer l'expérience client à grande échelle.",
+      "duration": "PT8M49S",
+      "view_count": 1071,
+      "like_count": 24,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=sLYXRA5Ay9g"
+    },
+    {
+      "id": "0x4KRxmRGz4",
+      "title": "What does an AI-native future look like for one of the world's largest automotive marketplaces?",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-07T08:23:39Z",
+      "description": "In this customer story, Justin Re, Global Chief Product Officer at AutoScout24 Group, shares how the company is using Codex across the organization to accelerate software development, automate workflows, and explore new ways of working.\n\nHear how AutoScout24 is working toward a future of \"hands off coding,\" built an AI-powered agent in just 48 hours, and is already saving approximately one million working hours annually through a single workflow.\n\nRead the full AutoScout24 story: https://openai.com/index/autoscout24/",
+      "duration": "PT1M34S",
+      "view_count": 3063,
+      "like_count": 114,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=0x4KRxmRGz4"
+    },
+    {
+      "id": "4sexN3yE8xg",
+      "title": "Builders Unscripted: Ep. 5 - Derya Unutmaz",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-06T20:03:49Z",
+      "description": "Derya Unutmaz, M.D., an immunologist and professor at The Jackson Laboratory, chats with Romain Huet about building tools for biology with Codex and a future where AI helps scientists simulate experiments.\n\n00:00 Builders Unscripted Episode 5\n09:17 Cell analysis with Codex\n13:26 Simulating immune cells\n29:48 The future of AI-powered science",
+      "duration": "PT36M4S",
+      "view_count": 3789,
+      "like_count": 150,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=4sexN3yE8xg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:22Z",
+    "count": 5
+  }
+}

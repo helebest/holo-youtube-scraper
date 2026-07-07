@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "mCu3mVcvpLE",
+      "title": "How to \"Vibe Direct\" Short Films",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-07T13:01:10Z",
+      "description": "We've gone from vibe coding to vibe DIRECTING.\n\nInstead of prompting individual clips and stitching everything together afterward, you can now direct an entire video through conversation.\n\nI used @openart_ai Director to create my own horror movie trailer by describing the story, characters, pacing, visuals, and voice performances, then refining everything through chat.\n\nIt can generate up to 5 minutes (NOT seconds!) of continuous video while keeping the characters, voices, and story consistent the whole way through.\n\nIf you’re interested in trying your hand at vibe directing, head to OpenArt.ai to get started.\n\n#AI #genAI #aivideo #AIart",
+      "duration": "PT1M32S",
+      "view_count": 1039,
+      "like_count": 75,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=mCu3mVcvpLE"
+    },
+    {
+      "id": "1CAy_mB6E-g",
+      "title": "I Automated Shorts With Fable",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-06T17:48:05Z",
+      "description": "TODAY is the day to try Fable. And I used it to build a fully automated social media video generator.\n\nOn July 7, Anthropic’s insanely good Fable model is going to get A LOT more expensive since you'll only be able to access it via usage credits on paid plans.\n\nSo I decided to see what I could build with it before that happens…\n\nAnd in half a day, I vibe coded a fully automated social media video factory.\n\nIt can turn an article, raw text, file, or idea into a short-form script, fact-check it, generate B-roll, and even learn from my past Instagram Reels and YouTube Shorts to improve future scripts based on what’s actually performing.\n\nBasically: a scriptwriter, researcher, editor assistant, teleprompter, and performance analyst all in one dashboard.\n\nIf you’ve been meaning to try Fable, don’t wait.\n\nAnd save this video or send it to a friend who should try it before it's too late.\n\n#AI #Anthropic #Fable #socialmedia #AItips",
+      "duration": "PT1M31S",
+      "view_count": 8260,
+      "like_count": 342,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=1CAy_mB6E-g"
+    },
+    {
+      "id": "hUH4HD6Ah9c",
+      "title": "The Benchmark No One Asked For!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-04T03:21:50Z",
+      "description": "BuseyBench is the best AI Benchmark\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M3S",
+      "view_count": 8716,
+      "like_count": 292,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c"
+    },
+    {
+      "id": "NVP_paJarG4",
+      "title": "AI News: Fable's Back But This New Model is Better?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-03T14:00:06Z",
+      "description": "Here's the AI News you probably missed this week. Try @GensparkProduct with free credits by registering at this link: https://www.genspark.ai/?utm_source=yt&utm_campaign=mattwolfe02 \n\n#Genspark  #WorkWithGenspark\n\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nRedeploying Fable 5: https://www.anthropic.com/news/redeploying-fable-5\nFable 5 Nerfed: https://x.com/bridgemindai/status/2072662214704533888\nBuseyBench: https://buseybench.com/\nPreviewing GPT-5.6 Sol: https://openai.com/index/previewing-gpt-5-6-sol/\nOpenAI Government Stake: https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump\nClaude Sonnet 5: https://www.anthropic.com/news/claude-sonnet-5\nGemini Omni Flash: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/\nNotebookLM Video Overviews: https://x.com/NotebookLM/status/2071987494799716626\nClaude Science Workbench: https://www.anthropic.com/news/claude-science-ai-workbench\nCursor for iOS: https://cursor.com/blog/ios-mobile-app\nX MCP Server: https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/\nGemini Meet Notes: https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/\nGemini Spark Updates: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/\nOpenAI Codex Hardware: https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#genspark #WorkWithGenspark #AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:06 Fable 5 is Back\n2:26 Fable 5 Examples\n5:58 BuseyBench\n10:12 Fable 5 is Going Away\n11:05 Genspark Claw\n12:33 GPT-5.6\n15:25 Government AI Stake\n17:17 Claude Sonnet 5\n19:23 Nano Banana 2 Lite\n20:32 Gemini Omni Flash\n22:16 NotebookLM Shorts\n23:44 Claude Science\n24:20 Cursor on iOS\n24:44 X MCP\n25:04 AI in Google Meet\n25:29 Gemini Spark on macOS\n26:38 OpenAI New Hardware\n27:36 Final Thoughts\n28:54 Huh?",
+      "duration": "PT29M21S",
+      "view_count": 64033,
+      "like_count": 2594,
+      "comment_count": 216,
+      "url": "https://www.youtube.com/watch?v=NVP_paJarG4"
+    },
+    {
+      "id": "XbHeJL45USQ",
+      "title": "GLM-5.2: The Complete Guide to the Best Open-Source Model",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-01T18:30:22Z",
+      "description": "Z.ai's GLM-5.2 is a 1 million token, MIT-licensed open weight model that costs a fraction of frontier AI prices, and I put it through real tests to show you exactly where it holds up and where it doesn't. Also join my newsletter: https://futuretools.io/newsletter\n\nI cover the three ways to actually use it (hosted web app, API and agent harness, or self-hosted if you have the infrastructure), build a webpage with it live, run it inside Cursor to create self-improving automation skills from my own meeting notes, generate a Remotion animation comparing GLM-5.2 against Opus 4.6, GPT-5.5, and Gemini 3.5, and show you a tool from Inference.net that lets you mirror production traffic to GLM-5.2 risk-free before fully committing.\n\nIf your workflows are long, code-heavy, document-heavy, or burning through tokens faster than you'd like, this model is worth serious attention. It's not beating Claude or GPT across the board, but for the right use cases the cost difference alone changes the math.\nAll links mentioned are below.\n\n\nResources:\nhttps://gptzero.me/\nhttps://z.ai/subscribe\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\nChapters:\n00:00 What Is GLM-5.2 and Why It Matters\n02:18 Three Ways to Access It\n05:19 Newsletter Quick Plug\n05:57 Live Tests: Webpage, Logic & Ethics\n11:56 BuseyBench: SVG Challenge\n13:51 Using GLM-5.2 in Cursor\n15:03 MegaBonk Clone Test\n17:22 Building a Chrome Extension & Cleaning Downloads\n20:12 \"Improve Your Matt\": Self-Improving AI Skills\n23:36 Remotion Animation Test\n25:10 Inference.net: Risk-Free Model Switching\n26:28 Final Verdict and Outro\n\n\n#ZAI #GLM52 #OpenSourceAI",
+      "duration": "PT28M52S",
+      "view_count": 72030,
+      "like_count": 2306,
+      "comment_count": 221,
+      "url": "https://www.youtube.com/watch?v=XbHeJL45USQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:24Z",
+    "count": 5
+  }
+}

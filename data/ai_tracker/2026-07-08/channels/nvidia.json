@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "B0gTeYq0Emg",
+      "title": "An Early Preview of Gaming on NVIDIA RTX Spark Laptops",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-03T16:00:01Z",
+      "description": "Game Ready. World-leading gaming tech on the slimmest RTX laptops ever.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at high-performance gaming powered by the NVIDIA RTX Spark superchip.\n\nLearn more about NVIDIA RTX Spark:\nhttps://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT37S",
+      "view_count": 10778,
+      "like_count": 338,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=B0gTeYq0Emg"
+    },
+    {
+      "id": "RNY0p5wL4AA",
+      "title": "BIO26 Healthcare Special Address",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-02T20:50:56Z",
+      "description": "NVIDIA released a new toolkit called BioNeMo Agent Toolkit that's meant to let AI agents actually do hands-on scientific work in biology and chemistry - not just answer questions about it. Instead of an AI just chatting about a protein or a drug compound, it can now use real scientific software tools: predicting protein shapes, testing how well a drug molecule binds to a target, analyzing genetic sequencing data, and suggesting which lab experiments to try next.\n\nCompanies including Dassault Systèmes, Databricks, Eli Lilly, Schrödinger, Snowflake, and the University of Washington's Institute for Protein Design are adopting it, and both Anthropic and OpenAI are integrating it into their systems. The idea is that a general AI chatbot is bad at knowing which specialized scientific tool to use for a given task - this toolkit hands it the right tools and know-how so it can work more like a research assistant.\n\nChapters\n00:00 - 07:20 - Intro\n07:21 - 20:25 - BioNeMo Agent Toolkit\n20:26 - 1:02:42 - Panel: Benchling, Chai Discovery, Edison Scientific\n\nPress Release https://nvda.ws/4g0tPyf\nTech Blog https://nvda.ws/4uS6x1c\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT1H2M47S",
+      "view_count": 8366,
+      "like_count": 361,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=RNY0p5wL4AA"
+    },
+    {
+      "id": "HAiBGTrdOwI",
+      "title": "BioNeMo Agent Toolkit",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-02T18:20:12Z",
+      "description": "BioNeMo Agent Toolkit is an open, agent-ready toolkit that gives any AI agent callable tools for protein structure prediction, molecular docking, generative chemistry, genomic analysis, and more. Built on more than a decade of NVIDIA life sciences libraries and models, BioNeMo Agent Toolkit has tools and skills for agentic software throughout the full drug discovery stack: from early biology to molecular design to translational science.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT37S",
+      "view_count": 6275,
+      "like_count": 94,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=HAiBGTrdOwI"
+    },
+    {
+      "id": "wHv_vYL4bqI",
+      "title": "An Early Look At The ASUS ProArt P16 & P14 Laptops Powered by NVIDIA RTX Spark",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-02T17:00:05Z",
+      "description": "Revolutionary AI for creativity. Strikingly slim, incredibly powerful.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at the new ASUS ProArt P16 and P14 laptops powered by the NVIDIA RTX Spark superchip.\n\nLearn more: https://www.asus.com/blog/the-future-of-creation-why-asus-proart-p16-p14-stole-the-show-at-computex/",
+      "duration": "PT1M15S",
+      "view_count": 9236,
+      "like_count": 301,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=wHv_vYL4bqI"
+    },
+    {
+      "id": "sUdEcG824YQ",
+      "title": "NVIDIA Data Center Partners Recap | GTC Taipei 2026 Recap",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-01T15:37:52Z",
+      "description": "Purpose-built infrastructure for the era of agentic AI is here. Join us as we recap the biggest announcements from #NVIDIAGTC Taipei, featuring NVIDIA Vera Rubin, the Vera CPU, the DSX platform, and the ecosystem innovations from Foxconn, Quanta, Wistron, ASUS, GIGABYTE, Pegatron, and Wiwynn that are driving the next generation of AI factories.",
+      "duration": "PT6M21S",
+      "view_count": 5910,
+      "like_count": 299,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:21Z",
+    "count": 5
+  }
+}

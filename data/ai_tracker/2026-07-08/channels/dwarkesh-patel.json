@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "ymxAcpVIclA",
+      "title": "Britain turned its biggest weakness into the source of its power - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-05T21:02:25Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 211335,
+      "like_count": 8586,
+      "comment_count": 297,
+      "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
+    },
+    {
+      "id": "Gr5cOV3mOGs",
+      "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-04T18:20:07Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 33576,
+      "like_count": 1433,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
+    },
+    {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 31070,
+      "like_count": 1500,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    },
+    {
+      "id": "6-oXxHclchE",
+      "title": "Why Russia Never Stops Expanding - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T21:41:15Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 255624,
+      "like_count": 7575,
+      "comment_count": 457,
+      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
+    },
+    {
+      "id": "l69nxm9dFT4",
+      "title": "How a violent conqueror became the most beloved man in the city - Ada Palmer",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T19:30:11Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 35712,
+      "like_count": 1794,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:17Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "IJ3ABUE27Gc",
+      "title": "Visual learners, this one's for you 🙋‍♂️📚",
+      "channel_title": "Google",
+      "published_at": "2026-07-06T21:09:40Z",
+      "description": "NotebookLM just launched Short Video Overviews. Upload your notes, textbooks, or links and it’ll generate a quick, vertical video breaking down the most important concepts. Turn that screen time into study time 💻✨",
+      "duration": "PT31S",
+      "view_count": 10030,
+      "like_count": 233,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=IJ3ABUE27Gc"
+    },
+    {
+      "id": "iDz4GqHQL6Q",
+      "title": "How we created the Fourth of July Doodle | Behind the Doodle",
+      "channel_title": "Google",
+      "published_at": "2026-07-04T16:01:51Z",
+      "description": "How much red, white, and blue confetti does it take to make a Fourth of July Google Doodle? Go behind the scenes to see how the Doodle crew took the shoot outside for America’s 250th birthday. Happy Fourth!\n\n#GoogleDoodle #BehindTheDoodle\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M11S",
+      "view_count": 26775,
+      "like_count": 399,
+      "comment_count": 79,
+      "url": "https://www.youtube.com/watch?v=iDz4GqHQL6Q"
+    },
+    {
+      "id": "aeZTTnfo8Ok",
+      "title": "How to style your team colors for any event ✨",
+      "channel_title": "Google",
+      "published_at": "2026-07-03T10:57:59Z",
+      "description": "Keep the team energy going 24/7. Search for clothes in your squad’s colors and press “Try it on” to see how they look.\n\n#GooglePartner",
+      "duration": "PT12S",
+      "view_count": 19352,
+      "like_count": 293,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=aeZTTnfo8Ok"
+    },
+    {
+      "id": "GmxYBxQedDw",
+      "title": "Got pro reflexes? Find out on Search 👐",
+      "channel_title": "Google",
+      "published_at": "2026-07-02T16:00:54Z",
+      "description": "#GoogleSearch",
+      "duration": "PT3S",
+      "view_count": 43853,
+      "like_count": 747,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=GmxYBxQedDw"
+    },
+    {
+      "id": "CXCE4QyvMrU",
+      "title": "Just how good was Landon Donovan? Let’s Search it.",
+      "channel_title": "Google",
+      "published_at": "2026-07-01T17:48:30Z",
+      "description": "Ever heard of the 50/50 club? Let’s use Search to explore the historic career stats that make Landon Donovan one of the greats.\n\n#GooglePartner",
+      "duration": "PT53S",
+      "view_count": 20528,
+      "like_count": 284,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=CXCE4QyvMrU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:23Z",
+    "count": 5
+  }
+}

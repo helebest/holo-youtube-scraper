@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-07-08",
+  "result": [
+    {
+      "id": "DUgPFNRmsCQ",
+      "title": "Nothing Phone 4b: They Can't Say It!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-07T10:31:42Z",
+      "description": "They won't tell us what the b stands for, but...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M21S",
+      "view_count": 681001,
+      "like_count": 32815,
+      "comment_count": 1922,
+      "url": "https://www.youtube.com/watch?v=DUgPFNRmsCQ"
+    },
+    {
+      "id": "7KRabLH7jcE",
+      "title": "The Best Car I've Ever Driven: McLaren W1",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-02T20:42:45Z",
+      "description": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT16M31S",
+      "view_count": 1406695,
+      "like_count": 56675,
+      "comment_count": 2381,
+      "url": "https://www.youtube.com/watch?v=7KRabLH7jcE"
+    },
+    {
+      "id": "ZpF6IE0rdxA",
+      "title": "Antigravity A1: A New Take on Drones!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-29T19:22:20Z",
+      "description": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 people get a free flight battery and a double-lens replacement kit with their A1 purchase.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M10S",
+      "view_count": 1818076,
+      "like_count": 48498,
+      "comment_count": 1584,
+      "url": "https://www.youtube.com/watch?v=ZpF6IE0rdxA"
+    },
+    {
+      "id": "oYAnEH0JoqI",
+      "title": "Apple's Big Price Hike",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-25T15:32:20Z",
+      "description": "New prices across the board for everything.",
+      "duration": "PT1M1S",
+      "view_count": 1607459,
+      "like_count": 52927,
+      "comment_count": 2210,
+      "url": "https://www.youtube.com/watch?v=oYAnEH0JoqI"
+    },
+    {
+      "id": "QrT4S9i3agE",
+      "title": "Top 5 Android 17 Features: I Swear It's New!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-06-24T21:06:51Z",
+      "description": "Android 17 Cinnamon bun. We're bringing the dessert names back.\n\nSave 60% off site-wide with dbrand at https://dbrand.com/summersale during their limited-time Summer Sale!\n\nThat shirt! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT9M24S",
+      "view_count": 1844076,
+      "like_count": 61757,
+      "comment_count": 3009,
+      "url": "https://www.youtube.com/watch?v=QrT4S9i3agE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-07T18:24:20Z",
+    "count": 5
+  }
+}
