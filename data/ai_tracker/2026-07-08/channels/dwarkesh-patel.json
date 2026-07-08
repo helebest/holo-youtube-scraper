@@ -14,15 +14,27 @@
   "date": "2026-07-08",
   "result": [
     {
+      "id": "RrHeqF5wy_E",
+      "title": "How Geography Shapes Empire - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-07T21:45:06Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 49801,
+      "like_count": 2560,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
+    },
+    {
       "id": "ymxAcpVIclA",
       "title": "Britain turned its biggest weakness into the source of its power - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-05T21:02:25Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 211335,
-      "like_count": 8586,
-      "comment_count": 297,
+      "view_count": 228924,
+      "like_count": 9235,
+      "comment_count": 305,
       "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-07-04T18:20:07Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 33576,
-      "like_count": 1433,
+      "view_count": 34909,
+      "like_count": 1464,
       "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-07-03T22:31:30Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 31070,
-      "like_count": 1500,
-      "comment_count": 35,
+      "view_count": 32493,
+      "like_count": 1532,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-02T21:41:15Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 255624,
-      "like_count": 7575,
-      "comment_count": 457,
+      "view_count": 264780,
+      "like_count": 7795,
+      "comment_count": 469,
       "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
-    },
-    {
-      "id": "l69nxm9dFT4",
-      "title": "How a violent conqueror became the most beloved man in the city - Ada Palmer",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-02T19:30:11Z",
-      "description": "",
-      "duration": "PT1M10S",
-      "view_count": 35712,
-      "like_count": 1794,
-      "comment_count": 17,
-      "url": "https://www.youtube.com/watch?v=l69nxm9dFT4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-07T18:24:17Z",
+    "generated_at": "2026-07-08T06:42:12Z",
     "count": 5
   }
 }
