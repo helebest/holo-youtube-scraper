@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-09",
+  "result": [
+    {
+      "id": "RrHeqF5wy_E",
+      "title": "How Geography Shapes Empire - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-07T21:45:06Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 103447,
+      "like_count": 3973,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
+    },
+    {
+      "id": "ymxAcpVIclA",
+      "title": "Britain turned its biggest weakness into the source of its power - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-05T21:02:25Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 240378,
+      "like_count": 9612,
+      "comment_count": 315,
+      "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
+    },
+    {
+      "id": "Gr5cOV3mOGs",
+      "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-04T18:20:07Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 35849,
+      "like_count": 1481,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
+    },
+    {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 33804,
+      "like_count": 1550,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    },
+    {
+      "id": "6-oXxHclchE",
+      "title": "Why Russia Never Stops Expanding - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-02T21:41:15Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 270531,
+      "like_count": 7921,
+      "comment_count": 482,
+      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-08T17:55:11Z",
+    "count": 5
+  }
+}

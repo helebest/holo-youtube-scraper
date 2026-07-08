@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-09",
+  "result": [
+    {
+      "id": "KS4X-BPjxN8",
+      "title": "Image interaction with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T17:37:19Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT1M2S",
+      "view_count": 783,
+      "like_count": 38,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8"
+    },
+    {
+      "id": "QUOwyLwoykU",
+      "title": "Discoverability widgets with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T17:36:34Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT1M9S",
+      "view_count": 516,
+      "like_count": 32,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=QUOwyLwoykU"
+    },
+    {
+      "id": "3bL6IpdgddQ",
+      "title": "Natural Conversations with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T17:33:32Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT2M58S",
+      "view_count": 483,
+      "like_count": 34,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ"
+    },
+    {
+      "id": "8vvWTz6N7Qg",
+      "title": "Temporal awareness with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T17:33:31Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT1M59S",
+      "view_count": 571,
+      "like_count": 41,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=8vvWTz6N7Qg"
+    },
+    {
+      "id": "K-fYBO8t3-A",
+      "title": "Listening & Speaking with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T17:33:31Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT2M36S",
+      "view_count": 487,
+      "like_count": 52,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-08T17:55:16Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-07-09",
+  "result": [
+    {
+      "id": "ptlZzbtzdfE",
+      "title": "I Built A Monetizable Business With AI",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-08T13:00:29Z",
+      "description": "Head to Hyperagent.com/matt to get $1,000 in free credits for Hyperagent!\n\nI’m building a new monetizable business every month with AI.\n\nFirst up: an AI Finance Dashboard, because keeping up with all the investing/IPO/finance info right now seems almost impossible.\n\nSo I built a team of AI agents with @Hyperagentapp that can:\n• Monitor company news\n• Track funding rounds and IPO activity\n• Analyze sentiment and trends\n• Turn it all into a clean dashboard\n\nThe agents run in the background like a small research team, so I can spot what matters without manually digging through dozens of sources.\n\nEpisode 1 of this challenge: complete ✅\n\nLet me know in the comments what I should build next!\n\n#HyperagentPartner #AIagents #finance #startup #AI",
+      "duration": "PT1M30S",
+      "view_count": 1783,
+      "like_count": 123,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=ptlZzbtzdfE"
+    },
+    {
+      "id": "bxdsBsbtoSg",
+      "title": "AI Can FINALLY Edit Videos For You",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-08T00:09:25Z",
+      "description": "Imagine typing \"edit this for me\" and letting AI handle your entire video timeline. 🤯\n\nThat's the promise behind Palmier (not sponsored), a new AI video editor powered by Claude. From organizing media and trimming clips to generating missing B-roll on the fly, it’s designed to automate the manual side of editing.\n\nAt $29/month for around 3 to 7 minutes of generated video, it's not the cheapest product to use, especially when you factor in potential revisions. BUT it's still probably cheaper than a professional video editor. \n\nI haven’t run any footage through it yet, but I'm curious to see how it performs and if it's worth it. Let me know in the comments if you'd want to see a hands-on test 👇🏻\n\n#ai #videoediting #contentcreator",
+      "duration": "PT1M36S",
+      "view_count": 6513,
+      "like_count": 388,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=bxdsBsbtoSg"
+    },
+    {
+      "id": "mCu3mVcvpLE",
+      "title": "How to \"Vibe Direct\" Short Films",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-07T13:01:10Z",
+      "description": "We've gone from vibe coding to vibe DIRECTING.\n\nInstead of prompting individual clips and stitching everything together afterward, you can now direct an entire video through conversation.\n\nI used @openart_ai Director to create my own horror movie trailer by describing the story, characters, pacing, visuals, and voice performances, then refining everything through chat.\n\nIt can generate up to 5 minutes (NOT seconds!) of continuous video while keeping the characters, voices, and story consistent the whole way through.\n\nIf you’re interested in trying your hand at vibe directing, head to OpenArt.ai to get started.\n\n#AI #genAI #aivideo #AIart",
+      "duration": "PT1M32S",
+      "view_count": 6845,
+      "like_count": 277,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=mCu3mVcvpLE"
+    },
+    {
+      "id": "1CAy_mB6E-g",
+      "title": "I Automated Shorts With Fable",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-06T17:48:05Z",
+      "description": "UPDATE: Anthropic announced they're extending access to Fable 5 on all paid plans through July 12.\n\nToday is the day to try Fable! And I used it to build a fully automated social media video generator.\n\nOn July 7, Anthropic’s insanely good Fable model is going to get A LOT more expensive since you'll only be able to access it via usage credits on paid plans.\n\nSo I decided to see what I could build with it before that happens…\n\nAnd in half a day, I vibe coded a fully automated social media video factory.\n\nIt can turn an article, raw text, file, or idea into a short-form script, fact-check it, generate B-roll, and even learn from my past Instagram Reels and YouTube Shorts to improve future scripts based on what’s actually performing.\n\nBasically: a scriptwriter, researcher, editor assistant, teleprompter, and performance analyst all in one dashboard.\n\nIf you’ve been meaning to try Fable, don’t wait.\n\nAnd save this video or send it to a friend who should try it before it's too late.\n\n#AI #Anthropic #Fable #socialmedia #AItips",
+      "duration": "PT1M31S",
+      "view_count": 11318,
+      "like_count": 457,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=1CAy_mB6E-g"
+    },
+    {
+      "id": "hUH4HD6Ah9c",
+      "title": "The Benchmark No One Asked For!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-07-04T03:21:50Z",
+      "description": "BuseyBench is the best AI Benchmark\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M3S",
+      "view_count": 8960,
+      "like_count": 300,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-08T17:55:17Z",
+    "count": 5
+  }
+}
