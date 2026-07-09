@@ -14,15 +14,27 @@
   "date": "2026-07-09",
   "result": [
     {
+      "id": "vSBbXutmRg8",
+      "title": "The Dutch-American who saw America's blind spot clearly - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-08T23:19:39Z",
+      "description": "",
+      "duration": "PT57S",
+      "view_count": 35874,
+      "like_count": 1801,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=vSBbXutmRg8"
+    },
+    {
       "id": "RrHeqF5wy_E",
       "title": "How Geography Shapes Empire - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-07T21:45:06Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 103447,
-      "like_count": 3973,
-      "comment_count": 76,
+      "view_count": 140083,
+      "like_count": 4650,
+      "comment_count": 82,
       "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-05T21:02:25Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 240378,
-      "like_count": 9612,
-      "comment_count": 315,
+      "view_count": 258436,
+      "like_count": 10082,
+      "comment_count": 324,
       "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-04T18:20:07Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 35849,
-      "like_count": 1481,
-      "comment_count": 27,
+      "view_count": 37385,
+      "like_count": 1491,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-03T22:31:30Z",
       "description": "",
       "duration": "PT1M7S",
-      "view_count": 33804,
-      "like_count": 1550,
+      "view_count": 35509,
+      "like_count": 1563,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
-    },
-    {
-      "id": "6-oXxHclchE",
-      "title": "Why Russia Never Stops Expanding - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-02T21:41:15Z",
-      "description": "",
-      "duration": "PT45S",
-      "view_count": 270531,
-      "like_count": 7921,
-      "comment_count": 482,
-      "url": "https://www.youtube.com/watch?v=6-oXxHclchE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-08T17:55:11Z",
+    "generated_at": "2026-07-09T07:56:47Z",
     "count": 5
   }
 }

@@ -14,15 +14,27 @@
   "date": "2026-07-09",
   "result": [
     {
+      "id": "eWKY0OnPByg",
+      "title": "Apple Lost the AI Race",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-08T19:44:58Z",
+      "description": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT7M4S",
+      "view_count": 849277,
+      "like_count": 49387,
+      "comment_count": 3974,
+      "url": "https://www.youtube.com/watch?v=eWKY0OnPByg"
+    },
+    {
       "id": "DUgPFNRmsCQ",
       "title": "Nothing Phone 4b: They Can't Say It!",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-07-07T10:31:42Z",
       "description": "They won't tell us what the b stands for, but...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M21S",
-      "view_count": 1519177,
-      "like_count": 50094,
-      "comment_count": 2770,
+      "view_count": 1713433,
+      "like_count": 53783,
+      "comment_count": 2893,
       "url": "https://www.youtube.com/watch?v=DUgPFNRmsCQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-02T20:42:45Z",
       "description": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT16M31S",
-      "view_count": 1460055,
-      "like_count": 57571,
-      "comment_count": 2417,
+      "view_count": 1492416,
+      "like_count": 57917,
+      "comment_count": 2439,
       "url": "https://www.youtube.com/watch?v=7KRabLH7jcE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-06-29T19:22:20Z",
       "description": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 people get a free flight battery and a double-lens replacement kit with their A1 purchase.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M10S",
-      "view_count": 1836320,
-      "like_count": 48627,
-      "comment_count": 1590,
+      "view_count": 1846378,
+      "like_count": 48795,
+      "comment_count": 1597,
       "url": "https://www.youtube.com/watch?v=ZpF6IE0rdxA"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-06-25T15:32:20Z",
       "description": "New prices across the board for everything.",
       "duration": "PT1M1S",
-      "view_count": 1615976,
-      "like_count": 53056,
+      "view_count": 1621289,
+      "like_count": 53137,
       "comment_count": 2214,
       "url": "https://www.youtube.com/watch?v=oYAnEH0JoqI"
-    },
-    {
-      "id": "QrT4S9i3agE",
-      "title": "Top 5 Android 17 Features: I Swear It's New!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-06-24T21:06:51Z",
-      "description": "Android 17 Cinnamon bun. We're bringing the dessert names back.\n\nSave 60% off site-wide with dbrand at https://dbrand.com/summersale during their limited-time Summer Sale!\n\nThat shirt! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT9M24S",
-      "view_count": 1859383,
-      "like_count": 61970,
-      "comment_count": 3018,
-      "url": "https://www.youtube.com/watch?v=QrT4S9i3agE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-08T17:55:14Z",
+    "generated_at": "2026-07-09T07:56:49Z",
     "count": 5
   }
 }

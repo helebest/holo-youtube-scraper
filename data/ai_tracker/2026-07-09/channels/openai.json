@@ -14,15 +14,39 @@
   "date": "2026-07-09",
   "result": [
     {
+      "id": "8xqQzrLf0co",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T22:51:23Z",
+      "description": "For businesses, AI is most powerful when everyone can use it.\n\n“Having 2,700 employees, all of whom now have an enterprise ChatGPT license, has just been a giant force multiplier for the business.” -James Mackey, Bain Capital\n\nSee how Bain Capital portfolio company Zelis is using ChatGPT to streamline claims processing and help reduce costs across the healthcare system.",
+      "duration": "PT1M",
+      "view_count": 2350,
+      "like_count": 48,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co"
+    },
+    {
+      "id": "9f-Ew_lDtxc",
+      "title": "The next generation of ChatGPT Voice",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T21:13:26Z",
+      "description": "Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice models.",
+      "duration": "PT18M22S",
+      "view_count": 63341,
+      "like_count": 0,
+      "comment_count": 303,
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc"
+    },
+    {
       "id": "KS4X-BPjxN8",
       "title": "Image interaction with GPT-Live",
       "channel_title": "OpenAI",
       "published_at": "2026-07-08T17:37:19Z",
       "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
       "duration": "PT1M2S",
-      "view_count": 783,
-      "like_count": 38,
-      "comment_count": 10,
+      "view_count": 14488,
+      "like_count": 440,
+      "comment_count": 51,
       "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-07-08T17:36:34Z",
       "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
       "duration": "PT1M9S",
-      "view_count": 516,
-      "like_count": 32,
-      "comment_count": 12,
+      "view_count": 11678,
+      "like_count": 499,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=QUOwyLwoykU"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-07-08T17:33:32Z",
       "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
       "duration": "PT2M58S",
-      "view_count": 483,
-      "like_count": 34,
-      "comment_count": 5,
+      "view_count": 9904,
+      "like_count": 401,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ"
-    },
-    {
-      "id": "8vvWTz6N7Qg",
-      "title": "Temporal awareness with GPT-Live",
-      "channel_title": "OpenAI",
-      "published_at": "2026-07-08T17:33:31Z",
-      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
-      "duration": "PT1M59S",
-      "view_count": 571,
-      "like_count": 41,
-      "comment_count": 4,
-      "url": "https://www.youtube.com/watch?v=8vvWTz6N7Qg"
-    },
-    {
-      "id": "K-fYBO8t3-A",
-      "title": "Listening & Speaking with GPT-Live",
-      "channel_title": "OpenAI",
-      "published_at": "2026-07-08T17:33:31Z",
-      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
-      "duration": "PT2M36S",
-      "view_count": 487,
-      "like_count": 52,
-      "comment_count": 4,
-      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-08T17:55:16Z",
+    "generated_at": "2026-07-09T07:56:51Z",
     "count": 5
   }
 }
