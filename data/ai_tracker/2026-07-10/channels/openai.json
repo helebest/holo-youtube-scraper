@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-10",
+  "result": [
+    {
+      "id": "-MPGU2a67Ls",
+      "title": "Meet GPT-5.6",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T17:55:26Z",
+      "description": "Watch GPT-5.6 build a playable, celestial-themed card game in Codex from a short, open-ended prompt.\n\nIn this demo, GPT-5.6 designs the core mechanics, generates custom artwork, adds levels and a soundtrack, tests the gameplay, and keeps improving the build. Along the way, see how programmatic tool calling, Max Reasoning, and subagents help it take on longer-running work - using a sandbox to process tool results, split work in parallel, and bring everything back into one polished game.\n\nCheck out the game here: https://asterism.openai.chatgpt.site/\n\nChapters\n00:00 Introducing GPT-5.6\n00:17 Building a game in Codex\n00:52 Programmatic tool calling\n01:07 Reasoning and subagents\n01:35 GPT-5.6 in the API",
+      "duration": "PT1M59S",
+      "view_count": 2389,
+      "like_count": 132,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=-MPGU2a67Ls"
+    },
+    {
+      "id": "ELh8R7bGlxE",
+      "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models are here.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T17:51:13Z",
+      "description": "Sol, Terra, and Luna, our GPT‑5.6 family of models are available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours.\n\nIn ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. \n\nPro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality results on complex tasks.",
+      "duration": "PT3M27S",
+      "view_count": 3007,
+      "like_count": 408,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ELh8R7bGlxE"
+    },
+    {
+      "id": "yRc5HcGJ-Cs",
+      "title": "Meet ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T17:35:12Z",
+      "description": "Introducing ChatGPT Work, a new agent in ChatGPT that can take action across your apps and workflows to turn a goal into finished work.\n\nPowered by Codex and GPT-5.6, ChatGPT Work is a whole new way to use ChatGPT, moving beyond just answering questions to getting real work done across web, mobile, and desktop. \n\nYou can ask ChatGPT Work to take on entire workflows with a single request.\n\nIt will understand your goals, use context from selected apps and files, create polished documents, decks, analyses, sites, and reports, and keep work moving while you stay in control.\n\nGPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style.\n\nChatGPT Work starts rolling out today on web and mobile, beginning with Pro, Enterprise, and Edu users and expanding to Plus and Business over the next few days.\n\nChat, Work, and Codex are available to all desktop users, including Free, starting today in the updated ChatGPT desktop app for Mac and Windows.\n\nCodex app users can update their app as usual—it will become the new ChatGPT desktop app.",
+      "duration": "PT1M40S",
+      "view_count": 3796,
+      "like_count": 639,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yRc5HcGJ-Cs"
+    },
+    {
+      "id": "8xqQzrLf0co",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T22:51:23Z",
+      "description": "For businesses, AI is most powerful when everyone can use it.\n\n“Having 2,700 employees, all of whom now have an enterprise ChatGPT license, has just been a giant force multiplier for the business.” -James Mackey, Bain Capital\n\nSee how Bain Capital portfolio company Zelis is using ChatGPT to streamline claims processing and help reduce costs across the healthcare system.",
+      "duration": "PT1M",
+      "view_count": 4752,
+      "like_count": 94,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co"
+    },
+    {
+      "id": "9f-Ew_lDtxc",
+      "title": "The next generation of ChatGPT Voice",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-08T21:13:26Z",
+      "description": "Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice models.",
+      "duration": "PT18M22S",
+      "view_count": 89980,
+      "like_count": 0,
+      "comment_count": 445,
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-09T18:14:19Z",
+    "count": 5
+  }
+}

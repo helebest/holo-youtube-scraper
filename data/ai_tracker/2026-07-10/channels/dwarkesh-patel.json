@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-10",
+  "result": [
+    {
+      "id": "vSBbXutmRg8",
+      "title": "The Dutch-American who saw America's blind spot clearly - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-08T23:19:39Z",
+      "description": "",
+      "duration": "PT57S",
+      "view_count": 75277,
+      "like_count": 2866,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=vSBbXutmRg8"
+    },
+    {
+      "id": "RrHeqF5wy_E",
+      "title": "How Geography Shapes Empire - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-07T21:45:06Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 144093,
+      "like_count": 4771,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
+    },
+    {
+      "id": "ymxAcpVIclA",
+      "title": "Britain turned its biggest weakness into the source of its power - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-05T21:02:25Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 269137,
+      "like_count": 10412,
+      "comment_count": 341,
+      "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
+    },
+    {
+      "id": "Gr5cOV3mOGs",
+      "title": "Botox Makes You Worse at Reading Emotions - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-04T18:20:07Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 37948,
+      "like_count": 1499,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
+    },
+    {
+      "id": "Cn12N7Vm32A",
+      "title": "Mathematicians will become art curators - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-03T22:31:30Z",
+      "description": "",
+      "duration": "PT1M7S",
+      "view_count": 36139,
+      "like_count": 1569,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-09T18:14:14Z",
+    "count": 5
+  }
+}

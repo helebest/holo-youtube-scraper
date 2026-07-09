@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-07-10",
+  "result": [
+    {
+      "id": "N17wkLNutTQ",
+      "title": "Can Ozempic End Addiction? | Dhruv Khullar | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-09T15:00:38Z",
+      "description": "What if GLP-1s like Ozempic could do more than just tip the scales? Physician Dhruv Khullar traces the winding path of the \"moderation molecule\" — from a discovery in Gila monster saliva to a potential diabetes medication and addiction treatment — and how they could quiet the relentless noise of craving. The most surprising effects of GLP-1s may not be in the gut, but in the brain. (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/dhruvkhullar\n\nhttps://youtu.be/N17wkLNutTQ\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Science #Health",
+      "duration": "PT11M7S",
+      "view_count": 2620,
+      "like_count": 159,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=N17wkLNutTQ"
+    },
+    {
+      "id": "BG7NCjrOfw4",
+      "title": "\"If we can tell a better story about democracy, we can tell a better story about America\" #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-07-07T18:30:31Z",
+      "description": "Our brains are hardwired to crave community and belonging — a tribal instinct that drives politics in the United States, says political strategist Sarah Longwell. She shares what she learned trying to convince people to vote against their political party in a recent election and shows why telling a better story about democracy is key to bridging the ideological divide.",
+      "duration": "PT1M5S",
+      "view_count": 22884,
+      "like_count": 418,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=BG7NCjrOfw4"
+    },
+    {
+      "id": "04bCu-8W_bo",
+      "title": "How Algorithms Manipulate You (and How to Fight Back) | Idea Knock Down | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-07T15:00:01Z",
+      "description": "What does it take to stay in control of your life online? AI ethicist Jen Golbeck and TED Fellow Shalini Kantayya discuss how algorithms, data collection and AI shape the choices you make every day. They explore whether it’s possible to use the internet without giving up your privacy, how to push back against big tech and what AI should never be allowed to decide. (This episode is part of “Idea Knock Down,” a series featuring experts with different perspectives taking on big questions — one block at a time.) (Recorded on June 12, 2026)\n\n0:00 - Idea Knock Down\n0:58 - Manipulated by an algorithm? \n1:26 - What should AI never decide?\n2:05 - Your data = your property?\n2:46 - How to push back against big tech?\n3:57 - How to keep privacy on the internet?\n4:54 - A better internet\n6:27 - What is democracy?\n7:02 - Mystery question\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nhttps://www.ted.com/series/idea_knock_down\n\nhttps://youtu.be/04bCu-8W_bo\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT9M32S",
+      "view_count": 16679,
+      "like_count": 470,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=04bCu-8W_bo"
+    },
+    {
+      "id": "qaBpMYrOKX4",
+      "title": "This speaker took on gerrymandering in her state — and won! #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-07-06T15:30:40Z",
+      "description": "You don't need political power to make real change, says activist Katie Fahey. She tells the story of how she led a successful movement in Michigan to end gerrymandering — the practice of drawing district lines to favor one political party — and how it all started with a simple social media post.",
+      "duration": "PT2M58S",
+      "view_count": 39121,
+      "like_count": 1239,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=qaBpMYrOKX4"
+    },
+    {
+      "id": "Vz9JMC18LFs",
+      "title": "Your Vaccine Questions Deserve Real Answers | Kizzmekia Corbett | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-06T15:00:39Z",
+      "description": "What good is a vaccine people don't trust? Immunologist and TED Fellow Kizzmekia Corbett co-developed the first COVID-19 vaccine to enter clinical trials — but she says making the vaccine was never the hardest part. The real obstacle is the gap between scientists and the people who have honest questions about the shots they're being asked to take. She shares a refreshing approach for taking on vaccine inquisitiveness and ensuring that humanity is ready for the next pandemic. (Recorded at TED2026 on April 15, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/kizzmekiacorbett\n\nhttps://youtu.be/Vz9JMC18LFs\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Science #PublicHealth",
+      "duration": "PT9M56S",
+      "view_count": 11351,
+      "like_count": 311,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=Vz9JMC18LFs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-09T18:14:15Z",
+    "count": 5
+  }
+}
