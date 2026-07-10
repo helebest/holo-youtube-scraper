@@ -14,15 +14,27 @@
   "date": "2026-07-10",
   "result": [
     {
+      "id": "WQIdiMbpBVI",
+      "title": "The Real Effects of the Six Day War - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-09T22:16:16Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 27526,
+      "like_count": 1538,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=WQIdiMbpBVI"
+    },
+    {
       "id": "vSBbXutmRg8",
       "title": "The Dutch-American who saw America's blind spot clearly - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-08T23:19:39Z",
       "description": "",
       "duration": "PT57S",
-      "view_count": 75277,
-      "like_count": 2866,
-      "comment_count": 55,
+      "view_count": 108569,
+      "like_count": 3571,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=vSBbXutmRg8"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-07-07T21:45:06Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 144093,
-      "like_count": 4771,
+      "view_count": 149366,
+      "like_count": 4949,
       "comment_count": 82,
       "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-07-05T21:02:25Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 269137,
-      "like_count": 10412,
-      "comment_count": 341,
+      "view_count": 282419,
+      "like_count": 10833,
+      "comment_count": 355,
       "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-04T18:20:07Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 37948,
-      "like_count": 1499,
+      "view_count": 38580,
+      "like_count": 1509,
       "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=Gr5cOV3mOGs"
-    },
-    {
-      "id": "Cn12N7Vm32A",
-      "title": "Mathematicians will become art curators - Grant Sanderson",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-03T22:31:30Z",
-      "description": "",
-      "duration": "PT1M7S",
-      "view_count": 36139,
-      "like_count": 1569,
-      "comment_count": 42,
-      "url": "https://www.youtube.com/watch?v=Cn12N7Vm32A"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-09T18:14:14Z",
+    "generated_at": "2026-07-10T07:56:47Z",
     "count": 5
   }
 }

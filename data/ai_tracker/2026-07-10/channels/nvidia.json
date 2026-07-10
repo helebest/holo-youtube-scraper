@@ -20,9 +20,9 @@
       "published_at": "2026-07-09T17:16:52Z",
       "description": "Welcome to the frontier of Physical and Sovereign AI. At GTC Taipei 2026, the spotlight is on the top NVIDIA Inception startups leveraging full-stack acceleration to solve complex global challenges across industries.\n\nTimestamps:\n\n0:00 - The New Era of Physical & Sovereign AI\n0:32 - Tricuss: PhysicsNeMo & R&D Simulation\n1:05 - FindingsTech: NVIDIA MONAI in Healthcare\n1:38 - Nexuni: Isaac GR00T & Physical AI\n2:12 - RLWRLD: Dexterous Manipulation with Isaac Lab\n2:45 - Quantum Brilliance: CUDA-Q Quantum Scaling\n3:18 - SynaXG: AI-RAN Powered by NVIDIA AI Aerial\n3:50 - Join the NVIDIA Inception Program\n\nFrom ubiquitous quantum computing to AI-native 5G/6G connectivity and precision science, these pioneers are scaling the future of technology.\n\n💡 Bring your vision to life. Join a global network of over 15,000 deep-tech startups. Apply to NVIDIA Inception for production-ready technical resources, cloud credits, and VC exposure.\n\n👉 Learn more & apply: https://nvda.ws/Inception\n\n#GTCTaipei #NVIDIA #AIStartups #IsaacLab #CUDA #AIAerial #DeepTech",
       "duration": "PT5M4S",
-      "view_count": 207,
-      "like_count": 31,
-      "comment_count": 5,
+      "view_count": 1300,
+      "like_count": 79,
+      "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=RS9c40UDuIs"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-08T21:00:19Z",
       "description": "Every company has specialized intelligence that sets it apart.\n\nWith LangChain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.\n\nLearn more: https://nvda.ws/4vdM1bD",
       "duration": "PT28S",
-      "view_count": 9582,
-      "like_count": 361,
-      "comment_count": 10,
+      "view_count": 13577,
+      "like_count": 503,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=p2PcFL2FTA8"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-07-08T17:39:39Z",
       "description": "In this fireside chat, Alan Weckel from 650 Group and NVIDIA’s SVP of Networking, Gilad Shainer, discuss how networking serves as the heart of modern AI factories. The conversation explores the shifting landscape of network architectures as the industry enters an 800 gig upgrade cycle and experiences explosive bandwidth growth. Shainer details four essential networking infrastructures for AI: scale-up via NVLink to create single GPU units, scale-out using Spectrum-X Ethernet to eliminate jitter and achieve 95% effective bandwidth, scale-across for giga-scale factories, and a new context memory storage infrastructure for inferencing. The discussion also highlights the production launch of co-packaged optics (CPO), a significant milestone that reduces optical network power consumption by nearly 5x while increasing reliability.\n \n#AIifrastructure, #AIfactory, #acceleratednetworking \n\nLearn more: https://www.nvidia.com/en-us/networking/",
       "duration": "PT30M28S",
-      "view_count": 3372,
-      "like_count": 66,
+      "view_count": 6526,
+      "like_count": 73,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=tjGVnjsvi-k"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-07-07T18:49:04Z",
       "description": "Masterfully crafted. Powerfully engineered.\n\nJoin NVIDIA's Jacob Freeman for a closer look at the new Dell XPS 16 laptop & an upcoming compact desktop powered by the NVIDIA RTX Spark superchip.\n\nLearn more: https://www.dell.com/en-us/blog/dell-and-nvidia-bring-serious-performance-to-creators/",
       "duration": "PT49S",
-      "view_count": 9691,
-      "like_count": 346,
+      "view_count": 10839,
+      "like_count": 356,
       "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=psqiOxQ61pI"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-07-03T16:00:01Z",
       "description": "Game Ready. World-leading gaming tech on the slimmest RTX laptops ever.\n\nJoin NVIDIA’s Jacob Freeman for a closer look at high-performance gaming powered by the NVIDIA RTX Spark superchip.\n\nLearn more about NVIDIA RTX Spark:\nhttps://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT37S",
-      "view_count": 11726,
-      "like_count": 350,
+      "view_count": 11899,
+      "like_count": 351,
       "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=B0gTeYq0Emg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-09T18:14:18Z",
+    "generated_at": "2026-07-10T07:56:52Z",
     "count": 5
   }
 }
