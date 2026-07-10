@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-11",
+  "result": [
+    {
+      "id": "nep5byxmr_M",
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-10T16:02:41Z",
+      "description": "“ChatGPT Work helped me scale from six customers that I was tracking in the pilot phase to about 80.”\n\nVaneet Seth, R&D Efficiency Manager at RingCentral, uses ChatGPT Work to bring together information across siloed teams, turn scattered knowledge into a living operating system, and move from insights to execution faster.\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT1M9S",
+      "view_count": 575,
+      "like_count": 32,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=nep5byxmr_M"
+    },
+    {
+      "id": "SvGLxXHYCd8",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-10T09:19:42Z",
+      "description": "In this customer story, Jonathan Abrahamson, Chief Product & Digital Officer at Deutsche Telekom, shares how the company is reimagining telecommunications with AI—transforming employee workflows, customer service, network operations, and the future of voice.\n\nHear how Deutsche Telekom is working toward becoming an AI-native telecommunications company, bringing AI into communications experiences through capabilities such as live translation, in-call assistants, and automated summarization, while redesigning how work gets done across the business.\n\nRead the full Deutsche Telekom story: https://openai.com/index/deutsche-telekom/",
+      "duration": "PT1M26S",
+      "view_count": 2472,
+      "like_count": 70,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=SvGLxXHYCd8"
+    },
+    {
+      "id": "xYVfknDQHU4",
+      "title": "ChatGPT Work | How NVIDIA Scales GTM with AI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T22:30:40Z",
+      "description": "“ChatGPT has really been a force multiplier”\n\nWill Daney, Go-To-Market Strategist at NVIDIA, uses ChatGPT Work to:\n\n🤖 Automate repeatable workflows\n⏱️ Eliminate manual analysis\n📈 Turn customer data into actionable insights\n\n“You build the building block yourself, and then it can scale to your global team pretty easily.” \n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT56S",
+      "view_count": 4944,
+      "like_count": 92,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=xYVfknDQHU4"
+    },
+    {
+      "id": "Cb0N8Pnja30",
+      "title": "ChatGPT Work | NVIDIA’s GTM Team Uses AI to Scale Faster",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T22:30:35Z",
+      "description": "“ChatGPT has really been a force multiplier”\n\nWill Daney (tag), Go-To-Market Strategist at NVIDIA (tag), uses ChatGPT Work to:\n\n🤖 Automate repeatable workflows\n⏱️ Eliminate manual analysis\n📈 Turn customer data into actionable insights\n\n“You build the building block yourself, and then it can scale to your global team pretty easily.” \n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT30S",
+      "view_count": 3201,
+      "like_count": 38,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Cb0N8Pnja30"
+    },
+    {
+      "id": "md5t5Nu44A4",
+      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-09T21:26:20Z",
+      "description": "“We quantified the impact of this project to the tune of seven figures in pipeline every single month.”\n\nAngela Ferrante, Head of Enterprise Marketing at Zapier, used ChatGPT Work to automate a process that once took 35–45 minutes per lead.\n\nNow, her team can QA thousands of inbound leads, recover missed opportunities, and spend more time on strategic work.\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT34S",
+      "view_count": 2610,
+      "like_count": 30,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=md5t5Nu44A4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-10T18:04:04Z",
+    "count": 5
+  }
+}
