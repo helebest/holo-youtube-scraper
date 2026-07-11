@@ -15,14 +15,14 @@
   "result": [
     {
       "id": "QbdbAhaJoCQ",
-      "title": "Einstein's happiest thought: General Relativity from scratch – Adam Brown",
+      "title": "General relativity from first principles – Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-10T16:34:06Z",
       "description": "Adam Brown is back! General relativity is said to be the most beautiful idea the human mind has ever produced. Most of us will never get to fully appreciate its elegance by taking the 20-lecture graduate course Adam taught on it at Stanford. But in this episode, Adam distills the key idea at its heart so clearly and compellingly that even I could keep up lol.\n\nAt the core of general relativity, Einstein is trying to figure out the principle behind a particular coincidence: that the mass that resists acceleration and the mass that gravity pulls on just happen to be exactly the same. Adam then leads us through the path of insight which Einstein called his “happiest thought.”\n\nThen Adam lectures on black holes. First, by showing how even under special relativity you could create a perpetual motion machine if black holes weren’t truly black. And then, by explaining why the observations of an infalling observer and a distant bystander to the black hole would be so radically different\n\nAdam leads Blueshift, the team at Google DeepMind cracking science and reasoning, which gave us the opportunity to discuss at the very end how close we are to AIs that could rediscover general relativity from scratch. Stay till the close for some philosophy of science.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/adam-brown-gr\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n• Jane Street has traders from all sorts of different backgrounds. For example, I recently got to speak with Jed Thompson, a trader who started his career in particle physics. Jed told me how the habits he built as a physicist (like never running a calculation without first having a good guess at the answer) helped him build good trading intuition. So no matter what field you’re working in right now, your experience may be more applicable than you think. Check out open positions at https://janestreet.com/dwarkesh\n\n• Crusoe gave me early access to their new serverless fine-tuning product, so I decided to try fine-tuning a Dwarkesh-style question generator. Crusoe made this really easy: I just turned my interview transcripts into training data and then kicked off a run – I never had to touch infra or tweak hyperparameters. After training was done, I ran a blind eval with my team: they preferred the fine-tuned model’s proposed questions over my own suggestions about 30% of the time. Serverless fine-tuning goes live next week. Learn more at https://crusoe.ai/dwarkesh\n\n• Cursor’s iOS app lets me kick off real work no matter where I am. For example, recently I was at dinner with friends when I had an idea about how to investigate the past few years of progress in sample efficiency. I pulled out the Cursor app, dumped my thoughts into a voice note, and 15 minutes later, Cursor had cloned the relevant repo, done the necessary analysis, and written up its findings. And now I’m expanding that work into a full write-up. Without the Cursor app, the idea would’ve floated away. Check out the app now at https://cursor.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – The coincidence that led Einstein to general relativity\n00:16:42 – Gravity is a consequence of curved spacetime, not a force\n00:31:46 – Why black holes prevent unlimited energy extraction\n00:47:12 – Black holes are the ultimate power plants\n01:13:50 – What falling into a black hole would actually feel like\n01:18:51 – The three ways we know black holes are real\n01:24:21 – The first time we saw gravity bend light\n01:29:33 – How far can AI get without experimental evidence?",
       "duration": "PT1H38M25S",
-      "view_count": 1955,
-      "like_count": 165,
-      "comment_count": 13,
+      "view_count": 26759,
+      "like_count": 982,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=QbdbAhaJoCQ"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-09T22:16:16Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 42704,
-      "like_count": 2146,
-      "comment_count": 51,
+      "view_count": 53383,
+      "like_count": 2638,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=WQIdiMbpBVI"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-07-08T23:19:39Z",
       "description": "",
       "duration": "PT57S",
-      "view_count": 115683,
-      "like_count": 3758,
-      "comment_count": 80,
+      "view_count": 122569,
+      "like_count": 4007,
+      "comment_count": 94,
       "url": "https://www.youtube.com/watch?v=vSBbXutmRg8"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-07-07T21:45:06Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 152982,
-      "like_count": 5084,
-      "comment_count": 82,
+      "view_count": 158496,
+      "like_count": 5251,
+      "comment_count": 87,
       "url": "https://www.youtube.com/watch?v=RrHeqF5wy_E"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-07-05T21:02:25Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 289526,
-      "like_count": 11036,
-      "comment_count": 364,
+      "view_count": 299625,
+      "like_count": 11366,
+      "comment_count": 367,
       "url": "https://www.youtube.com/watch?v=ymxAcpVIclA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-10T18:03:59Z",
+    "generated_at": "2026-07-11T06:30:45Z",
     "count": 5
   }
 }
