@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-07-14",
+  "result": [
+    {
+      "id": "sJAXZDcpU3o",
+      "title": "GTC Berlin Early Bird",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-13T15:30:02Z",
+      "description": "What’s the saying about the early bird and the worm? 🐦🪱\n\n#NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.\n\nRegister by July 15 to save up to 25%: https://nvda.ws/4vsEzcy",
+      "duration": "PT15S",
+      "view_count": 807,
+      "like_count": 29,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=sJAXZDcpU3o"
+    },
+    {
+      "id": "LvbUFwNtyPI",
+      "title": "COMPUTEX 2026 | NVIDIA Keynote | Extreme Co-Design: Building the AI Factory",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-10T16:16:00Z",
+      "description": "Extreme Co-Design: Building the AI Factory | Kevin Deierling, SVP Networking, NVIDIA | Computex 2026\n\nIn this keynote from the Computex Forum in Taipei, NVIDIA SVP of Networking Kevin Deierling breaks down what it actually takes to build an AI factory — and why extreme co-design across the entire data center stack is the only way to deliver the tokens the agentic AI era demands.\n\nDeierling opens with three converging transformations reshaping computing: the decades-long shift to accelerated computing, the explosion of generative AI, and the rise of agentic reasoning. Together, they're forcing a complete rearchitecture of the data center — from a cost center into a token revenue generator.\n\nUsing Jensen Huang's \"5-layer cake\" framework, he walks through how NVIDIA co-designs across every layer:\n\nEnergy — AI training workloads create dramatic power spikes. NVIDIA's DSX software smooths energy demand, enabling 40% more GPUs per gigawatt — and 40% more token revenue.\n\nChips — NVIDIA's 7 co-designed chips work as one system: Rubin GPUs and Vera CPUs connected via cache-coherent links, scaling up with NVLink and out with Spectrum-X Ethernet through BlueField-4 and ConnectX SuperNICs. This extreme co-design delivers 10x more tokens at 1/10th the cost.\n\nInfrastructure — 72 GPUs unified into one giant computer via NVLink 72, running liquid-cooled and DC-powered in the same rack form factor. And with Spectrum CPO (co-packaged optics), NVIDIA brings the optics next to the ASIC to eliminate signal degradation — saving tens of megawatts across an AI factory. Networking scales from 800Gbps to 1600Gbps.\n\nAgents — Agents are AI eating its own tail: instead of waiting on humans, AIs prompt AIs, closing the loop at machine speed. The Vera CPU is built specifically for agentic tools — planning, writing programs, summarizing results. Agents need memory: KV cache for short-term (CMX) and files, objects, and vector databases for long-term (STX). This new class of AI storage delivers 5x faster token throughput and 5x better efficiency.\n\nModels & Applications — 30x performance improvement on DeepSeek using Blackwell. Open NEMATRON models for partners to customize into proprietary supermodels. CUDAX libraries — CuLitho, CuOpt, CuDF — accelerating every workload.\n\nDeierling closes with a message for every business: agentic AI isn't a future concept, it's available now. Everything — robots, medical equipment, self-driving cars, satellites, coding — will become agentic.\n\n#nvidia  #Computex2026 #GTCTaipei #AIFactory #AgenticAI #BlueField #SpectrumX #Networking #DataCenter #ExtremeCoDesign",
+      "duration": "PT27M39S",
+      "view_count": 7560,
+      "like_count": 309,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=LvbUFwNtyPI"
+    },
+    {
+      "id": "RS9c40UDuIs",
+      "title": "Shaping the Next Industrial Era: Meet the NVIDIA Inception Spotlight Startups at GTC Taipei 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-09T17:16:52Z",
+      "description": "Welcome to the frontier of Physical and Sovereign AI. At GTC Taipei 2026, the spotlight is on the top NVIDIA Inception startups leveraging full-stack acceleration to solve complex global challenges across industries.\n\nTimestamps:\n\n0:00 - The New Era of Physical & Sovereign AI\n0:32 - Tricuss: PhysicsNeMo & R&D Simulation\n1:05 - FindingsTech: NVIDIA MONAI in Healthcare\n1:38 - Nexuni: Isaac GR00T & Physical AI\n2:12 - RLWRLD: Dexterous Manipulation with Isaac Lab\n2:45 - Quantum Brilliance: CUDA-Q Quantum Scaling\n3:18 - SynaXG: AI-RAN Powered by NVIDIA AI Aerial\n3:50 - Join the NVIDIA Inception Program\n\nFrom ubiquitous quantum computing to AI-native 5G/6G connectivity and precision science, these pioneers are scaling the future of technology.\n\n💡 Bring your vision to life. Join a global network of over 15,000 deep-tech startups. Apply to NVIDIA Inception for production-ready technical resources, cloud credits, and VC exposure.\n\n👉 Learn more & apply: https://nvda.ws/Inception\n\n#GTCTaipei #NVIDIA #AIStartups #IsaacLab #CUDA #AIAerial #DeepTech",
+      "duration": "PT5M4S",
+      "view_count": 2556,
+      "like_count": 113,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=RS9c40UDuIs"
+    },
+    {
+      "id": "p2PcFL2FTA8",
+      "title": "NVIDIA and LangChain",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-08T21:00:19Z",
+      "description": "Every company has specialized intelligence that sets it apart.\n\nWith LangChain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.\n\nLearn more: https://nvda.ws/4vdM1bD",
+      "duration": "PT28S",
+      "view_count": 19977,
+      "like_count": 647,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=p2PcFL2FTA8"
+    },
+    {
+      "id": "tjGVnjsvi-k",
+      "title": "The Network at the Heart of AI Factories With NVIDIA Spectrum- X Ethernet​",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-08T17:39:39Z",
+      "description": "In this fireside chat, Alan Weckel from 650 Group and NVIDIA’s SVP of Networking, Gilad Shainer, discuss how networking serves as the heart of modern AI factories. The conversation explores the shifting landscape of network architectures as the industry enters an 800 gig upgrade cycle and experiences explosive bandwidth growth. Shainer details four essential networking infrastructures for AI: scale-up via NVLink to create single GPU units, scale-out using Spectrum-X Ethernet to eliminate jitter and achieve 95% effective bandwidth, scale-across for giga-scale factories, and a new context memory storage infrastructure for inferencing. The discussion also highlights the production launch of co-packaged optics (CPO), a significant milestone that reduces optical network power consumption by nearly 5x while increasing reliability.\n \n#AIifrastructure, #AIfactory, #acceleratednetworking \n\nLearn more: https://www.nvidia.com/en-us/networking/",
+      "duration": "PT30M28S",
+      "view_count": 11331,
+      "like_count": 91,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=tjGVnjsvi-k"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-13T18:14:15Z",
+    "count": 5
+  }
+}
