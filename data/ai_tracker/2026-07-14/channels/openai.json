@@ -14,14 +14,26 @@
   "date": "2026-07-14",
   "result": [
     {
+      "id": "-J5KoSMfPLk",
+      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-13T23:07:18Z",
+      "description": "In Seoul, OpenAI and Fast Campus brought together learners in their 50s and 60s for a hands-on AI education program with ChatGPT and Codex.\n\nFast Campus is using OpenAI tools to design practical learning experiences where learners can move from an idea to something they can build. In the film, the Fast Campus team shares how ChatGPT and Codex are being used in the program, and what that makes possible in the classroom.\n\nThe film also captures the energy in the room: curiosity, focus, and the excitement of learning by building. Learners explored how AI can connect to their own experience, work, creative projects, business ideas, and next chapters.\n\nAI should be accessible to people at every stage of life and work, so everyone can learn and build at their own pace.",
+      "duration": "PT3M9S",
+      "view_count": 7586,
+      "like_count": 269,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk"
+    },
+    {
       "id": "q571PxpsdoA",
       "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
       "channel_title": "OpenAI",
       "published_at": "2026-07-11T00:44:29Z",
       "description": "Meet the Wishingrads. \n\nA family running a cereal business from their dining room with GPT-5.6.",
       "duration": "PT2M2S",
-      "view_count": 144,
-      "like_count": 7,
+      "view_count": 995,
+      "like_count": 29,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=q571PxpsdoA"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-07-10T21:21:13Z",
       "description": "“ChatGPT Work helped me scale from six customers that I was tracking in the pilot phase to about 80.”\n\nVaneet Seth, R&D Efficiency Manager at RingCentral, uses ChatGPT Work to bring together information across siloed teams, turn scattered knowledge into a living operating system, and move from insights to execution faster.\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "duration": "PT34S",
-      "view_count": 3122,
-      "like_count": 38,
+      "view_count": 3295,
+      "like_count": 41,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-07-10T21:17:12Z",
       "description": "“It’s allowed basically a one-person team to do the work of a team of four or five.”\n\nMelad Zahedi, Director of Product Marketing at Stampli, uses ChatGPT Work to pull product context from Jira, GitHub, and meeting notes, then automatically update downstream content across help centers, presentations, web pages, and more.\n\nThe result? Hundreds of pieces of content each week—and more time to focus on strategic work.\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "duration": "PT34S",
-      "view_count": 3778,
-      "like_count": 34,
+      "view_count": 3946,
+      "like_count": 38,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=eD5lc1mZDZk"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-07-10T21:11:41Z",
       "description": "“It’s allowed basically a one-person team to do the work of a team of four or five.”\n\nMelad Zahedi, Director of Product Marketing at Stampli, uses ChatGPT Work to pull product context from Jira, GitHub, and meeting notes, then automatically update downstream content across help centers, presentations, web pages, and more.\n\nThe result? Hundreds of pieces of content each week—and more time to focus on strategic work.\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "duration": "PT1M14S",
-      "view_count": 7128,
-      "like_count": 172,
+      "view_count": 7391,
+      "like_count": 176,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=yATno77Uo6A"
-    },
-    {
-      "id": "IYYTI73J7Rg",
-      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
-      "channel_title": "OpenAI",
-      "published_at": "2026-07-10T19:45:02Z",
-      "description": "Computer Use is getting an upgrade as part of ChatGPT Work. It's faster and more accurate with GPT-5.6, and Live Picture-in-Picture lets you keep an eye on its progress. You can also send the live PiP to your Pet while you multitask -- or simply sit back and watch.",
-      "duration": "PT56S",
-      "view_count": 82231,
-      "like_count": 2500,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-13T18:14:16Z",
+    "generated_at": "2026-07-14T06:30:44Z",
     "count": 5
   }
 }
