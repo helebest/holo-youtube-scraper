@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-16",
+  "result": [
+    {
+      "id": "XLzWrfx36uE",
+      "title": "Give Yourself a Red Card with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-15T17:10:14Z",
+      "description": "You: holds up red card.\nCodex: exits you out of meeting, blocks your cal, sets your out of office, and logs you out of computer.\n\nMatch on, build guide: https://github.com/openai/redcard",
+      "duration": "PT39S",
+      "view_count": 324,
+      "like_count": 9,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=XLzWrfx36uE"
+    },
+    {
+      "id": "eiQgljOrkWU",
+      "title": "Codex just got better for developers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-14T23:30:19Z",
+      "description": "Here’s what’s new in Codex for developers. Thanks for helping us make it better!\n\nWe packed in a lot: \n* GPT‑5.6\n* Ultra\n* New ways to manage parallel work\n* Big updates to Computer Use \n* Inline code and document edits\n* PR reviews\n* Sites\n* ...and much more.\n\nMake sure you watch until the end: something that isn’t out yet makes a cameo!\n\nChapters:\n00:00 What's new for developers\n00:46 GPT-5.6 Sol and Ultra mode\n01:28 Computer Use and appshots\n02:11 Browser Use and inline editing\n03:17 Publishing with Sites\n03:51 Coordinating work across projects\n04:57 Codex on mobile\n05:36 Pull request workflows\n06:35 OpenAI Build Week",
+      "duration": "PT7M13S",
+      "view_count": 107794,
+      "like_count": 4479,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU"
+    },
+    {
+      "id": "matzTxfrhJU",
+      "title": "Background Robustness with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-14T22:35:03Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT1M47S",
+      "view_count": 7876,
+      "like_count": 288,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=matzTxfrhJU"
+    },
+    {
+      "id": "avpZWh6sm9M",
+      "title": "Improved Intelligence with GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-14T20:22:11Z",
+      "description": "More about our next generation voice model here: https://openai.com/index/introducing-gpt-live/",
+      "duration": "PT2M11S",
+      "view_count": 18177,
+      "like_count": 663,
+      "comment_count": 116,
+      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M"
+    },
+    {
+      "id": "8zH_O74hZBw",
+      "title": "Build and publish web apps directly in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-14T19:19:36Z",
+      "description": "See how to build a working web app directly in ChatGPT. Describe what you want, try the first version, ask for changes in plain language, and publish it when it’s ready—with hosting and storage built in.\n\nLearn more: https://learn.chatgpt.com/\n\nChapters\n00:00 Introducing Sites\n00:21 Building a launch site\n00:41 Refining with feedback\n00:55 Annotating and publishing\n01:09 Working with Build Web Apps\n01:20 Creating a web game",
+      "duration": "PT1M43S",
+      "view_count": 55337,
+      "like_count": 1962,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-15T17:41:56Z",
+    "count": 5
+  }
+}

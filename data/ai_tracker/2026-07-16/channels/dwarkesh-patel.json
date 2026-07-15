@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-16",
+  "result": [
+    {
+      "id": "5hMvUNTBCuk",
+      "title": "The Day We Felt Two Black Holes Collide - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-14T17:06:10Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 26667,
+      "like_count": 1004,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
+    },
+    {
+      "id": "2j5I19v_oBM",
+      "title": "The generation that decided war wasn't worth it - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-14T00:06:17Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 281577,
+      "like_count": 13026,
+      "comment_count": 711,
+      "url": "https://www.youtube.com/watch?v=2j5I19v_oBM"
+    },
+    {
+      "id": "IO80MYGbJac",
+      "title": "China's Belt and Road Problem - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-12T22:35:57Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 790634,
+      "like_count": 23150,
+      "comment_count": 1391,
+      "url": "https://www.youtube.com/watch?v=IO80MYGbJac"
+    },
+    {
+      "id": "QbdbAhaJoCQ",
+      "title": "General relativity from first principles – Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-10T16:34:06Z",
+      "description": "Adam Brown is back! General relativity is said to be the most beautiful idea the human mind has ever produced. Most of us will never get to fully appreciate its elegance by taking the 20-lecture graduate course Adam taught on it at Stanford. But in this episode, Adam distills the key idea at its heart so clearly and compellingly that even I could keep up lol.\n\nAt the core of general relativity, Einstein is trying to figure out the principle behind a particular coincidence: that the mass that resists acceleration and the mass that gravity pulls on just happen to be exactly the same. Adam then leads us through the path of insight which Einstein called his “happiest thought.”\n\nThen Adam lectures on black holes. First, by showing how even under special relativity you could create a perpetual motion machine if black holes weren’t truly black. And then, by explaining why the observations of an infalling observer and a distant bystander to the black hole would be so radically different\n\nAdam leads Blueshift, the team at Google DeepMind cracking science and reasoning, which gave us the opportunity to discuss at the very end how close we are to AIs that could rediscover general relativity from scratch. Stay till the close for some philosophy of science.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/adam-brown-gr\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n• Jane Street has traders from all sorts of different backgrounds. For example, I recently got to speak with Jed Thompson, a trader who started his career in particle physics. Jed told me how the habits he built as a physicist (like never running a calculation without first having a good guess at the answer) helped him build good trading intuition. So no matter what field you’re working in right now, your experience may be more applicable than you think. Check out open positions at https://janestreet.com/dwarkesh\n\n• Crusoe gave me early access to their new serverless fine-tuning product, so I decided to try fine-tuning a Dwarkesh-style question generator. Crusoe made this really easy: I just turned my interview transcripts into training data and then kicked off a run – I never had to touch infra or tweak hyperparameters. After training was done, I ran a blind eval with my team: they preferred the fine-tuned model’s proposed questions over my own suggestions about 30% of the time. Serverless fine-tuning goes live next week. Learn more at https://crusoe.ai/dwarkesh\n\n• Cursor’s iOS app lets me kick off real work no matter where I am. For example, recently I was at dinner with friends when I had an idea about how to investigate the past few years of progress in sample efficiency. I pulled out the Cursor app, dumped my thoughts into a voice note, and 15 minutes later, Cursor had cloned the relevant repo, done the necessary analysis, and written up its findings. And now I’m expanding that work into a full write-up. Without the Cursor app, the idea would’ve floated away. Check out the app now at https://cursor.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – The coincidence that led Einstein to general relativity\n00:16:42 – Gravity is a consequence of curved spacetime, not a force\n00:31:46 – Why black holes prevent unlimited energy extraction\n00:47:12 – Black holes are the ultimate power plants\n01:13:50 – What falling into a black hole would actually feel like\n01:18:51 – The three ways we know black holes are real\n01:24:21 – The first time we saw gravity bend light\n01:29:33 – How far can AI get without experimental evidence?",
+      "duration": "PT1H38M25S",
+      "view_count": 98449,
+      "like_count": 2456,
+      "comment_count": 154,
+      "url": "https://www.youtube.com/watch?v=QbdbAhaJoCQ"
+    },
+    {
+      "id": "WQIdiMbpBVI",
+      "title": "The Real Effects of the Six Day War - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-09T22:16:16Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 100238,
+      "like_count": 4565,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=WQIdiMbpBVI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-15T17:41:51Z",
+    "count": 5
+  }
+}
