@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-17",
+  "result": [
+    {
+      "id": "KNPjRpNtQ7s",
+      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T17:00:16Z",
+      "description": "Racing is a sport of tiny margins and mountains of data. OpenAI researcher Joyce Ruffell and RaceTek Systems co-founder Chase Holden are each using AI to help teams make better use of information from the track, the garage, and the people behind the wheel. They discuss OpenAI’s research collaboration with Chip Ganassi Racing and how Chase used ChatGPT and Codex to go from hosting a NASCAR podcast to building a racing intelligence company. They also examine how AI could give smaller teams an edge without replacing the human expertise at the heart of racing, and why car culture runs so deep at OpenAI.\n\nChapters\n\n00:43 Intro to OpenAI researcher Joyce Ruffell and Chip Ganassi Racing\n02:43 Intro to Chase Holden and RaceTek Systems\n07:45 Joyce’s path into racing\n10:00 Helping racing teams work with AI\n15:31 Combining human feedback with racing data\n18:26 How AI helps smaller teams compete\n21:43 Spreadsheets and the “data wars” in racing\n27:03 Getting started with AI and Codex\n30:08 How RaceTek won its first customer\n33:01 Humans, robot racing, and the future of competition\n39:26 Using AI beyond the racetrack",
+      "duration": "PT41M24S",
+      "view_count": 512,
+      "like_count": 34,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s"
+    },
+    {
+      "id": "Xk-X1TI2pQ4",
+      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T15:37:36Z",
+      "description": "How should companies think about hiring in the age of AI? In this OpenAI France voxpop video, Peter Steinberger, Member of Technical Staff at OpenAI, shares why creativity, curiosity and the ability to work with AI agents are becoming increasingly valuable—and why organisations may need to rethink what great AI talent looks like.",
+      "duration": "PT38S",
+      "view_count": 622,
+      "like_count": 37,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4"
+    },
+    {
+      "id": "Fu3WWi-pAv4",
+      "title": "Think AI-First: Emmanuel Marill on Building AI-Native Companies | OpenAI France",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T15:37:30Z",
+      "description": "What are the most successful companies doing differently with AI? At OpenAI France, Emmanuel Marill, Managing Director, EMEA at OpenAI, shares why the biggest opportunities come from thinking AI-first rather than adding AI to existing ways of working. He also reflects on focus, solving real business problems and why France has one of the world's strongest AI ecosystems.",
+      "duration": "PT1M15S",
+      "view_count": 270,
+      "like_count": 12,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Fu3WWi-pAv4"
+    },
+    {
+      "id": "1fL_lwsdMd4",
+      "title": "Stop Prompting. Start Giving AI Goals. | Katia Gil Guzman | OpenAI France",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T15:37:20Z",
+      "description": "The way we work with AI is changing. Katia Gil Guzman, Developer Experience at OpenAI, explains why we're moving from prompts to goals, how AI is enabling anyone to become a builder, and what excites her most about the rapidly evolving builder community in France. Filmed at OpenAI France.",
+      "duration": "PT1M40S",
+      "view_count": 668,
+      "like_count": 49,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=1fL_lwsdMd4"
+    },
+    {
+      "id": "W0mU8zgop60",
+      "title": "From AI Pilots to Production | François Weider on Enterprise Adoption | OpenAI France",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T15:37:16Z",
+      "description": "AI is moving beyond experimentation. In this OpenAI France voxpop video, François Weider, Go-to-Market Leader for France & Southern Europe at OpenAI, explains why organisations are shifting from pilots to production, how to prioritise AI use cases that deliver measurable business value, and why executive role modelling is critical for successful AI adoption.",
+      "duration": "PT1M32S",
+      "view_count": 343,
+      "like_count": 14,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=W0mU8zgop60"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-16T17:42:56Z",
+    "count": 5
+  }
+}

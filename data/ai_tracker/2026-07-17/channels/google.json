@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-07-17",
+  "result": [
+    {
+      "id": "2jBT5mlomoE",
+      "title": "How We Use AI for Your Health | Made by Google Podcast S9E6",
+      "channel_title": "Google",
+      "published_at": "2026-07-15T16:52:50Z",
+      "description": "What does building an unmanned helicopter have in common with designing a tiny, screenless fitness tracker? And why did NBA superstar Stephen Curry’s elite athleticism actually break Google’s sleep-tracking algorithm?\n\nOn this episode of the Made by Google Podcast, host Rachid Finge sits down with Andy Abramson, Head of Product for Fitbit and Health, to explore the design and engineering behind Google’s newest health tools: the redesigned Google Health app, the screenless Fitbit Air, and the Gemini-powered Google Health Coach.\n\nAndy explains why Google is returning to Fitbit's screenless roots, how the team reacted when Reddit users tried to make their own custom bands, and snapping a few photos can go a long way in keeping your fitness plan on track, thanks to Gemini.\n\n00:38 Complexity in Design: From Helicopters to Fitbit Air\n01:31 Redesigning the Google Health App\n11:03 Introducing the Gemini-powered Google Health Coach\n\n#MadeByGoogle #TechPodcast \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT20M37S",
+      "view_count": 10561,
+      "like_count": 254,
+      "comment_count": 59,
+      "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
+    },
+    {
+      "id": "c-lTrKAxViY",
+      "title": "It’s that epic.",
+      "channel_title": "Google",
+      "published_at": "2026-07-13T18:57:49Z",
+      "description": "Step 1: Turn your phone sideways. \nStep 2: Search “the odyssey” on Google for a surprise.",
+      "duration": "PT11S",
+      "view_count": 41458,
+      "like_count": 604,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=c-lTrKAxViY"
+    },
+    {
+      "id": "5qTTLTzyY9Y",
+      "title": "Portugal's leading the mini cup... for now 👀",
+      "channel_title": "Google",
+      "published_at": "2026-07-12T15:00:43Z",
+      "description": "Search \"soccer\" on mobile to defend your title or push your team to the top 📈",
+      "duration": "PT5S",
+      "view_count": 21414,
+      "like_count": 202,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=5qTTLTzyY9Y"
+    },
+    {
+      "id": "qIPjorYya3U",
+      "title": "Stay stylish while repping your team with Search 🇫🇷⚽️",
+      "channel_title": "Google",
+      "published_at": "2026-07-09T16:35:02Z",
+      "description": "Search for items that channel your team’s colors and tap “Try it on” to see how to pull the perfect look together.\n\n#GooglePartner",
+      "duration": "PT20S",
+      "view_count": 25735,
+      "like_count": 299,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=qIPjorYya3U"
+    },
+    {
+      "id": "BXWlJAM4U9Y",
+      "title": "Find your next favorite food with Lens 📸",
+      "channel_title": "Google",
+      "published_at": "2026-07-08T16:56:46Z",
+      "description": "Spot some tasty stadium food on your feed or at a match? Use Lens to find out what it is in seconds.\n#GoogleSearch",
+      "duration": "PT32S",
+      "view_count": 23613,
+      "like_count": 313,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=BXWlJAM4U9Y"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-16T17:42:56Z",
+    "count": 5
+  }
+}
