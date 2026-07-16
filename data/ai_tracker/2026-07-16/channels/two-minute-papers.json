@@ -15,14 +15,14 @@
   "result": [
     {
       "id": "0CqLVnx-2UM",
-      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "title": "Anthropic Found Something That Shouldn't Exist",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-07-15T13:58:27Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://transformer-circuits.pub/2025/linebreaks/index.html\n\nPaper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765/Shifting-mirrors-adaptive-changes-in-retinal\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M9S",
-      "view_count": 10692,
-      "like_count": 857,
-      "comment_count": 65,
+      "view_count": 30610,
+      "like_count": 1696,
+      "comment_count": 139,
       "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-12T15:48:43Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.com/mod/terrain-diffusion\nhttps://github.com/xandergos/terrain-diffusion\n\nSource video for some parts of the footage: https://www.youtube.com/watch?v=irE4tcDtUIg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M53S",
-      "view_count": 192458,
-      "like_count": 12639,
-      "comment_count": 473,
+      "view_count": 195249,
+      "like_count": 12801,
+      "comment_count": 478,
       "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-07-07T16:33:29Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT5M45S",
-      "view_count": 61869,
-      "like_count": 2528,
+      "view_count": 62106,
+      "like_count": 2533,
       "comment_count": 165,
       "url": "https://www.youtube.com/watch?v=1yBU41auQhw"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-07-03T17:19:59Z",
       "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtube.com/shorts/Tx7167DXr8U\nhttps://www.youtube.com/watch?v=55F9dY2Y1zc\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT6M18S",
-      "view_count": 35807,
-      "like_count": 1886,
+      "view_count": 35996,
+      "like_count": 1895,
       "comment_count": 87,
       "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-07-01T05:23:54Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT7M27S",
-      "view_count": 94583,
-      "like_count": 4047,
+      "view_count": 94719,
+      "like_count": 4050,
       "comment_count": 404,
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-15T17:41:53Z",
+    "generated_at": "2026-07-16T06:37:50Z",
     "count": 5
   }
 }
