@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-18",
+  "result": [
+    {
+      "id": "dWEQIleX87o",
+      "title": "Why Planes Don't Fly in a Straight Line - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-16T20:39:50Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 18217,
+      "like_count": 781,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
+    },
+    {
+      "id": "anB6d98RVdI",
+      "title": "We Could Be Inside a Black Hole Right Now – Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-15T18:54:11Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 38778,
+      "like_count": 958,
+      "comment_count": 49,
+      "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
+    },
+    {
+      "id": "5hMvUNTBCuk",
+      "title": "The Day We Felt Two Black Holes Collide - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-14T17:06:10Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 33759,
+      "like_count": 1129,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
+    },
+    {
+      "id": "2j5I19v_oBM",
+      "title": "The generation that decided war wasn't worth it - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-14T00:06:17Z",
+      "description": "",
+      "duration": "PT58S",
+      "view_count": 332768,
+      "like_count": 15394,
+      "comment_count": 798,
+      "url": "https://www.youtube.com/watch?v=2j5I19v_oBM"
+    },
+    {
+      "id": "IO80MYGbJac",
+      "title": "China's Belt and Road Problem - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-12T22:35:57Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 983880,
+      "like_count": 28188,
+      "comment_count": 1615,
+      "url": "https://www.youtube.com/watch?v=IO80MYGbJac"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-17T17:34:08Z",
+    "count": 5
+  }
+}
