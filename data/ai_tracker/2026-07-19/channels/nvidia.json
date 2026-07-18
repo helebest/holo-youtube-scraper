@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-07-19",
+  "result": [
+    {
+      "id": "Jpsq_-1kJTo",
+      "title": "How NVIDIA Runs Its Own AI Factory | AI Factory Insider Ep. 2",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-16T14:36:20Z",
+      "description": "In Episode 2 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Nic Borensztein (Distinguished Solution Architect, AI Factory, NVIDIA) and Jon Fernandez (Director, Enterprise AI Compute, NVIDIA) to go behind the scenes on how we operate our internal AI factory at scale.\n\nWhat we cover: \n0:00 — Introduction & guests \n0:56 — What is an Enterprise Validated Design (EVD)\n3:35 — Building & validating the full software stack with partners \n4:44 — Security in enterprise AI \n6:06 — NVIDIA IT AI factory success story\n7:02 — Why enterprises go on-prem: ROI, tokenomics & compliance \n9:12 — Inside NVIDIA's own AI factory: the secure agent workspace \n12:47 — Origin story: how our AI factory journey started \n14:27 — Scale: 4 trillion tokens/month & 200M inference requests/day \n16:10 — Use cases across every function (and why everyone's a developer now) \n17:47 — Chip Nemo: AI for chip design \n19:05 — Agent harnesses, the perceive-reason-act loop & secure workspaces \n22:51 — What's next: confidential computing for on-prem frontier models \n25:46 — Key takeaways & next episode preview\n\nResources: \nSecure Agent Workspace Reference Design 👉 https://nvda.ws/4ylcFlD \nNVIDIA Enterprise AI Factory - Design Guide White Paper 👉 https://nvda.ws/4fCaGlk\nNVIDIA’s AI Factory Drives Enterprise Innovation at Scale 👉 https://nvda.ws/4hddZ3F",
+      "duration": "PT27M17S",
+      "view_count": 2955,
+      "like_count": 90,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=Jpsq_-1kJTo"
+    },
+    {
+      "id": "vXWs3Xq-ke0",
+      "title": "NVIDIA and Japan: Building the Next Industrial Revolution",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-16T09:00:05Z",
+      "description": "For 30 years, NVIDIA and Japan shaped new eras of computing, from PCs and game consoles to accelerated computing and now AI factories. Today, that partnership is building the next chapter: AI infrastructure, national AI, physical AI, and the golden age of robotics.",
+      "duration": "PT4M14S",
+      "view_count": 68475,
+      "like_count": 4170,
+      "comment_count": 282,
+      "url": "https://www.youtube.com/watch?v=vXWs3Xq-ke0"
+    },
+    {
+      "id": "Vk4lnMMOvIY",
+      "title": "SEGA Arcade Visit",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-16T00:16:27Z",
+      "description": "Jensen. SEGA. Akihabara. 🎮\n\nSome collabs are just meant to be.\n\nWe stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with NVIDIA RTX Spark.",
+      "duration": "PT30S",
+      "view_count": 11870,
+      "like_count": 309,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=Vk4lnMMOvIY"
+    },
+    {
+      "id": "bT0xCr1zNOc",
+      "title": "An Early Look At The HP OmniBook Ultra 16 & X 14 Powered by NVIDIA RTX Spark",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-14T16:00:14Z",
+      "description": "Incredibly slim. Visually stunning. \n\nJoin NVIDIA's Jacob Freeman for a closer look at the new OmniBook Ultra 16 & OmniBook X 14 laptops powered by the NVIDIA RTX Spark superchip. \n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M1S",
+      "view_count": 9446,
+      "like_count": 342,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=bT0xCr1zNOc"
+    },
+    {
+      "id": "sJAXZDcpU3o",
+      "title": "GTC Berlin Early Bird",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-13T15:30:02Z",
+      "description": "What’s the saying about the early bird and the worm? 🐦🪱\n\n#NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.\n\nRegister by July 15 to save up to 25%: https://nvda.ws/4vsEzcy",
+      "duration": "PT15S",
+      "view_count": 7850,
+      "like_count": 159,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=sJAXZDcpU3o"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-18T17:25:57Z",
+    "count": 5
+  }
+}
