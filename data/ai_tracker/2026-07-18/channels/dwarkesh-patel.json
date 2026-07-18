@@ -14,15 +14,27 @@
   "date": "2026-07-18",
   "result": [
     {
+      "id": "HCTzwcMU6Nk",
+      "title": "Why Land Powers and Sea Powers Can Never Agree on World Order - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T00:24:13Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 38678,
+      "like_count": 2608,
+      "comment_count": 50,
+      "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
+    },
+    {
       "id": "dWEQIleX87o",
       "title": "Why Planes Don't Fly in a Straight Line - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-16T20:39:50Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 18217,
-      "like_count": 781,
-      "comment_count": 39,
+      "view_count": 21297,
+      "like_count": 850,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-15T18:54:11Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 38778,
-      "like_count": 958,
-      "comment_count": 49,
+      "view_count": 45984,
+      "like_count": 1072,
+      "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-14T17:06:10Z",
       "description": "",
       "duration": "PT42S",
-      "view_count": 33759,
-      "like_count": 1129,
-      "comment_count": 41,
+      "view_count": 34774,
+      "like_count": 1145,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-14T00:06:17Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 332768,
-      "like_count": 15394,
-      "comment_count": 798,
+      "view_count": 342415,
+      "like_count": 15883,
+      "comment_count": 816,
       "url": "https://www.youtube.com/watch?v=2j5I19v_oBM"
-    },
-    {
-      "id": "IO80MYGbJac",
-      "title": "China's Belt and Road Problem - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-12T22:35:57Z",
-      "description": "",
-      "duration": "PT1M6S",
-      "view_count": 983880,
-      "like_count": 28188,
-      "comment_count": 1615,
-      "url": "https://www.youtube.com/watch?v=IO80MYGbJac"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-17T17:34:08Z",
+    "generated_at": "2026-07-18T06:25:05Z",
     "count": 5
   }
 }
