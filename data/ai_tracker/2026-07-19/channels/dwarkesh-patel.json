@@ -14,15 +14,27 @@
   "date": "2026-07-19",
   "result": [
     {
+      "id": "dQPQOyljXLY",
+      "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T23:33:29Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 69310,
+      "like_count": 3612,
+      "comment_count": 80,
+      "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
+    },
+    {
       "id": "HCTzwcMU6Nk",
       "title": "Why Land Powers and Sea Powers Can Never Agree on World Order - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-18T00:24:13Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 112703,
-      "like_count": 5145,
-      "comment_count": 110,
+      "view_count": 157542,
+      "like_count": 6536,
+      "comment_count": 145,
       "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-07-16T20:39:50Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 22792,
-      "like_count": 891,
+      "view_count": 24487,
+      "like_count": 939,
       "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-07-15T18:54:11Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 52042,
-      "like_count": 1151,
-      "comment_count": 67,
+      "view_count": 61137,
+      "like_count": 1293,
+      "comment_count": 81,
       "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-14T17:06:10Z",
       "description": "",
       "duration": "PT42S",
-      "view_count": 35283,
-      "like_count": 1157,
+      "view_count": 35999,
+      "like_count": 1173,
       "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
-    },
-    {
-      "id": "2j5I19v_oBM",
-      "title": "The generation that decided war wasn't worth it - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-14T00:06:17Z",
-      "description": "",
-      "duration": "PT58S",
-      "view_count": 348664,
-      "like_count": 16163,
-      "comment_count": 844,
-      "url": "https://www.youtube.com/watch?v=2j5I19v_oBM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-18T17:25:53Z",
+    "generated_at": "2026-07-19T07:01:55Z",
     "count": 5
   }
 }
