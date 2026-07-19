@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-20",
+  "result": [
+    {
+      "id": "fnPMkEe6Nik",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T22:19:27Z",
+      "description": "“It allows me to go faster with fewer dependencies and then do things that I couldn’t do before.”\n\nChris Jones, Senior Lead, Ops AI Lab at Shopify, is helping teams use ChatGPT Work to redesign workflows with agents, remove bottlenecks, and build tools without waiting on engineering resources.\n\n“What would’ve been a large team supporting a process now comes down to an agent that can run discrete tasks.”\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT30S",
+      "view_count": 4259,
+      "like_count": 54,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=fnPMkEe6Nik"
+    },
+    {
+      "id": "OHVu3Y4B3RI",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T22:15:11Z",
+      "description": "“It allows me to go faster with fewer dependencies and then do things that I couldn’t do before.”\n\nChris Jones, Senior Lead, Ops AI Lab at Shopify, is helping teams use ChatGPT Work to redesign workflows with agents, remove bottlenecks, and build tools without waiting on engineering resources.\n\n“What would’ve been a large team supporting a process now comes down to an agent that can run discrete tasks.”\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT58S",
+      "view_count": 7438,
+      "like_count": 211,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=OHVu3Y4B3RI"
+    },
+    {
+      "id": "dB6pOolO7io",
+      "title": "ChatGPT can now complete tasks on your computer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T18:00:16Z",
+      "description": "With GPT-5.6, ChatGPT can use the apps on your computer and your browser to complete tasks for you. See how it works across macOS and Windows, how you can collaborate with it in real time, and how it keeps multi-step work moving in the tools you already use.\n\nLearn more: https://learn.chatgpt.com/\n\nChapters:\n00:00 Browser and Computer Use\n00:12 Analyzing community feedback\n00:26 Annotating in the in-app browser\n00:38 Connecting Chrome\n00:52 Controlling desktop apps\n01:07 Connecting everyday tools",
+      "duration": "PT1M20S",
+      "view_count": 82890,
+      "like_count": 2190,
+      "comment_count": 188,
+      "url": "https://www.youtube.com/watch?v=dB6pOolO7io"
+    },
+    {
+      "id": "KNPjRpNtQ7s",
+      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T17:00:16Z",
+      "description": "Racing is a sport of tiny margins and mountains of data. OpenAI researcher Joyce Ruffell and RaceTek Systems co-founder Chase Holden are each using AI to help teams make better use of information from the track, the garage, and the people behind the wheel. They discuss OpenAI’s research collaboration with Chip Ganassi Racing and how Chase used ChatGPT and Codex to go from hosting a NASCAR podcast to building a racing intelligence company. They also examine how AI could give smaller teams an edge without replacing the human expertise at the heart of racing, and why car culture runs so deep at OpenAI.\n\nChapters\n\n00:43 Intro to OpenAI researcher Joyce Ruffell and Chip Ganassi Racing\n02:43 Intro to Chase Holden and RaceTek Systems\n07:45 Joyce’s path into racing\n10:00 Helping racing teams work with AI\n15:31 Combining human feedback with racing data\n18:26 How AI helps smaller teams compete\n21:43 Spreadsheets and the “data wars” in racing\n27:03 Getting started with AI and Codex\n30:08 How RaceTek won its first customer\n33:01 Humans, robot racing, and the future of competition\n39:26 Using AI beyond the racetrack",
+      "duration": "PT41M24S",
+      "view_count": 7302,
+      "like_count": 149,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s"
+    },
+    {
+      "id": "Xk-X1TI2pQ4",
+      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T15:37:36Z",
+      "description": "How should companies think about hiring in the age of AI? In this OpenAI France voxpop video, Peter Steinberger, Member of Technical Staff at OpenAI, shares why creativity, curiosity and the ability to work with AI agents are becoming increasingly valuable—and why organisations may need to rethink what great AI talent looks like.",
+      "duration": "PT38S",
+      "view_count": 6840,
+      "like_count": 214,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-19T17:28:18Z",
+    "count": 5
+  }
+}

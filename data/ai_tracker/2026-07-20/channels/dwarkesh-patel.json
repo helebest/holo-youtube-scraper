@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-20",
+  "result": [
+    {
+      "id": "dQPQOyljXLY",
+      "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T23:33:29Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 158408,
+      "like_count": 6323,
+      "comment_count": 135,
+      "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
+    },
+    {
+      "id": "HCTzwcMU6Nk",
+      "title": "Why Land Powers and Sea Powers Can Never Agree on World Order - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T00:24:13Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 165792,
+      "like_count": 6861,
+      "comment_count": 160,
+      "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
+    },
+    {
+      "id": "dWEQIleX87o",
+      "title": "Why Planes Don't Fly in a Straight Line - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-16T20:39:50Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 25642,
+      "like_count": 977,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
+    },
+    {
+      "id": "anB6d98RVdI",
+      "title": "We Could Be Inside a Black Hole Right Now – Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-15T18:54:11Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 67295,
+      "like_count": 1377,
+      "comment_count": 91,
+      "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
+    },
+    {
+      "id": "5hMvUNTBCuk",
+      "title": "The Day We Felt Two Black Holes Collide - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-14T17:06:10Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 36497,
+      "like_count": 1191,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-19T17:28:13Z",
+    "count": 5
+  }
+}
