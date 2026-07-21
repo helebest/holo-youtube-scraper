@@ -14,15 +14,27 @@
   "date": "2026-07-21",
   "result": [
     {
+      "id": "srET3ahp0ns",
+      "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-20T22:42:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 8819,
+      "like_count": 419,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
+    },
+    {
       "id": "dQPQOyljXLY",
       "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-18T23:33:29Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 246338,
-      "like_count": 8953,
-      "comment_count": 171,
+      "view_count": 266443,
+      "like_count": 9673,
+      "comment_count": 189,
       "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-18T00:24:13Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 187861,
-      "like_count": 7779,
-      "comment_count": 195,
+      "view_count": 198178,
+      "like_count": 8134,
+      "comment_count": 205,
       "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-16T20:39:50Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 28563,
-      "like_count": 1058,
-      "comment_count": 39,
+      "view_count": 29996,
+      "like_count": 1088,
+      "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-15T18:54:11Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 83573,
-      "like_count": 1614,
-      "comment_count": 118,
+      "view_count": 93844,
+      "like_count": 1734,
+      "comment_count": 125,
       "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
-    },
-    {
-      "id": "5hMvUNTBCuk",
-      "title": "The Day We Felt Two Black Holes Collide - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-14T17:06:10Z",
-      "description": "",
-      "duration": "PT42S",
-      "view_count": 38076,
-      "like_count": 1226,
-      "comment_count": 44,
-      "url": "https://www.youtube.com/watch?v=5hMvUNTBCuk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-20T18:24:57Z",
+    "generated_at": "2026-07-21T06:45:00Z",
     "count": 5
   }
 }

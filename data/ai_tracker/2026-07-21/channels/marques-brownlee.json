@@ -14,15 +14,27 @@
   "date": "2026-07-21",
   "result": [
     {
+      "id": "kUnR9dO4EnA",
+      "title": "This ZOOM is Insane!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-20T20:39:08Z",
+      "description": "Keep zooming. Keep zooming.",
+      "duration": "PT1M6S",
+      "view_count": 623350,
+      "like_count": 31062,
+      "comment_count": 667,
+      "url": "https://www.youtube.com/watch?v=kUnR9dO4EnA"
+    },
+    {
       "id": "_oRgdlJUD18",
       "title": "iOS 27 Hands-On: Top 5 New Features!",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-07-13T22:27:02Z",
       "description": "First look at iOS 27 - coming soon to an iPhone near you. It's about time.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT15M19S",
-      "view_count": 4735611,
-      "like_count": 130011,
-      "comment_count": 6970,
+      "view_count": 4784224,
+      "like_count": 130812,
+      "comment_count": 6996,
       "url": "https://www.youtube.com/watch?v=_oRgdlJUD18"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-08T19:44:58Z",
       "description": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT7M4S",
-      "view_count": 2073803,
-      "like_count": 90367,
-      "comment_count": 6267,
+      "view_count": 2077986,
+      "like_count": 90471,
+      "comment_count": 6268,
       "url": "https://www.youtube.com/watch?v=eWKY0OnPByg"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-07T10:31:42Z",
       "description": "They won't tell us what the b stands for, but...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M21S",
-      "view_count": 2252473,
-      "like_count": 63252,
-      "comment_count": 3165,
+      "view_count": 2258033,
+      "like_count": 63318,
+      "comment_count": 3167,
       "url": "https://www.youtube.com/watch?v=DUgPFNRmsCQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-02T20:42:45Z",
       "description": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT16M31S",
-      "view_count": 1694655,
-      "like_count": 62718,
-      "comment_count": 2544,
+      "view_count": 1699193,
+      "like_count": 62789,
+      "comment_count": 2547,
       "url": "https://www.youtube.com/watch?v=7KRabLH7jcE"
-    },
-    {
-      "id": "ZpF6IE0rdxA",
-      "title": "Antigravity A1: A New Take on Drones!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-06-29T19:22:20Z",
-      "description": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 people get a free flight battery and a double-lens replacement kit with their A1 purchase.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT10M10S",
-      "view_count": 1952453,
-      "like_count": 50560,
-      "comment_count": 1632,
-      "url": "https://www.youtube.com/watch?v=ZpF6IE0rdxA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-20T18:25:00Z",
+    "generated_at": "2026-07-21T06:45:02Z",
     "count": 5
   }
 }
