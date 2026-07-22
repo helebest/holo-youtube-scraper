@@ -14,14 +14,26 @@
   "date": "2026-07-22",
   "result": [
     {
+      "id": "r32UPSOMMVQ",
+      "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-21T23:57:03Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 18644,
+      "like_count": 1037,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
+    },
+    {
       "id": "srET3ahp0ns",
       "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-20T22:42:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 14647,
-      "like_count": 613,
+      "view_count": 17417,
+      "like_count": 684,
       "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-07-18T23:33:29Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 281023,
-      "like_count": 10166,
-      "comment_count": 192,
+      "view_count": 297764,
+      "like_count": 10751,
+      "comment_count": 197,
       "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-18T00:24:13Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 204539,
-      "like_count": 8393,
-      "comment_count": 219,
+      "view_count": 212337,
+      "like_count": 8731,
+      "comment_count": 230,
       "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-16T20:39:50Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 31283,
-      "like_count": 1123,
+      "view_count": 32555,
+      "like_count": 1147,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
-    },
-    {
-      "id": "anB6d98RVdI",
-      "title": "We Could Be Inside a Black Hole Right Now – Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-15T18:54:11Z",
-      "description": "",
-      "duration": "PT53S",
-      "view_count": 103338,
-      "like_count": 1850,
-      "comment_count": 135,
-      "url": "https://www.youtube.com/watch?v=anB6d98RVdI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-21T17:48:41Z",
+    "generated_at": "2026-07-22T07:04:23Z",
     "count": 5
   }
 }
