@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-23",
+  "result": [
+    {
+      "id": "r32UPSOMMVQ",
+      "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-21T23:57:03Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 40980,
+      "like_count": 1700,
+      "comment_count": 49,
+      "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
+    },
+    {
+      "id": "srET3ahp0ns",
+      "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-20T22:42:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 18773,
+      "like_count": 720,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
+    },
+    {
+      "id": "dQPQOyljXLY",
+      "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T23:33:29Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 308782,
+      "like_count": 11097,
+      "comment_count": 207,
+      "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
+    },
+    {
+      "id": "HCTzwcMU6Nk",
+      "title": "Why Land Powers and Sea Powers Can Never Agree on World Order - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T00:24:13Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 216211,
+      "like_count": 8881,
+      "comment_count": 233,
+      "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
+    },
+    {
+      "id": "dWEQIleX87o",
+      "title": "Why Planes Don't Fly in a Straight Line - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-16T20:39:50Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 33173,
+      "like_count": 1163,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-22T17:44:59Z",
+    "count": 5
+  }
+}

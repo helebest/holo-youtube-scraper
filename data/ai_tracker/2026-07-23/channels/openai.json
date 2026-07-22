@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-23",
+  "result": [
+    {
+      "id": "pKwRNdDtai0",
+      "title": "Plugins in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-21T18:00:39Z",
+      "description": "Plugins connect ChatGPT to the tools you use for email, cloud storage, calendars, work chat, and more. See how to browse the plugin directory, choose the right tools and skills for a task, and bring context together across your work to get to a finished result.\n\nLearn more: https://learn.chatgpt.com/\n\nChapters:\n00:00 Connecting tools with plugins\n00:14 Browsing the plugin directory\n00:32 Creating a flyer with Canva\n01:00 Plugins for specific roles\n01:10 Preparing for a customer meeting\n01:33 Reviewing the meeting brief\n01:46 Applying the plugin workflow",
+      "duration": "PT2M",
+      "view_count": 20504,
+      "like_count": 654,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=pKwRNdDtai0"
+    },
+    {
+      "id": "WwxZeU4WH14",
+      "title": "How Virgin Atlantic Uses ChatGPT Work to Turn Weeks of Work Into Hours",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-20T16:24:11Z",
+      "description": "“It’s weeks to hours.”\n\nNathan Bolt, Head of Digital Product at Virgin Atlantic, uses ChatGPT Work to synthesize strategy documents, analyze competitors, and turn weeks of work into hours.\n\nTogether with Miles King, the team built custom dashboards that connect data from across the business—helping them make faster decisions and deliver new customer experiences more quickly.\n\nSee how Virgin Atlantic is putting ChatGPT Work to work.",
+      "duration": "PT51S",
+      "view_count": 5649,
+      "like_count": 158,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=WwxZeU4WH14"
+    },
+    {
+      "id": "MmYCdNhrhfA",
+      "title": "How BNY CEO Robin Vince Turns AI Optimism Into Action",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-20T13:42:57Z",
+      "description": "“We choose to be AI optimists at BNY.”\n\nFor Robin Vince, optimism means action. And that action starts before Monday morning:\n\n📝 Use the weekend to build context\n🤖 Review the latest AI agents and use cases\n🏋️ Start Monday with an early workout\n📰 Catch up on what’s happening in the world\n✨ Let AI help prioritize the day\n\nThe part AI won’t replace? “Human magic is not something we think is going to be disrupted.”",
+      "duration": "PT1M18S",
+      "view_count": 4975,
+      "like_count": 164,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=MmYCdNhrhfA"
+    },
+    {
+      "id": "AopewjYV1Ho",
+      "title": "Celebrating 2 million with you!",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-19T18:46:37Z",
+      "description": "From launches and livestreams to the moments in between, thank you for watching, learning, and building with us.\n\nHere’s a look back at some of what we’ve shared on the way to 2 million subscribers. We’re grateful you’ve been part of it—and excited for what’s next.",
+      "duration": "PT1M5S",
+      "view_count": 21222,
+      "like_count": 1086,
+      "comment_count": 160,
+      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho"
+    },
+    {
+      "id": "fnPMkEe6Nik",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-16T22:19:27Z",
+      "description": "“It allows me to go faster with fewer dependencies and then do things that I couldn’t do before.”\n\nChris Jones, Senior Lead, Ops AI Lab at Shopify, is helping teams use ChatGPT Work to redesign workflows with agents, remove bottlenecks, and build tools without waiting on engineering resources.\n\n“What would’ve been a large team supporting a process now comes down to an agent that can run discrete tasks.”\n\nCheck out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "duration": "PT30S",
+      "view_count": 5274,
+      "like_count": 70,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=fnPMkEe6Nik"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-22T17:45:04Z",
+    "count": 5
+  }
+}

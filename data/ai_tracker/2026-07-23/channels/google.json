@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-07-23",
+  "result": [
+    {
+      "id": "9OmdZgTSp4A",
+      "title": "Scurry over to Google Search and type in “jimothy the raccoon” 🦝",
+      "channel_title": "Google",
+      "published_at": "2026-07-22T15:56:13Z",
+      "description": "Jimothy’s just built different 😭",
+      "duration": "PT7S",
+      "view_count": 3851,
+      "like_count": 118,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=9OmdZgTSp4A"
+    },
+    {
+      "id": "ey8ai_3FwJI",
+      "title": "Try on that new hairstyle before heading to the salon ✂️",
+      "channel_title": "Google",
+      "published_at": "2026-07-20T16:54:03Z",
+      "description": "Hit the 🍌 in the Google app to try on different styles and find your new look.\n\n#GoogleSearch",
+      "duration": "PT14S",
+      "view_count": 15668,
+      "like_count": 299,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=ey8ai_3FwJI"
+    },
+    {
+      "id": "8TkIQMLWXlg",
+      "title": "World Cup #GoogleDoodle",
+      "channel_title": "Google",
+      "published_at": "2026-07-18T15:12:23Z",
+      "description": "Diving saves. Wild nutmegs. Long-range golazos. The World Cup has put on an absolute show. Discover all World Cup Doodles at doodles.google ⚽️ #GoogleDoodle",
+      "duration": "PT21S",
+      "view_count": 99448,
+      "like_count": 1293,
+      "comment_count": 81,
+      "url": "https://www.youtube.com/watch?v=8TkIQMLWXlg"
+    },
+    {
+      "id": "BD7gbl2lBsM",
+      "title": "Send this to the group chat ⚽️📱",
+      "channel_title": "Google",
+      "published_at": "2026-07-17T15:51:00Z",
+      "description": "Whether you say football, soccer, or something else entirely, one thing’s for sure: You don’t need to speak the same language to celebrate a goal together ❤️",
+      "duration": "PT19S",
+      "view_count": 28864,
+      "like_count": 429,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
+    },
+    {
+      "id": "uJ5b9SlZRys",
+      "title": "Celebrate on any pitch with a knee slide simulator in Search 🏆",
+      "channel_title": "Google",
+      "published_at": "2026-07-16T18:54:36Z",
+      "description": "Tap AI Mode in Search and select the “Pro” model to build your own.\n\n#GoogleSearch",
+      "duration": "PT17S",
+      "view_count": 30092,
+      "like_count": 409,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=uJ5b9SlZRys"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-22T17:45:05Z",
+    "count": 5
+  }
+}
