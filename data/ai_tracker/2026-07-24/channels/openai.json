@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-24",
+  "result": [
+    {
+      "id": "lR58Dge8jE8",
+      "title": "Health in ChatGPT is coming to U.S. users",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-23T17:03:29Z",
+      "description": "Health in ChatGPT is starting to roll out to U.S. users.\n\nYou can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations.\n\nWe built this experience based on feedback from early testers and physicians.\n\nWith your permission, ChatGPT can use relevant context you’ve connected in Health across your conversations — to help you compare a new result with prior tests, summarize changes since your last appointment, or explore how your sleep and activity relate. Connected medical records and Apple Health information are not used to train foundation models or target ads.\n\nIn the sidebar, Health is your home base for connecting and managing information, browsing records, and revisiting health chats.\n\nhttps://openai.com/index/health-in-chatgpt/",
+      "duration": "PT51S",
+      "view_count": 1592,
+      "like_count": 102,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=lR58Dge8jE8"
+    },
+    {
+      "id": "E3dDr_QtBuo",
+      "title": "Work with docs, sheets, and slides in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-23T14:17:31Z",
+      "description": "See how you can use ChatGPT to bring context together from your apps and files, make focused edits, analyze data, and use templates to create polished documents, spreadsheets, and presentations for you to review and share.\n\nLearn more: https://learn.chatgpt.com/\n\nChapters:\n00:00 Documents, spreadsheets, and slides\n00:10 Updating a launch plan\n00:32 Analyzing video performance\n00:44 Creating a presentation\n00:56 Reusing a template\n01:07 Editing files directly",
+      "duration": "PT1M28S",
+      "view_count": 2373,
+      "like_count": 131,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=E3dDr_QtBuo"
+    },
+    {
+      "id": "MX95QbxSc9Q",
+      "title": "How AI Agents Will Redesign Enterprise Work | Barak Kaufman, Wonderful",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-23T09:33:40Z",
+      "description": "We caught up with Barak Kaufman, Chief Strategy Officer at Wonderful, at RAISE Summit in Paris to discuss what the next chapter of enterprise AI looks like. As organisations move beyond experimenting with AI, the opportunity is shifting from automating individual tasks to fundamentally redesigning how work gets done. Barak shares why enterprise leaders should focus on transformation over infrastructure, how AI agents are unlocking new ways of working, and why now is the time to rethink how organisations are designed for the AI era.",
+      "duration": "PT1M28S",
+      "view_count": 1529,
+      "like_count": 43,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=MX95QbxSc9Q"
+    },
+    {
+      "id": "4Nv--b12hxQ",
+      "title": "How European Small Businesses Are Using ChatGPT and Codex | OpenAI Academy",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-22T20:43:58Z",
+      "description": "Over six months, the SME AI Accelerator brought practical AI training to small and medium-sized businesses across Europe. Delivered by OpenAI Academy with Booking.com, the program combined online learning with events in Dublin, Warsaw, London, Munich, Milan, and Paris. Through mentor-led demonstrations, participants explored how ChatGPT and Codex can save time, strengthen operations, and create more room for growth.\n\nSMEs represent 99% of European businesses. Expanding their access to practical AI skills will be critical to Europe’s innovation, competitiveness, and prosperity.",
+      "duration": "PT1M15S",
+      "view_count": 3355,
+      "like_count": 97,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=4Nv--b12hxQ"
+    },
+    {
+      "id": "cFyFF3Ad2aM",
+      "title": "How California Small Businesses Are Using ChatGPT | OpenAI Academy",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-22T20:37:36Z",
+      "description": "OpenAI Academy and California GO-Biz brought hands-on AI training to San Diego’s small business community. At SDSU’s Tula Community Center, participants explored ChatGPT fundamentals and advanced workflows for marketing, customer communications, administrative tasks, and other everyday business needs.\n\nSan Diego was the second stop in a statewide OpenAI Academy series designed to expand access to practical AI skills.",
+      "duration": "PT1M39S",
+      "view_count": 4386,
+      "like_count": 103,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=cFyFF3Ad2aM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-23T17:51:10Z",
+    "count": 5
+  }
+}
