@@ -14,15 +14,27 @@
   "date": "2026-07-23",
   "result": [
     {
+      "id": "YSKzyVOQmuA",
+      "title": "How Gemini 3.6 Flash helped this dairy farmer run his business",
+      "channel_title": "Google",
+      "published_at": "2026-07-22T18:36:59Z",
+      "description": "Dairy farming is a highly complex biological system driven by unpredictable market forces. In this video, see how Paul, a Michigan dairy farmer uses Gemini 3.6 Flash in Google Antigravity to build an AI dashboard that automates daily performance tracking. Gemini Flash cuts token costs while combining vision and reasoning to automate farm financial calculations from photos alone, freeing up time for hands-on work without sacrificing operational insights.\n\n#GoogleGemini #SmartFarming #AIAgent\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M36S",
+      "view_count": 8704,
+      "like_count": 359,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=YSKzyVOQmuA"
+    },
+    {
       "id": "9OmdZgTSp4A",
       "title": "Scurry over to Google Search and type in “jimothy the raccoon” 🦝",
       "channel_title": "Google",
       "published_at": "2026-07-22T15:56:13Z",
       "description": "Jimothy’s just built different 😭",
       "duration": "PT7S",
-      "view_count": 3851,
-      "like_count": 118,
-      "comment_count": 19,
+      "view_count": 20864,
+      "like_count": 405,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=9OmdZgTSp4A"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-20T16:54:03Z",
       "description": "Hit the 🍌 in the Google app to try on different styles and find your new look.\n\n#GoogleSearch",
       "duration": "PT14S",
-      "view_count": 15668,
-      "like_count": 299,
-      "comment_count": 48,
+      "view_count": 17256,
+      "like_count": 318,
+      "comment_count": 49,
       "url": "https://www.youtube.com/watch?v=ey8ai_3FwJI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-18T15:12:23Z",
       "description": "Diving saves. Wild nutmegs. Long-range golazos. The World Cup has put on an absolute show. Discover all World Cup Doodles at doodles.google ⚽️ #GoogleDoodle",
       "duration": "PT21S",
-      "view_count": 99448,
-      "like_count": 1293,
-      "comment_count": 81,
+      "view_count": 100534,
+      "like_count": 1311,
+      "comment_count": 83,
       "url": "https://www.youtube.com/watch?v=8TkIQMLWXlg"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-17T15:51:00Z",
       "description": "Whether you say football, soccer, or something else entirely, one thing’s for sure: You don’t need to speak the same language to celebrate a goal together ❤️",
       "duration": "PT19S",
-      "view_count": 28864,
-      "like_count": 429,
-      "comment_count": 40,
+      "view_count": 29588,
+      "like_count": 443,
+      "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
-    },
-    {
-      "id": "uJ5b9SlZRys",
-      "title": "Celebrate on any pitch with a knee slide simulator in Search 🏆",
-      "channel_title": "Google",
-      "published_at": "2026-07-16T18:54:36Z",
-      "description": "Tap AI Mode in Search and select the “Pro” model to build your own.\n\n#GoogleSearch",
-      "duration": "PT17S",
-      "view_count": 30092,
-      "like_count": 409,
-      "comment_count": 40,
-      "url": "https://www.youtube.com/watch?v=uJ5b9SlZRys"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-22T17:45:05Z",
+    "generated_at": "2026-07-23T06:43:30Z",
     "count": 5
   }
 }

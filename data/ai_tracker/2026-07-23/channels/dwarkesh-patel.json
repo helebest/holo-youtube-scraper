@@ -14,15 +14,27 @@
   "date": "2026-07-23",
   "result": [
     {
+      "id": "mJE5s8RmvRI",
+      "title": "Nuclear Power Is Still Incredibly Inefficient - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-22T23:52:34Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 13904,
+      "like_count": 545,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
+    },
+    {
       "id": "r32UPSOMMVQ",
       "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-21T23:57:03Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 40980,
-      "like_count": 1700,
-      "comment_count": 49,
+      "view_count": 56892,
+      "like_count": 2060,
+      "comment_count": 59,
       "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-20T22:42:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 18773,
-      "like_count": 720,
-      "comment_count": 4,
+      "view_count": 20829,
+      "like_count": 747,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-18T23:33:29Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 308782,
-      "like_count": 11097,
-      "comment_count": 207,
+      "view_count": 321851,
+      "like_count": 11468,
+      "comment_count": 217,
       "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-18T00:24:13Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 216211,
-      "like_count": 8881,
-      "comment_count": 233,
+      "view_count": 221406,
+      "like_count": 9056,
+      "comment_count": 239,
       "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
-    },
-    {
-      "id": "dWEQIleX87o",
-      "title": "Why Planes Don't Fly in a Straight Line - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-16T20:39:50Z",
-      "description": "",
-      "duration": "PT1M19S",
-      "view_count": 33173,
-      "like_count": 1163,
-      "comment_count": 41,
-      "url": "https://www.youtube.com/watch?v=dWEQIleX87o"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-22T17:44:59Z",
+    "generated_at": "2026-07-23T06:43:25Z",
     "count": 5
   }
 }
