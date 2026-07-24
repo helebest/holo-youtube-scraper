@@ -14,15 +14,27 @@
   "date": "2026-07-24",
   "result": [
     {
+      "id": "WLEW4i9u8bk",
+      "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-23T22:51:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 8267,
+      "like_count": 314,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
+    },
+    {
       "id": "mJE5s8RmvRI",
       "title": "Nuclear Power Is Still Incredibly Inefficient - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-22T23:52:34Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 29561,
-      "like_count": 910,
-      "comment_count": 77,
+      "view_count": 40286,
+      "like_count": 1127,
+      "comment_count": 95,
       "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-21T23:57:03Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 62477,
-      "like_count": 2190,
-      "comment_count": 60,
+      "view_count": 68400,
+      "like_count": 2353,
+      "comment_count": 64,
       "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-20T22:42:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 22146,
-      "like_count": 786,
-      "comment_count": 5,
+      "view_count": 24428,
+      "like_count": 836,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-18T23:33:29Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 328236,
-      "like_count": 11624,
-      "comment_count": 218,
+      "view_count": 336039,
+      "like_count": 11817,
+      "comment_count": 219,
       "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
-    },
-    {
-      "id": "HCTzwcMU6Nk",
-      "title": "Why Land Powers and Sea Powers Can Never Agree on World Order - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-18T00:24:13Z",
-      "description": "",
-      "duration": "PT1M4S",
-      "view_count": 225217,
-      "like_count": 9197,
-      "comment_count": 241,
-      "url": "https://www.youtube.com/watch?v=HCTzwcMU6Nk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-23T17:51:06Z",
+    "generated_at": "2026-07-24T06:43:14Z",
     "count": 5
   }
 }
