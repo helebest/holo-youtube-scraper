@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-07-25",
+  "result": [
+    {
+      "id": "X5rOzZq2Ce8",
+      "title": "How to Raise Kids Who Question AI | Randi Williams | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-24T15:00:01Z",
+      "description": "AI education researcher Randi Williams has spent years studying how kids interact with technology and toys, and what she's found should make every parent stop and think. She reveals how, as tech companies embed AI inside toys, children are forming strong emotional bonds with machines. Explore what this means for their development — and why a playful fix might start with teaching kids to break the things they love. (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/randiwilliams\n\nhttps://youtu.be/X5rOzZq2Ce8\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT13M41S",
+      "view_count": 1570,
+      "like_count": 125,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=X5rOzZq2Ce8"
+    },
+    {
+      "id": "POySLLhF2_c",
+      "title": "Turns out, your brain is freestyling daily #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-07-23T22:15:15Z",
+      "description": "In this ode to improvisation, musician and comedian Reggie Watts beatboxes, raps, loops his own rhythms and reflects upon the everyday power of turning the mundane into magic. After all, he says, we're all just making it up as we go along.",
+      "duration": "PT1M45S",
+      "view_count": 19875,
+      "like_count": 527,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=POySLLhF2_c"
+    },
+    {
+      "id": "57afWpv-9u4",
+      "title": "The Invisible Threat Taking Away Our Brightest Minds | Drew McCartor | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-23T15:00:36Z",
+      "description": "Lead poisoning robs the world's kids of millions of IQ points a day and kills more people than wars, natural disasters and road accidents combined — yet we treat it as a problem we've already solved. Drew McCartor, who runs the nonprofit Pure Earth, has spent nearly two decades proving it doesn't have to be this way. He presents their three-step fix that's already working in places from Georgia to Ghana, and makes the case that we can finally beat a crisis hiding in plain sight. (This ambitious idea is part of The Audacious Project, TED’s initiative to inspire and fund global change.) (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/drewmccartor\n\nhttps://youtu.be/57afWpv-9u4\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Health",
+      "duration": "PT9M51S",
+      "view_count": 13716,
+      "like_count": 514,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=57afWpv-9u4"
+    },
+    {
+      "id": "dEBhiP1yZZY",
+      "title": "No more panicking when someone says, “Tell me about yourself”",
+      "channel_title": "TED",
+      "published_at": "2026-07-21T22:30:25Z",
+      "description": "First impressions matter, so how do you make yours count? Communication consultant Rebecca Okamoto outlines five simple ways to introduce yourself in 20 words or fewer, setting up any interview or conversation for those three crucial words: \"Tell me more.\"",
+      "duration": "PT2M12S",
+      "view_count": 39760,
+      "like_count": 1412,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=dEBhiP1yZZY"
+    },
+    {
+      "id": "S7tJbGWDis0",
+      "title": "You Have More Power Than You Realize | Idea Knock Down | TED",
+      "channel_title": "TED",
+      "published_at": "2026-07-21T15:00:36Z",
+      "description": "How do you find common ground when people disagree? Opportunity builder Anuj Gupta and Visit Philadelphia CMO Neil Frauenglass discuss why democracy needs debate and why we all have more political power than we think. They explore whether society is divided or just disconnected, how local action makes a difference and what it takes to rebuild trust when we can't even agree on truth itself. (This conversation is part of “Idea Knock Down,” a series where two people with different perspectives take on big questions — one block at a time.) (Recorded on June 12, 2026) Visit: https://www.visitphilly.com/ted\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nhttps://www.ted.com/series/idea_knock_down\n\nhttps://youtu.be/S7tJbGWDis0\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Democracy",
+      "duration": "PT12M7S",
+      "view_count": 12443,
+      "like_count": 257,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=S7tJbGWDis0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-24T17:55:48Z",
+    "count": 5
+  }
+}

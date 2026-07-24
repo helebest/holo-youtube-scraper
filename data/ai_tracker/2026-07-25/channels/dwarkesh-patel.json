@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-25",
+  "result": [
+    {
+      "id": "WLEW4i9u8bk",
+      "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-23T22:51:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 14368,
+      "like_count": 474,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
+    },
+    {
+      "id": "mJE5s8RmvRI",
+      "title": "Nuclear Power Is Still Incredibly Inefficient - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-22T23:52:34Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 44104,
+      "like_count": 1212,
+      "comment_count": 101,
+      "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
+    },
+    {
+      "id": "r32UPSOMMVQ",
+      "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-21T23:57:03Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 76040,
+      "like_count": 2563,
+      "comment_count": 69,
+      "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
+    },
+    {
+      "id": "srET3ahp0ns",
+      "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-20T22:42:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 25926,
+      "like_count": 869,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
+    },
+    {
+      "id": "dQPQOyljXLY",
+      "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-18T23:33:29Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 342137,
+      "like_count": 11951,
+      "comment_count": 221,
+      "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-24T17:55:48Z",
+    "count": 5
+  }
+}
