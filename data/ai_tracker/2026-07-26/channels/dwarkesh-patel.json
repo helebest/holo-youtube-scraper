@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-26",
+  "result": [
+    {
+      "id": "qEXHbJzGrY8",
+      "title": "The Advantage AI Has Over Human Mathematicians - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-24T22:24:19Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 45377,
+      "like_count": 1950,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
+    },
+    {
+      "id": "WLEW4i9u8bk",
+      "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-23T22:51:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 20399,
+      "like_count": 580,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
+    },
+    {
+      "id": "mJE5s8RmvRI",
+      "title": "Nuclear Power Is Still Incredibly Inefficient - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-22T23:52:34Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 50189,
+      "like_count": 1339,
+      "comment_count": 112,
+      "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
+    },
+    {
+      "id": "r32UPSOMMVQ",
+      "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-21T23:57:03Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 92420,
+      "like_count": 2894,
+      "comment_count": 72,
+      "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
+    },
+    {
+      "id": "srET3ahp0ns",
+      "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-20T22:42:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 28335,
+      "like_count": 920,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-25T17:26:35Z",
+    "count": 5
+  }
+}
