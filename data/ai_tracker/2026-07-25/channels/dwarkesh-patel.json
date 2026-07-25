@@ -14,15 +14,27 @@
   "date": "2026-07-25",
   "result": [
     {
+      "id": "qEXHbJzGrY8",
+      "title": "The Advantage AI Has Over Human Mathematicians - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-24T22:24:19Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 18321,
+      "like_count": 1043,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
+    },
+    {
       "id": "WLEW4i9u8bk",
       "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-23T22:51:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 14368,
-      "like_count": 474,
-      "comment_count": 8,
+      "view_count": 18375,
+      "like_count": 546,
+      "comment_count": 11,
       "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-22T23:52:34Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 44104,
-      "like_count": 1212,
-      "comment_count": 101,
+      "view_count": 47145,
+      "like_count": 1289,
+      "comment_count": 106,
       "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-21T23:57:03Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 76040,
-      "like_count": 2563,
-      "comment_count": 69,
+      "view_count": 85519,
+      "like_count": 2778,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-20T22:42:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 25926,
-      "like_count": 869,
+      "view_count": 27091,
+      "like_count": 903,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
-    },
-    {
-      "id": "dQPQOyljXLY",
-      "title": "Why Industrialized Nations Rule the Modern World - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-18T23:33:29Z",
-      "description": "",
-      "duration": "PT1M8S",
-      "view_count": 342137,
-      "like_count": 11951,
-      "comment_count": 221,
-      "url": "https://www.youtube.com/watch?v=dQPQOyljXLY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-24T17:55:48Z",
+    "generated_at": "2026-07-25T06:33:31Z",
     "count": 5
   }
 }
