@@ -14,15 +14,27 @@
   "date": "2026-07-26",
   "result": [
     {
+      "id": "Gpf4WvQ9uxQ",
+      "title": "How Close Can You Orbit a Black Hole? - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-25T23:17:41Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 10658,
+      "like_count": 495,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
+    },
+    {
       "id": "qEXHbJzGrY8",
       "title": "The Advantage AI Has Over Human Mathematicians - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-24T22:24:19Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 45377,
-      "like_count": 1950,
-      "comment_count": 48,
+      "view_count": 94287,
+      "like_count": 3555,
+      "comment_count": 75,
       "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-07-23T22:51:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 20399,
-      "like_count": 580,
+      "view_count": 22277,
+      "like_count": 624,
       "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-07-22T23:52:34Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 50189,
-      "like_count": 1339,
-      "comment_count": 112,
+      "view_count": 55873,
+      "like_count": 1475,
+      "comment_count": 123,
       "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-21T23:57:03Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 92420,
-      "like_count": 2894,
-      "comment_count": 72,
+      "view_count": 102925,
+      "like_count": 3165,
+      "comment_count": 78,
       "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
-    },
-    {
-      "id": "srET3ahp0ns",
-      "title": "How a Solar Eclipse Confirmed General Relativity - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-20T22:42:51Z",
-      "description": "",
-      "duration": "PT1M19S",
-      "view_count": 28335,
-      "like_count": 920,
-      "comment_count": 6,
-      "url": "https://www.youtube.com/watch?v=srET3ahp0ns"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-25T17:26:35Z",
+    "generated_at": "2026-07-26T07:07:44Z",
     "count": 5
   }
 }

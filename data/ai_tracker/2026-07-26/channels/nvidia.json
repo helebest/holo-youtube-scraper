@@ -20,9 +20,9 @@
       "published_at": "2026-07-24T23:32:33Z",
       "description": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era.\n\nPresident Lee Jae Myung met with our CEO Jensen Huang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
       "duration": "PT6S",
-      "view_count": 10951,
-      "like_count": 154,
-      "comment_count": 4,
+      "view_count": 13921,
+      "like_count": 188,
+      "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-24T22:30:34Z",
       "description": "That’s a wrap on #SIGGRAPH2026 🎬\n\nFrom neural rendering and world models to simulation and physical AI, we spent five days in Los Angeles learning, building and exploring alongside the community shaping what’s next for graphics.\n\nThanks to everyone who joined us. 💚",
       "duration": "PT30S",
-      "view_count": 3441,
-      "like_count": 74,
-      "comment_count": 0,
+      "view_count": 4281,
+      "like_count": 95,
+      "comment_count": 1,
       "url": "https://www.youtube.com/watch?v=NsOlCHYn99k"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-07-24T17:41:04Z",
       "description": "Explore how NVIDIA technologies are transforming the design and scalability of intelligent surgical robots, enabling software-defined, AI-powered systems that improve outcomes across the healthcare ecosystem. Learn how NVIDIA Holoscan and agentic frameworks are shaping the future of smart operating rooms and hospitals.\n\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT38M53S",
-      "view_count": 2096,
-      "like_count": 122,
+      "view_count": 2746,
+      "like_count": 145,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=z1b8DRFwWgo"
     },
@@ -56,7 +56,7 @@
       "published_at": "2026-07-23T18:43:29Z",
       "description": "In this NVIDIA GTC Taipei session, NVIDIA VP of Storage Technology Jason Hardy shares how we are working with leading partners to build a new class of AI-native data platforms that tightly integrate accelerated compute, high-performance storage, intelligent data services, and built-in security into a unified architecture — enabling data to be prepared, secured, and served in place so intelligent agents can operate with real-time context and drive faster outcomes from proof of concept to production.",
       "duration": "PT36M4S",
-      "view_count": 2257,
+      "view_count": 2367,
       "like_count": 80,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=TY2EilHUR1c"
@@ -68,15 +68,15 @@
       "published_at": "2026-07-23T16:00:39Z",
       "description": "Brilliantly versatile. Seamlessly integrated. \n\nJoin NVIDIA's Jacob Freeman for a closer look at the new MSI Prestige N16 Flip AI+ laptop & the ultra-compact EdgeMesa N AI+ desktop powered by the NVIDIA RTX Spark superchip.\n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT1M15S",
-      "view_count": 3879,
-      "like_count": 184,
-      "comment_count": 11,
+      "view_count": 4451,
+      "like_count": 234,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=4ADWW93ebjo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-25T17:26:38Z",
+    "generated_at": "2026-07-26T07:07:48Z",
     "count": 5
   }
 }
