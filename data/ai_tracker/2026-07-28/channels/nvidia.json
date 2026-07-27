@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-07-28",
+  "result": [
+    {
+      "id": "P3VzeHtat70",
+      "title": "How Autonomous AI Is Transforming Chip and System Design",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-27T00:45:00Z",
+      "description": "AI factories demand increasingly complex chips—delivered faster than ever. See how NVIDIA and leaders across the EDA ecosystem are advancing autonomous engineering across design, verification, physical implementation, signoff, and system design.\nDiscover how Cadence, Synopsys, Siemens EDA, and NVIDIA technologies—including NVIDIA PhysicsNeMo, CUDA-X libraries, and accelerated computing—are helping engineers reduce design iterations and accelerate innovation from chips to systems.\n\nResources:\nNVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries: https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds\n\nExplore NVIDIA solutions for semiconductor design and manufacturing: https://www.nvidia.com/en-us/industries/semiconductor/",
+      "duration": "PT2M",
+      "view_count": 8350,
+      "like_count": 417,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=P3VzeHtat70"
+    },
+    {
+      "id": "UGLV3ufFZEw",
+      "title": "President Lee Jae Myung met with our CEO Jensen Huang ahead of the San Francisco AI Summit",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-24T23:32:33Z",
+      "description": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era.\n\nPresident Lee Jae Myung met with our CEO Jensen Huang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
+      "duration": "PT6S",
+      "view_count": 19363,
+      "like_count": 254,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
+    },
+    {
+      "id": "NsOlCHYn99k",
+      "title": "That’s a wrap on #SIGGRAPH2026 🎬",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-24T22:30:34Z",
+      "description": "That’s a wrap on #SIGGRAPH2026 🎬\n\nFrom neural rendering and world models to simulation and physical AI, we spent five days in Los Angeles learning, building and exploring alongside the community shaping what’s next for graphics.\n\nThanks to everyone who joined us. 💚",
+      "duration": "PT30S",
+      "view_count": 5443,
+      "like_count": 111,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=NsOlCHYn99k"
+    },
+    {
+      "id": "z1b8DRFwWgo",
+      "title": "GTC SJ 2026: Next Generation Intelligent Surgical Robots",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-24T17:41:04Z",
+      "description": "Explore how NVIDIA technologies are transforming the design and scalability of intelligent surgical robots, enabling software-defined, AI-powered systems that improve outcomes across the healthcare ecosystem. Learn how NVIDIA Holoscan and agentic frameworks are shaping the future of smart operating rooms and hospitals.\n\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT38M53S",
+      "view_count": 3820,
+      "like_count": 173,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=z1b8DRFwWgo"
+    },
+    {
+      "id": "TY2EilHUR1c",
+      "title": "Powering Agentic AI with AI-Ready Data Platforms That Turn Data Into Intelligence",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-23T18:43:29Z",
+      "description": "In this NVIDIA GTC Taipei session, NVIDIA VP of Storage Technology Jason Hardy shares how we are working with leading partners to build a new class of AI-native data platforms that tightly integrate accelerated compute, high-performance storage, intelligent data services, and built-in security into a unified architecture — enabling data to be prepared, secured, and served in place so intelligent agents can operate with real-time context and drive faster outcomes from proof of concept to production.",
+      "duration": "PT36M4S",
+      "view_count": 2619,
+      "like_count": 88,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=TY2EilHUR1c"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-27T17:58:47Z",
+    "count": 5
+  }
+}
