@@ -20,9 +20,9 @@
       "published_at": "2026-07-24T19:47:16Z",
       "description": "Get more useful work from every token with GPT‑5.6. In this Build Hour, you’ll learn how to choose the right model for your workload—and migrate production agents while improving speed, cost, and performance.\n\nCharlie Guo (DevEx), Bryant Chou (Founder, Ploy) and Lorenzo Gentile (AI Engineer, Ploy) will cover how to:\n\n• Choose between GPT‑5.6 Sol, Terra, and Luna based on intelligence, latency, and cost\n• Measure and optimize cost-performance across real workloads\n• Adapt evals, agent harnesses, tool schemas, and prompt caching when migrating models\n• Move production agents to GPT‑5.6, featuring a customer spotlight on how Ploy achieved 2.2× faster builds at 27% lower cost\n• Apply these lessons through live demos and Q&A\n\n👉 GPT-5.6 blog: https://openai.com/index//gpt-5-6\n👉 Programmatic tool-calling: https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling\n👉 Compare models: https://developers.openai.com/api/docs/models/compare \n👉 Migrating a production AI agent: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 \n👉 Build Hour repo: https://github.com/openai/build-hours\n\n00:00 Introduction\n02:50 Tokenmaxxing vs. valuemaxxing\n07:11 Valuemaxxing Codex\n15:16 Valuemaxxing your harness\n23:48 Customer spotlight: Ploy’s migration to GPT-5.6\n39:57 Q&A\n53:13 Resources and closing",
       "duration": "PT54M33S",
-      "view_count": 16644,
-      "like_count": 392,
-      "comment_count": 51,
+      "view_count": 19934,
+      "like_count": 450,
+      "comment_count": 57,
       "url": "https://www.youtube.com/watch?v=jyuyY86GJnA"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-07-24T09:12:21Z",
       "description": "We caught up with Grant Lee, Founder and CEO of Gamma, at RAISE Summit in Paris to discuss what it takes to build at the pace of AI innovation. As AI capabilities continue to evolve, the companies that move fastest are those that can quickly turn new breakthroughs into better products and better customer experiences. Grant shares how Gamma uses OpenAI across its platform and internal engineering workflows, why strong partnerships have been key to its growth, and why adaptability has become one of the most important advantages for businesses navigating rapid technological change.",
       "duration": "PT1M31S",
-      "view_count": 3483,
-      "like_count": 113,
+      "view_count": 3660,
+      "like_count": 115,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=PB7DBemxl3E"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-07-23T20:51:09Z",
       "description": "AI Slop or not? Explore the Epistemologies of Slop at tiat Gallery in San Francisco through July 31.",
       "duration": "PT1M22S",
-      "view_count": 9916,
-      "like_count": 333,
-      "comment_count": 29,
+      "view_count": 10442,
+      "like_count": 361,
+      "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=-_p2a6uWfjk"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-07-23T20:50:48Z",
       "description": "As AI adoption grows, so does the admin workload—but it shouldn’t have to.\n\nChatGPT Work and the new Admin APIs make day-to-day workspace management easier. In this demo, we show how IT teams can automate group management, analyze spend, and adjust usage limits.\n\nIt’s a practical look at AI-assisted administration: surfacing the right data, flagging what needs attention, and helping admins act quickly.",
       "duration": "PT1M41S",
-      "view_count": 6860,
-      "like_count": 197,
+      "view_count": 7191,
+      "like_count": 205,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=t8Ej9aeW388"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-07-23T20:23:01Z",
       "description": "ChatGPT Work is rolling out to Enterprise plans—available wherever you use ChatGPT: chatgpt.com, desktop, and mobile.\n\nThe teams already using it say it best. People at Zapier, Shopify, Virgin Atlantic, and more share how ChatGPT Work is helping them move faster and expand what their teams can accomplish.\n\nWatch their stories and learn more: https://lnkd.in/gVbXg8sk",
       "duration": "PT1M",
-      "view_count": 3650,
-      "like_count": 104,
+      "view_count": 3790,
+      "like_count": 107,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=zq88iLsSfMA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-26T17:29:13Z",
+    "generated_at": "2026-07-27T07:58:14Z",
     "count": 5
   }
 }
