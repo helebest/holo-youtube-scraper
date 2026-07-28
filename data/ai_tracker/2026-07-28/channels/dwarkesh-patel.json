@@ -14,15 +14,27 @@
   "date": "2026-07-28",
   "result": [
     {
+      "id": "6oZZcWsBDK0",
+      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-27T21:04:45Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 7570,
+      "like_count": 474,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
+    },
+    {
       "id": "Gpf4WvQ9uxQ",
       "title": "How Close Can You Orbit a Black Hole? - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-25T23:17:41Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 31656,
-      "like_count": 991,
-      "comment_count": 30,
+      "view_count": 41452,
+      "like_count": 1151,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-24T22:24:19Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 269230,
-      "like_count": 7966,
-      "comment_count": 169,
+      "view_count": 339520,
+      "like_count": 9257,
+      "comment_count": 194,
       "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-23T22:51:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 27475,
-      "like_count": 720,
-      "comment_count": 13,
+      "view_count": 28659,
+      "like_count": 733,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-22T23:52:34Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 71576,
-      "like_count": 1764,
-      "comment_count": 142,
+      "view_count": 76340,
+      "like_count": 1826,
+      "comment_count": 146,
       "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
-    },
-    {
-      "id": "r32UPSOMMVQ",
-      "title": "The Artillery Officer Who Solved Einstein's Equations - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-21T23:57:03Z",
-      "description": "",
-      "duration": "PT1M4S",
-      "view_count": 119719,
-      "like_count": 3481,
-      "comment_count": 91,
-      "url": "https://www.youtube.com/watch?v=r32UPSOMMVQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-27T17:58:43Z",
+    "generated_at": "2026-07-28T07:05:28Z",
     "count": 5
   }
 }
