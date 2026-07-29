@@ -14,15 +14,27 @@
   "date": "2026-07-29",
   "result": [
     {
+      "id": "41BAsYfFM38",
+      "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-28T22:44:11Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 12048,
+      "like_count": 420,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
+    },
+    {
       "id": "6oZZcWsBDK0",
       "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-27T21:04:45Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 13681,
-      "like_count": 699,
-      "comment_count": 32,
+      "view_count": 16050,
+      "like_count": 763,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-25T23:17:41Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 48587,
-      "like_count": 1288,
-      "comment_count": 36,
+      "view_count": 59731,
+      "like_count": 1449,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-07-24T22:24:19Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 362704,
-      "like_count": 9751,
-      "comment_count": 203,
+      "view_count": 385944,
+      "like_count": 10280,
+      "comment_count": 208,
       "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-23T22:51:00Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 29197,
-      "like_count": 742,
-      "comment_count": 14,
+      "view_count": 30455,
+      "like_count": 760,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
-    },
-    {
-      "id": "mJE5s8RmvRI",
-      "title": "Nuclear Power Is Still Incredibly Inefficient - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-22T23:52:34Z",
-      "description": "",
-      "duration": "PT55S",
-      "view_count": 82741,
-      "like_count": 1917,
-      "comment_count": 155,
-      "url": "https://www.youtube.com/watch?v=mJE5s8RmvRI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-28T17:48:24Z",
+    "generated_at": "2026-07-29T07:10:18Z",
     "count": 5
   }
 }

@@ -14,14 +14,26 @@
   "date": "2026-07-29",
   "result": [
     {
+      "id": "WeP9VUf1OoE",
+      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T21:49:18Z",
+      "description": "Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom vocabulary, background noise, multilingual speech, and common transcription challenges like accents, names, short answers, and numbers.\n\nChapters:\n00:00 Introducing gpt-transcribe and gpt-live-transcribe\n00:32 Prompting with custom vocabulary\n00:52 Handling background noise\n01:11 Multilingual transcription\n01:36 Batch transcription with gpt-transcribe\n02:01 Streaming transcription use cases",
+      "duration": "PT2M12S",
+      "view_count": 50037,
+      "like_count": 2440,
+      "comment_count": 230,
+      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
+    },
+    {
       "id": "g-g6E-qtCjA",
       "title": "ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders",
       "channel_title": "OpenAI",
       "published_at": "2026-07-28T14:25:26Z",
       "description": "See how sales teams ChatGPT Work to bring customer conversations, sales activity, and market signals into one weekly report.\n\nSpot customer objections, competitive risks, and new opportunities sooner so revenue leaders know where to act.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT2M29S",
-      "view_count": 1076,
-      "like_count": 44,
+      "view_count": 3523,
+      "like_count": 80,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=g-g6E-qtCjA"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-07-28T14:23:31Z",
       "description": "See how sales teams ChatGPT Work to turn customer updates into account research, meeting prep, and sales follow-up.\n\nHelp sellers automate the right next step while staying in control of every customer message.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT1M52S",
-      "view_count": 1221,
-      "like_count": 97,
+      "view_count": 3252,
+      "like_count": 137,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=5DbZAMGZ5oM"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-07-28T14:20:18Z",
       "description": "See how sales teams use ChatGPT Work to help sellers plan their day, prepare for customer meetings, and create the materials they need.\n\nGive every seller the context to show up prepared and focus on advising your customers.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT1M46S",
-      "view_count": 861,
-      "like_count": 66,
+      "view_count": 2378,
+      "like_count": 89,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=hjXi7b01s2c"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-07-28T14:16:53Z",
       "description": "See how sales teams use ChatGPT Work to spot sales pipeline risks, identify the deals that need attention, and recommend what to do next.\n\nSpend less time sorting through data and more time moving the right deals forward.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT2M10S",
-      "view_count": 1343,
-      "like_count": 116,
+      "view_count": 3290,
+      "like_count": 166,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=q9TPE7pKkIo"
-    },
-    {
-      "id": "oXu6JGxW_YM",
-      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
-      "channel_title": "OpenAI",
-      "published_at": "2026-07-27T12:37:15Z",
-      "description": "We caught up with Jonathan Williams, Head of France at Legora, at RAISE Summit in Paris to discuss how AI is transforming the legal industry. As law firms and in-house legal teams embrace AI, the challenge is no longer just adopting new technology—it’s helping entire organisations adapt to a new way of working. Jonathan shares how Legora uses OpenAI models across its platform, why the pace of AI innovation continues to accelerate, and his advice for enterprise leaders navigating rapid technological change.",
-      "duration": "PT1M21S",
-      "view_count": 3663,
-      "like_count": 111,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-28T17:48:29Z",
+    "generated_at": "2026-07-29T07:10:22Z",
     "count": 5
   }
 }
