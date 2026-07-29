@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-30",
+  "result": [
+    {
+      "id": "41BAsYfFM38",
+      "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-28T22:44:11Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 20346,
+      "like_count": 590,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
+    },
+    {
+      "id": "6oZZcWsBDK0",
+      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-27T21:04:45Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 16769,
+      "like_count": 782,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
+    },
+    {
+      "id": "Gpf4WvQ9uxQ",
+      "title": "How Close Can You Orbit a Black Hole? - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-25T23:17:41Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 63258,
+      "like_count": 1506,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
+    },
+    {
+      "id": "qEXHbJzGrY8",
+      "title": "The Advantage AI Has Over Human Mathematicians - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-24T22:24:19Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 396942,
+      "like_count": 10518,
+      "comment_count": 214,
+      "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
+    },
+    {
+      "id": "WLEW4i9u8bk",
+      "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-23T22:51:00Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 30997,
+      "like_count": 776,
+      "comment_count": 15,
+      "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-29T17:42:54Z",
+    "count": 5
+  }
+}

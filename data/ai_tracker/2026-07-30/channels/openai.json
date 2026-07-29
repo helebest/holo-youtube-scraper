@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-07-30",
+  "result": [
+    {
+      "id": "MLehRytu9Zo",
+      "title": "We're giving 100,000 academic researchers free access to our frontier models",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-29T17:23:02Z",
+      "description": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic researchers is built to accelerate discovery across disciplines.\n\nWe believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work.\n\nThe program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applications to testing hypotheses.\n\nParticipants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators.\n\nThe program also includes training, hands-on support, and opportunities to learn from other researchers.\n\nApply here: https://openai.com/index/chatgpt-for-academic-researchers/",
+      "duration": "PT3M31S",
+      "view_count": 1012,
+      "like_count": 95,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo"
+    },
+    {
+      "id": "WeP9VUf1OoE",
+      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T21:49:18Z",
+      "description": "Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom vocabulary, background noise, multilingual speech, and common transcription challenges like accents, names, short answers, and numbers.\n\nChapters:\n00:00 Introducing gpt-transcribe and gpt-live-transcribe\n00:32 Prompting with custom vocabulary\n00:52 Handling background noise\n01:11 Multilingual transcription\n01:36 Batch transcription with gpt-transcribe\n02:01 Streaming transcription use cases",
+      "duration": "PT2M12S",
+      "view_count": 91176,
+      "like_count": 3745,
+      "comment_count": 324,
+      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
+    },
+    {
+      "id": "g-g6E-qtCjA",
+      "title": "ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T14:25:26Z",
+      "description": "See how sales teams ChatGPT Work to bring customer conversations, sales activity, and market signals into one weekly report.\n\nSpot customer objections, competitive risks, and new opportunities sooner so revenue leaders know where to act.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
+      "duration": "PT2M29S",
+      "view_count": 4457,
+      "like_count": 92,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=g-g6E-qtCjA"
+    },
+    {
+      "id": "5DbZAMGZ5oM",
+      "title": "ChatGPT Work for Sales: Account Research and Customer Outreach",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T14:23:31Z",
+      "description": "See how sales teams ChatGPT Work to turn customer updates into account research, meeting prep, and sales follow-up.\n\nHelp sellers automate the right next step while staying in control of every customer message.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
+      "duration": "PT1M52S",
+      "view_count": 3754,
+      "like_count": 152,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=5DbZAMGZ5oM"
+    },
+    {
+      "id": "hjXi7b01s2c",
+      "title": "ChatGPT Work for Sales: Account Planning and Meeting Prep",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T14:20:18Z",
+      "description": "See how sales teams use ChatGPT Work to help sellers plan their day, prepare for customer meetings, and create the materials they need.\n\nGive every seller the context to show up prepared and focus on advising your customers.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
+      "duration": "PT1M46S",
+      "view_count": 2749,
+      "like_count": 97,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=hjXi7b01s2c"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-29T17:42:59Z",
+    "count": 5
+  }
+}
