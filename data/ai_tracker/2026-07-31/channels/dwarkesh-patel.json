@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-07-31",
+  "result": [
+    {
+      "id": "5a7KVZQExRc",
+      "title": "How We Proved That Black Holes Exist - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-29T23:50:01Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 10220,
+      "like_count": 369,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
+    },
+    {
+      "id": "41BAsYfFM38",
+      "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-28T22:44:11Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 33162,
+      "like_count": 783,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
+    },
+    {
+      "id": "6oZZcWsBDK0",
+      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-27T21:04:45Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 18554,
+      "like_count": 845,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
+    },
+    {
+      "id": "Gpf4WvQ9uxQ",
+      "title": "How Close Can You Orbit a Black Hole? - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-25T23:17:41Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 69187,
+      "like_count": 1616,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
+    },
+    {
+      "id": "qEXHbJzGrY8",
+      "title": "The Advantage AI Has Over Human Mathematicians - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-24T22:24:19Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 435214,
+      "like_count": 11160,
+      "comment_count": 218,
+      "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-30T17:53:27Z",
+    "count": 5
+  }
+}
