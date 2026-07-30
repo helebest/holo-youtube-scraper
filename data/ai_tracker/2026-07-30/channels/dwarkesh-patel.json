@@ -14,15 +14,27 @@
   "date": "2026-07-30",
   "result": [
     {
+      "id": "5a7KVZQExRc",
+      "title": "How We Proved That Black Holes Exist - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-29T23:50:01Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 5280,
+      "like_count": 254,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
+    },
+    {
       "id": "41BAsYfFM38",
       "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-07-28T22:44:11Z",
       "description": "",
       "duration": "PT50S",
-      "view_count": 20346,
-      "like_count": 590,
-      "comment_count": 17,
+      "view_count": 29119,
+      "like_count": 716,
+      "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-07-27T21:04:45Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 16769,
-      "like_count": 782,
+      "view_count": 17750,
+      "like_count": 805,
       "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-07-25T23:17:41Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 63258,
-      "like_count": 1506,
-      "comment_count": 43,
+      "view_count": 67669,
+      "like_count": 1581,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-07-24T22:24:19Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 396942,
-      "like_count": 10518,
-      "comment_count": 214,
+      "view_count": 420751,
+      "like_count": 10900,
+      "comment_count": 215,
       "url": "https://www.youtube.com/watch?v=qEXHbJzGrY8"
-    },
-    {
-      "id": "WLEW4i9u8bk",
-      "title": "Why You'll Never See Anything Enter a Black Hole - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-23T22:51:00Z",
-      "description": "",
-      "duration": "PT53S",
-      "view_count": 30997,
-      "like_count": 776,
-      "comment_count": 15,
-      "url": "https://www.youtube.com/watch?v=WLEW4i9u8bk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-29T17:42:54Z",
+    "generated_at": "2026-07-30T07:06:05Z",
     "count": 5
   }
 }
