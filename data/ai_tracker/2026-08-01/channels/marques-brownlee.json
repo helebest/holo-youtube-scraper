@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-08-01",
+  "result": [
+    {
+      "id": "_xjxwl1zLMc",
+      "title": "Framework 13 Pro: The Modular Laptop is Real!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-27T15:38:21Z",
+      "description": "The modular Macbook Pro for Linux users. Color me impressed.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nFramework 13 Pro: https://geni.us/SVkxq\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nLaptop provided by Framework for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M49S",
+      "view_count": 2687457,
+      "like_count": 89200,
+      "comment_count": 3975,
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc"
+    },
+    {
+      "id": "8Hx2yvWSgs0",
+      "title": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-22T13:01:05Z",
+      "description": "Samsung's wide fold is surprisingly nice to use. And everything is more expensive.\n\nProtect your next Samsung Flip or Fold with dbrand at https://dbrand.com/shop/fold8\n\nAffiliate Links:\nSamsung Galaxy Z Fold 8: https://geni.us/GEv50B\nSamsung Galaxy Z Fold 8 Ultra: https://geni.us/kWg2rl3\nSamsung Galaxy Z Flip 8: https://geni.us/2An1N\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT9M23S",
+      "view_count": 4447783,
+      "like_count": 114944,
+      "comment_count": 6162,
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0"
+    },
+    {
+      "id": "kUnR9dO4EnA",
+      "title": "This ZOOM is Insane!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-20T20:39:08Z",
+      "description": "Keep zooming. Keep zooming.",
+      "duration": "PT1M6S",
+      "view_count": 2891663,
+      "like_count": 118756,
+      "comment_count": 1938,
+      "url": "https://www.youtube.com/watch?v=kUnR9dO4EnA"
+    },
+    {
+      "id": "_oRgdlJUD18",
+      "title": "iOS 27 Hands-On: Top 5 New Features!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-13T22:27:02Z",
+      "description": "First look at iOS 27 - coming soon to an iPhone near you. It's about time.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M19S",
+      "view_count": 5187980,
+      "like_count": 137913,
+      "comment_count": 7303,
+      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18"
+    },
+    {
+      "id": "eWKY0OnPByg",
+      "title": "Apple Lost the AI Race",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-07-08T19:44:58Z",
+      "description": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT7M4S",
+      "view_count": 2143325,
+      "like_count": 92190,
+      "comment_count": 6338,
+      "url": "https://www.youtube.com/watch?v=eWKY0OnPByg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-07-31T17:57:18Z",
+    "count": 5
+  }
+}
