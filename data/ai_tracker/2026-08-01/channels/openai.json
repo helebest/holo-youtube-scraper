@@ -20,9 +20,9 @@
       "published_at": "2026-07-29T22:37:43Z",
       "description": "Talk through work with ChatGPT Voice while it sees your screen, works across connected apps, and keeps tasks moving in the background. See how voice helps brainstorm a DevDay activation, coordinate an off-site, prepare travel, and share finished work without breaking the user's flow.\n\nChapters:\n00:00 Brainstorming with ChatGPT Voice\n00:45 Dictation vs. ChatGPT Voice\n01:11 Working across connected apps\n02:07 Preparing travel in Navan\n02:23 Reviewing and sharing completed work\n02:57 Staying in flow",
       "duration": "PT3M14S",
-      "view_count": 37213,
-      "like_count": 1324,
-      "comment_count": 133,
+      "view_count": 41151,
+      "like_count": 1373,
+      "comment_count": 135,
       "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-07-29T17:23:02Z",
       "description": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic researchers is built to accelerate discovery across disciplines.\n\nWe believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work.\n\nThe program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applications to testing hypotheses.\n\nParticipants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators.\n\nThe program also includes training, hands-on support, and opportunities to learn from other researchers.\n\nApply here: https://openai.com/index/chatgpt-for-academic-researchers/",
       "duration": "PT3M31S",
-      "view_count": 26542,
-      "like_count": 650,
-      "comment_count": 92,
+      "view_count": 28118,
+      "like_count": 669,
+      "comment_count": 95,
       "url": "https://www.youtube.com/watch?v=MLehRytu9Zo"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-07-28T21:49:18Z",
       "description": "Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom vocabulary, background noise, multilingual speech, and common transcription challenges like accents, names, short answers, and numbers.\n\nLearn more: https://developers.openai.com/api/docs/guides/transcription\n\nChapters:\n00:00 Introducing gpt-transcribe and gpt-live-transcribe\n00:32 Prompting with custom vocabulary\n00:52 Handling background noise\n01:11 Multilingual transcription\n01:36 Batch transcription with gpt-transcribe\n02:01 Streaming transcription use cases",
       "duration": "PT2M12S",
-      "view_count": 147587,
-      "like_count": 5276,
-      "comment_count": 404,
+      "view_count": 153163,
+      "like_count": 5370,
+      "comment_count": 409,
       "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-07-28T14:25:26Z",
       "description": "See how sales teams ChatGPT Work to bring customer conversations, sales activity, and market signals into one weekly report.\n\nSpot customer objections, competitive risks, and new opportunities sooner so revenue leaders know where to act.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT2M29S",
-      "view_count": 5628,
-      "like_count": 111,
+      "view_count": 5661,
+      "like_count": 114,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=g-g6E-qtCjA"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-07-28T14:23:31Z",
       "description": "See how sales teams ChatGPT Work to turn customer updates into account research, meeting prep, and sales follow-up.\n\nHelp sellers automate the right next step while staying in control of every customer message.\n\nLearn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sales/",
       "duration": "PT1M52S",
-      "view_count": 4687,
-      "like_count": 182,
+      "view_count": 4803,
+      "like_count": 189,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=5DbZAMGZ5oM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-31T17:57:19Z",
+    "generated_at": "2026-08-01T06:44:05Z",
     "count": 5
   }
 }

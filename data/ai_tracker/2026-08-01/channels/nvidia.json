@@ -20,9 +20,9 @@
       "published_at": "2026-07-30T21:02:00Z",
       "description": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.\n\nNVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs.\n\nTogether with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
       "duration": "PT52S",
-      "view_count": 7078,
-      "like_count": 423,
-      "comment_count": 20,
+      "view_count": 9742,
+      "like_count": 550,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=TrYsSM_d3TE"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-07-28T21:00:23Z",
       "description": "The digital health stack is undergoing a fundamental shift, moving from siloed data and manual processes to an AI‑native, interoperable future. Developers learn how to rebuild the digital health stack using AI‑native, interoperable architectures powered by generative reasoning and advanced speech models. Learn core patterns, tools, and case studies to turn today’s siloed, manual workflows into intelligent, agentic healthcare applications ready for real‑world deployment.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT38M47S",
-      "view_count": 1862,
-      "like_count": 71,
+      "view_count": 1917,
+      "like_count": 74,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=iWsKSxyfRIA"
     },
@@ -42,9 +42,9 @@
       "title": "How BharatGen is building India AI with NVIDIA Nemotron",
       "channel_title": "NVIDIA",
       "published_at": "2026-07-28T05:24:51Z",
-      "description": "BharatGen, a leading model builder under the IndiaAI Mission, is collaborating with NVIDIA to build India’s foundational AI infrastructure using a fully open model approach. By combining Indian datasets with the NVIDIA accelerated computing platform and Nemotron libraries, BharatGen is training multimodal models with up to one trillion parameters, tailored to India’s languages,  cultural nuances and local industries.\n\nBy releasing model weights, datasets, and training recipes on Hugging Face, BharatGen aims to enable developers, startups, and enterprises across India to fully customize and deploy open, state-of-the-art AI solutions.\n\nGet started with BharatGen’s models - https://bharatgen.com/",
+      "description": "BharatGen, a leading model builder under the IndiaAI Mission, is collaborating with NVIDIA to build India’s foundational AI infrastructure using a fully open model approach. By combining Indian datasets with the NVIDIA accelerated computing platform and Nemotron libraries, BharatGen is training multimodal models with up to one trillion parameters, tailored to India’s languages,  cultural nuances and local industries.\n\nBy releasing model weights, datasets, and training recipes on Hugging Face, BharatGen aims to enable developers, startups, and enterprises across India to fully customize and deploy open, state-of-the-art AI solutions.\n\nGet started with BharatGen’s models - https://bharatgen.com/\nGet started with NVIDIA Nemotron - https://developer.nvidia.com/topics/ai/nemotron",
       "duration": "PT3M4S",
-      "view_count": 2438,
+      "view_count": 2439,
       "like_count": 120,
       "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=rpQPBCDv5Pc"
@@ -56,7 +56,7 @@
       "published_at": "2026-07-27T00:45:00Z",
       "description": "AI factories demand increasingly complex chips—delivered faster than ever. See how NVIDIA and leaders across the EDA ecosystem are advancing autonomous engineering across design, verification, physical implementation, signoff, and system design.\nDiscover how Cadence, Synopsys, Siemens EDA, and NVIDIA technologies—including NVIDIA PhysicsNeMo, CUDA-X libraries, and accelerated computing—are helping engineers reduce design iterations and accelerate innovation from chips to systems.\n\nResources:\nNVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries: https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds\n\nExplore NVIDIA solutions for semiconductor design and manufacturing: https://www.nvidia.com/en-us/industries/semiconductor/",
       "duration": "PT2M",
-      "view_count": 14822,
+      "view_count": 14897,
       "like_count": 637,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=P3VzeHtat70"
@@ -68,15 +68,15 @@
       "published_at": "2026-07-24T23:32:33Z",
       "description": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era.\n\nPresident Lee Jae Myung met with our CEO Jensen Huang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
       "duration": "PT6S",
-      "view_count": 23014,
-      "like_count": 300,
+      "view_count": 23326,
+      "like_count": 301,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-07-31T17:57:19Z",
+    "generated_at": "2026-08-01T06:44:04Z",
     "count": 5
   }
 }
