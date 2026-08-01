@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-02",
+  "result": [
+    {
+      "id": "zB2xgBtXMsE",
+      "title": "Why General Relativity Is the Most Beautiful Idea in Physics - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-30T20:31:13Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 23437,
+      "like_count": 872,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=zB2xgBtXMsE"
+    },
+    {
+      "id": "5a7KVZQExRc",
+      "title": "How We Proved That Black Holes Exist - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-29T23:50:01Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 17925,
+      "like_count": 555,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
+    },
+    {
+      "id": "41BAsYfFM38",
+      "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-28T22:44:11Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 46079,
+      "like_count": 965,
+      "comment_count": 49,
+      "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
+    },
+    {
+      "id": "6oZZcWsBDK0",
+      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-27T21:04:45Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 21312,
+      "like_count": 895,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
+    },
+    {
+      "id": "Gpf4WvQ9uxQ",
+      "title": "How Close Can You Orbit a Black Hole? - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-25T23:17:41Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 72249,
+      "like_count": 1655,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=Gpf4WvQ9uxQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-01T17:27:27Z",
+    "count": 5
+  }
+}
