@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-03",
+  "result": [
+    {
+      "id": "2j2KbctXMz8",
+      "title": "The Problem With How LLMs Generate Text - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-01T23:12:23Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 18471,
+      "like_count": 675,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=2j2KbctXMz8"
+    },
+    {
+      "id": "zB2xgBtXMsE",
+      "title": "Why General Relativity Is the Most Beautiful Idea in Physics - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-30T20:31:13Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 30412,
+      "like_count": 1085,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=zB2xgBtXMsE"
+    },
+    {
+      "id": "5a7KVZQExRc",
+      "title": "How We Proved That Black Holes Exist - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-29T23:50:01Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 20897,
+      "like_count": 625,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
+    },
+    {
+      "id": "41BAsYfFM38",
+      "title": "Why Physicists Spent 50 Years Insisting Black Holes Were Impossible - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-28T22:44:11Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 49960,
+      "like_count": 1040,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
+    },
+    {
+      "id": "6oZZcWsBDK0",
+      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-27T21:04:45Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 22043,
+      "like_count": 905,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-02T17:28:50Z",
+    "count": 5
+  }
+}
