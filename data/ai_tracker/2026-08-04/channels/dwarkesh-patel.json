@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-04",
+  "result": [
+    {
+      "id": "oZBGAuANX6I",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-03T17:36:16Z",
+      "description": "This is a video version of a post I wrote last week. If you want to read the original you can check it out here: \n\nhttps://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\n\nThanks to Mercury for sponsoring this essay. Mercury's built-in AI, Command, helps me close my books and saves me a bunch of time. At the end of each month, Command categorizes my transactions and provides its rationale for every choice: I just review, fix anything that's off, and approve... and then Mercury syncs everything to QuickBooks. Get started at https://mercury.com/command",
+      "duration": "PT11M18S",
+      "view_count": 2111,
+      "like_count": 123,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=oZBGAuANX6I"
+    },
+    {
+      "id": "5xtmpXPPQv0",
+      "title": "Grant Sanderson's Advice for Students",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-02T18:33:53Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 8506,
+      "like_count": 393,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=5xtmpXPPQv0"
+    },
+    {
+      "id": "2j2KbctXMz8",
+      "title": "The Problem With How LLMs Generate Text - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-01T23:12:23Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 35995,
+      "like_count": 976,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=2j2KbctXMz8"
+    },
+    {
+      "id": "zB2xgBtXMsE",
+      "title": "Why General Relativity Is the Most Beautiful Idea in Physics - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-30T20:31:13Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 41157,
+      "like_count": 1347,
+      "comment_count": 53,
+      "url": "https://www.youtube.com/watch?v=zB2xgBtXMsE"
+    },
+    {
+      "id": "5a7KVZQExRc",
+      "title": "How We Proved That Black Holes Exist - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-29T23:50:01Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 23065,
+      "like_count": 662,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-03T18:12:41Z",
+    "count": 5
+  }
+}
