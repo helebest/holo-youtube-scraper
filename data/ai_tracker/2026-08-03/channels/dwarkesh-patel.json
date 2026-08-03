@@ -14,15 +14,27 @@
   "date": "2026-08-03",
   "result": [
     {
+      "id": "5xtmpXPPQv0",
+      "title": "Grant Sanderson's Advice for Students",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-02T18:33:53Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 5280,
+      "like_count": 280,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=5xtmpXPPQv0"
+    },
+    {
       "id": "2j2KbctXMz8",
       "title": "The Problem With How LLMs Generate Text - Grant Sanderson",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-01T23:12:23Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 18471,
-      "like_count": 675,
-      "comment_count": 45,
+      "view_count": 32201,
+      "like_count": 883,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=2j2KbctXMz8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-07-30T20:31:13Z",
       "description": "",
       "duration": "PT55S",
-      "view_count": 30412,
-      "like_count": 1085,
-      "comment_count": 41,
+      "view_count": 36945,
+      "like_count": 1239,
+      "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=zB2xgBtXMsE"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-07-29T23:50:01Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 20897,
-      "like_count": 625,
+      "view_count": 22539,
+      "like_count": 650,
       "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=5a7KVZQExRc"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-07-28T22:44:11Z",
       "description": "",
       "duration": "PT50S",
-      "view_count": 49960,
-      "like_count": 1040,
-      "comment_count": 54,
+      "view_count": 52392,
+      "like_count": 1079,
+      "comment_count": 55,
       "url": "https://www.youtube.com/watch?v=41BAsYfFM38"
-    },
-    {
-      "id": "6oZZcWsBDK0",
-      "title": "Why Time Runs Slower Near a Black Hole - Adam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-07-27T21:04:45Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 22043,
-      "like_count": 905,
-      "comment_count": 41,
-      "url": "https://www.youtube.com/watch?v=6oZZcWsBDK0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-02T17:28:50Z",
+    "generated_at": "2026-08-03T07:53:04Z",
     "count": 5
   }
 }
