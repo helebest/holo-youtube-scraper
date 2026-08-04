@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-08-05",
+  "result": [
+    {
+      "id": "nHX8cIZTJp0",
+      "title": "Meet Alpamayo 2 Super",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-04T15:39:25Z",
+      "description": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles.\n\nBuilt for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels.\n\nWe built it, so you can build on it.",
+      "duration": "PT52S",
+      "view_count": 556,
+      "like_count": 22,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=nHX8cIZTJp0"
+    },
+    {
+      "id": "xySgVPLYnsc",
+      "title": "NVIDIA Alpamayo 2 Super: The Frontier Open Model for Robotaxis and Autonomous Vehicle",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-04T14:50:26Z",
+      "description": "NVIDIA Alpamayo 2 Super is here — the frontier open reasoning model for autonomous vehicles and robotaxis, now available for commercial use.\n\nWith 34B parameters and full 360° surround coverage, Alpamayo 2 Super handles trajectories, reasoning traces, meta-actions, and auto-labels in one model — streamlining what would've taken several models. \n\nIt's open source under the OpenMDW-1.1 license — covering fine-tuning, derivative models, and commercial redistribution — giving AV developers a direct path from adaptation to deployment.\n\nWe built it, so you can build on it. \n\n📥 Download: https://huggingface.co/nvidia/Alpamayo2-Super\n📝 Corp blog: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available\n➡️ Learn more: https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/",
+      "duration": "PT52S",
+      "view_count": 1201,
+      "like_count": 94,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=xySgVPLYnsc"
+    },
+    {
+      "id": "3sDEcfO2cQU",
+      "title": "Real-Time Neurological Insights: Scaling NeuroDX AI with NVIDIA Inception",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-03T22:01:49Z",
+      "description": "Traditional health monitoring often relies on intermittent measurements, making early detection of neurological and physiological changes difficult. NeuroDX AI addresses this challenge by using AI to decode complex multimodal bio signals. Powered by NVIDIA H200 GPUs, TensorRT™, and NVIDIA Triton™ Inference Server, NeuroDX AI accelerates model training and optimizes inference for ultra-low latency and high throughput. Discover how NVIDIA's Inception program enabled NeuroDX AI with specialized training, early technology access, venture capital connections, and global showcase opportunities to turn complex bio signal data into actionable health intelligence.",
+      "duration": "PT2M10S",
+      "view_count": 1572,
+      "like_count": 79,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3sDEcfO2cQU"
+    },
+    {
+      "id": "8TQYkjViaBQ",
+      "title": "Securely Deploy Autonomous Agents in Your AI Factory | AI Factory Insider Ep. 3",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-03T21:10:37Z",
+      "description": "In Episode 3 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Anne Hecht (Sr. Director of Product Marketing, NVIDIA) to discuss autonomous agents that continuously learn and compound value, purpose-built AI factory infrastructure, and real-world use cases.\n\nWhat we cover:\n0:00 — Introduction \n1:43 — Meet our guest: Anne Hecht \n3:35 — From gen AI to agentic AI: what actually changed \n5:20 — What broke the dam: enterprises seeing real ROI from their AI projects\n6:50 — Inside NVIDIA: 4 trillion tokens a day \n7:17 — Three words to describe AI agents: persistent, autonomous, self-evolving \n11:05 — The CFO view: tokens, marginal cost, and where AI runs \n14:16 — The IT & CISO view: manage agents like you manage employees \n16:28 — \"Your agent is only as good as its connections\" \n17:59 — Shadow AI is the new shadow IT \n18:51 — What's in it for users: privacy, confidentiality, and control \n19:58 — Easy is hard: designing a seamless agent experience \n21:02 — The GTC slide: Agent = harness, models, and tools \n23:06 — Agent skills & why fine-tuned open models cut cost \n27:24 — Securing agents: the Secure Agent Workspace & OpenShell \n29:23 — Confidential computing: protecting models & data in use \n30:36 — Product or reference design? What's what \n32:52 — Frontier vs. open models: it's an \"and,\" not an \"or\" \n34:35 — The Linux parallel: open source as the OS of compute \n36:51 — Nemotron adoption & post-training \n37:39 — Jensen Huang on X & the Open Secure AI Alliance \n40:14 — Wrap-up \n\nResources:\nSecure Agent Workspace Reference Design 👉 https://nvda.ws/3U9E1LE\nNVIDIA OpenShell 👉 https://nvda.ws/454Dmh2\nNVIDIA AI Factory Validated Design Guide 👉 https://nvda.ws/4wGGHz0\nAI Factories for Self-Evolving Agents (Kaushik & Anne's GTC Taipei session) 👉 https://nvda.ws/3TqVyim\nDeploying Proprietary Models Securely with NVIDIA Confidential Computing on Self-Hosted VMs 👉 https://nvda.ws/4cgmqI8\nDeploying Proprietary Models Securely with NVIDIA Confidential Computing on Self-Hosted Kubernetes 👉 https://nvda.ws/4z0AjnO\nBuilding an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron 👉 https://nvda.ws/4xiIj1N",
+      "duration": "PT40M38S",
+      "view_count": 1301,
+      "like_count": 58,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=8TQYkjViaBQ"
+    },
+    {
+      "id": "TrYsSM_d3TE",
+      "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-07-30T21:02:00Z",
+      "description": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.\n\nNVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs.\n\nTogether with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
+      "duration": "PT52S",
+      "view_count": 20872,
+      "like_count": 1245,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=TrYsSM_d3TE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-04T18:09:25Z",
+    "count": 5
+  }
+}

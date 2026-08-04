@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-08-05",
+  "result": [
+    {
+      "id": "nizOUNTyt58",
+      "title": "Upgrade your summer style with Search ☀️",
+      "channel_title": "Google",
+      "published_at": "2026-08-03T16:01:20Z",
+      "description": "Search the fit on Google and hit “Try it on” to see it on you before the delivery truck gets involved. \n\n#GoogleSearch",
+      "duration": "PT10S",
+      "view_count": 14546,
+      "like_count": 238,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=nizOUNTyt58"
+    },
+    {
+      "id": "JUlcgfqCgN4",
+      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-07-30T15:59:03Z",
+      "description": "Thwip over to Google to see what happens 🔎",
+      "duration": "PT14S",
+      "view_count": 48385,
+      "like_count": 1099,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
+    },
+    {
+      "id": "nlz0UmQdhqk",
+      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
+      "channel_title": "Google",
+      "published_at": "2026-07-27T19:35:51Z",
+      "description": "Head over to Google to see what happens 🕷️",
+      "duration": "PT10S",
+      "view_count": 58101,
+      "like_count": 1163,
+      "comment_count": 135,
+      "url": "https://www.youtube.com/watch?v=nlz0UmQdhqk"
+    },
+    {
+      "id": "y6L37mXkTw0",
+      "title": "See the potential in your yard with Search ✨",
+      "channel_title": "Google",
+      "published_at": "2026-07-24T17:34:38Z",
+      "description": "Ready for a rethink? Tap the 🍌 in the Google app, take a picture of your yard, and type “help me reimagine my backyard.”\n\n#GoogleSearch",
+      "duration": "PT18S",
+      "view_count": 78658,
+      "like_count": 978,
+      "comment_count": 66,
+      "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
+    },
+    {
+      "id": "Sm7OTow3mcY",
+      "title": "How to know if an image is AI generated or not",
+      "channel_title": "Google",
+      "published_at": "2026-07-23T16:44:08Z",
+      "description": "Is this real… or is this AI?\n\nAs AI-generated images, videos, audio, and text become part of our daily lives, distinguishing them from other media is more important than ever. In this video, we show you how to use our SynthID and C2PA Content Credentials tools to learn more about the content you consume. \n\nYou can also refer to this article to stay in the know about SynthID and C2PA: https://goo.gle/4yGjrTe \n\nWatch more videos from Google and start building with AI:\nhttps://youtu.be/tYhgWRJeYzs?si=QOs_Gqfzo601H2Ts\nhttps://youtu.be/xCkIxdJZ8fU?si=vAXEw-x8NZPzm6Fm\nhttps://youtu.be/b1Pvt072wKQ?si=9DbKnYvYn5AlRHT2\nhttps://youtu.be/NBOYISh5jC4?si=AQjg31-VHW4zXeNY\nhttps://youtu.be/QAKtNOWsaHI?si=vJudwNULApvhSbDd\nhttps://youtu.be/mx0xFpVjxHE?si=mpMQZRc5QfNf2-Wf\nhttps://youtu.be/uW4B6ziQqvY?si=yRqKiqWlrFwnuPVE\nhttps://youtu.be/guv2-EoGUXw?si=UcTNfgPQfTrLWb3u\nhttps://youtu.be/TglEnUdBb3o?si=dWkPJcSdTK6DAF_l\n\n#GoogleAI #AIDetection \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M13S",
+      "view_count": 29545,
+      "like_count": 712,
+      "comment_count": 204,
+      "url": "https://www.youtube.com/watch?v=Sm7OTow3mcY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-04T18:09:27Z",
+    "count": 5
+  }
+}
