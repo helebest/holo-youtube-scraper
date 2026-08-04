@@ -14,15 +14,39 @@
   "date": "2026-08-04",
   "result": [
     {
+      "id": "3sDEcfO2cQU",
+      "title": "Real-Time Neurological Insights: Scaling NeuroDX AI with NVIDIA Inception",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-03T22:01:49Z",
+      "description": "Traditional health monitoring often relies on intermittent measurements, making early detection of neurological and physiological changes difficult. NeuroDX AI addresses this challenge by using AI to decode complex multimodal bio signals. Powered by NVIDIA H200 GPUs, TensorRT™, and NVIDIA Triton™ Inference Server, NeuroDX AI accelerates model training and optimizes inference for ultra-low latency and high throughput. Discover how NVIDIA's Inception program enabled NeuroDX AI with specialized training, early technology access, venture capital connections, and global showcase opportunities to turn complex bio signal data into actionable health intelligence.",
+      "duration": "PT2M10S",
+      "view_count": 896,
+      "like_count": 49,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3sDEcfO2cQU"
+    },
+    {
+      "id": "8TQYkjViaBQ",
+      "title": "Securely Deploy Autonomous Agents in Your AI Factory | AI Factory Insider Ep. 3",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-03T21:10:37Z",
+      "description": "In Episode 3 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Anne Hecht (Sr. Director of Product Marketing, NVIDIA) to discuss autonomous agents that continuously learn and compound value, purpose-built AI factory infrastructure, and real-world use cases.\n\nWhat we cover:\n0:00 — Introduction \n1:43 — Meet our guest: Anne Hecht \n3:35 — From gen AI to agentic AI: what actually changed \n5:20 — What broke the dam: enterprises seeing real ROI from their AI projects\n6:50 — Inside NVIDIA: 4 trillion tokens a day \n7:17 — Three words to describe AI agents: persistent, autonomous, self-evolving \n11:05 — The CFO view: tokens, marginal cost, and where AI runs \n14:16 — The IT & CISO view: manage agents like you manage employees \n16:28 — \"Your agent is only as good as its connections\" \n17:59 — Shadow AI is the new shadow IT \n18:51 — What's in it for users: privacy, confidentiality, and control \n19:58 — Easy is hard: designing a seamless agent experience \n21:02 — The GTC slide: Agent = harness, models, and tools \n23:06 — Agent skills & why fine-tuned open models cut cost \n27:24 — Securing agents: the Secure Agent Workspace & OpenShell \n29:23 — Confidential computing: protecting models & data in use \n30:36 — Product or reference design? What's what \n32:52 — Frontier vs. open models: it's an \"and,\" not an \"or\" \n34:35 — The Linux parallel: open source as the OS of compute \n36:51 — Nemotron adoption & post-training \n37:39 — Jensen Huang on X & the Open Secure AI Alliance \n40:14 — Wrap-up \n\nResources:\nSecure Agent Workspace Reference Design 👉 https://nvda.ws/3U9E1LE\nNVIDIA OpenShell 👉 https://nvda.ws/454Dmh2\nNVIDIA AI Factory Validated Design Guide 👉 https://nvda.ws/4wGGHz0\nAI Factories for Self-Evolving Agents (Kaushik & Anne's GTC Taipei session) 👉 https://nvda.ws/3TqVyim\nDeploying Proprietary Models Securely with NVIDIA Confidential Computing on Self-Hosted VMs 👉 https://nvda.ws/4cgmqI8\nDeploying Proprietary Models Securely with NVIDIA Confidential Computing on Self-Hosted Kubernetes 👉 https://nvda.ws/4z0AjnO\nBuilding an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron 👉 https://nvda.ws/4xiIj1N",
+      "duration": "PT40M38S",
+      "view_count": 790,
+      "like_count": 42,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=8TQYkjViaBQ"
+    },
+    {
       "id": "TrYsSM_d3TE",
       "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.",
       "channel_title": "NVIDIA",
       "published_at": "2026-07-30T21:02:00Z",
       "description": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.\n\nNVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs.\n\nTogether with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
       "duration": "PT52S",
-      "view_count": 18964,
-      "like_count": 1154,
-      "comment_count": 57,
+      "view_count": 20155,
+      "like_count": 1197,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=TrYsSM_d3TE"
     },
     {
@@ -32,7 +56,7 @@
       "published_at": "2026-07-28T21:00:23Z",
       "description": "The digital health stack is undergoing a fundamental shift, moving from siloed data and manual processes to an AI‑native, interoperable future. Developers learn how to rebuild the digital health stack using AI‑native, interoperable architectures powered by generative reasoning and advanced speech models. Learn core patterns, tools, and case studies to turn today’s siloed, manual workflows into intelligent, agentic healthcare applications ready for real‑world deployment.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT38M47S",
-      "view_count": 2229,
+      "view_count": 2312,
       "like_count": 77,
       "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=iWsKSxyfRIA"
@@ -44,39 +68,15 @@
       "published_at": "2026-07-28T05:24:51Z",
       "description": "BharatGen, a leading model builder under the IndiaAI Mission, is collaborating with NVIDIA to build India’s foundational AI infrastructure using a fully open model approach. By combining Indian datasets with the NVIDIA accelerated computing platform and Nemotron libraries, BharatGen is training multimodal models with up to one trillion parameters, tailored to India’s languages,  cultural nuances and local industries.\n\nBy releasing model weights, datasets, and training recipes on Hugging Face, BharatGen aims to enable developers, startups, and enterprises across India to fully customize and deploy open, state-of-the-art AI solutions.\n\nGet started with BharatGen’s models - https://bharatgen.com/\nGet started with NVIDIA Nemotron - https://developer.nvidia.com/topics/ai/nemotron",
       "duration": "PT3M4S",
-      "view_count": 2745,
+      "view_count": 2782,
       "like_count": 129,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=rpQPBCDv5Pc"
-    },
-    {
-      "id": "P3VzeHtat70",
-      "title": "How Autonomous AI Is Transforming Chip and System Design",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-07-27T00:45:00Z",
-      "description": "AI factories demand increasingly complex chips—delivered faster than ever. See how NVIDIA and leaders across the EDA ecosystem are advancing autonomous engineering across design, verification, physical implementation, signoff, and system design.\nDiscover how Cadence, Synopsys, Siemens EDA, and NVIDIA technologies—including NVIDIA PhysicsNeMo, CUDA-X libraries, and accelerated computing—are helping engineers reduce design iterations and accelerate innovation from chips to systems.\n\nResources:\nNVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries: https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds\n\nExplore NVIDIA solutions for semiconductor design and manufacturing: https://www.nvidia.com/en-us/industries/semiconductor/",
-      "duration": "PT2M",
-      "view_count": 15340,
-      "like_count": 647,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=P3VzeHtat70"
-    },
-    {
-      "id": "UGLV3ufFZEw",
-      "title": "President Lee Jae Myung met with our CEO Jensen Huang ahead of the San Francisco AI Summit",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-07-24T23:32:33Z",
-      "description": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era.\n\nPresident Lee Jae Myung met with our CEO Jensen Huang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
-      "duration": "PT6S",
-      "view_count": 24348,
-      "like_count": 307,
-      "comment_count": 16,
-      "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-03T18:12:45Z",
+    "generated_at": "2026-08-04T07:04:46Z",
     "count": 5
   }
 }
