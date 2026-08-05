@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-06",
+  "result": [
+    {
+      "id": "SJJBPwlPpww",
+      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-04T20:29:24Z",
+      "description": "For many families living with a rare disease, the hardest part is not having a name for what is happening. Even with modern genetic testing, about half of people with rare diseases remain undiagnosed.\n\nIn this OpenAI Forum conversation, researchers from Boston Children’s Hospital's Manton Center for Orphan Disease Research discuss how they used OpenAI o3 Deep Research to reanalyze difficult pediatric cases and surface new leads for expert review. The conversation explores how AI can help scientists move faster, give families a better chance at answers, and support advanced medical research, while keeping geneticists and clinicians at the center of diagnosis and care.\n\nJoin the OpenAI Forum to explore more conversations with experts working at the forefront of AI, science, and society: https://forum.openai.com/",
+      "duration": "PT39M32S",
+      "view_count": 4507,
+      "like_count": 160,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=SJJBPwlPpww"
+    },
+    {
+      "id": "r64krUavXJU",
+      "title": "Meet Birding Pal",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-04T17:43:45Z",
+      "description": "Your new birdwatching buddy is here. \nMake your own: https://github.com/openai/birdingpal",
+      "duration": "PT56S",
+      "view_count": 16149,
+      "like_count": 511,
+      "comment_count": 108,
+      "url": "https://www.youtube.com/watch?v=r64krUavXJU"
+    },
+    {
+      "id": "_Gd9yzAc-WI",
+      "title": "Using Voice in ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-29T22:37:43Z",
+      "description": "Talk through work with ChatGPT Voice while it sees your screen, works across connected apps, and keeps tasks moving in the background. See how voice helps brainstorm a DevDay activation, coordinate an off-site, prepare travel, and share finished work without breaking the user's flow.\n\nChapters:\n00:00 Brainstorming with ChatGPT Voice\n00:45 Dictation vs. ChatGPT Voice\n01:11 Working across connected apps\n02:07 Preparing travel in Navan\n02:23 Reviewing and sharing completed work\n02:57 Staying in flow",
+      "duration": "PT3M14S",
+      "view_count": 51270,
+      "like_count": 1540,
+      "comment_count": 149,
+      "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI"
+    },
+    {
+      "id": "MLehRytu9Zo",
+      "title": "We're giving 100,000 academic researchers free access to our frontier models",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-29T17:23:02Z",
+      "description": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic researchers is built to accelerate discovery across disciplines.\n\nWe believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work.\n\nThe program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applications to testing hypotheses.\n\nParticipants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators.\n\nThe program also includes training, hands-on support, and opportunities to learn from other researchers.\n\nApply here: https://openai.com/index/chatgpt-for-academic-researchers/",
+      "duration": "PT3M31S",
+      "view_count": 32580,
+      "like_count": 753,
+      "comment_count": 122,
+      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo"
+    },
+    {
+      "id": "WeP9VUf1OoE",
+      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
+      "channel_title": "OpenAI",
+      "published_at": "2026-07-28T21:49:18Z",
+      "description": "Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom vocabulary, background noise, multilingual speech, and common transcription challenges like accents, names, short answers, and numbers.\n\nLearn more: https://developers.openai.com/api/docs/guides/transcription\n\nChapters:\n00:00 Introducing gpt-transcribe and gpt-live-transcribe\n00:32 Prompting with custom vocabulary\n00:52 Handling background noise\n01:11 Multilingual transcription\n01:36 Batch transcription with gpt-transcribe\n02:01 Streaming transcription use cases",
+      "duration": "PT2M12S",
+      "view_count": 162909,
+      "like_count": 5625,
+      "comment_count": 414,
+      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-05T17:57:38Z",
+    "count": 5
+  }
+}

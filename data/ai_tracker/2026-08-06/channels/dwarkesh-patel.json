@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-06",
+  "result": [
+    {
+      "id": "KjMKzIOhw4Q",
+      "title": "The Real Advantage AI Has Over Human Geniuses - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-04T22:08:20Z",
+      "description": "",
+      "duration": "PT1M20S",
+      "view_count": 12189,
+      "like_count": 436,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=KjMKzIOhw4Q"
+    },
+    {
+      "id": "oZBGAuANX6I",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-03T17:36:16Z",
+      "description": "This is a video version of a post I wrote last week. If you want to read the original you can check it out here: \n\nhttps://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\n\nThanks to Mercury for sponsoring this essay. Mercury's built-in AI, Command, helps me close my books and saves me a bunch of time. At the end of each month, Command categorizes my transactions and provides its rationale for every choice: I just review, fix anything that's off, and approve... and then Mercury syncs everything to QuickBooks. Get started at https://mercury.com/command",
+      "duration": "PT11M18S",
+      "view_count": 68767,
+      "like_count": 1908,
+      "comment_count": 465,
+      "url": "https://www.youtube.com/watch?v=oZBGAuANX6I"
+    },
+    {
+      "id": "5xtmpXPPQv0",
+      "title": "Grant Sanderson's Advice for Students",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-02T18:33:53Z",
+      "description": "",
+      "duration": "PT1M8S",
+      "view_count": 27060,
+      "like_count": 1043,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=5xtmpXPPQv0"
+    },
+    {
+      "id": "2j2KbctXMz8",
+      "title": "The Problem With How LLMs Generate Text - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-01T23:12:23Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 63029,
+      "like_count": 1569,
+      "comment_count": 103,
+      "url": "https://www.youtube.com/watch?v=2j2KbctXMz8"
+    },
+    {
+      "id": "zB2xgBtXMsE",
+      "title": "Why General Relativity Is the Most Beautiful Idea in Physics - Adam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-07-30T20:31:13Z",
+      "description": "",
+      "duration": "PT55S",
+      "view_count": 57848,
+      "like_count": 1647,
+      "comment_count": 72,
+      "url": "https://www.youtube.com/watch?v=zB2xgBtXMsE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-05T17:57:34Z",
+    "count": 5
+  }
+}

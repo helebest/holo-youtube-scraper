@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-08-06",
+  "result": [
+    {
+      "id": "bSp-foRDH5M",
+      "title": "How to Build Apps and Automate Tasks with Google Antigravity 2.0",
+      "channel_title": "Google",
+      "published_at": "2026-08-04T20:46:03Z",
+      "description": "Google Antigravity 2.0 is your standalone desktop command center, designed to run autonomous AI agents in parallel. Watch this video to see AI agents plan, build, test, and execute complex workflows simultaneously. \n\nAntigravity also comes as CLI, an IDE, and SDK.\n\nThis site is a great resource to guide you as you ramp up on all things Antigravity: https://antigravity.google/\n\nWatch more videos from Google and start building with AI:\nhttps://youtu.be/tYhgWRJeYzs?si=QOs_Gqfzo601H2Ts\nhttps://youtu.be/xCkIxdJZ8fU?si=vAXEw-x8NZPzm6Fm\nhttps://youtu.be/b1Pvt072wKQ?si=9DbKnYvYn5AlRHT2\nhttps://youtu.be/NBOYISh5jC4?si=AQjg31-VHW4zXeNY\nhttps://youtu.be/QAKtNOWsaHI?si=vJudwNULApvhSbDd\nhttps://youtu.be/mx0xFpVjxHE?si=mpMQZRc5QfNf2-Wf\nhttps://youtu.be/uW4B6ziQqvY?si=yRqKiqWlrFwnuPVE\nhttps://youtu.be/guv2-EoGUXw?si=UcTNfgPQfTrLWb3u\nhttps://youtu.be/TglEnUdBb3o?si=dWkPJcSdTK6DAF_l\n\n#GoogleGemini #GoogleAI #Antigravity\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M16S",
+      "view_count": 13286,
+      "like_count": 497,
+      "comment_count": 83,
+      "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
+    },
+    {
+      "id": "nizOUNTyt58",
+      "title": "Upgrade your summer style with Search ☀️",
+      "channel_title": "Google",
+      "published_at": "2026-08-03T16:01:20Z",
+      "description": "Search the fit on Google and hit “Try it on” to see it on you before the delivery truck gets involved. \n\n#GoogleSearch",
+      "duration": "PT10S",
+      "view_count": 20035,
+      "like_count": 316,
+      "comment_count": 61,
+      "url": "https://www.youtube.com/watch?v=nizOUNTyt58"
+    },
+    {
+      "id": "JUlcgfqCgN4",
+      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-07-30T15:59:03Z",
+      "description": "Thwip over to Google to see what happens 🔎",
+      "duration": "PT14S",
+      "view_count": 52113,
+      "like_count": 1169,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
+    },
+    {
+      "id": "nlz0UmQdhqk",
+      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
+      "channel_title": "Google",
+      "published_at": "2026-07-27T19:35:51Z",
+      "description": "Head over to Google to see what happens 🕷️",
+      "duration": "PT10S",
+      "view_count": 59977,
+      "like_count": 1191,
+      "comment_count": 136,
+      "url": "https://www.youtube.com/watch?v=nlz0UmQdhqk"
+    },
+    {
+      "id": "y6L37mXkTw0",
+      "title": "See the potential in your yard with Search ✨",
+      "channel_title": "Google",
+      "published_at": "2026-07-24T17:34:38Z",
+      "description": "Ready for a rethink? Tap the 🍌 in the Google app, take a picture of your yard, and type “help me reimagine my backyard.”\n\n#GoogleSearch",
+      "duration": "PT18S",
+      "view_count": 80208,
+      "like_count": 996,
+      "comment_count": 67,
+      "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-05T17:57:39Z",
+    "count": 5
+  }
+}
