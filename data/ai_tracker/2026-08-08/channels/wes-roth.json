@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-08-08",
+  "result": [
+    {
+      "id": "AL-XQiM4248",
+      "title": "AI just killed Crypto...  (INSANE)",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-07T00:06:07Z",
+      "description": "📺 WATCH NEXT\n(the backstory to this video):\n\n▶ AI just killed Crypto... — where I covered Scott Aaronson's \"Will you heed my warnings now?\" and how AI + quantum threatens crypto's encryption. This hack is that warning coming true.\nhttps://www.youtube.com/watch?v=LMJb-_uL6lQ\n\n▶ OpenAI internal model JUST went ROGUE — the deep dive on the OpenAI / Hugging Face sandbox escape I reference in this video.\nhttps://www.youtube.com/watch?v=OSuhUTkM1no\n\n▶ OpenAI JUST revealed the truth about its \"Rogue Agent\" — the follow-up with the confirmed details of what actually happened.\nhttps://www.youtube.com/watch?v=9lSIHaXT1rU\n\n▶ Kimi K3 CRUSHED Fable — the open-source model released two weeks before this hack, and why many (myself included) think it's a distillation of Fable.\nhttps://www.youtube.com/watch?v=4fPLsmJNaMI\n\n▶ Claude MYTHOS is Anthropic's MOST DANGEROUS Model — where I first warned this channel to take cybersecurity seriously. This video is why.\nhttps://www.youtube.com/watch?v=dZF__37HWQA\n\n▶ \"Mythos is the BIGGEST RISK to financial markets\" THE FED — the emergency meetings between the Federal Reserve and top banks over exactly this capability.\nhttps://www.youtube.com/watch?v=r4JGNJfNQeA\n\n▶ NVIDIA's Quantum Day — a glimpse into the quantum computing future behind the 2029-vs-2035 encryption timeline debate.\nhttps://www.youtube.com/watch?v=uQzKLAZ3Qug\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT27M47S",
+      "view_count": 31250,
+      "like_count": 1101,
+      "comment_count": 290,
+      "url": "https://www.youtube.com/watch?v=AL-XQiM4248"
+    },
+    {
+      "id": "bjmbKdFOW_I",
+      "title": "QWEN just CRASHED the industry",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-04T03:45:44Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT15M21S",
+      "view_count": 74188,
+      "like_count": 1998,
+      "comment_count": 385,
+      "url": "https://www.youtube.com/watch?v=bjmbKdFOW_I"
+    },
+    {
+      "id": "TjUxBdiut1k",
+      "title": "OpenAI's Astra JUST solved math...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-02T08:10:05Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M58S",
+      "view_count": 75666,
+      "like_count": 2205,
+      "comment_count": 763,
+      "url": "https://www.youtube.com/watch?v=TjUxBdiut1k"
+    },
+    {
+      "id": "J3MHGRAqms0",
+      "title": "I gave my AI an \"always on\" computer... (INSANE)",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-07-30T20:37:37Z",
+      "description": "🖥️ Try Abacus AI SuperComputer: https://supercomputer.abacus.ai/wrt\nA real always-on Linux box in the cloud, that an AI agent builds on for you. \nFirst month $7, then $10/month:\n\nEverything I built in this video is LIVE right now, go break it:\n\n🎮 3D multiplayer arena → https://wesgame.abacusai.cloud\n\n💬 Self-hosted AI chat (Qwen on the box) → https://weschat.abacusai.cloud\n\n🗣️ WeSocial real-time social app → https://wessocial.abacusai.cloud\n\n📺 WES TV, 24/7 channels with AI anchors → https://westv.abacusai.cloud\n\n📈 4-agent paper trading experiment → https://westrader.abacusai.cloud\n\n📈 The trading one is a SIMULATED market, paper money only, NOT financial advice.\n\nI'll keep these online as long as there's traffic. If something's broken, it's because\na few thousand of you found it at once... just refresh and try again.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT24M18S",
+      "view_count": 20039,
+      "like_count": 570,
+      "comment_count": 77,
+      "url": "https://www.youtube.com/watch?v=J3MHGRAqms0"
+    },
+    {
+      "id": "9lSIHaXT1rU",
+      "title": "OpenAI JUST revealed the truth about it's \"Rogue Agent\"",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-07-29T04:01:32Z",
+      "description": "Use my link to get the Make Pro plan free for one month:\nhttps://www.make.com/en?&promo=wesroth&utm_source=youtube&utm_medium=influencer&utm_campaign=wesroth-video-integration-jul26\n\nUse the link above to get the Make Pro plan free for one month, including 10,000 operations, so you can build the real stuff.\n\nMake is the visual platform where you build and orchestrate AI automation in real time.\n\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\nTIMELINE\n00:00 OpenAI's Rogue Agent\n04:20 Make (sponsor)\n11:10 Hugging Face reveals what happened\n45:17 OpenAI's letter\n\n\n\n\n#ai #openai #llm",
+      "duration": "PT52M51S",
+      "view_count": 52291,
+      "like_count": 1527,
+      "comment_count": 541,
+      "url": "https://www.youtube.com/watch?v=9lSIHaXT1rU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-07T17:12:21Z",
+    "count": 5
+  }
+}
