@@ -20,9 +20,9 @@
       "published_at": "2026-08-06T22:29:28Z",
       "description": "Stop spending hours pulling together your weekly report. \n\nIn this step-by-step demo, Eunji from Data Science shows how she sets up a recurring task in ChatGPT Work. Once it’s scheduled, ChatGPT Work pulls the latest metrics, explains what changed, updates the charts, and drafts the Slack message every week—so Eunji starts each Thursday with a complete first draft ready to review.\n\nhttps://chatgpt.com/work/",
       "duration": "PT1M34S",
-      "view_count": 7414,
-      "like_count": 239,
-      "comment_count": 6,
+      "view_count": 9457,
+      "like_count": 285,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=p_slDAvPjv0"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-06T22:29:01Z",
       "description": "Bring your spreadsheets to life with ChatGPT Work. \n\nIn this demo, Kyle from Strategic Finance teaches you how to turn your data into an interactive dashboard you can use to compare scenarios and see how numbers change.\n\nThe best part: you can build it in minutes, without knowing how to code.\n\nhttps://chatgpt.com/work/",
       "duration": "PT1M37S",
-      "view_count": 6666,
-      "like_count": 212,
-      "comment_count": 8,
+      "view_count": 10528,
+      "like_count": 311,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=TryfaGZwvIE"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-06T16:13:08Z",
       "description": "Introducing Agent Plugins, an open standard developed in collaboration with partners across the AI ecosystem.\n\nBundle Agent Skills and supported MCP server configurations into plugins you can use across ChatGPT, Codex, Cursor, GitHub Copilot, Kiro, and VS Code.\n\nGet started: https://agent-plugins.org\n\nChapters:\n00:00 Why agent packaging needs a standard\n00:20 Introducing Agent Plugins\n00:39 Package structure, skills, and MCP servers\n01:03 Portable across products\n01:19 Scope and getting started",
       "duration": "PT1M36S",
-      "view_count": 81257,
-      "like_count": 1992,
-      "comment_count": 123,
+      "view_count": 92572,
+      "like_count": 2162,
+      "comment_count": 124,
       "url": "https://www.youtube.com/watch?v=UaeWJK_vv-Y"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-08-04T20:29:24Z",
       "description": "For many families living with a rare disease, the hardest part is not having a name for what is happening. Even with modern genetic testing, about half of people with rare diseases remain undiagnosed.\n\nIn this OpenAI Forum conversation, researchers from Boston Children’s Hospital's Manton Center for Orphan Disease Research discuss how they used OpenAI o3 Deep Research to reanalyze difficult pediatric cases and surface new leads for expert review. The conversation explores how AI can help scientists move faster, give families a better chance at answers, and support advanced medical research, while keeping geneticists and clinicians at the center of diagnosis and care.\n\nJoin the OpenAI Forum to explore more conversations with experts working at the forefront of AI, science, and society: https://forum.openai.com/",
       "duration": "PT39M32S",
-      "view_count": 6920,
-      "like_count": 218,
+      "view_count": 7060,
+      "like_count": 221,
       "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=SJJBPwlPpww"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-08-04T17:43:45Z",
       "description": "Your new birdwatching buddy is here. \nMake your own: https://github.com/openai/birdingpal",
       "duration": "PT56S",
-      "view_count": 19907,
-      "like_count": 596,
+      "view_count": 20193,
+      "like_count": 609,
       "comment_count": 113,
       "url": "https://www.youtube.com/watch?v=r64krUavXJU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-07T17:12:18Z",
+    "generated_at": "2026-08-08T05:11:54Z",
     "count": 5
   }
 }

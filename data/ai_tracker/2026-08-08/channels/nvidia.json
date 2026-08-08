@@ -14,15 +14,27 @@
   "date": "2026-08-08",
   "result": [
     {
+      "id": "SZ7rf5waBTY",
+      "title": "Open models give enterprises transparency and flexibility.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-07T19:00:31Z",
+      "description": "Open models give enterprises transparency and flexibility.\n\nNVIDIA Nemotron provides open datasets, training techniques and weights, creating a foundation teams can understand and customize for their business. \n\nHear more from Justin Boitano. 👇",
+      "duration": "PT26S",
+      "view_count": 1109,
+      "like_count": 20,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY"
+    },
+    {
       "id": "eV1Z2xQZGvA",
       "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
       "channel_title": "NVIDIA",
       "published_at": "2026-08-07T15:37:58Z",
       "description": "See how Infosys and NVIDIA are accelerating enterprise generative AI at scale. By combining Infosys Topaz with NVIDIA’s advanced technology, businesses can rapidly deploy secure, production-grade solutions. This video highlights how Infosys utilizes NVIDIA NIM microservices for high-performance inference, NVIDIA NeMo for custom model tuning, and NeMo Guardrails to enforce safety and compliance controls across the enterprise.\n\nInfosys- https://www.infosys.com/\nNVIDIA - https://www.nvidia.com/en-in/solutions/ai/",
       "duration": "PT2M5S",
-      "view_count": 265,
-      "like_count": 31,
-      "comment_count": 2,
+      "view_count": 1110,
+      "like_count": 58,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-08-06T19:03:16Z",
       "description": "AI built with a company’s data should remain under its control.\n\nOpen models let organizations decide where AI runs, what data it uses and how it evolves, turning specialized knowledge into an advantage they can protect and build on.\n\nMore from Palantir’s Sovereignty Bootcamp. 👇",
       "duration": "PT45S",
-      "view_count": 2332,
-      "like_count": 49,
+      "view_count": 3008,
+      "like_count": 66,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=sC9hayyt5aw"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-08-05T20:53:46Z",
       "description": "How do you explain world models to your sibling? 🤖\n\nNVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world.\n\nOr, as they might put it, it teaches robots to dream. 💭",
       "duration": "PT1M15S",
-      "view_count": 5025,
-      "like_count": 183,
-      "comment_count": 8,
+      "view_count": 5447,
+      "like_count": 199,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=zyrWGQ8zl-4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-08-05T18:00:01Z",
       "description": "What is RTX Spark?\n\nA new era of personal computing starts here. \n\nLearn more: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT57S",
-      "view_count": 4849,
-      "like_count": 158,
+      "view_count": 5322,
+      "like_count": 181,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=eeoIADqwxpY"
-    },
-    {
-      "id": "AWrBir1CJg0",
-      "title": "How Agentic AI is Powering Autonomous Networks",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-08-05T16:54:11Z",
-      "description": "Network automation and autonomous networks aren't the same thing — and the gap between them is where the next generation of telco operations lives.\n\nThis video breaks down what it takes to get there: agentic AI, closed-loop operations, and an ecosystem building on NVIDIA platforms to make it real.\n\n🔗 Learn more at https://nvda.ws/3TCovrz",
-      "duration": "PT1M54S",
-      "view_count": 2883,
-      "like_count": 90,
-      "comment_count": 2,
-      "url": "https://www.youtube.com/watch?v=AWrBir1CJg0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-07T17:12:17Z",
+    "generated_at": "2026-08-08T05:11:53Z",
     "count": 5
   }
 }
