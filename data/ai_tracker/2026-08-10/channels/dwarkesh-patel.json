@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-10",
+  "result": [
+    {
+      "id": "KP_Bpsu69NI",
+      "title": "How a Random Lunch Led Physics into the Riemann Hypothesis - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-09T16:30:36Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 1057,
+      "like_count": 55,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=KP_Bpsu69NI"
+    },
+    {
+      "id": "AvH0cJV1Cc8",
+      "title": "AlphaZero for Mathematics - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-07T22:28:23Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 92951,
+      "like_count": 1828,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=AvH0cJV1Cc8"
+    },
+    {
+      "id": "iewm45atodE",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-07T17:33:15Z",
+      "description": "Read the essay here:\nhttps://www.dwarkesh.com/p/era-of-continual-learning",
+      "duration": "PT8M38S",
+      "view_count": 34496,
+      "like_count": 1200,
+      "comment_count": 194,
+      "url": "https://www.youtube.com/watch?v=iewm45atodE"
+    },
+    {
+      "id": "1vAGYbbtahU",
+      "title": "The Skill Great Teachers Have That LLMs Completely Lack - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-06T22:13:29Z",
+      "description": "",
+      "duration": "PT40S",
+      "view_count": 22684,
+      "like_count": 461,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=1vAGYbbtahU"
+    },
+    {
+      "id": "KjMKzIOhw4Q",
+      "title": "The Real Advantage AI Has Over Human Geniuses - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-04T22:08:20Z",
+      "description": "",
+      "duration": "PT1M20S",
+      "view_count": 41350,
+      "like_count": 1039,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=KjMKzIOhw4Q"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-09T16:59:52Z",
+    "count": 5
+  }
+}
