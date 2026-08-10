@@ -20,9 +20,9 @@
       "published_at": "2026-08-09T16:30:36Z",
       "description": "",
       "duration": "PT1M21S",
-      "view_count": 1057,
-      "like_count": 55,
-      "comment_count": 0,
+      "view_count": 18986,
+      "like_count": 574,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=KP_Bpsu69NI"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-07T22:28:23Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 92951,
-      "like_count": 1828,
-      "comment_count": 31,
+      "view_count": 110751,
+      "like_count": 2159,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=AvH0cJV1Cc8"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-07T17:33:15Z",
       "description": "Read the essay here:\nhttps://www.dwarkesh.com/p/era-of-continual-learning",
       "duration": "PT8M38S",
-      "view_count": 34496,
-      "like_count": 1200,
-      "comment_count": 194,
+      "view_count": 38411,
+      "like_count": 1303,
+      "comment_count": 206,
       "url": "https://www.youtube.com/watch?v=iewm45atodE"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-08-06T22:13:29Z",
       "description": "",
       "duration": "PT40S",
-      "view_count": 22684,
-      "like_count": 461,
+      "view_count": 25253,
+      "like_count": 493,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=1vAGYbbtahU"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-08-04T22:08:20Z",
       "description": "",
       "duration": "PT1M20S",
-      "view_count": 41350,
-      "like_count": 1039,
-      "comment_count": 37,
+      "view_count": 43313,
+      "like_count": 1085,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=KjMKzIOhw4Q"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-09T16:59:52Z",
+    "generated_at": "2026-08-10T05:50:56Z",
     "count": 5
   }
 }
