@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-08-11",
+  "result": [
+    {
+      "id": "vO6SWG-jxvE",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-08-07T08:22:00Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Gemma4 paper and some more is available here:\nhttps://arxiv.org/abs/2607.02770\nhttps://x.com/googlegemma/status/2077449152062247219\nhttps://x.com/UnslothAI/status/2078118183085731843\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT5M23S",
+      "view_count": 106735,
+      "like_count": 5466,
+      "comment_count": 371,
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE"
+    },
+    {
+      "id": "ppQh4Tc9BmM",
+      "title": "The Billion Dollar AI Race Just Broke",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-08-05T13:54:29Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Qwen 3.8 Max:\nhttps://qwen.ai/blog?id=qwen3.8\n\nSources:\nhttps://x.com/loktar00/status/2082589566934929750\nhttps://x.com/CommandCodeAI/status/2084293498950590839\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT4M14S",
+      "view_count": 120873,
+      "like_count": 4708,
+      "comment_count": 467,
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM"
+    },
+    {
+      "id": "bm1BjOjS7sQ",
+      "title": "Another DeepSeek Moment Has Arrived",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-08-03T09:47:34Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek API: https://platform.deepseek.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT4M31S",
+      "view_count": 124424,
+      "like_count": 5492,
+      "comment_count": 405,
+      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ"
+    },
+    {
+      "id": "8B05cy3UuSE",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-08-02T15:01:10Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://jiashunwang.github.io/HIL/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT6M31S",
+      "view_count": 43339,
+      "like_count": 2070,
+      "comment_count": 115,
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE"
+    },
+    {
+      "id": "Xj-QdEUxJkE",
+      "title": "Kimi K3 Just Broke The Economics Of AI",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-07-29T12:37:50Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2607.24653\n\nTry Kimi K3 (subject to availability): https://www.kimi.com/\n\nLinks:\nhttps://macos27.kimi.page/\nhttps://x.com/mweinbach/status/2077878247920951400\nhttps://x.com/intheworldofai/status/2077838911494336681\nhttps://x.com/chetaslua/status/2077829183989072281\nhttps://x.com/hqmank/status/2078104317027094907\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT5M",
+      "view_count": 102212,
+      "like_count": 4208,
+      "comment_count": 313,
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-10T17:14:01Z",
+    "count": 5
+  }
+}
