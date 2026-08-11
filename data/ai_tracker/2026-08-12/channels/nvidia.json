@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-08-12",
+  "result": [
+    {
+      "id": "pmiN5Nj1-K8",
+      "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-11T13:00:34Z",
+      "description": "Robotics and AI are redefining healthcare, transforming diagnostics, surgery, patient care, and operational efficiency. Explore how NVIDIA hardware, AI factories, simulation, and robotics platforms power physical AI systems and digital agents that unify sensing, perception, planning, control, and generative reasoning in real medical devices and workflows.\n\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT41M16S",
+      "view_count": 523,
+      "like_count": 38,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8"
+    },
+    {
+      "id": "rRkucx0KwcI",
+      "title": "GTC SJ 2026: Physical AI for Healthcare Robotics - Simulation-First Design & Accelerated Development",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-10T21:00:15Z",
+      "description": "Discover how simulation-first design is radically changing how medical and healthcare robots are prototyped, tested, and built. As global healthcare systems navigate severe supply-and-demand crises, physical AI and robotics stand out as critical solutions to boost efficiency and clinical accuracy.\n\nThis session showcases how engineering teams leverage the NVIDIA Physical AI ecosystem - including world foundation models, physics-based simulations, high-fidelity digital twins, synthetic data generation, and real-time sensor-to-action deployment - to accelerate time-to-market while vastly lowering clinical risks long before technologies enter the operating room.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT43M17S",
+      "view_count": 2209,
+      "like_count": 105,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=rRkucx0KwcI"
+    },
+    {
+      "id": "xcTRTotS9-A",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-08T09:44:27Z",
+      "description": "NVIDIA pioneered accelerated computing to tackle problems beyond the reach of ordinary computers and is working with AI cloud partners to expand access to AI factories around the world.\n\nWatch NVIDIA Founder and CEO Jensen Huang celebrate Firebird’s launch of the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. The project is intended to bring global demand for AI infrastructure, local development opportunities, and new economic growth to the region\n\n➡️ Learn more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+      "duration": "PT3M23S",
+      "view_count": 30393,
+      "like_count": 1256,
+      "comment_count": 149,
+      "url": "https://www.youtube.com/watch?v=xcTRTotS9-A"
+    },
+    {
+      "id": "SZ7rf5waBTY",
+      "title": "Open models give enterprises transparency and flexibility.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-07T19:00:31Z",
+      "description": "Open models give enterprises transparency and flexibility.\n\nNVIDIA Nemotron provides open datasets, training techniques and weights, creating a foundation teams can understand and customize for their business. \n\nHear more from Justin Boitano. 👇",
+      "duration": "PT26S",
+      "view_count": 3878,
+      "like_count": 106,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY"
+    },
+    {
+      "id": "eV1Z2xQZGvA",
+      "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-07T15:37:58Z",
+      "description": "See how Infosys and NVIDIA are accelerating enterprise generative AI at scale. By combining Infosys Topaz with NVIDIA’s advanced technology, businesses can rapidly deploy secure, production-grade solutions. This video highlights how Infosys utilizes NVIDIA NIM microservices for high-performance inference, NVIDIA NeMo for custom model tuning, and NeMo Guardrails to enforce safety and compliance controls across the enterprise.\n\nInfosys- https://www.infosys.com/\nNVIDIA - https://www.nvidia.com/en-in/solutions/ai/",
+      "duration": "PT2M5S",
+      "view_count": 2598,
+      "like_count": 88,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-11T17:23:11Z",
+    "count": 5
+  }
+}

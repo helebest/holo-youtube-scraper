@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-08-12",
+  "result": [
+    {
+      "id": "PyTJmPkfmpc",
+      "title": "Vibe coding a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana",
+      "channel_title": "Google",
+      "published_at": "2026-08-10T18:15:35Z",
+      "description": "Looking for a morning routine upgrade? Creative Technologist Raphael vibe coded a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana to help his family start their day. \n\n#GoogleGemini",
+      "duration": "PT55S",
+      "view_count": 8127,
+      "like_count": 256,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=PyTJmPkfmpc"
+    },
+    {
+      "id": "bSp-foRDH5M",
+      "title": "How to build apps and automate tasks with Google Antigravity 2.0",
+      "channel_title": "Google",
+      "published_at": "2026-08-04T20:46:03Z",
+      "description": "Google Antigravity 2.0 is your standalone desktop command center, designed to run autonomous AI agents in parallel. Watch this video to see AI agents plan, build, test, and execute complex workflows simultaneously. \n\nAntigravity also comes as CLI, an IDE, and SDK.\n\nThis site is a great resource to guide you as you ramp up on all things Antigravity: https://antigravity.google/\n\nWatch more videos from Google and start building with AI:\nhttps://youtu.be/tYhgWRJeYzs?si=QOs_Gqfzo601H2Ts\nhttps://youtu.be/xCkIxdJZ8fU?si=vAXEw-x8NZPzm6Fm\nhttps://youtu.be/b1Pvt072wKQ?si=9DbKnYvYn5AlRHT2\nhttps://youtu.be/NBOYISh5jC4?si=AQjg31-VHW4zXeNY\nhttps://youtu.be/QAKtNOWsaHI?si=vJudwNULApvhSbDd\nhttps://youtu.be/mx0xFpVjxHE?si=mpMQZRc5QfNf2-Wf\nhttps://youtu.be/uW4B6ziQqvY?si=yRqKiqWlrFwnuPVE\nhttps://youtu.be/guv2-EoGUXw?si=UcTNfgPQfTrLWb3u\nhttps://youtu.be/TglEnUdBb3o?si=dWkPJcSdTK6DAF_l\n\n#GoogleGemini #GoogleAI #Antigravity\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M16S",
+      "view_count": 38849,
+      "like_count": 790,
+      "comment_count": 137,
+      "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
+    },
+    {
+      "id": "nizOUNTyt58",
+      "title": "Upgrade your summer style with Search ☀️",
+      "channel_title": "Google",
+      "published_at": "2026-08-03T16:01:20Z",
+      "description": "Search the fit on Google and hit “Try it on” to see it on you before the delivery truck gets involved. \n\n#GoogleSearch",
+      "duration": "PT10S",
+      "view_count": 34251,
+      "like_count": 555,
+      "comment_count": 112,
+      "url": "https://www.youtube.com/watch?v=nizOUNTyt58"
+    },
+    {
+      "id": "JUlcgfqCgN4",
+      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-07-30T15:59:03Z",
+      "description": "Thwip over to Google to see what happens 🔎",
+      "duration": "PT14S",
+      "view_count": 64603,
+      "like_count": 1366,
+      "comment_count": 119,
+      "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
+    },
+    {
+      "id": "nlz0UmQdhqk",
+      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
+      "channel_title": "Google",
+      "published_at": "2026-07-27T19:35:51Z",
+      "description": "Head over to Google to see what happens 🕷️",
+      "duration": "PT10S",
+      "view_count": 68644,
+      "like_count": 1315,
+      "comment_count": 143,
+      "url": "https://www.youtube.com/watch?v=nlz0UmQdhqk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-11T17:23:13Z",
+    "count": 5
+  }
+}
