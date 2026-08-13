@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-14",
+  "result": [
+    {
+      "id": "WCwT4gWpHmI",
+      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T17:12:37Z",
+      "description": "“There’s an old adage that performance can be a feature because when something becomes fast enough, it changes behavior.”\n\nToday we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.\n\nOpenAI technical staff are already seeing what that speed changes. One security investigation workflow that once took one to two hours now takes 10–15 minutes, sometimes approaching real time. In other workflows, staff use Ultrafast to investigate root causes, search systems in parallel, and stay in flow while coding.\n\nUltrafast is available to a select group of API customers, with access expanding as capacity grows.\n\nLearn more: https://openai.com/index/previewing-ultrafast/",
+      "duration": "PT1M34S",
+      "view_count": 517,
+      "like_count": 30,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=WCwT4gWpHmI"
+    },
+    {
+      "id": "bl2eGejkbaU",
+      "title": "Get a daily CFO briefing with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T13:06:22Z",
+      "description": "Start the day with a clear view of the decisions that matter most.\n\nChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.\n\nWhen a potential acquisition surfaces, ChatGPT creates an executive decision memo and an editable Excel workbook covering valuation, financial projections, transaction economics, and risk.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
+      "duration": "PT1M49S",
+      "view_count": 1040,
+      "like_count": 34,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=bl2eGejkbaU"
+    },
+    {
+      "id": "94Td-y5z5rk",
+      "title": "Build custom financial forecasting apps with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T13:05:30Z",
+      "description": "Build an interactive financial forecast using the numbers your business already trusts.\n\nChatGPT Work connects approved financial data from Google Drive and NetSuite, compares actuals with the latest outlook, and creates an interactive forecasting dashboard. Adjust assumptions, test scenarios, and see how different decisions could affect the business.\n\nApproved figures, proposed adjustments, and hypothetical scenarios stay clearly separate.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
+      "duration": "PT1M24S",
+      "view_count": 598,
+      "like_count": 26,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=94Td-y5z5rk"
+    },
+    {
+      "id": "Ljm3nHQQiSk",
+      "title": "Reconcile quarter-end financials with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T13:04:31Z",
+      "description": "Prepare for quarter-end close with a clear view of what changed and why.\n\nChatGPT Work connects board materials in Google Drive with posted financial data in NetSuite. It flags variances, traces discrepancies to their source, shows the impact on the forecast, and prepares a close recommendation for Finance to review.\n\nWhen items need attention, ChatGPT turns them into an action plan in Slack with clear owners and next steps.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
+      "duration": "PT1M31S",
+      "view_count": 1369,
+      "like_count": 60,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=Ljm3nHQQiSk"
+    },
+    {
+      "id": "_HCks5jkPLw",
+      "title": "Use ChatGPT Work to deliver board-ready reporting",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T11:31:36Z",
+      "description": "Catch quarter-end mistakes before they reach your board.\n\nThis is how we use ChatGPT Work to check our financial model, executive memo, and board deck against data. ChatGPT Work will flag anything that doesn’t match for our teams to check.\n\nWatch the full session for more demos here: https://openai.ondemand.goldcast.io/on-demand/cd89f13d-bd97-4b96-9261-818ffdcd2fc0",
+      "duration": "PT2M31S",
+      "view_count": 3101,
+      "like_count": 97,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=_HCks5jkPLw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-13T17:23:21Z",
+    "count": 5
+  }
+}
