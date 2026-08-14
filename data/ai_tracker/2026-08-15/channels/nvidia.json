@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-08-15",
+  "result": [
+    {
+      "id": "XGCTh8BNibY",
+      "title": "Jaguar Type 01 Visits NVIDIA HQ",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-14T00:30:03Z",
+      "description": "@Jaguar brought Type 01 alongside a classic 1966 Jaguar E-Type, to NVIDIA HQ while en route to Monterey Car Week.",
+      "duration": "PT19S",
+      "view_count": 7336,
+      "like_count": 167,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
+    },
+    {
+      "id": "KHpAIj-mTzE",
+      "title": "Agentic AI needs more than one model.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-13T00:11:44Z",
+      "description": "Agentic AI needs more than one model. \n\nA system of models combines frontier intelligence with specialized open models, routing each task for the right balance of accuracy, speed and cost.👇",
+      "duration": "PT22S",
+      "view_count": 2440,
+      "like_count": 55,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=KHpAIj-mTzE"
+    },
+    {
+      "id": "CNM6Mmqrfeg",
+      "title": "NVIDIA Spectrum-X Ethernet Photonics | Now in Full Production",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-12T18:07:23Z",
+      "description": "NVIDIA Spectrum-X Ethernet Photonics is now in full production — delivering the next generation of scale-out networking infrastructure for AI factories.\n\nTo reach gigawatt scale, AI factories require purpose-built networking. NVIDIA Spectrum-X Ethernet Photonics delivers:\n4x fewer lasers\n5x lower power consumption\n10x higher mean time between incidents\n\nBuilt with world-class manufacturing partners across the full supply chain:\nSilicon Photonics Fabrication — TSMC\nChip-Scale Packaging and Testing — SPIL\nLaser Chip Fabrication — Lumentum\nLaser Module Subassembly — TFC Communication\nSwitch System Assembly — Foxconn\n\nLearn more about NVIDIA Spectrum-X Ethernet networking: https://www.nvidia.com/en-us/networking/spectrum-x",
+      "duration": "PT1M13S",
+      "view_count": 22991,
+      "like_count": 871,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=CNM6Mmqrfeg"
+    },
+    {
+      "id": "Iq3gwdriirU",
+      "title": "This is just the beginning. Join us at GTC Berlin, October 20–22",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-12T14:16:12Z",
+      "description": "Across Europe, our Inception team met with founders, developers, investors, and ecosystem partners shaping the next wave of AI. 🎥 ⬇️\n \nThis is just the beginning.\n \nJoin us at #NVIDIAGTC Berlin, October 20–22, to see how startups are building, scaling, and bringing breakthrough AI to market.",
+      "duration": "PT1M47S",
+      "view_count": 2557,
+      "like_count": 143,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=Iq3gwdriirU"
+    },
+    {
+      "id": "pmiN5Nj1-K8",
+      "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-11T13:00:34Z",
+      "description": "Robotics and AI are redefining healthcare, transforming diagnostics, surgery, patient care, and operational efficiency. Explore how NVIDIA hardware, AI factories, simulation, and robotics platforms power physical AI systems and digital agents that unify sensing, perception, planning, control, and generative reasoning in real medical devices and workflows.\n\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT41M16S",
+      "view_count": 1601,
+      "like_count": 80,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-14T17:15:35Z",
+    "count": 5
+  }
+}
