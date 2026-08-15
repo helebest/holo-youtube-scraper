@@ -14,14 +14,26 @@
   "date": "2026-08-15",
   "result": [
     {
+      "id": "EDWbX_-RYws",
+      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-14T17:19:17Z",
+      "description": "Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.\n\nOpenAI technical staff are already seeing what that speed changes. One security investigation workflow that once took one to two hours now takes 10–15 minutes, sometimes approaching real time. In other workflows, staff use Ultrafast to investigate root causes, search systems in parallel, and stay in flow while coding.\n\nUltrafast is available to a select group of API customers, with access expanding as capacity grows.\n\nLearn more: https://openai.com/index/previewing-ultrafast/",
+      "duration": "PT1M33S",
+      "view_count": 13362,
+      "like_count": 416,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=EDWbX_-RYws"
+    },
+    {
       "id": "0XPk_MAwCW4",
       "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
       "channel_title": "OpenAI",
       "published_at": "2026-08-14T06:30:28Z",
       "description": "What gives one of cricket’s smartest teams its edge before the first ball is bowled?\n\nGo behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise’s analytics and technology teams reveal how ChatGPT and OpenAI tools support auction strategy, player analysis, match preparation, and creative work across the organization.",
       "duration": "PT3M35S",
-      "view_count": 2069,
-      "like_count": 60,
+      "view_count": 2794,
+      "like_count": 67,
       "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=0XPk_MAwCW4"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-08-13T20:34:04Z",
       "description": "Codex & ChatGPT can now understand the context around what you’re working on.\n\nWhen you opt in to Computer History, it can help you pick up where you left off, get back to unfinished projects, and see suggested skills or scheduled tasks based on the work you do regularly.\n\nAvailable in the ChatGPT desktop app on Mac for ChatGPT Pro, Business, and Enterprise.\n\nIf you’re on a Business or Enterprise team, your admin will need to turn it on first.",
       "duration": "PT3M11S",
-      "view_count": 29138,
-      "like_count": 1070,
-      "comment_count": 128,
+      "view_count": 33245,
+      "like_count": 1146,
+      "comment_count": 137,
       "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-08-13T13:06:22Z",
       "description": "Start the day with a clear view of the decisions that matter most.\n\nChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.\n\nWhen a potential acquisition surfaces, ChatGPT creates an executive decision memo and an editable Excel workbook covering valuation, financial projections, transaction economics, and risk.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
       "duration": "PT1M49S",
-      "view_count": 3521,
-      "like_count": 70,
+      "view_count": 3882,
+      "like_count": 72,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=bl2eGejkbaU"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-13T13:05:30Z",
       "description": "Build an interactive financial forecast using the numbers your business already trusts.\n\nChatGPT Work connects approved financial data from Google Drive and NetSuite, compares actuals with the latest outlook, and creates an interactive forecasting dashboard. Adjust assumptions, test scenarios, and see how different decisions could affect the business.\n\nApproved figures, proposed adjustments, and hypothetical scenarios stay clearly separate.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
       "duration": "PT1M24S",
-      "view_count": 2264,
-      "like_count": 49,
+      "view_count": 2524,
+      "like_count": 53,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=94Td-y5z5rk"
-    },
-    {
-      "id": "Ljm3nHQQiSk",
-      "title": "Reconcile quarter-end financials with ChatGPT Work",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-13T13:04:31Z",
-      "description": "Prepare for quarter-end close with a clear view of what changed and why.\n\nChatGPT Work connects board materials in Google Drive with posted financial data in NetSuite. It flags variances, traces discrepancies to their source, shows the impact on the forecast, and prepares a close recommendation for Finance to review.\n\nWhen items need attention, ChatGPT turns them into an action plan in Slack with clear owners and next steps.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
-      "duration": "PT1M31S",
-      "view_count": 3839,
-      "like_count": 91,
-      "comment_count": 6,
-      "url": "https://www.youtube.com/watch?v=Ljm3nHQQiSk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-14T17:15:35Z",
+    "generated_at": "2026-08-15T04:52:15Z",
     "count": 5
   }
 }
