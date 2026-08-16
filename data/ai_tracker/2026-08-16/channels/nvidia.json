@@ -20,9 +20,9 @@
       "published_at": "2026-08-14T19:27:50Z",
       "description": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next.\n\nTo our 2026 interns: thank you for spending your summer with us. 💚",
       "duration": "PT33S",
-      "view_count": 9883,
-      "like_count": 388,
-      "comment_count": 25,
+      "view_count": 13672,
+      "like_count": 484,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=EWlD1dy5lck"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-14T00:30:03Z",
       "description": "@Jaguar brought Type 01 alongside a classic 1966 Jaguar E-Type, to NVIDIA HQ while en route to Monterey Car Week.",
       "duration": "PT19S",
-      "view_count": 15143,
-      "like_count": 286,
-      "comment_count": 17,
+      "view_count": 16045,
+      "like_count": 295,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-13T00:11:44Z",
       "description": "Agentic AI needs more than one model. \n\nA system of models combines frontier intelligence with specialized open models, routing each task for the right balance of accuracy, speed and cost.👇",
       "duration": "PT22S",
-      "view_count": 2749,
-      "like_count": 62,
-      "comment_count": 4,
+      "view_count": 3027,
+      "like_count": 78,
+      "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=KHpAIj-mTzE"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-12T18:07:23Z",
       "description": "NVIDIA Spectrum-X Ethernet Photonics is now in full production — delivering the next generation of scale-out networking infrastructure for AI factories.\n\nTo reach gigawatt scale, AI factories require purpose-built networking. NVIDIA Spectrum-X Ethernet Photonics delivers:\n4x fewer lasers\n5x lower power consumption\n10x higher mean time between incidents\n\nBuilt with world-class manufacturing partners across the full supply chain:\nSilicon Photonics Fabrication — TSMC\nChip-Scale Packaging and Testing — SPIL\nLaser Chip Fabrication — Lumentum\nLaser Module Subassembly — TFC Communication\nSwitch System Assembly — Foxconn\n\nLearn more about NVIDIA Spectrum-X Ethernet networking: https://www.nvidia.com/en-us/networking/spectrumx/",
       "duration": "PT1M13S",
-      "view_count": 26316,
-      "like_count": 959,
-      "comment_count": 115,
+      "view_count": 27057,
+      "like_count": 984,
+      "comment_count": 121,
       "url": "https://www.youtube.com/watch?v=CNM6Mmqrfeg"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-12T14:16:12Z",
       "description": "Across Europe, our Inception team met with founders, developers, investors, and ecosystem partners shaping the next wave of AI. 🎥 ⬇️\n \nThis is just the beginning.\n \nJoin us at #NVIDIAGTC Berlin, October 20–22, to see how startups are building, scaling, and bringing breakthrough AI to market.",
       "duration": "PT1M47S",
-      "view_count": 2739,
+      "view_count": 2811,
       "like_count": 148,
-      "comment_count": 7,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=Iq3gwdriirU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-15T16:45:17Z",
+    "generated_at": "2026-08-16T04:55:10Z",
     "count": 5
   }
 }
