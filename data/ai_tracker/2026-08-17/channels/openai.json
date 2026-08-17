@@ -20,8 +20,8 @@
       "published_at": "2026-08-14T17:19:17Z",
       "description": "Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.\n\nOpenAI technical staff are already seeing what that speed changes. One security investigation workflow that once took one to two hours now takes 10–15 minutes, sometimes approaching real time. In other workflows, staff use Ultrafast to investigate root causes, search systems in parallel, and stay in flow while coding.\n\nUltrafast is available to a select group of API customers, with access expanding as capacity grows.\n\nLearn more: https://openai.com/index/previewing-ultrafast/",
       "duration": "PT1M33S",
-      "view_count": 23658,
-      "like_count": 590,
+      "view_count": 25483,
+      "like_count": 613,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=EDWbX_-RYws"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-08-14T06:30:28Z",
       "description": "What gives one of cricket’s smartest teams its edge before the first ball is bowled?\n\nGo behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise’s analytics and technology teams reveal how ChatGPT and OpenAI tools support auction strategy, player analysis, match preparation, and creative work across the organization.",
       "duration": "PT3M35S",
-      "view_count": 3565,
-      "like_count": 80,
-      "comment_count": 10,
+      "view_count": 3710,
+      "like_count": 83,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=0XPk_MAwCW4"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-13T20:34:04Z",
       "description": "Codex & ChatGPT can now understand the context around what you’re working on.\n\nWhen you opt in to Computer History, it can help you pick up where you left off, get back to unfinished projects, and see suggested skills or scheduled tasks based on the work you do regularly.\n\nAvailable in the ChatGPT desktop app on Mac for ChatGPT Pro, Business, and Enterprise.\n\nIf you’re on a Business or Enterprise team, your admin will need to turn it on first.",
       "duration": "PT3M11S",
-      "view_count": 38342,
-      "like_count": 1267,
-      "comment_count": 148,
+      "view_count": 39467,
+      "like_count": 1288,
+      "comment_count": 150,
       "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-13T13:06:22Z",
       "description": "Start the day with a clear view of the decisions that matter most.\n\nChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.\n\nWhen a potential acquisition surfaces, ChatGPT creates an executive decision memo and an editable Excel workbook covering valuation, financial projections, transaction economics, and risk.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
       "duration": "PT1M49S",
-      "view_count": 4832,
-      "like_count": 92,
-      "comment_count": 7,
+      "view_count": 5156,
+      "like_count": 97,
+      "comment_count": 8,
       "url": "https://www.youtube.com/watch?v=bl2eGejkbaU"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-13T13:05:30Z",
       "description": "Build an interactive financial forecast using the numbers your business already trusts.\n\nChatGPT Work connects approved financial data from Google Drive and NetSuite, compares actuals with the latest outlook, and creates an interactive forecasting dashboard. Adjust assumptions, test scenarios, and see how different decisions could affect the business.\n\nApproved figures, proposed adjustments, and hypothetical scenarios stay clearly separate.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
       "duration": "PT1M24S",
-      "view_count": 3271,
-      "like_count": 67,
+      "view_count": 3338,
+      "like_count": 69,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=94Td-y5z5rk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-16T16:45:32Z",
+    "generated_at": "2026-08-17T05:03:13Z",
     "count": 5
   }
 }
