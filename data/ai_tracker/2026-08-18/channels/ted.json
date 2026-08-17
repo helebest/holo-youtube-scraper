@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-08-18",
+  "result": [
+    {
+      "id": "Ip77mh3Of0I",
+      "title": "Why Economic Inequality Is the Biggest Threat to Democracy | Sally Kohn | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-17T15:00:38Z",
+      "description": "Is authoritarianism winning, or is democracy just failing to deliver? Communications strategist Sally Kohn lays out how democracy has evolved before and why it must evolve again, into what she calls \"Democracy 3.0\" — a version that finally shares power and opportunity equally. \"We the people demand that our politics and our economy work way better for us,\" says Kohn. (Recorded at TED Democracy Philadelphia on June 13, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/sallykohn26\n\nhttps://youtu.be/Ip77mh3Of0I\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Democracy",
+      "duration": "PT17M49S",
+      "view_count": 1148,
+      "like_count": 132,
+      "comment_count": 38,
+      "url": "https://www.youtube.com/watch?v=Ip77mh3Of0I"
+    },
+    {
+      "id": "K7af3rZd6PA",
+      "title": "Bad days aren’t a detour— they mean you’re right on track #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-08-16T19:00:02Z",
+      "description": "One month before the Rio Olympics, runner Alexi Pappas couldn't hit her splits in practice. She was begging her watch to change its mind. Then her coach told her to take it off — and shared the best advice she's ever received. That single piece of wisdom led her to break a national record and changed how she chases her goals, carrying her through ultramarathons, a memoir and three films. Bad days aren't a detour, she says — they mean you're right on track.",
+      "duration": "PT1M27S",
+      "view_count": 13552,
+      "like_count": 588,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=K7af3rZd6PA"
+    },
+    {
+      "id": "3Ae4qCvQIcM",
+      "title": "Why Depression Isn’t What You Think | Lisa Monteggia | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-16T15:00:17Z",
+      "description": "The idea that depression comes from a chemical imbalance in the brain has shaped treatment for decades. Neuroscientist Lisa Monteggia shares research suggesting that's not the whole story — and shows how a decades-old drug could upend what we thought we knew about depression, with the potential to offer relief within hours. (Recorded at TEDxNashvilleWomen on August 21, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/lisamonteggia\n\nhttps://youtu.be/3Ae4qCvQIcM\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Science #Depression",
+      "duration": "PT13M12S",
+      "view_count": 16411,
+      "like_count": 529,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=3Ae4qCvQIcM"
+    },
+    {
+      "id": "Z2oIPjnlK2I",
+      "title": "No culture or country is only one thing #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-08-15T19:00:20Z",
+      "description": "Our lives, our cultures, are composed of many overlapping stories. Novelist Chimamanda Adichie tells the story of how she found her authentic cultural voice -- and warns that if we hear only a single story about another person or country, we risk a critical misunderstanding.",
+      "duration": "PT1M39S",
+      "view_count": 23796,
+      "like_count": 1335,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=Z2oIPjnlK2I"
+    },
+    {
+      "id": "LGb0_ed_euA",
+      "title": "How Play Boosts Your Creativity and Resilience | Katina Bajaj | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-14T15:00:18Z",
+      "description": "When was the last time you just ... played? Creative health scientist Katina Bajaj thinks adults are in a \"play deprivation crisis,\" where we've replaced our fun-loving human nature with optimization and efficiency. She makes the case that play isn't a reward for productivity but rather a survival skill — and invites you to rediscover the freedom of not knowing where something will end up. (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/katinabajaj\n\nhttps://youtu.be/LGb0_ed_euA\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Creativity",
+      "duration": "PT12M2S",
+      "view_count": 21762,
+      "like_count": 582,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=LGb0_ed_euA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-17T16:50:11Z",
+    "count": 5
+  }
+}

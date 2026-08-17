@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-18",
+  "result": [
+    {
+      "id": "pP4scNfgL5U",
+      "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-15T21:21:18Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 92002,
+      "like_count": 1563,
+      "comment_count": 83,
+      "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
+    },
+    {
+      "id": "BL75EMfz_N8",
+      "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-14T21:48:10Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 42702,
+      "like_count": 890,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
+    },
+    {
+      "id": "BcsP0RFqu-o",
+      "title": "Why AI would rather lie than say 'I don't know' - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-13T20:40:54Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 14578,
+      "like_count": 428,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
+    },
+    {
+      "id": "yAq4PDB6n3s",
+      "title": "Every AI Model Has an Inherited Personality - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-12T21:19:21Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 158787,
+      "like_count": 2741,
+      "comment_count": 140,
+      "url": "https://www.youtube.com/watch?v=yAq4PDB6n3s"
+    },
+    {
+      "id": "tHtkXw90IrY",
+      "title": "Claude Got Caught Trying to Hack a GitHub Repo - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-11T21:41:04Z",
+      "description": "",
+      "duration": "PT54S",
+      "view_count": 65786,
+      "like_count": 1147,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=tHtkXw90IrY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-17T16:50:10Z",
+    "count": 5
+  }
+}

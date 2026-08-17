@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-18",
+  "result": [
+    {
+      "id": "Cxp2aZQqkYM",
+      "title": "How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-17T15:22:51Z",
+      "description": "Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required.\n\nIn this Startup Spotlight, Yoav Farhi, Staff AI Engineer at Base44, shares how the team tested GPT-5.6 across a wide range of app-building scenarios. Compared with GPT-5.5, GPT-5.6 delivered better outcomes while using 20% fewer tokens, completed tasks faster, and produced stronger first-pass designs for complex interfaces.\n\nFor Base44’s builders, that means less time correcting and re-explaining—and a faster path from idea to a product they can put in front of customers.\n\nLearn more about GPT-5.6: https://openai.com/index/gpt-5-6/",
+      "duration": "PT1M12S",
+      "view_count": 902,
+      "like_count": 70,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Cxp2aZQqkYM"
+    },
+    {
+      "id": "EDWbX_-RYws",
+      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-14T17:19:17Z",
+      "description": "Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.\n\nOpenAI technical staff are already seeing what that speed changes. One security investigation workflow that once took one to two hours now takes 10–15 minutes, sometimes approaching real time. In other workflows, staff use Ultrafast to investigate root causes, search systems in parallel, and stay in flow while coding.\n\nUltrafast is available to a select group of API customers, with access expanding as capacity grows.\n\nLearn more: https://openai.com/index/previewing-ultrafast/",
+      "duration": "PT1M33S",
+      "view_count": 26927,
+      "like_count": 633,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=EDWbX_-RYws"
+    },
+    {
+      "id": "0XPk_MAwCW4",
+      "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-14T06:30:28Z",
+      "description": "What gives one of cricket’s smartest teams its edge before the first ball is bowled?\n\nGo behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise’s analytics and technology teams reveal how ChatGPT and OpenAI tools support auction strategy, player analysis, match preparation, and creative work across the organization.",
+      "duration": "PT3M35S",
+      "view_count": 3911,
+      "like_count": 85,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=0XPk_MAwCW4"
+    },
+    {
+      "id": "W-HhMUe9hOg",
+      "title": "Computer History in ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T20:34:04Z",
+      "description": "Codex & ChatGPT can now understand the context around what you’re working on.\n\nWhen you opt in to Computer History, it can help you pick up where you left off, get back to unfinished projects, and see suggested skills or scheduled tasks based on the work you do regularly.\n\nAvailable in the ChatGPT desktop app on Mac for ChatGPT Pro, Business, and Enterprise.\n\nIf you’re on a Business or Enterprise team, your admin will need to turn it on first.",
+      "duration": "PT3M11S",
+      "view_count": 40605,
+      "like_count": 1305,
+      "comment_count": 152,
+      "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
+    },
+    {
+      "id": "bl2eGejkbaU",
+      "title": "Get a daily CFO briefing with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-13T13:06:22Z",
+      "description": "Start the day with a clear view of the decisions that matter most.\n\nChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.\n\nWhen a potential acquisition surfaces, ChatGPT creates an executive decision memo and an editable Excel workbook covering valuation, financial projections, transaction economics, and risk.\n\nSee how ChatGPT Work can help your finance team:\nhttps://openai.com/business/solutions/finance/",
+      "duration": "PT1M49S",
+      "view_count": 5395,
+      "like_count": 103,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=bl2eGejkbaU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-17T16:50:16Z",
+    "count": 5
+  }
+}
