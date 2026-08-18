@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-19",
+  "result": [
+    {
+      "id": "2EfINfM0wLs",
+      "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-17T21:58:24Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 20506,
+      "like_count": 416,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
+    },
+    {
+      "id": "pP4scNfgL5U",
+      "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-15T21:21:18Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 100823,
+      "like_count": 1671,
+      "comment_count": 87,
+      "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
+    },
+    {
+      "id": "BL75EMfz_N8",
+      "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-14T21:48:10Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 49008,
+      "like_count": 972,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
+    },
+    {
+      "id": "BcsP0RFqu-o",
+      "title": "Why AI would rather lie than say 'I don't know' - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-13T20:40:54Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 15486,
+      "like_count": 443,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
+    },
+    {
+      "id": "yAq4PDB6n3s",
+      "title": "Every AI Model Has an Inherited Personality - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-12T21:19:21Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 177649,
+      "like_count": 3010,
+      "comment_count": 153,
+      "url": "https://www.youtube.com/watch?v=yAq4PDB6n3s"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-18T16:53:08Z",
+    "count": 5
+  }
+}
