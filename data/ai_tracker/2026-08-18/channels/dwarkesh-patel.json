@@ -14,15 +14,27 @@
   "date": "2026-08-18",
   "result": [
     {
+      "id": "2EfINfM0wLs",
+      "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-17T21:58:24Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 8456,
+      "like_count": 226,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
+    },
+    {
       "id": "pP4scNfgL5U",
       "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-15T21:21:18Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 92002,
-      "like_count": 1563,
-      "comment_count": 83,
+      "view_count": 97938,
+      "like_count": 1637,
+      "comment_count": 85,
       "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-08-14T21:48:10Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 42702,
-      "like_count": 890,
+      "view_count": 46575,
+      "like_count": 939,
       "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-08-13T20:40:54Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 14578,
-      "like_count": 428,
+      "view_count": 15124,
+      "like_count": 436,
       "comment_count": 55,
       "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-12T21:19:21Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 158787,
-      "like_count": 2741,
-      "comment_count": 140,
+      "view_count": 171096,
+      "like_count": 2921,
+      "comment_count": 151,
       "url": "https://www.youtube.com/watch?v=yAq4PDB6n3s"
-    },
-    {
-      "id": "tHtkXw90IrY",
-      "title": "Claude Got Caught Trying to Hack a GitHub Repo - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-11T21:41:04Z",
-      "description": "",
-      "duration": "PT54S",
-      "view_count": 65786,
-      "like_count": 1147,
-      "comment_count": 58,
-      "url": "https://www.youtube.com/watch?v=tHtkXw90IrY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-17T16:50:10Z",
+    "generated_at": "2026-08-18T04:57:04Z",
     "count": 5
   }
 }
