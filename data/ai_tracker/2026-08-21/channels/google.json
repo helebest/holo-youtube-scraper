@@ -1,0 +1,24 @@
+{
+  "ok": false,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-08-21",
+  "result": [],
+  "error": {
+    "code": "HttpError",
+    "message": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2Cstatistics%2CcontentDetails&id=1fs84Lyp1s0%2C6yysYeHiPDQ%2C-eckuctHcoc%2CPyTJmPkfmpc%2CbSp-foRDH5M%2CnizOUNTyt58%2CJUlcgfqCgN4%2Cnlz0UmQdhqk%2Cy6L37mXkTw0%2CSm7OTow3mcY%2CYSKzyVOQmuA%2C9OmdZgTSp4A%2Cey8ai_3FwJI%2C8TkIQMLWXlg%2CBD7gbl2lBsM%2CuJ5b9SlZRys%2C2jBT5mlomoE%2Cc-lTrKAxViY%2C5qTTLTzyY9Y%2CqIPjorYya3U%2CBXWlJAM4U9Y%2CIJ3ABUE27Gc%2CiDz4GqHQL6Q%2CaeZTTnfo8Ok%2CGmxYBxQedDw%2CCXCE4QyvMrU%2CTglEnUdBb3o%2CjLhgnZj2iI8%2CMfDYRK1pAvA%2CLcCirFk-FaU%2CvUQ4rmTX2YY%2CJJTdXTf12oQ%2CW6l7J7Bpl7U%2C-liNEDhNkzE%2Cmx0xFpVjxHE%2CZXK6M8ldMJM%2Csl1R37FopZc%2CiGOmDRYctOw%2CSJlhYV-cRnQ%2Cd3jlow2FCH4%2CECquAokER_8%2ClafbmfUxN2k%2C07tnPL6yorU%2CTgubu3HhreY%2Cag_g-ksGBdg%2Coy8_DGRTinQ%2CVN1lRt5lsv4%2CTMQkISHKH6g%2CBwqhoWERQIo%2CJ2oAw1td51Q&key=[REDACTED]&alt=json returned \"The request cannot access user rating information. This error may occur because the request is not properly authorized to use the <code>myRating</code> parameter.\". Details: \"[{'message': 'The request cannot access user rating information. This error may occur because the request is not properly authorized to use the <code>myRating</code> parameter.', 'domain': 'youtube.video', 'reason': 'forbidden', 'location': 'myRating', 'locationType': 'parameter'}]\">"
+  },
+  "meta": {
+    "generated_at": "2026-08-20T16:56:05Z",
+    "count": 0
+  }
+}
