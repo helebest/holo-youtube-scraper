@@ -20,9 +20,9 @@
       "published_at": "2026-08-18T19:05:08Z",
       "description": "Turn a business question into a clear recommendation—without spending days gathering research and building slides.\n\nIn this demo, Arvind from OpenAI’s Strategy & Business Operations team shows how he uses ChatGPT Work to pull together market research, customer data, and past strategy work; propose a storyline; and create a leadership-ready strategy deck.\n\nYou’ll see how he reviews the sources and numbers, refines the recommendation, and approves the final readout.\n\nhttps://chatgpt.com/work",
       "duration": "PT1M48S",
-      "view_count": 5060,
-      "like_count": 150,
-      "comment_count": 20,
+      "view_count": 5923,
+      "like_count": 166,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-18T19:02:05Z",
       "description": "Turn scattered launch materials into a solid first draft.\n\nSahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft.\n\nHe then reviews, refines, and keeps the draft current as launch details change.\n\nhttps://chatgpt.com/work",
       "duration": "PT2M33S",
-      "view_count": 7120,
-      "like_count": 150,
-      "comment_count": 22,
+      "view_count": 8345,
+      "like_count": 159,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-08-18T18:58:56Z",
       "description": "Spend less time preparing for customer calls and following up afterward.\n\nAlex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review..\n\nThe result: less time managing the process and more time with customers.\n\nhttps://chatgpt.com/work",
       "duration": "PT1M41S",
-      "view_count": 3306,
-      "like_count": 93,
+      "view_count": 3859,
+      "like_count": 109,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-08-17T18:25:48Z",
       "description": "ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team leaves off.",
       "duration": "PT46S",
-      "view_count": 31349,
-      "like_count": 865,
+      "view_count": 32683,
+      "like_count": 884,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=wIf9yMGalPU"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-08-17T15:22:51Z",
       "description": "Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required.\n\nIn this Startup Spotlight, Yoav Farhi, Staff AI Engineer at Base44, shares how the team tested GPT-5.6 across a wide range of app-building scenarios. Compared with GPT-5.5, GPT-5.6 delivered better outcomes while using 20% fewer tokens, completed tasks faster, and produced stronger first-pass designs for complex interfaces.\n\nFor Base44’s builders, that means less time correcting and re-explaining—and a faster path from idea to a product they can put in front of customers.\n\nLearn more about GPT-5.6: https://openai.com/index/gpt-5-6/",
       "duration": "PT1M12S",
-      "view_count": 6139,
-      "like_count": 182,
+      "view_count": 6410,
+      "like_count": 183,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=Cxp2aZQqkYM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-19T16:51:24Z",
+    "generated_at": "2026-08-20T04:58:56Z",
     "count": 5
   }
 }

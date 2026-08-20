@@ -14,15 +14,27 @@
   "date": "2026-08-20",
   "result": [
     {
+      "id": "9oqFUheU104",
+      "title": "AI doesn't need to be good at everything. Just R&D - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-19T20:36:01Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 8154,
+      "like_count": 162,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=9oqFUheU104"
+    },
+    {
       "id": "2EfINfM0wLs",
       "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-17T21:58:24Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 27430,
-      "like_count": 505,
-      "comment_count": 32,
+      "view_count": 30376,
+      "like_count": 559,
+      "comment_count": 36,
       "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-15T21:21:18Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 105919,
-      "like_count": 1730,
-      "comment_count": 93,
+      "view_count": 108748,
+      "like_count": 1768,
+      "comment_count": 96,
       "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-08-14T21:48:10Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 52943,
-      "like_count": 1026,
+      "view_count": 54468,
+      "like_count": 1043,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-13T20:40:54Z",
       "description": "",
       "duration": "PT49S",
-      "view_count": 16210,
-      "like_count": 457,
+      "view_count": 16592,
+      "like_count": 464,
       "comment_count": 56,
       "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
-    },
-    {
-      "id": "yAq4PDB6n3s",
-      "title": "Every AI Model Has an Inherited Personality - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-12T21:19:21Z",
-      "description": "",
-      "duration": "PT48S",
-      "view_count": 187594,
-      "like_count": 3152,
-      "comment_count": 162,
-      "url": "https://www.youtube.com/watch?v=yAq4PDB6n3s"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-19T16:51:19Z",
+    "generated_at": "2026-08-20T04:58:51Z",
     "count": 5
   }
 }
