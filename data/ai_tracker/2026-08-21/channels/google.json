@@ -1,5 +1,5 @@
 {
-  "ok": false,
+  "ok": true,
   "task": "ai_tracker",
   "mode": "latest_full",
   "channel": {
@@ -12,13 +12,71 @@
     "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
   },
   "date": "2026-08-21",
-  "result": [],
-  "error": {
-    "code": "HttpError",
-    "message": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2Cstatistics%2CcontentDetails&id=1fs84Lyp1s0%2C6yysYeHiPDQ%2C-eckuctHcoc%2CPyTJmPkfmpc%2CbSp-foRDH5M%2CnizOUNTyt58%2CJUlcgfqCgN4%2Cnlz0UmQdhqk%2Cy6L37mXkTw0%2CSm7OTow3mcY%2CYSKzyVOQmuA%2C9OmdZgTSp4A%2Cey8ai_3FwJI%2C8TkIQMLWXlg%2CBD7gbl2lBsM%2CuJ5b9SlZRys%2C2jBT5mlomoE%2Cc-lTrKAxViY%2C5qTTLTzyY9Y%2CqIPjorYya3U%2CBXWlJAM4U9Y%2CIJ3ABUE27Gc%2CiDz4GqHQL6Q%2CaeZTTnfo8Ok%2CGmxYBxQedDw%2CCXCE4QyvMrU%2CTglEnUdBb3o%2CjLhgnZj2iI8%2CMfDYRK1pAvA%2CLcCirFk-FaU%2CvUQ4rmTX2YY%2CJJTdXTf12oQ%2CW6l7J7Bpl7U%2C-liNEDhNkzE%2Cmx0xFpVjxHE%2CZXK6M8ldMJM%2Csl1R37FopZc%2CiGOmDRYctOw%2CSJlhYV-cRnQ%2Cd3jlow2FCH4%2CECquAokER_8%2ClafbmfUxN2k%2C07tnPL6yorU%2CTgubu3HhreY%2Cag_g-ksGBdg%2Coy8_DGRTinQ%2CVN1lRt5lsv4%2CTMQkISHKH6g%2CBwqhoWERQIo%2CJ2oAw1td51Q&key=[REDACTED]&alt=json returned \"The request cannot access user rating information. This error may occur because the request is not properly authorized to use the <code>myRating</code> parameter.\". Details: \"[{'message': 'The request cannot access user rating information. This error may occur because the request is not properly authorized to use the <code>myRating</code> parameter.', 'domain': 'youtube.video', 'reason': 'forbidden', 'location': 'myRating', 'locationType': 'parameter'}]\">"
-  },
+  "result": [
+    {
+      "id": "dWH8n-FkprM",
+      "title": "Go behind closed doors at the Artemis II test facility | Searching For",
+      "channel_title": "Google",
+      "published_at": "2026-08-20T17:14:18Z",
+      "description": "Ever wonder what happens behind the doors at NASA? Step inside a test facility as we answer the top trending questions about the Artemis II mission. Explore the extreme testing grounds, cutting-edge hardware, and meet the crew behind the historic journey back to the Moon. All systems go on the next episode of Searching For.\n\n00:22 What is the artemis ii mission?\n00:33 Who are the artemis ii astronauts? \n00:47 How long is the artemis ii mission? \n01:02 How big is artemis ii?\n01:17 Why is NASA going back to the moon? \n01:27 How to watch the artemis ii space launch \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M43S",
+      "view_count": 7956,
+      "like_count": 466,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=dWH8n-FkprM"
+    },
+    {
+      "id": "1fs84Lyp1s0",
+      "title": "Introducing Pixel Tag, our first-ever finder tag.",
+      "channel_title": "Google",
+      "published_at": "2026-08-12T15:58:39Z",
+      "description": "Attach it to your keys or slip it into your luggage to easily find the things you love, whether they’re near or far, right in Find Hub. #MadeByGoogle",
+      "duration": "PT29S",
+      "view_count": 75016,
+      "like_count": 1443,
+      "comment_count": 178,
+      "url": "https://www.youtube.com/watch?v=1fs84Lyp1s0"
+    },
+    {
+      "id": "6yysYeHiPDQ",
+      "title": "Here’s your first peek at Pixel Watch 5.",
+      "channel_title": "Google",
+      "published_at": "2026-08-12T15:04:25Z",
+      "description": "Designed for Gemini Intelligence and Google Health, it helps you stay on top of your day with proactive assistance, advanced fitness tracking, and breakthrough health features. #MadeByGoogle",
+      "duration": "PT54S",
+      "view_count": 61332,
+      "like_count": 1552,
+      "comment_count": 96,
+      "url": "https://www.youtube.com/watch?v=6yysYeHiPDQ"
+    },
+    {
+      "id": "-eckuctHcoc",
+      "title": "Get your first look at the #Pixel11 family.",
+      "channel_title": "Google",
+      "published_at": "2026-08-12T14:08:15Z",
+      "description": "Refined hardware, made to last. Fresh colors. New cameras. And designed for Gemini Intelligence. #MadeByGoogle",
+      "duration": "PT1M3S",
+      "view_count": 46147,
+      "like_count": 1232,
+      "comment_count": 140,
+      "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
+    },
+    {
+      "id": "PyTJmPkfmpc",
+      "title": "Vibe coding a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana",
+      "channel_title": "Google",
+      "published_at": "2026-08-10T18:15:35Z",
+      "description": "Looking for a morning routine upgrade? Creative Technologist Raphael vibe coded a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana to help his family start their day. \n\n#GoogleGemini",
+      "duration": "PT55S",
+      "view_count": 24583,
+      "like_count": 565,
+      "comment_count": 81,
+      "url": "https://www.youtube.com/watch?v=PyTJmPkfmpc"
+    }
+  ],
+  "error": null,
   "meta": {
-    "generated_at": "2026-08-20T16:56:05Z",
-    "count": 0
+    "generated_at": "2026-08-21T04:59:34Z",
+    "count": 5
   }
 }

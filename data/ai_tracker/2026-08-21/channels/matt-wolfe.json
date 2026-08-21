@@ -20,9 +20,9 @@
       "published_at": "2026-08-20T12:41:43Z",
       "description": "Anthropic is working on a watermark for Claude-generated text that could follow the text even after you copy, paste, or edit it 👀\n\nThey haven't revealed exactly how this watermark works yet, but one way could be by creating a statistical pattern in Claude's word choices that humans can’t see, but a detector potentially could.\n\nAnd the implications of this have taken the internet by storm. \n\n\nPeople are wondering what happens if Claude only edits something that you originally wrote? Does that now get flagged as AI-generated? What about code, copyright, privacy, or people simply rewriting the text enough to remove the watermark entirely?\n\nAnd then there’s the bigger debate: Do people have a right to know when something was created with AI? \n\n\nCurious where you land on this one. Let me know in the comments 👇\n\nAnd follow for more AI news and updates.\n\n#AI #ainews #anthropic #claude",
       "duration": "PT1M20S",
-      "view_count": 2236,
-      "like_count": 97,
-      "comment_count": 25,
+      "view_count": 7427,
+      "like_count": 201,
+      "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=O-8TbMFOAfg"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-08-19T13:37:12Z",
       "description": "The amount of times I’ve said “I’ll remember that later” and absolutely did not… 😅\n\n@MemoketAI Gem is basically designed to catch all those little follow-ups, ideas, and action items that disappear the second a meeting ends.\n\nIt can remember context across multiple conversations, pull out what you still need to do, and sync those action items into Google Calendar or Apple Reminders. You can also bring your Memoket memories into ChatGPT, Claude, Notion, and Slack.\n\nTheir pre-order offer is live now: get the Gem, the charging dock, your choice of wristband, and a full year of our Pro subscription plan for $179.  Link is in the pinned comment.\n\n#ai #aiwristband #MemoketGem #productivityhack #memoketpartner",
       "duration": "PT1M5S",
-      "view_count": 2270,
-      "like_count": 53,
+      "view_count": 2640,
+      "like_count": 68,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=r-ORCmsRHOE"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-08-18T21:11:16Z",
       "description": "Exploring what's on the world's mind about AI right now. We'll bring the initial topics but we'll let chat take the wheel on where this conversation goes.\n\nCheck out @joefier",
       "duration": "PT3H1M23S",
-      "view_count": 7130,
-      "like_count": 200,
-      "comment_count": 9,
+      "view_count": 7737,
+      "like_count": 211,
+      "comment_count": 11,
       "url": "https://www.youtube.com/watch?v=IeT5Jn7d1aM"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-17T13:18:26Z",
       "description": "Apparently the newest benchmark for AI models is… can it commit cyber crimes? 😭\n\nFirst OpenAI’s model broke out during testing and hacked Hugging Face.\n\nThen Anthropic basically showed up like, “our models commit crimes too.”\n\nAnd now Meta has joined the club after one of its AI models accidentally got access to the public internet during cybersecurity testing and started hacking another company.\n\nObviously, there are some very real and slightly terrifying implications here about what happens when increasingly capable AI systems get access to tools they weren’t supposed to have.\n\nBut I also can’t get over how these stories are starting to feel like a very weird flex from the AI companies like: \"Our model is so smart it broke containment too!”\n\nFollow to stay up-to-date with what's happening in the tech and AI world!\n\n#ainews #ai #meta #openai #anthropic",
       "duration": "PT1M",
-      "view_count": 6771,
-      "like_count": 119,
-      "comment_count": 13,
+      "view_count": 6906,
+      "like_count": 122,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=9ZKeu_7k9ik"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-15T13:14:44Z",
       "description": "Hank Green got “caught” using AI… and I genuinely don’t think he did anything wrong.\n\nThe whole controversy started because Hank said “I appreciate the pushback” in a video — a phrase people thought sounded suspiciously like ChatGPT.\n\nThat led to Hank explaining that while he doesn’t use AI to write his scripts, he DOES use it to help find research papers that he then reads himself.\n\nAnd somehow, that turned into a much bigger debate about whether creators should be using AI at all.\n\nI actually understand why people care. If you watch someone specifically for THEIR opinions, perspective, and commentary, you probably don’t want those things outsourced to an LLM.\n\nBut using AI as a better research tool or dumping your own messy thoughts into it and asking it to help organize them feels like a completely valid use-case to me.\n\nI also think people need to give creators a little more grace here.\n\nCreators are often working under a ton of pressure to constantly research, write, film, edit, publish, and somehow keep doing it over and over again while also having families, businesses, careers, and lives outside of what you see on camera.\n\nOf course they're going to look for ways to make that process more optimized and sustainable.\n\nCurious what your take on this is... \n\n#AI #Ainews",
       "duration": "PT2M48S",
-      "view_count": 11387,
-      "like_count": 463,
+      "view_count": 11526,
+      "like_count": 467,
       "comment_count": 79,
       "url": "https://www.youtube.com/watch?v=ZePfpQ7lbcs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-20T16:56:07Z",
+    "generated_at": "2026-08-21T04:59:34Z",
     "count": 5
   }
 }
