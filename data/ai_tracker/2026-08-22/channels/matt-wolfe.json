@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-08-22",
+  "result": [
+    {
+      "id": "EfGF7QbJItA",
+      "title": "AI News: The Best Open Model Runs on Your Computer!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-21T15:00:23Z",
+      "description": "Here's the AI News you might have missed this week. Get $100 in free credits for @Hyperagent when you sign up for a paid here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nTripo P2.0 Preview: https://x.com/tripoai/status/2089750360114298937\nmRNA Cancer Vaccine: https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/\nPioneering mRNA Technology: https://www.modernatx.com/en-US/media-center/all-media/blogs/advancing-fight-against-cancer\nQwen3.8 Open Weights: https://x.com/Alibaba_Qwen/status/2088280182356611304\nLM Studio Bionic: https://lmstudio.ai/\nHermes Agent: https://hermes-agent.nousresearch.com/\nPacing Cyber Capabilities: https://openai.com/index/pacing-model-development-cyber-capabilities/\nChatGPT Computer History: https://learn.chatgpt.com/docs/customization/computer-history\nApple Messages Plugin: https://x.com/ChatGPT/status/2090499359641329950\nMeta AI Mac App: https://x.com/spencerbarnett/status/2090164939105476969\nPerplexity Brain Memory: https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki\nGemini Watermark Toggle: https://x.com/GeminiApp/status/2088277477672255830\nClaude Gmail Drive: https://x.com/claudeai/status/2089806039088517356\nChatGPT For Teens: https://openai.com/index/chatgpt-for-teens/\nFree Google AI Students: https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/\nHappyShrimp Music Model: https://www.alibabacloud.com/blog/alibaba-releases-ai-music-generation-model-happyshrimp-1-0-in-beta-test_603466\nCursor Origin Code Hosting: https://cursor.com/changelog/origin-code-hosting\nSlack Code Agent: https://www.salesforce.com/introducing-slack-code/\nAI Authorship Study: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/\nUnitree Superman Robot: https://x.com/UnitreeRobotics/status/2089240553682809175\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:23 Tripo P2.0\n5:00 AI Cancer Breakthrough\n8:06 HyperAgent Agent Teams\n9:24 Qwen3.8-27b (Open Source and Local)\n17:42 OpenAI Presses Pause\n19:33 ChatGPT Computer History\n21:23 ChatGPT Apple Messages\n22:23 New Meta AI App\n23:07 Perplexity Brain\n23:48 Gemini Removes Watermarks\n24:30 Claude Gmail and Drive\n24:55 ChatGPT for Teens\n26:10 Gemini for Free\n26:32 HappyShrimp\n27:51 Cursor Origin\n28:14 Slack Code\n29:20 Dead Internet Proof\n30:04 Unitree Superman Robot\n30:37 Final Thoughts\n32:25 WTF?",
+      "duration": "PT32M41S",
+      "view_count": 3661,
+      "like_count": 333,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=EfGF7QbJItA"
+    },
+    {
+      "id": "O-8TbMFOAfg",
+      "title": "Claude’s Text Watermark Could Follow It Everywhere",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-20T12:41:43Z",
+      "description": "Anthropic is working on a watermark for Claude-generated text that could follow the text even after you copy, paste, or edit it 👀\n\nThey haven't revealed exactly how this watermark works yet, but one way could be by creating a statistical pattern in Claude's word choices that humans can’t see, but a detector potentially could.\n\nAnd the implications of this have taken the internet by storm. \n\n\nPeople are wondering what happens if Claude only edits something that you originally wrote? Does that now get flagged as AI-generated? What about code, copyright, privacy, or people simply rewriting the text enough to remove the watermark entirely?\n\nAnd then there’s the bigger debate: Do people have a right to know when something was created with AI? \n\n\nCurious where you land on this one. Let me know in the comments 👇\n\nAnd follow for more AI news and updates.\n\n#AI #ainews #anthropic #claude",
+      "duration": "PT1M20S",
+      "view_count": 9659,
+      "like_count": 240,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=O-8TbMFOAfg"
+    },
+    {
+      "id": "r-ORCmsRHOE",
+      "title": "Your New Backup Brain Is Here",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-19T13:37:12Z",
+      "description": "The amount of times I’ve said “I’ll remember that later” and absolutely did not… 😅\n\n@MemoketAI Gem is basically designed to catch all those little follow-ups, ideas, and action items that disappear the second a meeting ends.\n\nIt can remember context across multiple conversations, pull out what you still need to do, and sync those action items into Google Calendar or Apple Reminders. You can also bring your Memoket memories into ChatGPT, Claude, Notion, and Slack.\n\nTheir pre-order offer is live now: get the Gem, the charging dock, your choice of wristband, and a full year of our Pro subscription plan for $179.  Link is in the pinned comment.\n\n#ai #aiwristband #MemoketGem #productivityhack #memoketpartner",
+      "duration": "PT1M5S",
+      "view_count": 2965,
+      "like_count": 71,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=r-ORCmsRHOE"
+    },
+    {
+      "id": "IeT5Jn7d1aM",
+      "title": "Exclusive BTS of my Automated AI System (LIVE)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-18T21:11:16Z",
+      "description": "Exploring what's on the world's mind about AI right now. We'll bring the initial topics but we'll let chat take the wheel on where this conversation goes.\n\nCheck out @joefier",
+      "duration": "PT3H1M23S",
+      "view_count": 8221,
+      "like_count": 216,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=IeT5Jn7d1aM"
+    },
+    {
+      "id": "9ZKeu_7k9ik",
+      "title": "Are AI Models Escaping On Purpose?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-17T13:18:26Z",
+      "description": "Apparently the newest benchmark for AI models is… can it commit cyber crimes? 😭\n\nFirst OpenAI’s model broke out during testing and hacked Hugging Face.\n\nThen Anthropic basically showed up like, “our models commit crimes too.”\n\nAnd now Meta has joined the club after one of its AI models accidentally got access to the public internet during cybersecurity testing and started hacking another company.\n\nObviously, there are some very real and slightly terrifying implications here about what happens when increasingly capable AI systems get access to tools they weren’t supposed to have.\n\nBut I also can’t get over how these stories are starting to feel like a very weird flex from the AI companies like: \"Our model is so smart it broke containment too!”\n\nFollow to stay up-to-date with what's happening in the tech and AI world!\n\n#ainews #ai #meta #openai #anthropic",
+      "duration": "PT1M",
+      "view_count": 6989,
+      "like_count": 125,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=9ZKeu_7k9ik"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-21T16:56:09Z",
+    "count": 5
+  }
+}

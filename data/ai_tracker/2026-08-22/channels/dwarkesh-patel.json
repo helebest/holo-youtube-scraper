@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-22",
+  "result": [
+    {
+      "id": "9oqFUheU104",
+      "title": "AI doesn't need to be good at everything. Just R&D - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-19T20:36:01Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 18282,
+      "like_count": 274,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=9oqFUheU104"
+    },
+    {
+      "id": "2EfINfM0wLs",
+      "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-17T21:58:24Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 35650,
+      "like_count": 625,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
+    },
+    {
+      "id": "pP4scNfgL5U",
+      "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-15T21:21:18Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 115109,
+      "like_count": 1849,
+      "comment_count": 98,
+      "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
+    },
+    {
+      "id": "BL75EMfz_N8",
+      "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-14T21:48:10Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 56867,
+      "like_count": 1078,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
+    },
+    {
+      "id": "BcsP0RFqu-o",
+      "title": "Why AI would rather lie than say 'I don't know' - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-13T20:40:54Z",
+      "description": "",
+      "duration": "PT49S",
+      "view_count": 17201,
+      "like_count": 469,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-21T16:56:04Z",
+    "count": 5
+  }
+}

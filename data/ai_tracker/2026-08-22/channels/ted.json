@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-08-22",
+  "result": [
+    {
+      "id": "rTubAg019-A",
+      "title": "Why Countries Should Measure Dreams and Ambitions (Just like GDP) | Lance Katigbak | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-21T15:00:17Z",
+      "description": "What do you want to be when you grow up? It's a universal question — and yet at some point, people stop asking you. Drawing on a nationwide survey across the Philippines, consumer researcher Lance Katigbak makes the case that countries should keep track of their citizens' ambitions and aspirations. His radical proposal: What if governments didn't just track GDP but also started measuring dreams? (Recorded at TED@BCG on October 23, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/lancekatigbak\n\nhttps://youtu.be/rTubAg019-A\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Economics",
+      "duration": "PT9M14S",
+      "view_count": 1055,
+      "like_count": 89,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=rTubAg019-A"
+    },
+    {
+      "id": "P9s8Sn72Od0",
+      "title": "The question isn’t whether or not humans matter — it’s how will we make our impact count? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-08-20T19:00:01Z",
+      "description": "As AI agents take over more tasks at work, the question isn’t whether or not humans matter — it’s how we make our impact count. Leadership expert Vinciane Beauchene challenges some commonly held assumptions about how AI will transform the workplace, sharing a blueprint for leaders to design organizations where people can focus on what truly makes a difference.",
+      "duration": "PT1M55S",
+      "view_count": 8148,
+      "like_count": 243,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=P9s8Sn72Od0"
+    },
+    {
+      "id": "fd_TsNUpPWw",
+      "title": "How Satellites and AI Can Protect the Planet | Robbie Schingler | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-20T15:00:37Z",
+      "description": "Space technologist Robbie Schingler cofounded a satellite company that images the whole planet every day, making visible changes on Earth. He shows how pairing that data with AI creates a \"planetary intelligence\" we can use to spot emerging threats we might not have seen otherwise. Now he asks: Can we close the gap between seeing a crisis coming and actually stopping it? (Followed by a note from TED guest curators Divya Siddarth and Audrey Tang) (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/robbieschingler\n\nhttps://youtu.be/fd_TsNUpPWw\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Tech #ClimateChange",
+      "duration": "PT12M3S",
+      "view_count": 9195,
+      "like_count": 256,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=fd_TsNUpPWw"
+    },
+    {
+      "id": "yVJfjS1qtUQ",
+      "title": "Group chats used to be written on the walls (literally). #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-08-18T18:00:11Z",
+      "description": "Take a graffiti tour through ancient Pompeii with Roman archaeologist Jacqueline DiBiasie-Sammons and discover what 2,000-year-old scribblings from antiquity can teach us about life in modern times. A fascinating reminder of what we leave behind for future generations.",
+      "duration": "PT45S",
+      "view_count": 14169,
+      "like_count": 221,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=yVJfjS1qtUQ"
+    },
+    {
+      "id": "TeVE4TQPEwM",
+      "title": "The Power of Imagination — Onstage and Off | Suki Hillier | TED",
+      "channel_title": "TED",
+      "published_at": "2026-08-18T15:30:28Z",
+      "description": "When professional child actor Suki Hillier landed the title role in \"Matilda The Musical,\" she thought she would have to learn how to become someone else. Instead, she realized she had known the role since she was three, when she playfully tried to move objects with her mind the way Matilda does. In this joyful talk, she reveals the similarities between the stage and life — because imagination isn't about escaping the world. It’s a way of building one. (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/sukihillier\n\nhttps://youtu.be/TeVE4TQPEwM\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Theater",
+      "duration": "PT5M7S",
+      "view_count": 23831,
+      "like_count": 567,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=TeVE4TQPEwM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-21T16:56:05Z",
+    "count": 5
+  }
+}
