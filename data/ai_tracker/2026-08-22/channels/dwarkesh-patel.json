@@ -14,15 +14,27 @@
   "date": "2026-08-22",
   "result": [
     {
+      "id": "URHm5xCSkuY",
+      "title": "Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-21T21:21:04Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 9059,
+      "like_count": 337,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=URHm5xCSkuY"
+    },
+    {
       "id": "9oqFUheU104",
       "title": "AI doesn't need to be good at everything. Just R&D - Ryan Greenblatt",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-19T20:36:01Z",
       "description": "",
       "duration": "PT30S",
-      "view_count": 18282,
-      "like_count": 274,
-      "comment_count": 28,
+      "view_count": 19534,
+      "like_count": 286,
+      "comment_count": 29,
       "url": "https://www.youtube.com/watch?v=9oqFUheU104"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-08-17T21:58:24Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 35650,
-      "like_count": 625,
+      "view_count": 36405,
+      "like_count": 633,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-08-15T21:21:18Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 115109,
-      "like_count": 1849,
+      "view_count": 116569,
+      "like_count": 1859,
       "comment_count": 98,
       "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-14T21:48:10Z",
       "description": "",
       "duration": "PT1M1S",
-      "view_count": 56867,
-      "like_count": 1078,
+      "view_count": 57333,
+      "like_count": 1085,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
-    },
-    {
-      "id": "BcsP0RFqu-o",
-      "title": "Why AI would rather lie than say 'I don't know' - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-13T20:40:54Z",
-      "description": "",
-      "duration": "PT49S",
-      "view_count": 17201,
-      "like_count": 469,
-      "comment_count": 56,
-      "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-21T16:56:04Z",
+    "generated_at": "2026-08-22T04:54:39Z",
     "count": 5
   }
 }
