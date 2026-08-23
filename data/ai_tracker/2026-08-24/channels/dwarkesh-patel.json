@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-24",
+  "result": [
+    {
+      "id": "URHm5xCSkuY",
+      "title": "Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-21T21:21:04Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 30755,
+      "like_count": 859,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=URHm5xCSkuY"
+    },
+    {
+      "id": "9oqFUheU104",
+      "title": "AI doesn't need to be good at everything. Just R&D - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-19T20:36:01Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 22481,
+      "like_count": 319,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=9oqFUheU104"
+    },
+    {
+      "id": "2EfINfM0wLs",
+      "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-17T21:58:24Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 38317,
+      "like_count": 669,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
+    },
+    {
+      "id": "pP4scNfgL5U",
+      "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-15T21:21:18Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 119264,
+      "like_count": 1895,
+      "comment_count": 100,
+      "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
+    },
+    {
+      "id": "BL75EMfz_N8",
+      "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-14T21:48:10Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 58086,
+      "like_count": 1092,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-23T16:46:41Z",
+    "count": 5
+  }
+}
