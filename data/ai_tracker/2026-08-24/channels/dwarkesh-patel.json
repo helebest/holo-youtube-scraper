@@ -14,15 +14,27 @@
   "date": "2026-08-24",
   "result": [
     {
+      "id": "gfi0bOuHiDU",
+      "title": "Machine Learning Is Shallow Compared to Math - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-23T21:26:53Z",
+      "description": "",
+      "duration": "PT29S",
+      "view_count": 7806,
+      "like_count": 165,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=gfi0bOuHiDU"
+    },
+    {
       "id": "URHm5xCSkuY",
       "title": "Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-21T21:21:04Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 30755,
-      "like_count": 859,
-      "comment_count": 48,
+      "view_count": 34493,
+      "like_count": 960,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=URHm5xCSkuY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-19T20:36:01Z",
       "description": "",
       "duration": "PT30S",
-      "view_count": 22481,
-      "like_count": 319,
-      "comment_count": 35,
+      "view_count": 23607,
+      "like_count": 331,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=9oqFUheU104"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-08-17T21:58:24Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 38317,
-      "like_count": 669,
+      "view_count": 39045,
+      "like_count": 688,
       "comment_count": 41,
       "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-15T21:21:18Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 119264,
-      "like_count": 1895,
-      "comment_count": 100,
+      "view_count": 119383,
+      "like_count": 1906,
+      "comment_count": 101,
       "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
-    },
-    {
-      "id": "BL75EMfz_N8",
-      "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-14T21:48:10Z",
-      "description": "",
-      "duration": "PT1M1S",
-      "view_count": 58086,
-      "like_count": 1092,
-      "comment_count": 41,
-      "url": "https://www.youtube.com/watch?v=BL75EMfz_N8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-23T16:46:41Z",
+    "generated_at": "2026-08-24T05:06:53Z",
     "count": 5
   }
 }
