@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-25",
+  "result": [
+    {
+      "id": "ceBruD6v5Bk",
+      "title": "You Can Just Use Your Voice | ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-24T13:55:45Z",
+      "description": "ChatGPT Work turns what you say into work you can use, capturing your thinking and helping you move it forward.",
+      "duration": "PT40S",
+      "view_count": 956,
+      "like_count": 46,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk"
+    },
+    {
+      "id": "XjSJ6ybS9I8",
+      "title": "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-18T19:05:08Z",
+      "description": "Turn a business question into a clear recommendation—without spending days gathering research and building slides.\n\nIn this demo, Arvind from OpenAI’s Strategy & Business Operations team shows how he uses ChatGPT Work to pull together market research, customer data, and past strategy work; propose a storyline; and create a leadership-ready strategy deck.\n\nYou’ll see how he reviews the sources and numbers, refines the recommendation, and approves the final readout.\n\nhttps://chatgpt.com/work",
+      "duration": "PT1M48S",
+      "view_count": 8849,
+      "like_count": 221,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
+    },
+    {
+      "id": "0j9yDUDMrBs",
+      "title": "How to Create a Solid Blog Draft With ChatGPT Work | Tutorial",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-18T19:02:05Z",
+      "description": "Turn scattered launch materials into a solid first draft.\n\nSahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft.\n\nHe then reviews, refines, and keeps the draft current as launch details change.\n\nhttps://chatgpt.com/work",
+      "duration": "PT2M33S",
+      "view_count": 12105,
+      "like_count": 194,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
+    },
+    {
+      "id": "yQZgOSHHxjk",
+      "title": "How to Prepare for Customer Meetings With ChatGPT Work | Tutorial",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-18T18:58:56Z",
+      "description": "Spend less time preparing for customer calls and following up afterward.\n\nAlex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review..\n\nThe result: less time managing the process and more time with customers.\n\nhttps://chatgpt.com/work",
+      "duration": "PT1M41S",
+      "view_count": 6283,
+      "like_count": 175,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
+    },
+    {
+      "id": "wIf9yMGalPU",
+      "title": "You can just keep the work moving | ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-17T18:25:48Z",
+      "description": "ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team leaves off.",
+      "duration": "PT46S",
+      "view_count": 35348,
+      "like_count": 942,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=wIf9yMGalPU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-24T17:00:07Z",
+    "count": 5
+  }
+}
