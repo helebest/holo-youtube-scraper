@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-26",
+  "result": [
+    {
+      "id": "aV26V1UvkJw",
+      "title": "Dylan Patel – Two labs will soon control most of the world's workforce",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-25T15:57:53Z",
+      "description": "Had a lot of fun chatting again with my twin brother Dylan Patel.\n\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world’s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\n\nAnd then we discuss whether the $10T+ of total AI capex we’ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\n\nOne question we weren’t able to resolve is whether there’s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/dylan-patel-3\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/dylan-patel-anthropic-openai-will-have-most-of/id1516093381?i=1000785793715\n* Spotify: https://open.spotify.com/episode/1chA0sqLyHUL684tUEE3ek?si=Dgplc0zpTz-H6O642qY5mA\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Grok Bot has been quite helpful with my search for a new editor. I created a recruiter bot and described the type of editor I was looking for. That bot then spun up a handful of subagents that combed through my emails and X DMs, read the end credits of various documentaries I like, and figured out who edits for some of my favorite YouTubers. It took all of those results, and then delivered me a shortlist of candidates that matched my criteria. Try Grok Bot for yourself at https://x.ai/bot\n\n* Antithesis lets you add time travel to your software testing toolkit. Since the Antithesis platform is fully deterministic, everything that happens inside of it is perfectly reproducible. So if your software crashes, you can rewind to the exact right moment, freeze time, and investigate. Or you can test different hypotheses by perturbing the system: kill a node or disable a feature, see what happens, then reset the trajectory and try something else. Learn more at https://antithesis.com/dwarkesh\n\n* Jane Street is hiring for two separate ML internships right now, one focused primarily on research and one focused on engineering. In both cases, interns are expected to contribute to real work, not contrived exercises: one common project is adapting a frontier LLM paper to financial markets, which tend to come with a ton of different gnarly challenges. Importantly, you don’t need any finance background to apply. 2027 applications are open now at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Two labs will soon control most of the world’s compute\n00:07:01 – $6 billion in fab capex enables $1t+ of end revenue\n00:13:08 – Compute prices will rise if the labs outbid everyone\n00:18:22 – Which layer will capture most of the surplus?\n00:25:40 – Will datacenter regulation slow down AI?\n00:29:43 – Labs are shifting compute from inference to R&D\n00:33:27 – China gets less than 10% of new compute, but its labs need less\n00:48:48 – Will AI cause a sovereign debt crisis?\n01:07:52 – Will the world's future workforce belong to a few companies?",
+      "duration": "PT1H16M53S",
+      "view_count": 6081,
+      "like_count": 323,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=aV26V1UvkJw"
+    },
+    {
+      "id": "tbPuJ1AP_vs",
+      "title": "Why Humans Can Still Beat AI at Coding - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-24T21:47:52Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 21938,
+      "like_count": 499,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=tbPuJ1AP_vs"
+    },
+    {
+      "id": "gfi0bOuHiDU",
+      "title": "Machine Learning Is Shallow Compared to Math - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-23T21:26:53Z",
+      "description": "",
+      "duration": "PT29S",
+      "view_count": 22318,
+      "like_count": 389,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=gfi0bOuHiDU"
+    },
+    {
+      "id": "URHm5xCSkuY",
+      "title": "Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-21T21:21:04Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 42774,
+      "like_count": 1163,
+      "comment_count": 62,
+      "url": "https://www.youtube.com/watch?v=URHm5xCSkuY"
+    },
+    {
+      "id": "9oqFUheU104",
+      "title": "AI doesn't need to be good at everything. Just R&D - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-19T20:36:01Z",
+      "description": "",
+      "duration": "PT30S",
+      "view_count": 25656,
+      "like_count": 347,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=9oqFUheU104"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-25T17:00:46Z",
+    "count": 5
+  }
+}
