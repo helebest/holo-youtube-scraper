@@ -14,15 +14,27 @@
   "date": "2026-08-25",
   "result": [
     {
+      "id": "jzmNh8lbSp8",
+      "title": "Make information visual with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-24T23:09:56Z",
+      "description": "Turn dense information into interactive visualizations with the Visualize skill in ChatGPT and Codex. Katia Gil Guzman shows how to transform meeting notes into an interface, iterate with calendar views and actions, and export the result as an image or publish it as a site.",
+      "duration": "PT1M27S",
+      "view_count": 9501,
+      "like_count": 712,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8"
+    },
+    {
       "id": "ceBruD6v5Bk",
-      "title": "You Can Just Use Your Voice | ChatGPT Work",
+      "title": "You can just use your voice | ChatGPT Work",
       "channel_title": "OpenAI",
       "published_at": "2026-08-24T13:55:45Z",
       "description": "ChatGPT Work turns what you say into work you can use, capturing your thinking and helping you move it forward.",
       "duration": "PT40S",
-      "view_count": 956,
-      "like_count": 46,
-      "comment_count": 7,
+      "view_count": 12756,
+      "like_count": 307,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-18T19:05:08Z",
       "description": "Turn a business question into a clear recommendation—without spending days gathering research and building slides.\n\nIn this demo, Arvind from OpenAI’s Strategy & Business Operations team shows how he uses ChatGPT Work to pull together market research, customer data, and past strategy work; propose a storyline; and create a leadership-ready strategy deck.\n\nYou’ll see how he reviews the sources and numbers, refines the recommendation, and approves the final readout.\n\nhttps://chatgpt.com/work",
       "duration": "PT1M48S",
-      "view_count": 8849,
-      "like_count": 221,
-      "comment_count": 30,
+      "view_count": 9104,
+      "like_count": 226,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-08-18T19:02:05Z",
       "description": "Turn scattered launch materials into a solid first draft.\n\nSahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft.\n\nHe then reviews, refines, and keeps the draft current as launch details change.\n\nhttps://chatgpt.com/work",
       "duration": "PT2M33S",
-      "view_count": 12105,
-      "like_count": 194,
+      "view_count": 12235,
+      "like_count": 197,
       "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-18T18:58:56Z",
       "description": "Spend less time preparing for customer calls and following up afterward.\n\nAlex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review..\n\nThe result: less time managing the process and more time with customers.\n\nhttps://chatgpt.com/work",
       "duration": "PT1M41S",
-      "view_count": 6283,
-      "like_count": 175,
+      "view_count": 6438,
+      "like_count": 179,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
-    },
-    {
-      "id": "wIf9yMGalPU",
-      "title": "You can just keep the work moving | ChatGPT Work",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-17T18:25:48Z",
-      "description": "ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team leaves off.",
-      "duration": "PT46S",
-      "view_count": 35348,
-      "like_count": 942,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=wIf9yMGalPU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-24T17:00:07Z",
+    "generated_at": "2026-08-25T04:59:32Z",
     "count": 5
   }
 }

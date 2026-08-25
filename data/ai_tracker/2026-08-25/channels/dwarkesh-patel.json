@@ -14,15 +14,27 @@
   "date": "2026-08-25",
   "result": [
     {
+      "id": "tbPuJ1AP_vs",
+      "title": "Why Humans Can Still Beat AI at Coding - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-24T21:47:52Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 8675,
+      "like_count": 275,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=tbPuJ1AP_vs"
+    },
+    {
       "id": "gfi0bOuHiDU",
       "title": "Machine Learning Is Shallow Compared to Math - Ryan Greenblatt",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-23T21:26:53Z",
       "description": "",
       "duration": "PT29S",
-      "view_count": 15025,
-      "like_count": 299,
-      "comment_count": 24,
+      "view_count": 20011,
+      "like_count": 361,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=gfi0bOuHiDU"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-21T21:21:04Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 37386,
-      "like_count": 1054,
-      "comment_count": 57,
+      "view_count": 40863,
+      "like_count": 1126,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=URHm5xCSkuY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-08-19T20:36:01Z",
       "description": "",
       "duration": "PT30S",
-      "view_count": 24125,
-      "like_count": 338,
-      "comment_count": 41,
+      "view_count": 25010,
+      "like_count": 341,
+      "comment_count": 43,
       "url": "https://www.youtube.com/watch?v=9oqFUheU104"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-08-17T21:58:24Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 39533,
-      "like_count": 699,
-      "comment_count": 46,
+      "view_count": 40102,
+      "like_count": 703,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=2EfINfM0wLs"
-    },
-    {
-      "id": "pP4scNfgL5U",
-      "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-15T21:21:18Z",
-      "description": "",
-      "duration": "PT45S",
-      "view_count": 119560,
-      "like_count": 1909,
-      "comment_count": 101,
-      "url": "https://www.youtube.com/watch?v=pP4scNfgL5U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-24T17:00:01Z",
+    "generated_at": "2026-08-25T04:59:27Z",
     "count": 5
   }
 }

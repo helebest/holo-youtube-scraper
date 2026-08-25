@@ -20,9 +20,9 @@
       "published_at": "2026-08-20T18:44:59Z",
       "description": "This demo shows how a local Hermes agent running on NVIDIA RTX Spark can streamline software development by monitoring communication channels, prioritizing urgent issues, and coordinating debugging and QA.\n\nRTX Spark is built to run demanding AI models and always-on agents locally and simultaneously. By offloading repetitive tasks, RTX Spark gives developers more time to focus on building.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/ \n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
       "duration": "PT2M47S",
-      "view_count": 41617,
-      "like_count": 1465,
-      "comment_count": 160,
+      "view_count": 42921,
+      "like_count": 1489,
+      "comment_count": 166,
       "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-08-19T20:39:25Z",
       "description": "10X more tokens per second per megawatt as measured by CoreWeave on the NVIDIA Vera Rubin NVL72 platform.\n\nThe next generation of AI factories will be measured by how efficiently they turn compute into tokens, and tokens into revenue. Achieving that requires extreme co-design across the entire stack, paired with an open ecosystem built to innovate and scale.\n\nNVIDIA’s Dion Harris breaks down 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software, and security — and connects the technology behind Vera Rubin to the economics shaping the future of AI infrastructure.\n\nLearn more:\n\nhttps://www.cio.com/article/4209776/5-critical-questions-that-define-ai-factory-economics.html\n\nhttps://blogs.nvidia.com/blog/vera-rubin/",
       "duration": "PT52S",
-      "view_count": 4152,
-      "like_count": 133,
+      "view_count": 4233,
+      "like_count": 134,
       "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-08-18T20:00:11Z",
       "description": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
       "duration": "PT1M10S",
-      "view_count": 8843,
-      "like_count": 412,
-      "comment_count": 36,
+      "view_count": 9471,
+      "like_count": 446,
+      "comment_count": 38,
       "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-08-14T19:27:50Z",
       "description": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next.\n\nTo our 2026 interns: thank you for spending your summer with us. 💚",
       "duration": "PT33S",
-      "view_count": 22262,
-      "like_count": 737,
+      "view_count": 22371,
+      "like_count": 739,
       "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=EWlD1dy5lck"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-08-14T00:30:03Z",
       "description": "@Jaguar brought Type 01 alongside a classic 1966 Jaguar E-Type, to NVIDIA HQ while en route to Monterey Car Week.",
       "duration": "PT19S",
-      "view_count": 22215,
-      "like_count": 377,
+      "view_count": 22317,
+      "like_count": 378,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-24T17:00:06Z",
+    "generated_at": "2026-08-25T04:59:31Z",
     "count": 5
   }
 }
