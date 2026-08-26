@@ -14,69 +14,69 @@
   "date": "2026-08-26",
   "result": [
     {
+      "id": "29SyCndnMZs",
+      "title": "How to Manage Your Workspace With ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-25T20:17:22Z",
+      "description": "See how the ChatGPT admin plugin brings workspace administration into ChatGPT Work. Aarti Bagul, Member of GTM Staff at OpenAI, demonstrates how admins can analyze adoption and credit usage, update and share an AI rollout deck, and review and approve usage limit requests without switching between tools.",
+      "duration": "PT2M24S",
+      "view_count": 9377,
+      "like_count": 319,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=29SyCndnMZs"
+    },
+    {
+      "id": "Is2NHa7awWY",
+      "title": "Build agent-ready sites with WebMCP",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-25T20:15:30Z",
+      "description": "Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and collaborate through the same interface.",
+      "duration": "PT2M18S",
+      "view_count": 12371,
+      "like_count": 549,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY"
+    },
+    {
+      "id": "2f9bBlGOuX4",
+      "title": "Codex, but make it weird. Hahahacks.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-25T18:26:41Z",
+      "description": "Thanks for having us, @tiatplace",
+      "duration": "PT1M17S",
+      "view_count": 7491,
+      "like_count": 311,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4"
+    },
+    {
+      "id": "9MIkJHcMtVA",
+      "title": "No Limits on Text Chats with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-25T17:21:58Z",
+      "description": "All users now have unlimited access to text chats in ChatGPT with our latest model GPT-5.6 Luna.\n\n🎥: @2UnlimitedOfficial",
+      "duration": "PT3M16S",
+      "view_count": 4368,
+      "like_count": 274,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA"
+    },
+    {
       "id": "jzmNh8lbSp8",
       "title": "Make information visual with ChatGPT",
       "channel_title": "OpenAI",
       "published_at": "2026-08-24T23:09:56Z",
       "description": "Turn dense information into interactive visualizations with the Visualize skill in ChatGPT and Codex. Katia Gil Guzman shows how to transform meeting notes into an interface, iterate with calendar views and actions, and export the result as an image or publish it as a site.",
       "duration": "PT1M27S",
-      "view_count": 49059,
-      "like_count": 1799,
-      "comment_count": 52,
+      "view_count": 68939,
+      "like_count": 2305,
+      "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8"
-    },
-    {
-      "id": "ceBruD6v5Bk",
-      "title": "You can just use your voice | ChatGPT Work",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-24T13:55:45Z",
-      "description": "ChatGPT Work turns what you say into work you can use, capturing your thinking and helping you move it forward.",
-      "duration": "PT40S",
-      "view_count": 18662,
-      "like_count": 392,
-      "comment_count": 37,
-      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk"
-    },
-    {
-      "id": "XjSJ6ybS9I8",
-      "title": "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-18T19:05:08Z",
-      "description": "Turn a business question into a clear recommendation—without spending days gathering research and building slides.\n\nIn this demo, Arvind from OpenAI’s Strategy & Business Operations team shows how he uses ChatGPT Work to pull together market research, customer data, and past strategy work; propose a storyline; and create a leadership-ready strategy deck.\n\nYou’ll see how he reviews the sources and numbers, refines the recommendation, and approves the final readout.\n\nhttps://chatgpt.com/work",
-      "duration": "PT1M48S",
-      "view_count": 9408,
-      "like_count": 230,
-      "comment_count": 31,
-      "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
-    },
-    {
-      "id": "0j9yDUDMrBs",
-      "title": "How to Create a Solid Blog Draft With ChatGPT Work | Tutorial",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-18T19:02:05Z",
-      "description": "Turn scattered launch materials into a solid first draft.\n\nSahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft.\n\nHe then reviews, refines, and keeps the draft current as launch details change.\n\nhttps://chatgpt.com/work",
-      "duration": "PT2M33S",
-      "view_count": 12504,
-      "like_count": 201,
-      "comment_count": 25,
-      "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
-    },
-    {
-      "id": "yQZgOSHHxjk",
-      "title": "How to Prepare for Customer Meetings With ChatGPT Work | Tutorial",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-18T18:58:56Z",
-      "description": "Spend less time preparing for customer calls and following up afterward.\n\nAlex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review..\n\nThe result: less time managing the process and more time with customers.\n\nhttps://chatgpt.com/work",
-      "duration": "PT1M41S",
-      "view_count": 6617,
-      "like_count": 182,
-      "comment_count": 12,
-      "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-25T17:00:51Z",
+    "generated_at": "2026-08-26T05:00:45Z",
     "count": 5
   }
 }
