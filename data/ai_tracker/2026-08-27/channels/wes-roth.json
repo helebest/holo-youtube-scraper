@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-08-27",
+  "result": [
+    {
+      "id": "Im2c-7jvKz8",
+      "title": "OpenAI BROKE the Industry Overnight....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-26T09:18:51Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nOpenAI Jalapeño: Better Than Nvidia Blackwell\nhttps://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia\n\n\n#ai #openai #llm",
+      "duration": "PT15M43S",
+      "view_count": 56120,
+      "like_count": 2312,
+      "comment_count": 542,
+      "url": "https://www.youtube.com/watch?v=Im2c-7jvKz8"
+    },
+    {
+      "id": "VbNdual0DFo",
+      "title": "Ilya Sutskever new \"Superintelligence\" model will change EVERYTHING",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-23T10:54:20Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT17M50S",
+      "view_count": 67226,
+      "like_count": 1881,
+      "comment_count": 340,
+      "url": "https://www.youtube.com/watch?v=VbNdual0DFo"
+    },
+    {
+      "id": "LUFVYJlguJk",
+      "title": "here's how to build a real business...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-20T04:19:46Z",
+      "description": "👉 Build your own app or website with Lovable: https://lovable.link/R7uY2hw\n\nI used Lovable to build Decaf News, a text-only news site designed to summarize what happened without clickbait, outrage, pop-ups, or endless scrolling.\n\nIn this video, I build the website, database, user accounts, automated news pipeline, payments, and hosting by describing what I want in plain English. I also connect Lovable to Claude using MCP so I can continue developing the project directly from a chat window.\n\nLovable is free to start. If you have a useful business or product idea sitting in your notes, use the link above to start building it.\n\n#LovablePartner \n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT28M25S",
+      "view_count": 13248,
+      "like_count": 425,
+      "comment_count": 76,
+      "url": "https://www.youtube.com/watch?v=LUFVYJlguJk"
+    },
+    {
+      "id": "qZefjtkkvrY",
+      "title": "Anthropic just confirmed everyone's worst fear",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-16T04:56:57Z",
+      "description": "Build your own real-time voice agent with ElevenAgents and get 10,000 free credits to play around with:\n➡️ https://try.elevenlabs.io/wes\n\nI put three ElevenAgents through real customer-service stress tests: an ecommerce store, a smart-home help desk, and an internet provider. I tested whether they could follow real policies, respond naturally under pressure, and resist prompt-injection attempts.\n\nElevenAgents can connect with business tools, support conversations across 70+ languages, and use Expressive Mode to respond with more natural tone and emotion. Build an agent for your business, load in your actual policies, and call it as your own worst customer. That’s the benchmark that matters.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 Anthropic's Research\n03:48 ElevenLabs (sponsor)\n08:42 AI turf wars\n15:35 Mythos Strikes First\n\n\n\n#ai #openai #llm",
+      "duration": "PT34M29S",
+      "view_count": 116713,
+      "like_count": 2638,
+      "comment_count": 749,
+      "url": "https://www.youtube.com/watch?v=qZefjtkkvrY"
+    },
+    {
+      "id": "VB39bHByHuU",
+      "title": "Grok 4.6 is Fable now",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-13T23:12:13Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT18M16S",
+      "view_count": 56438,
+      "like_count": 1431,
+      "comment_count": 379,
+      "url": "https://www.youtube.com/watch?v=VB39bHByHuU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-26T18:07:34Z",
+    "count": 5
+  }
+}

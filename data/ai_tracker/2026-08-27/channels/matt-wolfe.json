@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-08-27",
+  "result": [
+    {
+      "id": "uS2gi-D8C0k",
+      "title": "How To EASILY Run Local AI Models",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-26T13:22:25Z",
+      "description": "You don’t need a massive GPU server to run powerful AI models locally anymore.\n\nModels like Qwen 3.8 27B can run on consumer-grade computers, and LM Studio makes the whole process ridiculously easy.\n\nYou just search for the model → choose the highest-quality quantization your computer can handle → download it → start chatting.\n\nLM Studio will even tell you whether a specific version should run on your machine before you download it.\n\nLocal models keep getting smaller, more efficient, and more capable. Combined with the extra layer of privacy and data security, it's natural that people are becoming more and more interested in them. \n\nAre you making the switch to local AI, or are cloud models like ChatGPT and Claude still the best?\n\n#AI #Ainews #aiagents #aitips #chatgpt",
+      "duration": "PT1M22S",
+      "view_count": 1729,
+      "like_count": 93,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=uS2gi-D8C0k"
+    },
+    {
+      "id": "f74JmwXm-sQ",
+      "title": "This AI Found Money I Was Wasting",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-25T14:08:30Z",
+      "description": "I built an AI-powered business expense tracker that automatically digs through my email for receipts, categorizes my expenses, and keeps track of where my money is going—without me having to constantly update a spreadsheet.\n\nAnd I built the whole thing with a team of AI agents in @Hyperagentapp .\n\nFernando finds receipts, invoices, and subscription confirmations in my inbox. Jackson categorizes everything into things like software subscriptions, production costs, gear, travel, and subcontractors. Then Xander keeps everything organized in a dashboard, flags subscriptions I forgot about, and updates it daily.  \n\nBecause the agents can hand work off to each other, the whole thing operates more like one connected workflow instead of three separate AI chats.\n\nAnd my team can use the same agents through Hyperagent or directly inside Slack—or even copy the build for themselves.\n\nBuild your own team of AI Agents with Hyperagent and get $100 in bonus credits when you sign up for a paid plan here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nThe link will also be in a pinned comment! \n\nAnd bonus points if you can guess what my agents are named after 👀\n\n#HyperagentPartner #AIagents #businessidea #startup #ai",
+      "duration": "PT1M22S",
+      "view_count": 5262,
+      "like_count": 214,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ"
+    },
+    {
+      "id": "ZY628bslSYY",
+      "title": "This AI Creates Insane 3D Worlds",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-24T12:18:26Z",
+      "description": "This might be one of the coolest AI models I’ve seen all year.\n\nTencent’s new WorldClaw model can generate an entire editable 3D world from a prompt — not just the environment, but every individual object inside it.\n\nTrees, buildings, carts, lamp posts, terrain, they’re all generated as separate 3D assets you can actually work with.\n\nUnder the hood, it combines image generation, segmentation, and Tencent’s Hunyuan 2D-to-3D tech to turn a generated scene into a full collection of 3D objects.\n\nAnd the use cases could get really interesting.\n\nYou could imagine generating game environments in minutes, building virtual worlds for simulations, or even creating environments where robots can train before they ever enter the real world.\n\nUnfortunately we can’t actually play with this model yet, but this is absolutely one I’m keeping an eye on.\n\n#ai #ainews #aimodel #genai #3dart",
+      "duration": "PT1M29S",
+      "view_count": 13198,
+      "like_count": 739,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=ZY628bslSYY"
+    },
+    {
+      "id": "aOzaO5AAGjk",
+      "title": "The Wildest Smartphone I’ve Ever Seen 🤯",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-22T13:05:27Z",
+      "description": "This is the wildest smartphone camera I’ve seen yet. 🤯\n\nHONOR's new Robot Phone has a 200MP camera mounted on a motorized titanium gimbal that literally unfolds out of the phone and can move up to 360° per second.\n\nThey even partnered with ARRI—the company behind some of Hollywood’s most popular cinema cameras—to build it.\n\nThe rest of the phone is equally ridiculous, with Qualcomm’s Snapdragon 8 Elite Gen 5 powering the whole thing.\n\nIt starts at around $1,400 and, for now, is only available in China.\n\nWould you actually buy a phone with a camera like this?\n\nFollow for more of the coolest new AI, gadgets, and future tech. \n\n#smartphone #FutureTech #TechNews #Gadgets",
+      "duration": "PT1M2S",
+      "view_count": 12054,
+      "like_count": 460,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=aOzaO5AAGjk"
+    },
+    {
+      "id": "1m5Ee9QbLF0",
+      "title": "This Pyramid Could Be Your Next Intern",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-21T22:09:39Z",
+      "description": "Your next intern might be a tiny pyramid-shaped computer 🤖\n\nThe Autonomous Intern 2 is built specifically to run AI agents.\n\nYou can connect it to Slack, Telegram, or Discord, give it tasks just by talking to it, and keep things like its memory, project files, writing style, and API keys stored locally on the device.\n\nIt comes preloaded with OpenClaw or Hermes, and there’s even a Developer Edition where you can run tools like Claude Code, Codex, or your own agent framework.\n\nI’m a sucker for weird AI hardware, and I genuinely love the design of this thing. It starts at $249, and is available to order now through Autonomous's website (no sponsored!)\n\nFollow for more cool AI, robotics, and future tech.",
+      "duration": "PT58S",
+      "view_count": 61723,
+      "like_count": 1332,
+      "comment_count": 114,
+      "url": "https://www.youtube.com/watch?v=1m5Ee9QbLF0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-26T18:07:33Z",
+    "count": 5
+  }
+}
