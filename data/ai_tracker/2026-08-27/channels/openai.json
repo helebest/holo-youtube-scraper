@@ -20,9 +20,9 @@
       "published_at": "2026-08-26T09:06:31Z",
       "description": "At loveholidays, AI-assisted code changes grew from 7% to 79% in a year, while deployments increased 73% without growing the engineering team. 🚀 With Codex, product managers, designers and commercial teams can now build alongside engineers—with 10+ new search experiences already developed through Search Playground, most by non-engineers.",
       "duration": "PT3M33S",
-      "view_count": 2394,
-      "like_count": 81,
-      "comment_count": 2,
+      "view_count": 4958,
+      "like_count": 115,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=o38xYi2mtgc"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-25T20:17:22Z",
       "description": "See how the ChatGPT admin plugin brings workspace administration into ChatGPT Work. Aarti Bagul, Member of GTM Staff at OpenAI, demonstrates how admins can analyze adoption and credit usage, update and share an AI rollout deck, and review and approve usage limit requests without switching between tools.",
       "duration": "PT2M24S",
-      "view_count": 17592,
-      "like_count": 449,
-      "comment_count": 28,
+      "view_count": 23172,
+      "like_count": 507,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=29SyCndnMZs"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-25T20:15:30Z",
       "description": "Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and collaborate through the same interface.",
       "duration": "PT2M18S",
-      "view_count": 25513,
-      "like_count": 837,
-      "comment_count": 49,
+      "view_count": 39616,
+      "like_count": 1060,
+      "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=Is2NHa7awWY"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-25T18:26:41Z",
       "description": "Thanks for having us, @tiatplace",
       "duration": "PT1M17S",
-      "view_count": 10826,
-      "like_count": 391,
-      "comment_count": 17,
+      "view_count": 17001,
+      "like_count": 517,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-25T17:21:58Z",
       "description": "All users now have unlimited access to text chats in ChatGPT with our latest model GPT-5.6 Luna.\n\n🎥: @2UnlimitedOfficial",
       "duration": "PT3M16S",
-      "view_count": 8205,
-      "like_count": 489,
-      "comment_count": 84,
+      "view_count": 14755,
+      "like_count": 853,
+      "comment_count": 116,
       "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-26T18:07:31Z",
+    "generated_at": "2026-08-27T15:21:02Z",
     "count": 5
   }
 }
