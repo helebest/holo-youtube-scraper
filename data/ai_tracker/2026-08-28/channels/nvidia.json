@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-08-28",
+  "result": [
+    {
+      "id": "Gw6LRsCeh6Y",
+      "title": "Vera Arrives",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-27T13:02:43Z",
+      "description": "NVIDIA Vera is heading to @AWS. \n\nNVIDIA’s Ian Buck hand-delivered AWS’s first Vera CPU Server and Vera Rubin GPU to Willem Visser and Supreeth Sheshadri at the AWS HQ in Seattle.\n\nVera is purpose-built for agentic AI: more tokens per dollar, faster results for users, and the compute foundation AI factories need to scale.",
+      "duration": "PT37S",
+      "view_count": 4367,
+      "like_count": 179,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
+    },
+    {
+      "id": "NqPsQCI0yzs",
+      "title": "NVIDIA Vera Rubin NVL72 production racks are here.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-25T19:43:48Z",
+      "description": "NVIDIA Vera Rubin NVL72 production racks are here.\n\nThe compute tray is engineered for fast compute, assembly, and serviceability. Manufacturing is 100% automated, and every tray goes together in one minute.\n\nCongratulations to Microsoft on the first operational Vera Rubin NVL72 racks, now rolling off Foxconn Ingrasys lines.",
+      "duration": "PT1M7S",
+      "view_count": 11886,
+      "like_count": 499,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=NqPsQCI0yzs"
+    },
+    {
+      "id": "WCRNR1Ve9s0",
+      "title": "Debugging with a Local Agent While You Get Coffee, Powered by NVIDIA RTX Spark",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-20T18:44:59Z",
+      "description": "This demo shows how a local Hermes agent running on NVIDIA RTX Spark can streamline software development by monitoring communication channels, prioritizing urgent issues, and coordinating debugging and QA.\n\nRTX Spark is built to run demanding AI models and always-on agents locally and simultaneously. By offloading repetitive tasks, RTX Spark gives developers more time to focus on building.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/ \n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
+      "duration": "PT2M47S",
+      "view_count": 47050,
+      "like_count": 1564,
+      "comment_count": 175,
+      "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
+    },
+    {
+      "id": "VihWpoINpgE",
+      "title": "More Tokens per Second per Megawatt: The Economics of NVIDIA Vera Rubin",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-19T20:39:25Z",
+      "description": "10X more tokens per second per megawatt as measured by CoreWeave on the NVIDIA Vera Rubin NVL72 platform.\n\nThe next generation of AI factories will be measured by how efficiently they turn compute into tokens, and tokens into revenue. Achieving that requires extreme co-design across the entire stack, paired with an open ecosystem built to innovate and scale.\n\nNVIDIA’s Dion Harris breaks down 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software, and security — and connects the technology behind Vera Rubin to the economics shaping the future of AI infrastructure.\n\nLearn more:\n\nhttps://www.cio.com/article/4209776/5-critical-questions-that-define-ai-factory-economics.html\n\nhttps://blogs.nvidia.com/blog/vera-rubin/",
+      "duration": "PT52S",
+      "view_count": 5197,
+      "like_count": 141,
+      "comment_count": 24,
+      "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
+    },
+    {
+      "id": "V3GGQXPUIsE",
+      "title": "RTX Spark",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-18T20:00:11Z",
+      "description": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
+      "duration": "PT1M10S",
+      "view_count": 11091,
+      "like_count": 494,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-28T01:00:06Z",
+    "count": 5
+  }
+}

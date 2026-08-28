@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-28",
+  "result": [
+    {
+      "id": "Lj03DNImB3s",
+      "title": "Delivering more meals to more moms with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-27T21:30:15Z",
+      "description": "Mandela started Welcome Home to deliver meals to new moms, not to spend 90 minutes every week updating labels.\nSo we helped her get the best out of ChatGPT, by turning her weekly menu spreadsheet into ready-to-print labels in just 6 minutes.\n\nYour turn: what do you wish existed? Drop your idea below or send us a DM. Maybe we’ll come build it with you next. More at getwelcomehome.co",
+      "duration": "PT1M14S",
+      "view_count": 763,
+      "like_count": 63,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=Lj03DNImB3s"
+    },
+    {
+      "id": "t64oZKCdG8Q",
+      "title": "How to Build a Personalized Meal Planner with ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-27T16:16:32Z",
+      "description": "Follow a working mom as she turns a simple note about her daughter’s food preferences and allergies into a personalized weekly meal planner. See how she creates a shareable site, prepares an Instacart cart for approval, captures meal feedback from her phone, and sets up a weekly task to start the next plan.",
+      "duration": "PT2M8S",
+      "view_count": 24844,
+      "like_count": 365,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=t64oZKCdG8Q"
+    },
+    {
+      "id": "rh4BtN2NxmE",
+      "title": "Retirement",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-27T15:43:46Z",
+      "description": "Bring your ideas to life with text in multiple languages",
+      "duration": "PT18S",
+      "view_count": 1898,
+      "like_count": 22,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=rh4BtN2NxmE"
+    },
+    {
+      "id": "piNZDb8XLZo",
+      "title": "Lost Cat",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-27T15:43:42Z",
+      "description": "Bring any idea to life in any image size with ChatGPT Images.",
+      "duration": "PT16S",
+      "view_count": 7316,
+      "like_count": 57,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=piNZDb8XLZo"
+    },
+    {
+      "id": "w1dcfvUCZYw",
+      "title": "Soccer",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-27T15:43:38Z",
+      "description": "Turn any idea into a finished design with layouts and text using ChatGPT Images.",
+      "duration": "PT21S",
+      "view_count": 904,
+      "like_count": 15,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=w1dcfvUCZYw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-28T01:00:07Z",
+    "count": 5
+  }
+}

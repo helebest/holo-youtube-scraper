@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-08-28",
+  "result": [
+    {
+      "id": "Z93MPi8ZO3A",
+      "title": "This Company Will Buy Your AI Training Data",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-27T13:06:18Z",
+      "description": "AI companies want your data so badly that we may be entering the era where they just start paying you for it. 👀\n\nI came across a company called Verb that lets you choose what data you’re willing to share, block certain companies, and even set your own price.\n\nAnd I think this could become a much bigger trend.\n\nAs people get more protective of their data—but AI companies need more of it for training and advertising—the solution might simply become: pay people directly.\n\nObviously, there are some MASSIVE privacy questions here.\n\nSo I’m curious: Would you sell your data to big tech if the price was right? \n\n#AI #Ainews #chatgpt",
+      "duration": "PT1M29S",
+      "view_count": 4226,
+      "like_count": 136,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=Z93MPi8ZO3A"
+    },
+    {
+      "id": "rKo9iLGjUbs",
+      "title": "I Built a FREE App That Runs Your Entire Business",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-26T22:36:30Z",
+      "description": "I vibe coded a free productivity app that keeps my entire business in one place, and I built it so anyone can download and customize it. I already use an earlier version of this dashboard every day, but this time I rebuilt it from scratch to see how far I could push Codex on a genuinely useful business tool. I used Codex inside ChatGPT for the initial build, then spent hours testing, debugging, and refining it.\n\nThe result is Control Center: one dashboard for industry news, brand mentions, reminders, audience analytics, newsletters, and recurring tasks. It connects to Gmail, tracks social growth across YouTube, X, Instagram, and more, and can optionally use OpenAI, Anthropic, Gemini, Grok, or local models to rank and summarize what matters. No AI API key is required. You can install it locally from GitHub for free, customize every section, and optionally host it online.\n\nDownload your own control center on GitHub: http://github.com/mreflow/control-center\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 Why Building With AI Matters\n01:23 Control Center Tour\n03:03 Building the App From Scratch\n05:12 Testing, Debugging & Dark Mode\n06:56 Today Page & Industry News\n08:56 Mentions & Reminders\n10:39 Audience Tracking & Tasks\n12:04 Newsletters, Settings & AI\n19:35 Installing, Updating & Hosting the App\n\n#AIProductivity #VibeCoding #ProductivityApp",
+      "duration": "PT27M37S",
+      "view_count": 51932,
+      "like_count": 1650,
+      "comment_count": 142,
+      "url": "https://www.youtube.com/watch?v=rKo9iLGjUbs"
+    },
+    {
+      "id": "uS2gi-D8C0k",
+      "title": "How To EASILY Run Local AI Models",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-26T13:22:25Z",
+      "description": "You don’t need a massive GPU server to run powerful AI models locally anymore.\n\nModels like Qwen 3.8 27B can run on consumer-grade computers, and LM Studio makes the whole process ridiculously easy.\n\nYou just search for the model → choose the highest-quality quantization your computer can handle → download it → start chatting.\n\nLM Studio will even tell you whether a specific version should run on your machine before you download it.\n\nLocal models keep getting smaller, more efficient, and more capable. Combined with the extra layer of privacy and data security, it's natural that people are becoming more and more interested in them. \n\nAre you making the switch to local AI, or are cloud models like ChatGPT and Claude still the best?\n\n#AI #Ainews #aiagents #aitips #chatgpt",
+      "duration": "PT1M22S",
+      "view_count": 8882,
+      "like_count": 266,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=uS2gi-D8C0k"
+    },
+    {
+      "id": "f74JmwXm-sQ",
+      "title": "This AI Found Money I Was Wasting",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-25T14:08:30Z",
+      "description": "I built an AI-powered business expense tracker that automatically digs through my email for receipts, categorizes my expenses, and keeps track of where my money is going—without me having to constantly update a spreadsheet.\n\nAnd I built the whole thing with a team of AI agents in @Hyperagentapp .\n\nFernando finds receipts, invoices, and subscription confirmations in my inbox. Jackson categorizes everything into things like software subscriptions, production costs, gear, travel, and subcontractors. Then Xander keeps everything organized in a dashboard, flags subscriptions I forgot about, and updates it daily.  \n\nBecause the agents can hand work off to each other, the whole thing operates more like one connected workflow instead of three separate AI chats.\n\nAnd my team can use the same agents through Hyperagent or directly inside Slack—or even copy the build for themselves.\n\nBuild your own team of AI Agents with Hyperagent and get $100 in bonus credits when you sign up for a paid plan here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nThe link will also be in a pinned comment! \n\nAnd bonus points if you can guess what my agents are named after 👀\n\n#HyperagentPartner #AIagents #businessidea #startup #ai",
+      "duration": "PT1M22S",
+      "view_count": 6994,
+      "like_count": 254,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ"
+    },
+    {
+      "id": "ZY628bslSYY",
+      "title": "This AI Creates Insane 3D Worlds",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-24T12:18:26Z",
+      "description": "This might be one of the coolest AI models I’ve seen all year.\n\nTencent’s new WorldClaw model can generate an entire editable 3D world from a prompt — not just the environment, but every individual object inside it.\n\nTrees, buildings, carts, lamp posts, terrain, they’re all generated as separate 3D assets you can actually work with.\n\nUnder the hood, it combines image generation, segmentation, and Tencent’s Hunyuan 2D-to-3D tech to turn a generated scene into a full collection of 3D objects.\n\nAnd the use cases could get really interesting.\n\nYou could imagine generating game environments in minutes, building virtual worlds for simulations, or even creating environments where robots can train before they ever enter the real world.\n\nUnfortunately we can’t actually play with this model yet, but this is absolutely one I’m keeping an eye on.\n\n#ai #ainews #aimodel #genai #3dart",
+      "duration": "PT1M29S",
+      "view_count": 17704,
+      "like_count": 924,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=ZY628bslSYY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-28T01:00:09Z",
+    "count": 5
+  }
+}
