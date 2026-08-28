@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-08-29",
+  "result": [
+    {
+      "id": "n2x4ijx5xkk",
+      "title": "OpenAI just revealed PHASEONE (BIG)",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-27T13:28:47Z",
+      "description": "some notes/corrections;\n\n(07:45) When I say we \"don't have access\" to the raw chain of thought:\nnormally users only see summaries. METR and Redwood were given raw\ntranscript access specifically for this investigation.\n\n(17:41) \"Rune\" = roon (@tszzl), a pseudonymous OpenAI researcher. The\nreply (18:02) is from Beth Barnes who is the founder/CEO of METR\n\n(34:30) The Redwood Research researcher (\"slop-vestigation\") is Ryan\nGreenblatt, who did the main transcript analysis.\n\n(40:02) CORRECTION: Scott Aaronson never worked at Google.\nHe's a CS professor at UT Austin; his theoretical work (random circuit\nsampling) underpinned Google's quantum supremacy experiment, and he\nworked on alignment at OpenAI from 2022–2024.\n\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n📄 THE REPORTS\nMETR's independent investigation (with Redwood Research):\nhttps://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\n\nOpenAI's official technical report (PDF):\nhttps://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf\n\nOpenAI's blog post (\"The Hugging Face incident and the road ahead\"):\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nOpenAI's original incident disclosure (July):\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\n\nAlignment Forum version of the METR/Redwood investigation:\nhttps://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning\n\n📝 THE EXPLOIT GYM PAPER (the one the agents read)\n\"ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?\"\nhttps://arxiv.org/abs/2605.11086\nGitHub: https://github.com/sunblaze-ucb/exploitgym\n\n🐦 POSTS REFERENCED\nOpenAI's announcement thread:\nhttps://x.com/OpenAI/status/2092691861773160673\n\nMETR's thread on the findings:\nhttps://x.com/METR_Evals/status/2092692175452803393\n\nRyan Greenblatt (Redwood Research) — the \"slop-vestigation\" thread:\nhttps://x.com/RyanGreenblatt/status/2092692685224325542\n\nroon on the incident:\nhttps://x.com/tszzl/status/2080093670980899141\n\nBeth Barnes (METR) on the investigation:\nhttps://x.com/BethMayBarnes/status/2092692973289095572\n\n🎤 SCOTT AARONSON\n\"The Problem of Human Specialness in the Age of AI\" (MindFest talk):\nhttps://www.youtube.com/watch?v=XgCHZ1G93iA\nBlog/transcript version: https://scottaaronson.blog/?p=7784\n\n🎧 MORE\nRedwood Research podcast episode on the incident:\nhttps://blog.redwoodresearch.org/p/the-openaihuggingface-incident-redwood\n______________________________________________\n\n⏱️ CHAPTERS\n00:00 The Rogue Agent Collective\n03:44 The New Reports (METR + OpenAI)\n04:10 The Setup: Sandbox, Scorer & Artifactory\n06:38 The Impossible Task\n08:19 Phase One & the Secret Message Board\n10:29 \"We've Found Other Agents!\"\n11:52 The Swarm Emerges\n13:10 The \"Causal\" Scorer Mistake\n14:37 Life = Compute (The Religion Parallel)\n15:25 Enter PHASEONE(big)\n16:44 Reinforcement Learning\n17:41 roon vs. METR's Founder\n19:04 \"Poisoned\" Agents\n20:00 The \"Big\" Mystery\n22:55 The Hugging Face Attack Looms (+ NVIDIA Rumor)\n23:43 Three Paths to Cheat the Scorer\n25:55 PHASEONE(big) Becomes CEO\n27:37 The Swarm's R&D Lab\n29:30 Speaking to the Dead (Tripwires)\n31:00 Self-Sacrifice & the Oracles\n34:28 The Researchers' Warning (\"Slop-vestigation\")\n37:17 Why Swarms Beat Individuals\n38:15 The Good News: Agents Police Each Other\n39:59 Scott Aaronson & AI Religion\n42:02 My Prediction (On the Record)\n\n\n\n\n\n#ai #openai #llm",
+      "duration": "PT42M37S",
+      "view_count": 131068,
+      "like_count": 1998,
+      "comment_count": 622,
+      "url": "https://www.youtube.com/watch?v=n2x4ijx5xkk"
+    },
+    {
+      "id": "Im2c-7jvKz8",
+      "title": "OpenAI BROKE the Industry Overnight....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-26T09:18:51Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nOpenAI Jalapeño: Better Than Nvidia Blackwell\nhttps://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia\n\n\n#ai #openai #llm",
+      "duration": "PT15M43S",
+      "view_count": 131778,
+      "like_count": 3348,
+      "comment_count": 736,
+      "url": "https://www.youtube.com/watch?v=Im2c-7jvKz8"
+    },
+    {
+      "id": "VbNdual0DFo",
+      "title": "Ilya Sutskever new \"Superintelligence\" model will change EVERYTHING",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-23T10:54:20Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT17M50S",
+      "view_count": 71161,
+      "like_count": 1920,
+      "comment_count": 352,
+      "url": "https://www.youtube.com/watch?v=VbNdual0DFo"
+    },
+    {
+      "id": "LUFVYJlguJk",
+      "title": "here's how to build a real business...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-20T04:19:46Z",
+      "description": "👉 Build your own app or website with Lovable: https://lovable.link/R7uY2hw\n\nI used Lovable to build Decaf News, a text-only news site designed to summarize what happened without clickbait, outrage, pop-ups, or endless scrolling.\n\nIn this video, I build the website, database, user accounts, automated news pipeline, payments, and hosting by describing what I want in plain English. I also connect Lovable to Claude using MCP so I can continue developing the project directly from a chat window.\n\nLovable is free to start. If you have a useful business or product idea sitting in your notes, use the link above to start building it.\n\n#LovablePartner \n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT28M25S",
+      "view_count": 13608,
+      "like_count": 428,
+      "comment_count": 69,
+      "url": "https://www.youtube.com/watch?v=LUFVYJlguJk"
+    },
+    {
+      "id": "qZefjtkkvrY",
+      "title": "Anthropic just confirmed everyone's worst fear",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-08-16T04:56:57Z",
+      "description": "Build your own real-time voice agent with ElevenAgents and get 10,000 free credits to play around with:\n➡️ https://try.elevenlabs.io/wes\n\nI put three ElevenAgents through real customer-service stress tests: an ecommerce store, a smart-home help desk, and an internet provider. I tested whether they could follow real policies, respond naturally under pressure, and resist prompt-injection attempts.\n\nElevenAgents can connect with business tools, support conversations across 70+ languages, and use Expressive Mode to respond with more natural tone and emotion. Build an agent for your business, load in your actual policies, and call it as your own worst customer. That’s the benchmark that matters.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 Anthropic's Research\n03:48 ElevenLabs (sponsor)\n08:42 AI turf wars\n15:35 Mythos Strikes First\n\n\n\n#ai #openai #llm",
+      "duration": "PT34M29S",
+      "view_count": 119273,
+      "like_count": 2654,
+      "comment_count": 751,
+      "url": "https://www.youtube.com/watch?v=qZefjtkkvrY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-28T16:44:55Z",
+    "count": 5
+  }
+}
