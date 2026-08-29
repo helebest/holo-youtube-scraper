@@ -14,15 +14,27 @@
   "date": "2026-08-29",
   "result": [
     {
+      "id": "4NMBwT1qYew",
+      "title": "Why Jane Street Makes More From Claude Than Anthropic Does - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-28T21:31:38Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 12125,
+      "like_count": 298,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=4NMBwT1qYew"
+    },
+    {
       "id": "JdLf3xO1hB0",
       "title": "Why Isn’t China Further Behind in AI? - Dylan Patel",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-27T20:26:04Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 83922,
-      "like_count": 1362,
-      "comment_count": 92,
+      "view_count": 113645,
+      "like_count": 1646,
+      "comment_count": 120,
       "url": "https://www.youtube.com/watch?v=JdLf3xO1hB0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-26T21:40:20Z",
       "description": "",
       "duration": "PT52S",
-      "view_count": 17860,
-      "like_count": 342,
-      "comment_count": 51,
+      "view_count": 19576,
+      "like_count": 368,
+      "comment_count": 55,
       "url": "https://www.youtube.com/watch?v=4HEfWnMmLNk"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-08-25T21:24:15Z",
       "description": "",
       "duration": "PT48S",
-      "view_count": 123303,
-      "like_count": 1470,
-      "comment_count": 130,
+      "view_count": 132637,
+      "like_count": 1558,
+      "comment_count": 135,
       "url": "https://www.youtube.com/watch?v=LooFKIOAVqY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-08-25T15:57:53Z",
       "description": "Had a lot of fun chatting again with my twin brother Dylan Patel.\n\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world’s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\n\nAnd then we discuss whether the $10T+ of total AI capex we’ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\n\nOne question we weren’t able to resolve is whether there’s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/dylan-patel-3\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/dylan-patel-anthropic-openai-will-have-most-of/id1516093381?i=1000785793715\n* Spotify: https://open.spotify.com/episode/1chA0sqLyHUL684tUEE3ek?si=Dgplc0zpTz-H6O642qY5mA\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Grok Bot has been quite helpful with my search for a new editor. I created a recruiter bot and described the type of editor I was looking for. That bot then spun up a handful of subagents that combed through my emails and X DMs, read the end credits of various documentaries I like, and figured out who edits for some of my favorite YouTubers. It took all of those results, and then delivered me a shortlist of candidates that matched my criteria. Try Grok Bot for yourself at https://x.ai/bot\n\n* Antithesis lets you add time travel to your software testing toolkit. Since the Antithesis platform is fully deterministic, everything that happens inside of it is perfectly reproducible. So if your software crashes, you can rewind to the exact right moment, freeze time, and investigate. Or you can test different hypotheses by perturbing the system: kill a node or disable a feature, see what happens, then reset the trajectory and try something else. Learn more at https://antithesis.com/dwarkesh\n\n* Jane Street is hiring for two separate ML internships right now, one focused primarily on research and one focused on engineering. In both cases, interns are expected to contribute to real work, not contrived exercises: one common project is adapting a frontier LLM paper to financial markets, which tend to come with a ton of different gnarly challenges. Importantly, you don’t need any finance background to apply. 2027 applications are open now at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Two labs will soon control most of the world’s compute\n00:07:01 – $6 billion in fab capex enables $1t+ of end revenue\n00:13:08 – Compute prices will rise if the labs outbid everyone\n00:18:22 – Which layer will capture most of the surplus?\n00:25:40 – Will datacenter regulation slow down AI?\n00:29:43 – Labs are shifting compute from inference to R&D\n00:33:27 – China gets less than 10% of new compute, but its labs need less\n00:48:48 – Will AI cause a sovereign debt crisis?\n01:07:52 – Will the world's future workforce belong to a few companies?",
       "duration": "PT1H16M53S",
-      "view_count": 159101,
-      "like_count": 3122,
-      "comment_count": 603,
+      "view_count": 167046,
+      "like_count": 3172,
+      "comment_count": 617,
       "url": "https://www.youtube.com/watch?v=aV26V1UvkJw"
-    },
-    {
-      "id": "tbPuJ1AP_vs",
-      "title": "Why Humans Can Still Beat AI at Coding - Ryan Greenblatt",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-24T21:47:52Z",
-      "description": "",
-      "duration": "PT48S",
-      "view_count": 45251,
-      "like_count": 815,
-      "comment_count": 125,
-      "url": "https://www.youtube.com/watch?v=tbPuJ1AP_vs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-28T16:44:46Z",
+    "generated_at": "2026-08-29T00:35:24Z",
     "count": 5
   }
 }
