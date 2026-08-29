@@ -14,15 +14,39 @@
   "date": "2026-08-29",
   "result": [
     {
+      "id": "S6TIVzqTmu8",
+      "title": "Magic Manga Girl (:30)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-29T05:22:53Z",
+      "description": "Turn any idea into a finished design with layouts and text using ChatGPT Images.",
+      "duration": "PT31S",
+      "view_count": 13664,
+      "like_count": 198,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8"
+    },
+    {
+      "id": "IEpTT48oW5Y",
+      "title": "Tennis (:30)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-29T05:22:32Z",
+      "description": "Turn your image into any art style you can imagine with ChatGPT Images.",
+      "duration": "PT31S",
+      "view_count": 8391,
+      "like_count": 160,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y"
+    },
+    {
       "id": "981SivztzOc",
       "title": "Use Your Computer and Browser",
       "channel_title": "OpenAI",
       "published_at": "2026-08-28T20:51:46Z",
       "description": "See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts before submitting or saving anything. This walkthrough uses the ChatGPT desktop app.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-your-computer-and-browser",
       "duration": "PT2M29S",
-      "view_count": 5368,
-      "like_count": 186,
-      "comment_count": 20,
+      "view_count": 35456,
+      "like_count": 429,
+      "comment_count": 50,
       "url": "https://www.youtube.com/watch?v=981SivztzOc"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your computer through Remote.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-voice",
       "duration": "PT1M51S",
-      "view_count": 776,
-      "like_count": 14,
-      "comment_count": 2,
+      "view_count": 4315,
+      "like_count": 49,
+      "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Turn a meeting transcript into a structured Google Doc and a leadership deck with ChatGPT Work. Connect Google Drive, ask for the sections you need, and check the document against the original transcript. Then create a Google Slides presentation from the document and save both formats with Template Creator so you can use them again.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/creating-slides-and-docs",
       "duration": "PT3M18S",
-      "view_count": 763,
-      "like_count": 38,
-      "comment_count": 3,
+      "view_count": 12023,
+      "like_count": 158,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
-    },
-    {
-      "id": "yfnh8SuMbNw",
-      "title": "Use ChatGPT Work on Your Phone",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-28T20:51:46Z",
-      "description": "Use ChatGPT Work on your phone to catch up on work and handle personal tasks before you reach your desk. Follow a Slack and Gmail catch-up, then review recent spending with the read-only Finances plugin. You’ll also see how to pair your phone with Remote to check progress and guide tasks running on your computer. For Remote, your computer needs to stay awake and online.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/working-on-your-phone",
-      "duration": "PT1M55S",
-      "view_count": 860,
-      "like_count": 37,
-      "comment_count": 6,
-      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw"
-    },
-    {
-      "id": "0qK3KqvtRrg",
-      "title": "Build a Shareable Site",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-28T20:51:45Z",
-      "description": "Turn a conversation into a website people can use with ChatGPT Work. Build a group-trip site with an itinerary, activity voting, and shared expenses, then refine it by asking for changes. See how to choose who can visit, manage your projects in Sites, and bring launch metrics and team updates together in a dashboard.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/building-a-shareable-site",
-      "duration": "PT2M21S",
-      "view_count": 418,
-      "like_count": 24,
-      "comment_count": 1,
-      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-29T00:35:29Z",
+    "generated_at": "2026-08-29T11:12:08Z",
     "count": 5
   }
 }
