@@ -20,8 +20,8 @@
       "published_at": "2026-08-27T13:02:43Z",
       "description": "NVIDIA Vera is heading to @AWS. \n\nNVIDIA’s Ian Buck hand-delivered AWS’s first Vera CPU Server and Vera Rubin GPU to Willem Visser and Supreeth Sheshadri at the AWS HQ in Seattle.\n\nVera is purpose-built for agentic AI: more tokens per dollar, faster results for users, and the compute foundation AI factories need to scale.",
       "duration": "PT37S",
-      "view_count": 9116,
-      "like_count": 355,
+      "view_count": 10168,
+      "like_count": 382,
       "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-08-25T19:43:48Z",
       "description": "NVIDIA Vera Rubin NVL72 production racks are here.\n\nThe compute tray is engineered for fast compute, assembly, and serviceability. Manufacturing is 100% automated, and every tray goes together in one minute.\n\nCongratulations to Microsoft on the first operational Vera Rubin NVL72 racks, now rolling off Foxconn Ingrasys lines.",
       "duration": "PT1M7S",
-      "view_count": 16647,
-      "like_count": 717,
-      "comment_count": 34,
+      "view_count": 17701,
+      "like_count": 747,
+      "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=NqPsQCI0yzs"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-20T18:44:59Z",
       "description": "This demo shows how a local Hermes agent running on NVIDIA RTX Spark can streamline software development by monitoring communication channels, prioritizing urgent issues, and coordinating debugging and QA.\n\nRTX Spark is built to run demanding AI models and always-on agents locally and simultaneously. By offloading repetitive tasks, RTX Spark gives developers more time to focus on building.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/ \n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
       "duration": "PT2M47S",
-      "view_count": 49535,
-      "like_count": 1591,
-      "comment_count": 181,
+      "view_count": 50343,
+      "like_count": 1597,
+      "comment_count": 185,
       "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-19T20:39:25Z",
       "description": "10X more tokens per second per megawatt as measured by CoreWeave on the NVIDIA Vera Rubin NVL72 platform.\n\nThe next generation of AI factories will be measured by how efficiently they turn compute into tokens, and tokens into revenue. Achieving that requires extreme co-design across the entire stack, paired with an open ecosystem built to innovate and scale.\n\nNVIDIA’s Dion Harris breaks down 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software, and security — and connects the technology behind Vera Rubin to the economics shaping the future of AI infrastructure.\n\nLearn more:\n\nhttps://www.cio.com/article/4209776/5-critical-questions-that-define-ai-factory-economics.html\n\nhttps://blogs.nvidia.com/blog/vera-rubin/",
       "duration": "PT52S",
-      "view_count": 6009,
-      "like_count": 144,
-      "comment_count": 25,
+      "view_count": 6198,
+      "like_count": 145,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-18T20:00:11Z",
       "description": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
       "duration": "PT1M10S",
-      "view_count": 12412,
-      "like_count": 534,
+      "view_count": 12793,
+      "like_count": 542,
       "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-29T19:26:18Z",
+    "generated_at": "2026-08-30T10:00:11Z",
     "count": 5
   }
 }
