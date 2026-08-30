@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-08-31",
+  "result": [
+    {
+      "id": "GTmJYkf82gY",
+      "title": "Two Labs Are About to Take Half the World's New Compute - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-29T21:15:35Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 82404,
+      "like_count": 1333,
+      "comment_count": 105,
+      "url": "https://www.youtube.com/watch?v=GTmJYkf82gY"
+    },
+    {
+      "id": "4NMBwT1qYew",
+      "title": "Why Jane Street Makes More From Claude Than Anthropic Does - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-28T21:31:38Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 109540,
+      "like_count": 1366,
+      "comment_count": 135,
+      "url": "https://www.youtube.com/watch?v=4NMBwT1qYew"
+    },
+    {
+      "id": "JdLf3xO1hB0",
+      "title": "Why Isn’t China Further Behind in AI? - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-27T20:26:04Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 166742,
+      "like_count": 2332,
+      "comment_count": 193,
+      "url": "https://www.youtube.com/watch?v=JdLf3xO1hB0"
+    },
+    {
+      "id": "4HEfWnMmLNk",
+      "title": "AI Doesn't Need to Be Good at Politics to Change Everything - Ryan Greenblatt",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-26T21:40:20Z",
+      "description": "",
+      "duration": "PT52S",
+      "view_count": 25744,
+      "like_count": 454,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=4HEfWnMmLNk"
+    },
+    {
+      "id": "LooFKIOAVqY",
+      "title": "Why AI labs are shelving their best models - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-25T21:24:15Z",
+      "description": "",
+      "duration": "PT48S",
+      "view_count": 158772,
+      "like_count": 1846,
+      "comment_count": 175,
+      "url": "https://www.youtube.com/watch?v=LooFKIOAVqY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-30T19:21:31Z",
+    "count": 5
+  }
+}

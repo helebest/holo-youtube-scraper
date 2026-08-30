@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-08-31",
+  "result": [
+    {
+      "id": "S6TIVzqTmu8",
+      "title": "Magic Manga Girl (:30)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-29T05:22:53Z",
+      "description": "Turn any idea into a finished design with layouts and text using ChatGPT Images.",
+      "duration": "PT31S",
+      "view_count": 31860,
+      "like_count": 378,
+      "comment_count": 90,
+      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8"
+    },
+    {
+      "id": "IEpTT48oW5Y",
+      "title": "Tennis (:30)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-29T05:22:32Z",
+      "description": "Turn your image into any art style you can imagine with ChatGPT Images.",
+      "duration": "PT31S",
+      "view_count": 23496,
+      "like_count": 258,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y"
+    },
+    {
+      "id": "981SivztzOc",
+      "title": "Use Your Computer and Browser",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-28T20:51:46Z",
+      "description": "See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts before submitting or saving anything. This walkthrough uses the ChatGPT desktop app.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-your-computer-and-browser",
+      "duration": "PT2M29S",
+      "view_count": 64414,
+      "like_count": 654,
+      "comment_count": 64,
+      "url": "https://www.youtube.com/watch?v=981SivztzOc"
+    },
+    {
+      "id": "DLcQSp_CIIc",
+      "title": "Talk to ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-28T20:51:46Z",
+      "description": "Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your computer through Remote.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-voice",
+      "duration": "PT1M51S",
+      "view_count": 7558,
+      "like_count": 88,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
+    },
+    {
+      "id": "syML5KT-HzI",
+      "title": "Create Slides, Docs, and Templates",
+      "channel_title": "OpenAI",
+      "published_at": "2026-08-28T20:51:46Z",
+      "description": "Turn a meeting transcript into a structured Google Doc and a leadership deck with ChatGPT Work. Connect Google Drive, ask for the sections you need, and check the document against the original transcript. Then create a Google Slides presentation from the document and save both formats with Template Creator so you can use them again.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/creating-slides-and-docs",
+      "duration": "PT3M18S",
+      "view_count": 26253,
+      "like_count": 305,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-30T19:21:36Z",
+    "count": 5
+  }
+}
