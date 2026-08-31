@@ -14,15 +14,27 @@
   "date": "2026-08-31",
   "result": [
     {
+      "id": "Dc4zMcJzhDE",
+      "title": "We're Worried About the Wrong Kind of Centralization - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-30T22:18:58Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 22418,
+      "like_count": 437,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=Dc4zMcJzhDE"
+    },
+    {
       "id": "GTmJYkf82gY",
       "title": "Two Labs Are About to Take Half the World's New Compute - Dylan Patel",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-29T21:15:35Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 82404,
-      "like_count": 1333,
-      "comment_count": 105,
+      "view_count": 115554,
+      "like_count": 1675,
+      "comment_count": 120,
       "url": "https://www.youtube.com/watch?v=GTmJYkf82gY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-08-28T21:31:38Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 109540,
-      "like_count": 1366,
-      "comment_count": 135,
+      "view_count": 130566,
+      "like_count": 1633,
+      "comment_count": 146,
       "url": "https://www.youtube.com/watch?v=4NMBwT1qYew"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-08-27T20:26:04Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 166742,
-      "like_count": 2332,
-      "comment_count": 193,
+      "view_count": 181519,
+      "like_count": 2481,
+      "comment_count": 211,
       "url": "https://www.youtube.com/watch?v=JdLf3xO1hB0"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-08-26T21:40:20Z",
       "description": "",
       "duration": "PT52S",
-      "view_count": 25744,
-      "like_count": 454,
-      "comment_count": 60,
+      "view_count": 28451,
+      "like_count": 487,
+      "comment_count": 61,
       "url": "https://www.youtube.com/watch?v=4HEfWnMmLNk"
-    },
-    {
-      "id": "LooFKIOAVqY",
-      "title": "Why AI labs are shelving their best models - Dylan Patel",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-08-25T21:24:15Z",
-      "description": "",
-      "duration": "PT48S",
-      "view_count": 158772,
-      "like_count": 1846,
-      "comment_count": 175,
-      "url": "https://www.youtube.com/watch?v=LooFKIOAVqY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-30T19:21:31Z",
+    "generated_at": "2026-08-31T10:59:02Z",
     "count": 5
   }
 }

@@ -20,9 +20,9 @@
       "published_at": "2026-08-29T05:22:53Z",
       "description": "Turn any idea into a finished design with layouts and text using ChatGPT Images.",
       "duration": "PT31S",
-      "view_count": 31860,
-      "like_count": 378,
-      "comment_count": 90,
+      "view_count": 34725,
+      "like_count": 409,
+      "comment_count": 92,
       "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-08-29T05:22:32Z",
       "description": "Turn your image into any art style you can imagine with ChatGPT Images.",
       "duration": "PT31S",
-      "view_count": 23496,
-      "like_count": 258,
-      "comment_count": 43,
+      "view_count": 25366,
+      "like_count": 273,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts before submitting or saving anything. This walkthrough uses the ChatGPT desktop app.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-your-computer-and-browser",
       "duration": "PT2M29S",
-      "view_count": 64414,
-      "like_count": 654,
-      "comment_count": 64,
+      "view_count": 68325,
+      "like_count": 679,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=981SivztzOc"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your computer through Remote.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-voice",
       "duration": "PT1M51S",
-      "view_count": 7558,
-      "like_count": 88,
-      "comment_count": 7,
+      "view_count": 7884,
+      "like_count": 90,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Turn a meeting transcript into a structured Google Doc and a leadership deck with ChatGPT Work. Connect Google Drive, ask for the sections you need, and check the document against the original transcript. Then create a Google Slides presentation from the document and save both formats with Template Creator so you can use them again.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/creating-slides-and-docs",
       "duration": "PT3M18S",
-      "view_count": 26253,
-      "like_count": 305,
-      "comment_count": 23,
+      "view_count": 29433,
+      "like_count": 332,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-30T19:21:36Z",
+    "generated_at": "2026-08-31T10:59:07Z",
     "count": 5
   }
 }
