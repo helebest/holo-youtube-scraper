@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-01",
+  "result": [
+    {
+      "id": "t7_qbA9P6HM",
+      "title": "The Export Controls Are Working - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-31T21:08:02Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 719,
+      "like_count": 28,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=t7_qbA9P6HM"
+    },
+    {
+      "id": "u15N3l4RT80",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-31T20:49:34Z",
+      "description": "This is a video version of a post I wrote. If you want to read the original you can check it out here: \n\nhttps://www.dwarkesh.com/p/openai-huggingface",
+      "duration": "PT24M41S",
+      "view_count": 3143,
+      "like_count": 214,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=u15N3l4RT80"
+    },
+    {
+      "id": "Dc4zMcJzhDE",
+      "title": "We're Worried About the Wrong Kind of Centralization - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-30T22:18:58Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 32665,
+      "like_count": 588,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=Dc4zMcJzhDE"
+    },
+    {
+      "id": "GTmJYkf82gY",
+      "title": "Two Labs Are About to Take Half the World's New Compute - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-29T21:15:35Z",
+      "description": "",
+      "duration": "PT1M9S",
+      "view_count": 128979,
+      "like_count": 1853,
+      "comment_count": 131,
+      "url": "https://www.youtube.com/watch?v=GTmJYkf82gY"
+    },
+    {
+      "id": "4NMBwT1qYew",
+      "title": "Why Jane Street Makes More From Claude Than Anthropic Does - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-08-28T21:31:38Z",
+      "description": "",
+      "duration": "PT1M14S",
+      "view_count": 143669,
+      "like_count": 1800,
+      "comment_count": 151,
+      "url": "https://www.youtube.com/watch?v=4NMBwT1qYew"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-31T21:31:08Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-09-01",
+  "result": [
+    {
+      "id": "TInwQglNkzo",
+      "title": "AI News: OpenAI Made a Massive Move Against NVIDIA",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-28T15:00:09Z",
+      "description": "Here's the AI news you probably missed this week. Download the Codex app and try Sites here: https://chatgpt.com/download/?utm_source=creator&utm_campaign=youtube&utm_content=partnership-mattwolfe\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nJalapeño Inference Results: https://openai.com/index/jalapeno-first-results/\nNvidia Acquires Hugging Face: https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion\nOpen Weight Token Share: https://x.com/rauchg/status/2091234105702887879\nApple M6 Chips: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\nGLM-5.3-Flash Released: https://z.ai/blog/glm-5.3-flash\nQwen3.8-Flash Released: https://www.alibabacloud.com/blog/alibaba-releases-qwen3-8-flash-with-innovative-model-architecture-delivering-optimal-price-performance_603503\nGemini Omni Flash: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\nText-to-Video Leaderboard: https://arena.ai/leaderboard/text-to-video\nGemini 3.5 Transcribe: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\nAI Mode Travel Booking: https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/\nGemini Notebook Expert Intelligence: https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/\nAntigravity Remote Control: https://www.antigravity.google/blog/remote-control-for-antigravity\nChatGPT Work Website Sign-In: https://x.com/ChatGPT/status/2092366554965107164\nChatGPT Scheduled Tasks Update: https://x.com/ChatGPT/status/2092335329110004140\nGPT-5.6 Sol Price Drop: https://x.com/OpenAI/status/2090885187634905500\nCowork Built-In Browser: https://claude.com/blog/cowork-built-in-browser\nClaude In Chrome GA: https://claude.com/blog/claude-in-chrome-generally-available\nClaude Memory Everywhere: https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it\nPerplexity Local-First Agent: https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work\nDr. Dre Uses AI: https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009\nStability AI Funding: https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names\nTIME100 AI 2026: https://time.com/collection/time100-ai/2026/\nSkild AI S1: https://x.com/SkildAI/status/2092300842900865389\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:16 OpenAI Jalapeno\n1:46 Nvidia Buying Hugging Face\n3:56 Open Weight Takeover\n5:21 Apple M5 Ultra\n7:01 GLM-5.3-Flash / 0x Alpha\n9:13 Qwen3.8-Flash\n10:08 ChatGPT Sites\n11:42 Gemini Omni 1.1 Flash\n15:17 Gemini 3.5 Transcribe\n15:42 AI Search Travel Updates\n15:56 Gemini Notebook Update\n16:20 Antigravity Remote Control\n17:14 ChatGPT Work Sign-in\n18:03 ChatGPT Scheduled Tasks Update\n18:31 GPT-5.6 Sol Pricing Change\n18:42 Claude Cowork Browser\n19:18 Claude in Chrome\n19:39 Claude Memory Update\n20:21 Perplexity Portable Computer\n21:40 Dr. Dre Likes AI\n23:11 Stability AI Investments\n23:44 TIME 100 AI Influence\n25:56 Skild S1\n26:44 Personal Achievement\n28:33 Thank You All (With Cameos)",
+      "duration": "PT29M31S",
+      "view_count": 116490,
+      "like_count": 3107,
+      "comment_count": 410,
+      "url": "https://www.youtube.com/watch?v=TInwQglNkzo"
+    },
+    {
+      "id": "Z93MPi8ZO3A",
+      "title": "This Company Will Buy Your AI Training Data",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-27T13:06:18Z",
+      "description": "AI companies want your data so badly that we may be entering the era where they just start paying you for it. 👀\n\nI came across a company called Verb that lets you choose what data you’re willing to share, block certain companies, and even set your own price.\n\nAnd I think this could become a much bigger trend.\n\nAs people get more protective of their data—but AI companies need more of it for training and advertising—the solution might simply become: pay people directly.\n\nObviously, there are some MASSIVE privacy questions here.\n\nSo I’m curious: Would you sell your data to big tech if the price was right? \n\n#AI #Ainews #chatgpt",
+      "duration": "PT1M29S",
+      "view_count": 15241,
+      "like_count": 604,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=Z93MPi8ZO3A"
+    },
+    {
+      "id": "rKo9iLGjUbs",
+      "title": "I Built a FREE App That Runs Your Entire Business",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-26T22:36:30Z",
+      "description": "I vibe coded a free productivity app that keeps my entire business in one place, and I built it so anyone can download and customize it. I already use an earlier version of this dashboard every day, but this time I rebuilt it from scratch to see how far I could push Codex on a genuinely useful business tool. I used Codex inside ChatGPT for the initial build, then spent hours testing, debugging, and refining it.\n\nThe result is Control Center: one dashboard for industry news, brand mentions, reminders, audience analytics, newsletters, and recurring tasks. It connects to Gmail, tracks social growth across YouTube, X, Instagram, and more, and can optionally use OpenAI, Anthropic, Gemini, Grok, or local models to rank and summarize what matters. No AI API key is required. You can install it locally from GitHub for free, customize every section, and optionally host it online.\n\nDownload your own control center on GitHub: http://github.com/mreflow/control-center\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 Why Building With AI Matters\n01:23 Control Center Tour\n03:03 Building the App From Scratch\n05:12 Testing, Debugging & Dark Mode\n06:56 Today Page & Industry News\n08:56 Mentions & Reminders\n10:39 Audience Tracking & Tasks\n12:04 Newsletters, Settings & AI\n19:35 Installing, Updating & Hosting the App\n\n#AIProductivity #VibeCoding #ProductivityApp",
+      "duration": "PT27M37S",
+      "view_count": 80999,
+      "like_count": 2148,
+      "comment_count": 165,
+      "url": "https://www.youtube.com/watch?v=rKo9iLGjUbs"
+    },
+    {
+      "id": "uS2gi-D8C0k",
+      "title": "How To EASILY Run Local AI Models",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-26T13:22:25Z",
+      "description": "You don’t need a massive GPU server to run powerful AI models locally anymore.\n\nModels like Qwen 3.8 27B can run on consumer-grade computers, and LM Studio makes the whole process ridiculously easy.\n\nYou just search for the model → choose the highest-quality quantization your computer can handle → download it → start chatting.\n\nLM Studio will even tell you whether a specific version should run on your machine before you download it.\n\nLocal models keep getting smaller, more efficient, and more capable. Combined with the extra layer of privacy and data security, it's natural that people are becoming more and more interested in them. \n\nAre you making the switch to local AI, or are cloud models like ChatGPT and Claude still the best?\n\n#AI #Ainews #aiagents #aitips #chatgpt",
+      "duration": "PT1M22S",
+      "view_count": 13964,
+      "like_count": 361,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=uS2gi-D8C0k"
+    },
+    {
+      "id": "f74JmwXm-sQ",
+      "title": "This AI Found Money I Was Wasting",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-08-25T14:08:30Z",
+      "description": "I built an AI-powered business expense tracker that automatically digs through my email for receipts, categorizes my expenses, and keeps track of where my money is going—without me having to constantly update a spreadsheet.\n\nAnd I built the whole thing with a team of AI agents in @Hyperagentapp .\n\nFernando finds receipts, invoices, and subscription confirmations in my inbox. Jackson categorizes everything into things like software subscriptions, production costs, gear, travel, and subcontractors. Then Xander keeps everything organized in a dashboard, flags subscriptions I forgot about, and updates it daily.  \n\nBecause the agents can hand work off to each other, the whole thing operates more like one connected workflow instead of three separate AI chats.\n\nAnd my team can use the same agents through Hyperagent or directly inside Slack—or even copy the build for themselves.\n\nBuild your own team of AI Agents with Hyperagent and get $100 in bonus credits when you sign up for a paid plan here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nThe link will also be in a pinned comment! \n\nAnd bonus points if you can guess what my agents are named after 👀\n\n#HyperagentPartner #AIagents #businessidea #startup #ai",
+      "duration": "PT1M22S",
+      "view_count": 8818,
+      "like_count": 315,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-08-31T21:31:14Z",
+    "count": 5
+  }
+}
