@@ -20,21 +20,21 @@
       "published_at": "2026-08-31T21:08:02Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 719,
-      "like_count": 28,
-      "comment_count": 1,
+      "view_count": 21041,
+      "like_count": 374,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=t7_qbA9P6HM"
     },
     {
       "id": "u15N3l4RT80",
-      "title": "The Rise and Fall of Agent Civilizations",
+      "title": "The OpenAI/Hugging Face attack, clearly explained",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-08-31T20:49:34Z",
       "description": "This is a video version of a post I wrote. If you want to read the original you can check it out here: \n\nhttps://www.dwarkesh.com/p/openai-huggingface",
       "duration": "PT24M41S",
-      "view_count": 3143,
-      "like_count": 214,
-      "comment_count": 47,
+      "view_count": 144127,
+      "like_count": 3333,
+      "comment_count": 675,
       "url": "https://www.youtube.com/watch?v=u15N3l4RT80"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-08-30T22:18:58Z",
       "description": "",
       "duration": "PT1M21S",
-      "view_count": 32665,
-      "like_count": 588,
-      "comment_count": 40,
+      "view_count": 38007,
+      "like_count": 647,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=Dc4zMcJzhDE"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-08-29T21:15:35Z",
       "description": "",
       "duration": "PT1M9S",
-      "view_count": 128979,
-      "like_count": 1853,
-      "comment_count": 131,
+      "view_count": 143342,
+      "like_count": 2031,
+      "comment_count": 142,
       "url": "https://www.youtube.com/watch?v=GTmJYkf82gY"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-08-28T21:31:38Z",
       "description": "",
       "duration": "PT1M14S",
-      "view_count": 143669,
-      "like_count": 1800,
-      "comment_count": 151,
+      "view_count": 166865,
+      "like_count": 2096,
+      "comment_count": 166,
       "url": "https://www.youtube.com/watch?v=4NMBwT1qYew"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-08-31T21:31:08Z",
+    "generated_at": "2026-09-01T09:29:23Z",
     "count": 5
   }
 }
