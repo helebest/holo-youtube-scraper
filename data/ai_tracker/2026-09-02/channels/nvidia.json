@@ -14,14 +14,38 @@
   "date": "2026-09-02",
   "result": [
     {
+      "id": "MkbepPfaeMU",
+      "title": "Tokenomics 101: What Are Tokens & Why They Matter | AI Factory Insider Ep. 4",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-01T22:56:50Z",
+      "description": "In Episode 4 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Shruti Koparkar (Sr. Manager, Product Marketing, NVIDIA) and Tue Tran (GTM Strategic Ops, NVIDIA) to discuss what a token actually is, why not all tokens are equal, and how to tie AI factory investment to real business ROI.\n\nWhat we cover: \n0:00 — Introduction \n1:28 — Meet our guests: Shruti Koparkar & Tue Tran \n2:42 — What is a token? \n3:54 — What is \"tokenomics,\" and why is it relevant now? \n4:58 — Not all tokens are equal: intelligence, context, and speed \n7:44 — Trading vs. research: matching tokens to the use case \n9:20 — Retail video: one-token answers vs. batch captioning \n10:40 — Sizing token demand: back-of-napkin math \n12:10 — The multipliers: reasoning, agentic loops, and cache hit rate \n13:54 — KV cache and prefix matching explained \n16:34 — Supply: the AI factory as a car engine \n17:29 — Dense models vs. mixture of experts \n20:19 — Right model for the right task: a telco example \n21:24 — Intelligent routing with NeMo Switchyard \n22:10 — Where are your tokens going? Observability with NeMo Relay \n22:38 — Matching infrastructure: NVL72, HGX, and RTX PRO Servers \n23:31 — Dynamo and extreme co-design \n24:25 — Monetization: four paths from tokens to ROI \n27:54 — Just get started, and make it a team effort \n29:18 — Guardrails for a token tsunami \n31:32 — Wrap-up\n\nResources: \nAI Tokenomics: A Framework for Deploying and Monetizing Inference at Scale 👉 https://nvda.ws/45WUA0e \nInside AI Tokenomics: How to Profitably Turn Tokens Into Business Value 👉 https://nvda.ws/4gE3Hry\nNVIDIA AI Factory Validated Design Guide 👉 https://nvda.ws/4wGGHz0",
+      "duration": "PT34M5S",
+      "view_count": 7564,
+      "like_count": 78,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=MkbepPfaeMU"
+    },
+    {
+      "id": "MKNMReFVcp4",
+      "title": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-01T22:16:56Z",
+      "description": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind, a new family of security models and harnesses built on NVIDIA Nemotron.\n\nIntroduced at Fal.Con, SafeMind is customized with CrowdStrike threat data to support triage and detection generation for cyber defense.",
+      "duration": "PT1M7S",
+      "view_count": 3399,
+      "like_count": 108,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=MKNMReFVcp4"
+    },
+    {
       "id": "Gw6LRsCeh6Y",
       "title": "Vera Arrives",
       "channel_title": "NVIDIA",
       "published_at": "2026-08-27T13:02:43Z",
       "description": "NVIDIA Vera is heading to @AWS. \n\nNVIDIA’s Ian Buck hand-delivered AWS’s first Vera CPU Server and Vera Rubin GPU to Willem Visser and Supreeth Sheshadri at the AWS HQ in Seattle.\n\nVera is purpose-built for agentic AI: more tokens per dollar, faster results for users, and the compute foundation AI factories need to scale.",
       "duration": "PT37S",
-      "view_count": 13281,
-      "like_count": 453,
+      "view_count": 13589,
+      "like_count": 460,
       "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
     },
@@ -32,8 +56,8 @@
       "published_at": "2026-08-25T19:43:48Z",
       "description": "NVIDIA Vera Rubin NVL72 production racks are here.\n\nThe compute tray is engineered for fast compute, assembly, and serviceability. Manufacturing is 100% automated, and every tray goes together in one minute.\n\nCongratulations to Microsoft on the first operational Vera Rubin NVL72 racks, now rolling off Foxconn Ingrasys lines.",
       "duration": "PT1M7S",
-      "view_count": 20150,
-      "like_count": 812,
+      "view_count": 20308,
+      "like_count": 814,
       "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=NqPsQCI0yzs"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-08-20T18:44:59Z",
       "description": "This demo shows how a local Hermes agent running on NVIDIA RTX Spark can streamline software development by monitoring communication channels, prioritizing urgent issues, and coordinating debugging and QA.\n\nRTX Spark is built to run demanding AI models and always-on agents locally and simultaneously. By offloading repetitive tasks, RTX Spark gives developers more time to focus on building.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/ \n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
       "duration": "PT2M47S",
-      "view_count": 53432,
-      "like_count": 1620,
+      "view_count": 54003,
+      "like_count": 1621,
       "comment_count": 191,
       "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
-    },
-    {
-      "id": "VihWpoINpgE",
-      "title": "More Tokens per Second per Megawatt: The Economics of NVIDIA Vera Rubin",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-08-19T20:39:25Z",
-      "description": "10X more tokens per second per megawatt as measured by CoreWeave on the NVIDIA Vera Rubin NVL72 platform.\n\nThe next generation of AI factories will be measured by how efficiently they turn compute into tokens, and tokens into revenue. Achieving that requires extreme co-design across the entire stack, paired with an open ecosystem built to innovate and scale.\n\nNVIDIA’s Dion Harris breaks down 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software, and security — and connects the technology behind Vera Rubin to the economics shaping the future of AI infrastructure.\n\nLearn more:\n\nhttps://www.cio.com/article/4209776/5-critical-questions-that-define-ai-factory-economics.html\n\nhttps://blogs.nvidia.com/blog/vera-rubin/",
-      "duration": "PT52S",
-      "view_count": 6964,
-      "like_count": 145,
-      "comment_count": 24,
-      "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
-    },
-    {
-      "id": "V3GGQXPUIsE",
-      "title": "RTX Spark",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-08-18T20:00:11Z",
-      "description": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
-      "duration": "PT1M10S",
-      "view_count": 13858,
-      "like_count": 561,
-      "comment_count": 46,
-      "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-01T19:26:30Z",
+    "generated_at": "2026-09-02T08:52:11Z",
     "count": 5
   }
 }
