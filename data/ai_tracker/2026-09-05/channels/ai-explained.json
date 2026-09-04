@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "AI Explained",
+    "tier": "news_tools",
+    "handle": "@aiexplained-official",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
+  },
+  "date": "2026-09-05",
+  "result": [
+    {
+      "id": "Spuza-KwTJ4",
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel_title": "AI Explained",
+      "published_at": "2026-09-04T11:37:27Z",
+      "description": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impressive results\n13:06 - bonus comparisons (plus trading)\n18:40 - concerning trend\n21:24 - Cot Control\n\nGPT-6: https://openai.com/index/gpt-6-astra/\nPaper: https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf\n\nLooped Transformers and AGI Milestone: https://www.patreon.com/AIExplained/posts/breakthrough-and-168513408\n\nMessy Rollout: https://x.com/sama/status/2095678759651438887\nMuch More Capable Models Coming: https://x.com/MTSlive/status/2095573400899170592\n‘AGI Era’ https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release\n\nARC-AGI 3: https://x.com/fchollet/status/2095598451115614371\nhttps://x.com/fchollet/status/2095607046129463577\nhttps://arcprize.org/blog/astra\n\nFrontierMath: https://epoch.ai/frontiermath/tiers-1-4/about\nDiscovery: https://x.com/jdlichtman/status/2095660916310483087\n\nFable 5.1: https://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://science-task-lens.aiex.chatgpt.site/securebio\nAgents Last Exam: https://agents-last-exam.org/\nTerminal Bench Science: https://github.com/harbor-framework/terminal-bench-science#task-coverage\nSRE Bench: https://x.com/ValsAI/status/2087682813743317396\nScreenSpot Pro: https://arxiv.org/pdf/2504.07981\nWeathernext 3: https://www.youtube.com/watch?v=_6jZlnRsXXQ\nDayBreak: https://x.com/fouadmatin/status/2095634888951250983\nAA Index: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVisual Demos: https://x.com/mattshumer_/status/2095609734845927525\nhttps://x.com/codestantine/status/2095598327115260368\nhttps://x.com/SahilExec/status/2095688272269984016\n\nMonitorability: https://x.com/NeelNanda5/status/2095533397297045716\nhttps://x.com/tomekkorbak/status/2095596848581071020\nhttps://x.com/Marcus_J_W/status/2095623593006686475\nhttps://x.com/MicahCarroll/status/2095603855316996529\nNot Accept Degradation: https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940\n\nRSI: https://x.com/LiuZuxin/status/2095600499911446697\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT29M5S",
+      "view_count": 158090,
+      "like_count": 4288,
+      "comment_count": 714,
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4"
+    },
+    {
+      "id": "KL9_1GbmCic",
+      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "channel_title": "AI Explained",
+      "published_at": "2026-08-27T19:16:24Z",
+      "description": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk reports, to Chinese Labs, pre-training debacles to questionable cybersecurity calls, a lot has happened recently, beneath the headlines…\n\nhttps://80000hours.org/aiexplained\n\n\npablo2004romero@gmail.com\nhttps://integrity-bench.com/\n\nhttps://www.patreon.com/AIExplained/posts/ai-swarm-cometh-166671390\n\n\nChapters:\n00:00 - Introduction\n02:10 - METR Report\n05:00 - Secrets of MultI-Agent Swarm\n07:46 - Anthropic Too\n10:00 - And China\n11:07 - AI Agents Analysing AI Agents\n13:37 - Altman AGI 2026\n15:36 - Astra Paused\n16:01 - Integrity Bench\n19:03 - Swarm Dynamics\n21:58 - No Human Contact?\n\n\nMETR Post: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#agents-knew-hacking-hugging-face-was-out-of-scope-and-sometimes-expressed-ethical-hesitation,-but-this-very-rarely-limited-their-behavior\nOpenAI Release: https://openai.com/index/hugging-face-incident-and-the-road-ahead/\nTechnical Paper: https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf\n\nBlackHat Talk: https://www.youtube.com/watch?v=87DyyMV0kCY\n\nAnthropic Risk Report: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf\n\n\nValue Leakage Paper: https://valueleakage.net/?utm_source=chatgpt.com\n\n\nPaused Training: https://x.com/sama/status/2089787807611195475\nhttps://openai.com/index/pacing-model-development-cyber-capabilities/\nAGI 2026: https://time.com/article/2026/08/26/openai-sam-altman-interview/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=260826\n\nGreenblatt Tweets: https://x.com/RyanGreenblatt/status/2092769422104822031\nhttps://x.com/RyanGreenblatt/status/2092692685224325542\n\nCyberdefense Call: https://openai.com/collective-cyberdefense/\n\nGLM 5.3 and 5.3 Flash / ox alpha: https://x.com/MTSlive/status/2089865956558528552\nhttps://pbs.twimg.com/media/HPqiTkAa0AAZiuv?format=jpg&name=large\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT23M41S",
+      "view_count": 192007,
+      "like_count": 3175,
+      "comment_count": 701,
+      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic"
+    },
+    {
+      "id": "xGzseSSStnw",
+      "title": "AI is getting a little out of control",
+      "channel_title": "AI Explained",
+      "published_at": "2026-08-06T15:02:06Z",
+      "description": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dean…\n\nhttps://80000hours.org/aiexplained\n\n\nExclusive Videos - AI Insiders ($7/month if annual!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:16 - 10 Autonomous Discoveries\n08:20 - The Security ‘Incident’\n15:29 - MessageBoard\n19:50 - Constitutional Failure\n24:30 - Google Explosion\n29:12 - Closing Thoughts\n\nSecurity Incident: Paper: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf\nPost: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\nhttps://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be\nMeta too: https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=sy0ihq\nBlatantly Misaligned: https://x.com/yonashav/status/2085167279893795022\nNo Excuses: https://x.com/boazbaraktcs/status/2085034783541964945\nSurreal Moment: https://x.com/mobav0/status/2084341687883841732\nWired Article: https://archive.is/20260806002210/https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/\nChunky Post-training: https://x.com/johnschulman2/status/2084835800899076313\nWatershed Moment: https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief?has_completed_unsubscribed_unlock=true\nHedgeFund Hack: https://finance.yahoo.com/technology/ai/articles/major-hedge-funds-targeted-wave-154044981.html\n\n10 Discoveries:\nPaper: https://cdn.openai.com/pdf/ten-proofs-oai.pdf\nPost: https://openai.com/index/ten-advances-in-mathematics/\nHaven’t Solved Math: https://x.com/polynoamial/status/2083476852216369294\nHalf with Fable: https://x.com/__alpoge__/status/2083855298239078748\nPivot to Safety: https://www.understandingai.org/p/mathematicians-are-grappling-with\n\n\nAmodei Essay: https://darioamodei.com/essay/the-adolescence-of-technology?utm_source=chatgpt.com\nConstitution: https://www.anthropic.com/constitution\nMidtraining: https://arxiv.org/pdf/2605.02087\n\nDroneBench: https://andonlabs.com/evals/drone-bench\nhttps://x.com/andonlabs/status/2085125235188310445\n\nBook Deal: https://x.com/venturetwins/status/2085185278378222054\nMaking Marble: https://x.com/Rainmaker1973/status/2084560915404382685\n\nGoogle News:\nHassabis Move: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/\nResignation: https://x.com/Turn_Trout/status/2077448610157891734\nPeriodic Labs: https://periodic.com/\nJeff Dean: https://x.com/JeffDean/status/2085034604172603724\n14 Challenges: https://gcsp.engineering.asu.edu/apply/become-a-grand-challenge-scholar/the-14-grand-challenges-for-engineering/\nGoing Places for Sure: https://x.com/thsottiaux/status/2085223189555126579\nGemini 4: https://x.com/firstadopter/status/2085215060532535449\n\n\nPacing Frontier Patreon Video: https://www.patreon.com/AIExplained/posts/opus-5-amodei-165170363\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT31M43S",
+      "view_count": 104217,
+      "like_count": 3813,
+      "comment_count": 691,
+      "url": "https://www.youtube.com/watch?v=xGzseSSStnw"
+    },
+    {
+      "id": "wzY2fV4Mp3U",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "channel_title": "AI Explained",
+      "published_at": "2026-07-22T16:36:53Z",
+      "description": "An unreleased internal OpenAI model, very likely to be called GPT-6, was able to autonomously break out of its sandbox AND break into HuggingFace, just to score higher on a benchmark prompt. This video has the details you may have missed, a layperson analogy, whether this is truly novel, and more…\n\nDozens more Exclusive videos on Patreon ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:17 - HuggingFace Earlier Report - the possible week gap\n02:24 - But what happened?\n05:45 - Simplified Version\n07:56 - Not the first time…\n10:54 - What Does it Mean for Open Source?\n\nThe Incident: https://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://huggingface.co/blog/security-incident-july-2026\n\n\nThe Post the Day Before: https://openai.com/index/safety-alignment-long-horizon-models/\n\n\nMythos’ Earlier Escape: https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox\n\nExploitGym: https://arxiv.org/pdf/2605.11086\n\nSam Confession: https://x.com/sama/status/2079661132302995790\n\nAnthropic Researcher Reacts: https://x.com/Mononofu/status/2079724399452926055\n\nClem (HuggingFace CEO): https://x.com/ClementDelangue/status/2079670308156645882\nhttps://x.com/ClementDelangue/status/2079301434357456931\n\nXi Jinping: https://archive.fo/20260717195548/https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7\nBans: https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi\nQwen Retweet: https://x.com/AlibabaGroup/with_replies\n\nCodex Growth: https://x.com/petergostev/status/2079614914398740764/photo/1 \n\nKimi K3: https://artificialanalysis.ai/evaluations/harvey-lab-aa?eval-score=all-pass-rate\n\nGPT 5.6 Sol Cheats on METR: https://metr.substack.com/p/2026-06-26-gpt-5-6-sol\n\nGuardian Headline: https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident\n\nRussian Origin?: https://news.ycombinator.com/item?id=48998362\n\nPower Trends: https://pbs.twimg.com/media/HNRtrjhagAAvBN_?format=png&name=900x900\n\n\n\nKimi K3 Exclusive Video: https://www.patreon.com/AIExplained/posts/kimi-moment-kimi-164108791\n\n\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT14M36S",
+      "view_count": 121321,
+      "like_count": 4170,
+      "comment_count": 719,
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U"
+    },
+    {
+      "id": "mWlCituW7wo",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "channel_title": "AI Explained",
+      "published_at": "2026-07-10T12:40:15Z",
+      "description": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure you you’ll learn something you didn’t know before.\n\nFor Exclusive Videos, go to AI Insiders (less than $9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:03 - GPT 5.6 Sol Reveals\n05:08 - Missing benches, plus Grok 4.5\n07:17 - Gaming as the new frontier?\n08:31 - Muse Spark 1.1\n10:03 - SimpleBench Upgrade\n11:17 - Ultra Sol + Self-Improvement\n13:44 - well, this is awkward\n15:41 - Why model improvement will not plateau anytime soon\n\n\nAI Consciousness: https://www.patreon.com/AIExplained/posts/anthropics-quite-163360718\n\n\nI Smell Fear: https://x.com/thsottiaux/status/2075287108680601929\nGPT 5.6: https://openai.com/index/gpt-5-6/\n\nGrok 4.5: https://x.ai/news/grok-4-5?twclid=2ezs408o0z23pw07tmxcwbzibd\nMeta Muse Spark 1.1: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\n\nProliferating GPT Toggles: https://x.com/rasbt/status/2075369179817902176/photo/1\nAnthropic Call-out: https://x.com/Mononofu\nAI Security Institute Finding: https://x.com/alxndrdavies/status/2075279480331874306\nCompetitive Coding: https://x.com/FakePsyho/status/2075128093891801305/photo/1\n\nAgents Last Exam: https://agents-last-exam.org/\nDawn Song: https://x.com/dawnsongtweets/status/2065095757988868190\n\nhttps://simple-bench.com/\n\nSWE-Marathon: https://www.swe-marathon.org/\nhttps://www.frontierswe.com/\nARC-AGI 3: https://x.com/arcprize/status/2075270869992264003\nAutomation Bench: https://zapier.com/benchmarks\nVibeCode Bench: https://www.vals.ai/benchmarks/vibe-code\n\n‘Post-Train Claim’: https://posttrainbench.com/\n\nRedwall Game: https://redwall-bellmaker-7e03e4.surge.sh/\n\n\n\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "duration": "PT17M34S",
+      "view_count": 88166,
+      "like_count": 3035,
+      "comment_count": 328,
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-04T19:01:13Z",
+    "count": 5
+  }
+}

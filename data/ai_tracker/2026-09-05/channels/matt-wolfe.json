@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-09-05",
+  "result": [
+    {
+      "id": "GfPZm9yucQo",
+      "title": "AI News: The Most Insane Week So Far This Year!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-04T15:00:34Z",
+      "description": "Here's the AI News you probably missed this week. Try AI Flows with Artlist Unlimited here 👉 https://artlist.io/\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nGPT-6 Astra: https://openai.com/index/gpt-6-astra/\nClaude Fable and Mythos 5.1: https://www.anthropic.com/claude-fable-and-mythos-5-1\nGemini 3.8 Flash: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\nMuse Spark 1.3: https://research.meta.ai/blog/introducing-muse-spark-1-3\nMultiple Accounts In Codex: https://x.com/gabrielchua/status/2093228185823687134\nVoice In Google Workspace: https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/\nFastH3 Video Model: https://x.com/haoailab/status/2093391548289540596\nInteractive AI Livestreams: https://x.com/fal/status/2094286082275696880\nAtlas World Model: https://www.worldlabs.ai/blog/atlas\nRunway Introduces Solaris: https://runway.com/news/research/introducing-solaris\nOpenClaw 2.0: https://openclaw.ai/blog/openclaw-2-accidentally\nMuse Voice Transcribe: https://research.meta.ai/blog/introducing-muse-voice-transcribe\nMAI-Transcribe-2 Speech Model: https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/\nNVIDIA Acquires Hugging Face: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\nChatGPT Chats In Court: https://www.techspot.com/news/113667-chatgpt-conversations-could-end-up-court-theyre-not.html\nNYC School AI Moratorium: https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat\nDyson Introduces Camerajet: https://www.dyson.com/discover/news/latest/introducing-camerajet\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n1:30 Claude Fable 5.1\n4:04 Gemini 3.8 Flash\n7:04 Artlist AI Flows\n8:02 Muse Spark 1.3\n11:00 GPT-6 Astra\n13:09 Megabonk Comparisons\n17:18 ChatGPT Multiple Accounts\n17:46 Google Voice in Gmail Etc\n18:46 Real-Time AI Video\n20:43 World Labs Atlas\n22:47 Runway Solaris\n23:52 OpenClaw 2.0\n24:21 Muse Voice Transcribe\n24:43 MAI-Transcribe-2\n25:00 Nvidia Acquires Hugging Face\n26:34 ChatGPT Unprotected\n26:56 NYC Bans AI in Schools\n27:43 AI Toothbrush\n28:46 Final Thoughts\n30:26 WTF?",
+      "duration": "PT30M56S",
+      "view_count": 14868,
+      "like_count": 831,
+      "comment_count": 97,
+      "url": "https://www.youtube.com/watch?v=GfPZm9yucQo"
+    },
+    {
+      "id": "GGzT7zVrRTU",
+      "title": "GPT-6 Astra Is Finally Here (And It’s REALLY Good)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-03T22:45:47Z",
+      "description": "Here's my first look at GPT-6-Astra after spending some time using it myself.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:",
+      "duration": "PT19M32S",
+      "view_count": 274266,
+      "like_count": 4901,
+      "comment_count": 399,
+      "url": "https://www.youtube.com/watch?v=GGzT7zVrRTU"
+    },
+    {
+      "id": "K_iUGDw2Sho",
+      "title": "This Robot Can Learn Almost ANY Task",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-03T14:23:29Z",
+      "description": "This robot can repot plants, make pour-over coffee, assemble kits, and even cook pancakes. \n\nAnd all of those tasks were learned from a single video demonstration.\n\nSkild AI’s new S1 model can recreate tasks lasting up to 10 minutes, with dozens of individual step, WITHOUT any fine-tuning or additional training.\n\nIt’s basically prompting...but for robots.\n\nFollow for more of the latest futuristic tech and robotics breakthroughs!\n\n#Robotics #ArtificialIntelligence #AI #FutureTech",
+      "duration": "PT48S",
+      "view_count": 6651,
+      "like_count": 194,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=K_iUGDw2Sho"
+    },
+    {
+      "id": "Po_Dh7WLgmM",
+      "title": "The Most Overhyped and Underhyped New AI Models",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-03T02:14:55Z",
+      "description": "A bunch of new models... Join the free newsletter here: https://futuretools.io/newsletter\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nGemini 3.8 Flash: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\nClaude Fable And Mythos: https://www.anthropic.com/claude-fable-and-mythos-5-1\nPath To Astra: https://openai.com/index/path-to-astra/\nAstra Security Concerns: https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns\nArtificial Analysis: https://artificialanalysis.ai/\nDeepSWE: https://deepswe.datacurve.ai/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:20 Fable 5.1\n7:50 Fable 5.1 Tests\n11:07 Gemini 3.8 Flash\n13:58 Gemini 3.8 Flash Tests\n18:40 OpenAI Astra\n20:41 Recurrent Depth\n23:35 Conclusion",
+      "duration": "PT26M29S",
+      "view_count": 83977,
+      "like_count": 1477,
+      "comment_count": 200,
+      "url": "https://www.youtube.com/watch?v=Po_Dh7WLgmM"
+    },
+    {
+      "id": "-goIBDS9UNU",
+      "title": "The One-Prompt Dashboard Trick",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-01T14:27:45Z",
+      "description": "I turned a boring spreadsheet into the ultimate content creator dashboard.\n\nIt tracks my audience and growth across YouTube, Instagram, TikTok, LinkedIn, X, Threads, Facebook, and my newsletter, all in one place that my whole team can use.\n\nAnd I built the whole thing with @OpenAI ChatGPT Sites inside the Codex app.\n\nSites handles the hosting, authentication, database, analytics, and even lets you add WebMCP actions that AI agents can interact with directly.\n\nBasically: custom software for your team without having to build all the infrastructure yourself.\n\n🔗If you want to try Sites for yourself, head to the link in the pinned comment to download the Codex app!\n\n#AI #Ainews #ChatGPT #Codex #contentcreator",
+      "duration": "PT1M9S",
+      "view_count": 7997,
+      "like_count": 208,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=-goIBDS9UNU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-04T19:01:12Z",
+    "count": 5
+  }
+}
