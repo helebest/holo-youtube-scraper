@@ -14,14 +14,38 @@
   "date": "2026-09-04",
   "result": [
     {
+      "id": "-TTyyY3VWh8",
+      "title": "First impressions of GPT-6 Astra from developers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-03T21:20:49Z",
+      "description": "See what Ben Davis, Peter Gostev, and Tom Krcha are building with GPT-6 Astra, from a playable 3D history of London to new directions for a matcha shop website to solving a DEF CON puzzle with parallel agents.\n\nGPT-6 Astra helps them explore ideas, stay on track, and tackle problems that previously felt out of reach.",
+      "duration": "PT2M27S",
+      "view_count": 232754,
+      "like_count": 3735,
+      "comment_count": 270,
+      "url": "https://www.youtube.com/watch?v=-TTyyY3VWh8"
+    },
+    {
+      "id": "1QNsdr-Qx_I",
+      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-03T19:40:03Z",
+      "description": "GPT-6 Astra achieves state-of-the-art results on benchmarks for long-running computer-use tasks across professions and desktop apps, which means anything you can do on a computer, Astra can do for you, fast. \n\nIt’s also the best model for software engineering to date and our most aligned model yet, with improvements in honesty and reductions in deceptive behavior.\n \nGPT-6 Astra is rolling out today for enterprises and customers in our Trusted Access Program, with broad availability in ChatGPT Work and Codex coming to Plus, Pro, Business and Enterprise plans, and API and AWS customers in the next few days.\n\nTo experience Astra at its best, use the ChatGPT desktop app.\n\n“Put That There\" clip courtesy of MIT Media Laboratory, Chris Schmandt, and Eric Hulteen.",
+      "duration": "PT2M43S",
+      "view_count": 802635,
+      "like_count": 26576,
+      "comment_count": 2485,
+      "url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I"
+    },
+    {
       "id": "981SivztzOc",
       "title": "Use Your Computer and Browser",
       "channel_title": "OpenAI",
       "published_at": "2026-08-28T20:51:46Z",
       "description": "See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts before submitting or saving anything. This walkthrough uses the ChatGPT desktop app.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-your-computer-and-browser",
       "duration": "PT2M29S",
-      "view_count": 77129,
-      "like_count": 731,
+      "view_count": 81847,
+      "like_count": 748,
       "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=981SivztzOc"
     },
@@ -32,9 +56,9 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your computer through Remote.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/using-voice",
       "duration": "PT1M51S",
-      "view_count": 9113,
-      "like_count": 104,
-      "comment_count": 10,
+      "view_count": 10003,
+      "like_count": 112,
+      "comment_count": 11,
       "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-08-28T20:51:46Z",
       "description": "Turn a meeting transcript into a structured Google Doc and a leadership deck with ChatGPT Work. Connect Google Drive, ask for the sections you need, and check the document against the original transcript. Then create a Google Slides presentation from the document and save both formats with Template Creator so you can use them again.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/creating-slides-and-docs",
       "duration": "PT3M18S",
-      "view_count": 33524,
-      "like_count": 376,
+      "view_count": 34624,
+      "like_count": 395,
       "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
-    },
-    {
-      "id": "yfnh8SuMbNw",
-      "title": "Use ChatGPT Work on Your Phone",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-28T20:51:46Z",
-      "description": "Use ChatGPT Work on your phone to catch up on work and handle personal tasks before you reach your desk. Follow a Slack and Gmail catch-up, then review recent spending with the read-only Finances plugin. You’ll also see how to pair your phone with Remote to check progress and guide tasks running on your computer. For Remote, your computer needs to stay awake and online.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/working-on-your-phone",
-      "duration": "PT1M55S",
-      "view_count": 21113,
-      "like_count": 259,
-      "comment_count": 24,
-      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw"
-    },
-    {
-      "id": "0qK3KqvtRrg",
-      "title": "Build a Shareable Site",
-      "channel_title": "OpenAI",
-      "published_at": "2026-08-28T20:51:45Z",
-      "description": "Turn a conversation into a website people can use with ChatGPT Work. Build a group-trip site with an itinerary, activity voting, and shared expenses, then refine it by asking for changes. See how to choose who can visit, manage your projects in Sites, and bring launch metrics and team updates together in a dashboard.\n\nFollow the lesson and try it yourself: https://learn.chatgpt.com/training/walkthroughs/building-a-shareable-site",
-      "duration": "PT2M21S",
-      "view_count": 15989,
-      "like_count": 153,
-      "comment_count": 7,
-      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-03T19:20:04Z",
+    "generated_at": "2026-09-04T08:55:10Z",
     "count": 5
   }
 }

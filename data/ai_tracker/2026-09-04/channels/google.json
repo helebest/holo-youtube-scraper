@@ -20,9 +20,9 @@
       "published_at": "2026-09-03T16:29:33Z",
       "description": "Life is a highway, and your search bar is the fast lane 🛣️💨",
       "duration": "PT8S",
-      "view_count": 2433,
-      "like_count": 103,
-      "comment_count": 7,
+      "view_count": 11285,
+      "like_count": 288,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=7k1sXY-ZCkI"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-09-02T15:59:14Z",
       "description": "Meet the brand new Pixel Watch 5.",
       "duration": "PT43S",
-      "view_count": 11820,
-      "like_count": 337,
+      "view_count": 15475,
+      "like_count": 383,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-08-26T19:00:10Z",
       "description": "Meet the brand new Google #Pixel11 Pro.",
       "duration": "PT33S",
-      "view_count": 59829,
-      "like_count": 1119,
-      "comment_count": 129,
+      "view_count": 60642,
+      "like_count": 1132,
+      "comment_count": 132,
       "url": "https://www.youtube.com/watch?v=QOE798Nd5vw"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-08-26T16:12:07Z",
       "description": "Packed our salty snacks and headed to Olympic National Park to get a ranger’s answers to your most-searched questions 🌲",
       "duration": "PT53S",
-      "view_count": 20122,
-      "like_count": 377,
+      "view_count": 20629,
+      "like_count": 384,
       "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-08-25T18:57:01Z",
       "description": "To celebrate searches for “tidepooling” reaching an all-time high this year, we caught up with a park ranger for some fun (and very unhinged) coastal facts.",
       "duration": "PT55S",
-      "view_count": 23537,
-      "like_count": 526,
-      "comment_count": 31,
+      "view_count": 23985,
+      "like_count": 533,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=XXhq0IYvR24"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-03T19:20:04Z",
+    "generated_at": "2026-09-04T08:55:11Z",
     "count": 5
   }
 }

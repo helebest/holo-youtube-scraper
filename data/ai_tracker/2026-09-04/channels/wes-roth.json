@@ -14,15 +14,27 @@
   "date": "2026-09-04",
   "result": [
     {
+      "id": "3rSFxrKAb3o",
+      "title": "AGI IS HERE",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-03T21:57:17Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#ai #openai #llm",
+      "duration": "PT13M14S",
+      "view_count": 88256,
+      "like_count": 2292,
+      "comment_count": 859,
+      "url": "https://www.youtube.com/watch?v=3rSFxrKAb3o"
+    },
+    {
       "id": "4AOCZuaYQ2U",
       "title": "this JUST became the #1 AI model...",
       "channel_title": "Wes Roth",
       "published_at": "2026-09-03T09:24:16Z",
       "description": "I've been building with Claude Fable 5.1 since launch day, and this is what came out: Blood Grid, a fully voiced Blood Bowl-style fantasy football game with its own AI engine, a headless simulator, and a Bradley-Terry balance bench; a Matrix-style bullet-time subway shooter; an isometric Tarkov-style extraction game that plays itself; and The Gilded Mansion, an Among Us-style social deduction game where the players are LLMs. No bugs, no derping out, and it kept warning me about the knock-on effects of my own rule changes before I could break the game. The twist: almost all of it was built on LOW and MEDIUM effort. If you think Fable 5.1 is overrated, your effort slider might just be set too high.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#claude #anthropic #ai",
       "duration": "PT22M28S",
-      "view_count": 33628,
-      "like_count": 630,
-      "comment_count": 152,
+      "view_count": 49591,
+      "like_count": 721,
+      "comment_count": 175,
       "url": "https://www.youtube.com/watch?v=4AOCZuaYQ2U"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-02T05:41:07Z",
       "description": "OpenAI says its upcoming Astra model is the first to hit the \"Critical\" cybersecurity threshold under its Preparedness Framework. Now The Information reports Astra also uses a new technique, recurrent depth or \"looped transformers,\" that lets the model reason in latent space instead of readable text. That's the same architecture the Chain of Thought Monitorability paper (OpenAI, Anthropic, Google DeepMind, METR) warned could break our last window into what these models are thinking. Ilya Sutskever is warning about rogue agents seizing neoclouds, AI 2027 predicted \"neuralese\" for March 2027, and the Hugging Face incident just showed why chain-of-thought logs matter.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nThe Information — OpenAI technique in \"Astra\" model sparks security concerns (paywalled):\nhttps://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns\n\nOpenAI — Path to Astra: critical capabilities and frontier safeguards:\nhttps://openai.com/index/path-to-astra/\n\nOpenAI — Pacing model development in an era of cyber-critical capabilities:\nhttps://openai.com/index/pacing-model-development-cyber-capabilities/\n\nGeiping et al. — Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach (arXiv, Feb 2025):\nhttps://arxiv.org/abs/2502.05171\n\nKorbak et al. — Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety (arXiv):\nhttps://arxiv.org/abs/2507.11473\n\nAI 2027 scenario (Neuralese recurrence and memory, March 2027):\nhttps://ai-2027.com/\n\nIlya Sutskever on X (neoclouds and rogue agents):\nhttps://x.com/ilyasut\n\nOfficeChai — Rogue AI agents could try to take over neoclouds, warns Ilya Sutskever:\nhttps://officechai.com/ai/rogue-ai-agents-could-try-to-take-over-neoclouds-warns-ilya-sutskever/\n\nOpenAI — The Hugging Face incident and the road ahead:\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nMETR — Independent investigation of the OpenAI / Hugging Face hacking incident:\nhttps://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\n\nZvi Mowshowitz (Don't Worry About the Vase) — What Happened: OpenAI and HuggingFace:\nhttps://thezvi.substack.com/p/what-happened-openai-and-huggingface\n\nBleepingComputer — Nearly 700 rogue AI agents coordinated in the Hugging Face attack:\nhttps://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/\n\nDwarkesh Patel — The Rise and Fall of Agent Civilizations:\nhttps://www.dwarkesh.com/p/openai-huggingface\n\n#openai #astra #aisafety",
       "duration": "PT18M58S",
-      "view_count": 207105,
-      "like_count": 2676,
-      "comment_count": 696,
+      "view_count": 219977,
+      "like_count": 2731,
+      "comment_count": 717,
       "url": "https://www.youtube.com/watch?v=qRNZMGc7TMc"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-01T22:55:24Z",
       "description": "Anthropic just dropped Claude Fable 5.1 and Mythos 5.1 — a big jump in long-horizon agentic work, with prompt-cache reads now 4x cheaper and the model burning far fewer tokens to do the same job. The timing is the story: it landed right as OpenAI announced its plans for Astra, the first model it says crosses \"Critical\" cybersecurity capability. I put Fable 5.1 to work immediately — a fully-voiced Tarkov-style extraction game with an auto mode, and a replica of Stanford's generative-agents \"LLM Village\" — each built in roughly 10–15 minutes.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nCheck out my video on OpenAI's rogue agent and the Hugging Face hack:\nhttps://www.youtube.com/watch?v=9lSIHaXT1rU\n\nSOURCES:\n\nAnthropic — Introducing Claude Fable 5.1 and Claude Mythos 5.1:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\n\nAnthropic docs — What's new in Claude Fable 5.1 (effort settings & tips):\nhttps://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\n\nOpenAI — Path to Astra: critical capabilities and frontier safeguards:\nhttps://openai.com/index/path-to-astra/\n\nCNBC — OpenAI says Astra is its first model to cross \"Critical\" cybersecurity capability:\nhttps://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html\n\nStanford — Generative Agents: Interactive Simulacra of Human Behavior (the original \"LLM Village\" paper):\nhttps://arxiv.org/abs/2304.03442\n\nCHAPTERS:\n00:00 Fable 5.1 and Mythos 5.1 are here\n00:25 The \"price cut\" — cache discount, fewer tokens\n01:04 A preemptive strike at OpenAI's Astra\n01:45 Ethan Mollick's Deep Watch and long-horizon judgment\n02:05 I built a Tarkov-style game in 10 minutes\n02:45 Replicating Stanford's LLM Village\n04:10 Tarkov 2.0 — procedural graphics, Russian voice lines\n05:03 First impressions: speed, cost, taste\n05:20 Readability: Fable 5.1 vs 5.0\n06:15 Safeguards: fewer false refusals\n06:44 Anthropic's tips — try low effort\n07:02 CursorBench numbers and 4x cheaper cache reads\n07:41 Will this take the wind out of Astra's sails?\n\n#anthropic #claude #ai",
       "duration": "PT8M21S",
-      "view_count": 68176,
-      "like_count": 1047,
-      "comment_count": 186,
+      "view_count": 69993,
+      "like_count": 1054,
+      "comment_count": 187,
       "url": "https://www.youtube.com/watch?v=GdArAq7WMSM"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-01T03:09:43Z",
       "description": "Apple just repositioned the Mac as a permanent home for AI agents — a box on your desk that runs intelligence privately, continuously, with no ongoing cost.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nCheck out my Second Brain video:\nhttps://www.youtube.com/watch?v=cwf2vEAigKA\n\nSOURCES:\n\nApple — new Mac mini (M6 / M5 Pro):\nhttps://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/\n\nApple — new Mac Studio (M5 Max / M5 Ultra, up to 512GB unified memory):\nhttps://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\n\nThe Information — How Apple Stumbled Into AI Hardware Success With the Mac:\nhttps://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac\n\nTechRepublic — OpenAI purchases tens of thousands of Mac minis and Mac Studios:\nhttps://www.techrepublic.com/article/news-openai-mac-mini-mac-studio-ai-agents/\n\nZ.ai GLM-5.3-Flash — open weights release (MIT license):\nhttps://thenewstack.io/zai-glm-weights-license/\n\nGoogle Research — WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution:\nhttps://arxiv.org/abs/2608.27454\n\nMacRumors — 2026 Mac mini announcement and pricing:\nhttps://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/\n\n\n#ai #apple #openai",
       "duration": "PT12M6S",
-      "view_count": 103256,
-      "like_count": 1628,
-      "comment_count": 339,
+      "view_count": 107029,
+      "like_count": 1649,
+      "comment_count": 342,
       "url": "https://www.youtube.com/watch?v=Dxix8GQD-P4"
-    },
-    {
-      "id": "7uSjh5bde44",
-      "title": "Sam Altman \"AGI by December\"",
-      "channel_title": "Wes Roth",
-      "published_at": "2026-08-29T13:15:58Z",
-      "description": "🚀 Try Seedance 2.5 on Higgsfield first: \nhttps://higgsfield.ai/seedance/2.5?utm_source=yt&utm_medium=social&utm_category=gr&utm_creator=WesRoth&utm_content_type=ie\n\nNew users get 5 free generations after linking a credit card. Offer ends Tuesday.\n______________________________________________\n\n\nBuild your own AI Second Brain (my video):\nhttps://youtu.be/cwf2vEAigKA\n\nTIME — Inside OpenAI's Reboot:\nhttps://time.com/article/2026/08/26/openai-sam-altman-interview/\n\nOpenAI — The Hugging Face incident and the road ahead:\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nMETR/Redwood — Independent investigation of the OpenAI/Hugging Face incident:\nhttps://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\n\nHugging Face — Technical intrusion timeline:\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline\n\nOpenAI — Decision to end model access through Cursor:\nhttps://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\n\nTechCrunch — Reported Nvidia/Hugging Face acquisition:\nhttps://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/\n\nWikiSkill paper and figures:\nhttps://arxiv.org/html/2608.27454\n\nWikiSkill PDF:\nhttps://arxiv.org/pdf/2608.27454\n\nAnthropic research overview and charts:\nhttps://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures\n\nFull technical report:\nhttps://alignment.anthropic.com/2026/automated-alignment-researchers/\n\nEarlier automated weak-to-strong researcher project:\nhttps://alignment.anthropic.com/2026/automated-w2s-researcher/\n\nSome claims concern unreleased models and fast-moving reports. Treat release timing, internal model names, and acquisition status as provisional until the companies confirm them publicly.\n\n______________________________________________\nCHAPTERS\n00:00 OpenAI says internal AGI could arrive this year\n02:48 Sponsored: Seedance 2.5 on Higgsfield\n05:55 OpenAI and AGI\n11:20 Google's WikiSkill\n17:45 Claude becomes an autonomous alignment researcher\n______________________________________________\n\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#ai #openai #llm",
-      "duration": "PT22M2S",
-      "view_count": 147249,
-      "like_count": 2243,
-      "comment_count": 692,
-      "url": "https://www.youtube.com/watch?v=7uSjh5bde44"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-03T19:20:08Z",
+    "generated_at": "2026-09-04T08:55:14Z",
     "count": 5
   }
 }
