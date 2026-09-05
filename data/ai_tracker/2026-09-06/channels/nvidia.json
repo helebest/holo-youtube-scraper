@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-09-06",
+  "result": [
+    {
+      "id": "TaqNUvMCRBs",
+      "title": "The Easiest Way to Run Hermes Locally | @Nousresearch",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-03T19:31:53Z",
+      "description": "Local AI agents should be easy to set up.\n\nThat’s why @Nousresearch is bringing one-click local model setup to Hermes Agent across NVIDIA systems on Windows and Linux.\n\nLearn more: https://blogs.nvidia.com/local-ai–ifa-next-gen-agents-nv-pair-rtx-spark",
+      "duration": "PT1M6S",
+      "view_count": 5619,
+      "like_count": 193,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs"
+    },
+    {
+      "id": "3eNtVFTEys4",
+      "title": "The Industrialization of Intelligence",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-02T22:11:08Z",
+      "description": "Taiwan helped build the computing era. Now its semiconductor ecosystem is building the infrastructure, systems, and software that power the AI era.\n\nThis video celebrates Taiwan’s technology ecosystem and the engineers, researchers, manufacturers, developers, and partners turning breakthroughs in chip design, advanced manufacturing, accelerated computing, and AI into technology used around the world.\n\nCreated for SEMICON Taiwan 2026.\n\nPresented with Chinese subtitles.",
+      "duration": "PT1M36S",
+      "view_count": 79110,
+      "like_count": 1416,
+      "comment_count": 145,
+      "url": "https://www.youtube.com/watch?v=3eNtVFTEys4"
+    },
+    {
+      "id": "MkbepPfaeMU",
+      "title": "Tokenomics 101: What Are Tokens & Why They Matter | AI Factory Insider Ep. 4",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-01T22:56:50Z",
+      "description": "In Episode 4 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Shruti Koparkar (Sr. Manager, Product Marketing, NVIDIA) and Tue Tran (GTM Strategic Ops, NVIDIA) to discuss what a token actually is, why not all tokens are equal, and how to tie AI factory investment to real business ROI.\n\nWhat we cover: \n0:00 — Introduction \n1:28 — Meet our guests: Shruti Koparkar & Tue Tran \n2:42 — What is a token? \n3:54 — What is \"tokenomics,\" and why is it relevant now? \n4:58 — Not all tokens are equal: intelligence, context, and speed \n7:44 — Trading vs. research: matching tokens to the use case \n9:20 — Retail video: one-token answers vs. batch captioning \n10:40 — Sizing token demand: back-of-napkin math \n12:10 — The multipliers: reasoning, agentic loops, and cache hit rate \n13:54 — KV cache and prefix matching explained \n16:34 — Supply: the AI factory as a car engine \n17:29 — Dense models vs. mixture of experts \n20:19 — Right model for the right task: a telco example \n21:24 — Intelligent routing with NeMo Switchyard \n22:10 — Where are your tokens going? Observability with NeMo Relay \n22:38 — Matching infrastructure: NVL72, HGX, and RTX PRO Servers \n23:31 — Dynamo and extreme co-design \n24:25 — Monetization: four paths from tokens to ROI \n27:54 — Just get started, and make it a team effort \n29:18 — Guardrails for a token tsunami \n31:32 — Wrap-up\n\nResources: \nAI Tokenomics: A Framework for Deploying and Monetizing Inference at Scale 👉 https://nvda.ws/45WUA0e \nInside AI Tokenomics: How to Profitably Turn Tokens Into Business Value 👉 https://nvda.ws/4gE3Hry\nNVIDIA AI Factory Validated Design Guide 👉 https://nvda.ws/4wGGHz0",
+      "duration": "PT34M5S",
+      "view_count": 15242,
+      "like_count": 135,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=MkbepPfaeMU"
+    },
+    {
+      "id": "MKNMReFVcp4",
+      "title": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-01T22:16:56Z",
+      "description": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind, a new family of security models and harnesses built on NVIDIA Nemotron.\n\nIntroduced at Fal.Con, SafeMind is customized with CrowdStrike threat data to support triage and detection generation for cyber defense.",
+      "duration": "PT1M7S",
+      "view_count": 11060,
+      "like_count": 226,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=MKNMReFVcp4"
+    },
+    {
+      "id": "Gw6LRsCeh6Y",
+      "title": "Vera Arrives",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-08-27T13:02:43Z",
+      "description": "NVIDIA Vera is heading to @AWS. \n\nNVIDIA’s Ian Buck hand-delivered AWS’s first Vera CPU Server and Vera Rubin GPU to Willem Visser and Supreeth Sheshadri at the AWS HQ in Seattle.\n\nVera is purpose-built for agentic AI: more tokens per dollar, faster results for users, and the compute foundation AI factories need to scale.",
+      "duration": "PT37S",
+      "view_count": 14711,
+      "like_count": 487,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-05T18:25:22Z",
+    "count": 5
+  }
+}

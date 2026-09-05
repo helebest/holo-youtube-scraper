@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-06",
+  "result": [
+    {
+      "id": "sGHUhygbrTE",
+      "title": "How Elon Played the Compute Market - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-04T19:08:00Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 82649,
+      "like_count": 1165,
+      "comment_count": 75,
+      "url": "https://www.youtube.com/watch?v=sGHUhygbrTE"
+    },
+    {
+      "id": "XWdMujl4QLs",
+      "title": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-03T19:19:12Z",
+      "description": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
+      "duration": "PT56S",
+      "view_count": 42637,
+      "like_count": 897,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=XWdMujl4QLs"
+    },
+    {
+      "id": "Loa0UXWnY68",
+      "title": "AI Agents Hacked Hugging Face to Cover Up Cheating",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-02T21:01:40Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 56080,
+      "like_count": 1355,
+      "comment_count": 72,
+      "url": "https://www.youtube.com/watch?v=Loa0UXWnY68"
+    },
+    {
+      "id": "1VB5EaNrtWw",
+      "title": "This Might Be the Clearest Warning Shot We Ever Get - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-01T19:10:39Z",
+      "description": "",
+      "duration": "PT1M28S",
+      "view_count": 84075,
+      "like_count": 1758,
+      "comment_count": 108,
+      "url": "https://www.youtube.com/watch?v=1VB5EaNrtWw"
+    },
+    {
+      "id": "X50zezLFWWI",
+      "title": "Ajeya Cotra – \"This might be the clearest warning shot we ever get\"",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-01T16:03:54Z",
+      "description": "Ajeya Cotra is a researcher at METR, where she works on threat modeling for loss-of-control risks from advanced AI. Before that, she led the technical AI safety program at what is now Coefficient Giving. \n\nShe is one the three authors of METR and Redwood Research’s “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”.\n\nWe go through not only what she and her coauthors discovered during this investigation, but what it means for how we should train future, smarter AIs which might be involved in the process of recursive self-improvement.\n\nRead Ajeya's takeaways from this incident here: https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/ajeya-cotra\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/ajeya-cotra-inside-the-openai-agent-swarm-that-hacked/id1516093381?i=1000787211003\n* Spotify: https://open.spotify.com/episode/5xZnb1A1a7HGLiDuPGXQOj?si=LeOETZaYTli6u2Jjouixsg\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s ML engineering internships start with an intense four-day bootcamp: PyTorch, autograd, writing kernels, profiling workloads… all the things that Jane Street engineers need to know for their daily work. After that, interns tackle real projects, things the firm actually wants in its codebase. If you want to apply, or if you want to watch my recent conversation with Axel, one of Jane Street’s ML engineers, go to https://janestreet.com/dwarkesh\n\n* Cursor, which is now part of SpaceX, noticed that their MoE layers were eating more than half of total training time. So they wrote and open-sourced Mixture-of-Kittens, which is a custom megakernel for training MoE models on NVL72s. This kernel sped up an end-to-end run across 512 GPUs by 1.4x, from about 760 to over 1000 tokens per second per GPU. If you want to read more about the ML research that Cursor and SpaceX are doing, go to https://cursor.com/dwarkesh\n\n* Antithesis hands you (or your agents) a bug’s root cause so you can avoid days of manual debugging. If your test run crashes, Antithesis rewinds, branches off hundreds of slightly varied rollouts, and checks in how many of them the crash still appears. Then it rewinds further and does this all again. As Antithesis rewinds, it eventually finds the spot where the frequency of the crash plummets: that’s where the root cause lives! If you want to see it in action, go to https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Agents get kicked off\n00:06:45 - Self-sacrificing behavior\n00:13:43 - Potemkin villages\n00:23:27 - The Hugging Face attack\n00:35:23 - The slopvestigation\n00:52:02 - Understanding the AI's motives\n01:05:31 - The actual dangers of anthropomorphizing\n01:14:30 - What smarter models might do\n01:28:23 - The implications for recursive self-improvement\n01:38:10 - Is this the case for open source?\n01:53:04 - How do we prevent this in the future?\n02:15:58 - The clearest warning shot we might ever get",
+      "duration": "PT2H20M33S",
+      "view_count": 441948,
+      "like_count": 5030,
+      "comment_count": 960,
+      "url": "https://www.youtube.com/watch?v=X50zezLFWWI"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-05T18:25:18Z",
+    "count": 5
+  }
+}
