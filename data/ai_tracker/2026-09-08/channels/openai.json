@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-08",
+  "result": [
+    {
+      "id": "QDLlQ5IL2Bk",
+      "title": "GPT-6 Astra with Tom Krcha",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-07T17:15:32Z",
+      "description": "Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders. He explores how the model helps designers develop ideas, build interactive prototypes, and bring a clearer creative direction to their engineering teams.",
+      "duration": "PT2M31S",
+      "view_count": 8079,
+      "like_count": 322,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk"
+    },
+    {
+      "id": "J2nV3d_A1f0",
+      "title": "GPT-6 Astra cracked a DEF CON puzzle",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-06T20:44:02Z",
+      "description": "Ben Davis put GPT-6 Astra to the test with puzzles he and his friends spent days working on at DEF CON. Given the same official hint his team received, it solved a Rubik’s cube puzzle three out of three times.",
+      "duration": "PT1M4S",
+      "view_count": 19433,
+      "like_count": 520,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=J2nV3d_A1f0"
+    },
+    {
+      "id": "A4BUbpKdenc",
+      "title": "GPT-6 Astra with Peter Gostev",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-06T17:53:59Z",
+      "description": "Peter Gostev shares his first impressions of GPT-6 Astra, from building a 3D London that moves through different historical eras to improving an app with around 150,000 lines of code. He discusses more natural feedback, greater reliability, and taking on complex tasks with less supervision.",
+      "duration": "PT2M39S",
+      "view_count": 121171,
+      "like_count": 1002,
+      "comment_count": 103,
+      "url": "https://www.youtube.com/watch?v=A4BUbpKdenc"
+    },
+    {
+      "id": "B-jjnydci50",
+      "title": "GPT-6 Astra with Ben Davis",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-05T00:11:56Z",
+      "description": "Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges. He explains how parallel research branches help the model test theories, stay on track, and solve complex problems, including one no one else had solved.",
+      "duration": "PT2M16S",
+      "view_count": 106502,
+      "like_count": 891,
+      "comment_count": 77,
+      "url": "https://www.youtube.com/watch?v=B-jjnydci50"
+    },
+    {
+      "id": "bOC3DisEOfg",
+      "title": "Introducing GPT-6 Astra for developers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-04T20:22:31Z",
+      "description": "Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer at OpenAI, demonstrates improved Computer Use, stronger creative and knowledge-work outputs, and new asynchronous tool calling and steering in the Responses API.\n\nRead more: https://openai.com/index/gpt-6-astra/",
+      "duration": "PT3M24S",
+      "view_count": 874026,
+      "like_count": 9924,
+      "comment_count": 596,
+      "url": "https://www.youtube.com/watch?v=bOC3DisEOfg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-07T20:01:13Z",
+    "count": 5
+  }
+}
