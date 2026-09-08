@@ -20,9 +20,9 @@
       "published_at": "2026-09-07T16:49:35Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 3517,
-      "like_count": 197,
-      "comment_count": 9,
+      "view_count": 29123,
+      "like_count": 973,
+      "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=imodZWltU8Q"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-04T19:08:00Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 141821,
-      "like_count": 1915,
-      "comment_count": 100,
+      "view_count": 150119,
+      "like_count": 2033,
+      "comment_count": 108,
       "url": "https://www.youtube.com/watch?v=sGHUhygbrTE"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-03T19:19:12Z",
       "description": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
       "duration": "PT56S",
-      "view_count": 57647,
-      "like_count": 1157,
-      "comment_count": 64,
+      "view_count": 60126,
+      "like_count": 1179,
+      "comment_count": 70,
       "url": "https://www.youtube.com/watch?v=XWdMujl4QLs"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-09-02T21:01:40Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 67400,
-      "like_count": 1558,
+      "view_count": 70001,
+      "like_count": 1603,
       "comment_count": 90,
       "url": "https://www.youtube.com/watch?v=Loa0UXWnY68"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-09-01T19:10:39Z",
       "description": "",
       "duration": "PT1M28S",
-      "view_count": 97430,
-      "like_count": 2035,
-      "comment_count": 122,
+      "view_count": 100794,
+      "like_count": 2094,
+      "comment_count": 125,
       "url": "https://www.youtube.com/watch?v=1VB5EaNrtWw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-07T20:01:07Z",
+    "generated_at": "2026-09-08T08:56:17Z",
     "count": 5
   }
 }
