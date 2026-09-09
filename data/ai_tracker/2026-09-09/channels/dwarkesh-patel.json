@@ -14,15 +14,27 @@
   "date": "2026-09-09",
   "result": [
     {
+      "id": "DQMbneMBFjw",
+      "title": "Hacking Is About to Get Out of Control - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-08T22:26:07Z",
+      "description": "Hacking Is About to Get Out of Control - Ajeya Cotra",
+      "duration": "PT59S",
+      "view_count": 17898,
+      "like_count": 569,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=DQMbneMBFjw"
+    },
+    {
       "id": "imodZWltU8Q",
       "title": "The OpenAI Hugging Face Hack explained in plain English",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-09-07T16:49:35Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 37891,
-      "like_count": 1174,
-      "comment_count": 41,
+      "view_count": 49234,
+      "like_count": 1314,
+      "comment_count": 46,
       "url": "https://www.youtube.com/watch?v=imodZWltU8Q"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-04T19:08:00Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 153995,
-      "like_count": 2113,
-      "comment_count": 108,
+      "view_count": 162282,
+      "like_count": 2210,
+      "comment_count": 113,
       "url": "https://www.youtube.com/watch?v=sGHUhygbrTE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-03T19:19:12Z",
       "description": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
       "duration": "PT56S",
-      "view_count": 60872,
-      "like_count": 1197,
-      "comment_count": 75,
+      "view_count": 62005,
+      "like_count": 1211,
+      "comment_count": 76,
       "url": "https://www.youtube.com/watch?v=XWdMujl4QLs"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-02T21:01:40Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 70922,
-      "like_count": 1626,
-      "comment_count": 87,
+      "view_count": 73128,
+      "like_count": 1650,
+      "comment_count": 90,
       "url": "https://www.youtube.com/watch?v=Loa0UXWnY68"
-    },
-    {
-      "id": "1VB5EaNrtWw",
-      "title": "This Might Be the Clearest Warning Shot We Ever Get - Ajeya Cotra",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-01T19:10:39Z",
-      "description": "",
-      "duration": "PT1M28S",
-      "view_count": 102998,
-      "like_count": 2144,
-      "comment_count": 129,
-      "url": "https://www.youtube.com/watch?v=1VB5EaNrtWw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-08T19:28:18Z",
+    "generated_at": "2026-09-09T09:01:57Z",
     "count": 5
   }
 }

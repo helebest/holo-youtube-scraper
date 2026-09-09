@@ -20,9 +20,9 @@
       "published_at": "2026-09-08T19:11:55Z",
       "description": "Meet Sunburst and Flare, our two new GPT-Image-2.5 models. Sunburst brings sharper details, more natural lighting, and greater control across edits. Flare delivers high quality images over 50% faster. Both support transparent backgrounds for assets ranging from infographics to games.\n\nAvailable now in the API.",
       "duration": "PT1M2S",
-      "view_count": 1989,
-      "like_count": 184,
-      "comment_count": 20,
+      "view_count": 265023,
+      "like_count": 2970,
+      "comment_count": 275,
       "url": "https://www.youtube.com/watch?v=A7MSwdXj86k"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-08T18:48:03Z",
       "description": "Have an idea but need help getting started? \n\nUse templates for popular image formats like posters or merch, then add your message, design elements, or style to make it your own.\nChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web.",
       "duration": "PT28S",
-      "view_count": 1726,
-      "like_count": 92,
-      "comment_count": 4,
+      "view_count": 43823,
+      "like_count": 625,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=-VukmrOT1eE"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-08T18:46:42Z",
       "description": "Some ideas are easier to draw than describe. \n\nUse Sketch to draw right in ChatGPT and show it exactly what you have in mind.\n\nJust type “@ Sketch” in ChatGPT.",
       "duration": "PT34S",
-      "view_count": 1892,
-      "like_count": 149,
-      "comment_count": 14,
+      "view_count": 64923,
+      "like_count": 956,
+      "comment_count": 84,
       "url": "https://www.youtube.com/watch?v=imPtIEAEHSU"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-08T18:44:08Z",
       "description": "Say hello to ChatGPT Images 2.5—faster, sharper, smarter, with better tools for creating whatever you can dream of. \n\n- Faster image generation to keep your ideas flowing\n- Improved fidelity for more natural, recognizable images\n- Consistent details across multiple edits\n- Comment-based edits to change only what you want",
       "duration": "PT58S",
-      "view_count": 3983,
-      "like_count": 1515,
-      "comment_count": 163,
+      "view_count": 201620,
+      "like_count": 5348,
+      "comment_count": 417,
       "url": "https://www.youtube.com/watch?v=6l7ble9P74o"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-07T17:15:32Z",
       "description": "Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders. He explores how the model helps designers develop ideas, build interactive prototypes, and bring a clearer creative direction to their engineering teams.",
       "duration": "PT2M31S",
-      "view_count": 112598,
-      "like_count": 803,
-      "comment_count": 76,
+      "view_count": 134085,
+      "like_count": 892,
+      "comment_count": 80,
       "url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-08T19:28:23Z",
+    "generated_at": "2026-09-09T09:02:02Z",
     "count": 5
   }
 }

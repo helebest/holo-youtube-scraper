@@ -14,15 +14,27 @@
   "date": "2026-09-09",
   "result": [
     {
+      "id": "lkujyxUdUIk",
+      "title": "OpenAI JUST solved math....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-09T05:41:44Z",
+      "description": "OpenAI says 10,000 AI agents produced a proposed solution to the Navier–Stokes Millennium Prize Problem in just 88 hours. But the announcement has sparked a dispute over credit, competing research, and the role of human mathematicians. We break down the math, Tristan Buckmaster and Levent Alpöge’s work, OpenAI’s response, and what this could mean for the future of scientific discovery.\n\nFrom Euler’s equations and fluid dynamics to Lean proof verification, this is the story behind the headlines—and the questions that still need answers.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI — On the Navier–Stokes Millennium Prize Problem:\nhttps://openai.com/index/navier-stokes-solution/\n\nOpenAI — Navier–Stokes and Euler Lean formalizations:\nhttps://github.com/openai/NavierStokesAndEuler\n\nTristan Buckmaster — Statement on the research and timeline:\nhttps://cims.nyu.edu/~tristanb/statement.pdf\n\nClay Mathematics Institute — Navier–Stokes:\nhttps://www.claymath.org/millennium/navier-stokes-equation/\n\nClay Mathematics Institute — The Millennium Prize Problems:\nhttps://www.claymath.org/millennium-problems/\n\nSam Altman — Response:\nhttps://x.com/sama/status/2097385167002415140\n\nSébastien Bubeck — Response:\nhttps://x.com/SebastienBubeck/status/2097379411691516310\n\nCHAPTERS:\n00:00 OpenAI’s Announcement\n02:05 Navier–Stokes Explained\n09:30 Earlier Research\n12:45 Tristan Buckmaster\n19:20 The Dispute\n22:50 Training Data\n31:25 OpenAI’s Response\n36:10 AI and Research\n\n#openai #ai #navierstokes",
+      "duration": "PT38M28S",
+      "view_count": 23910,
+      "like_count": 746,
+      "comment_count": 306,
+      "url": "https://www.youtube.com/watch?v=lkujyxUdUIk"
+    },
+    {
       "id": "Vjh3YCnI3vo",
       "title": "OpenAI’s chief scientist just issued a warning...",
       "channel_title": "Wes Roth",
       "published_at": "2026-09-07T08:45:18Z",
       "description": "OpenAI’s chief scientist says AI is approaching recursive self-improvement—and our ability to keep it under control isn’t keeping pace. Jakub Pachocki’s new essay, “An Alien Mind,” lays out why this moment matters. We look at OpenAI’s internal research data, the limits of AI alignment, and what it would take to keep humans in charge.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nJakub Pachocki — An Alien Mind:\nhttps://openai.com/index/an-alien-mind/\n\nOpenAI — Research Acceleration: The View Inside OpenAI:\nhttps://openai.com/index/research-acceleration-view-inside-openai/\n\nAnthropic — A Global Workspace in Language Models:\nhttps://www.anthropic.com/research/global-workspace\n\nOpenAI — The Hugging Face Incident and the Road Ahead:\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nAnthropic — The Persona Selection Model:\nhttps://alignment.anthropic.com/2026/psm/\n\nOpenAI — Detecting Misbehavior in Frontier Reasoning Models:\nhttps://openai.com/index/chain-of-thought-monitoring/\n\nOpenAI — How Confessions Can Keep Language Models Honest:\nhttps://openai.com/index/how-confessions-can-keep-language-models-honest/\n\nCHAPTERS:\n00:00 An Alien Mind\n02:25 Research Acceleration\n04:35 Machine Intelligence\n09:55 AI Alignment\n20:55 AI Monitoring\n24:25 Scalable Defense\n25:40 Pacing RSI\n29:45 Safety Debate\n\n#openai #agi #aisafety",
       "duration": "PT29M28S",
-      "view_count": 160417,
-      "like_count": 2346,
-      "comment_count": 761,
+      "view_count": 173877,
+      "like_count": 2430,
+      "comment_count": 782,
       "url": "https://www.youtube.com/watch?v=Vjh3YCnI3vo"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-05T22:17:45Z",
       "description": "built by Astra:\nhttps://sentient-crystal-ct94.here.now/\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\nCHAPTERS:\n00:00 Astra really feels like AGI\n00:50 GPT Image → Blender → Unreal Engine\n02:15 RimWorld, groceries and video editing\n03:35 Persistence, overnight work and quota resets\n05:00 An entire AI team across multiple computers\n07:35 The 12.5-hour 3D world project\n10:55 Exploring the Fallout-inspired world\n12:25 A comic-book alien planet\n13:15 The Escape from Tarkov-inspired scene\n14:25 From concept art to Blender assets\n16:00 My prompt and turning lessons into skills\n19:25 Astra plays RimWorld—and faces a mad squirrel\n23:05 Playing Astra's Unreal Engine game\n29:00 Before leaving AI agents running overnight\n29:50 Good night Codex: the bedtime prayer\n\n#openai #astra #ai",
       "duration": "PT28M52S",
-      "view_count": 189157,
-      "like_count": 2818,
-      "comment_count": 764,
+      "view_count": 192046,
+      "like_count": 2840,
+      "comment_count": 765,
       "url": "https://www.youtube.com/watch?v=aHy7cNj-W2I"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-03T21:57:17Z",
       "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#ai #openai #llm",
       "duration": "PT13M14S",
-      "view_count": 163087,
-      "like_count": 3226,
-      "comment_count": 1256,
+      "view_count": 165303,
+      "like_count": 3235,
+      "comment_count": 1266,
       "url": "https://www.youtube.com/watch?v=3rSFxrKAb3o"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-03T09:24:16Z",
       "description": "I've been building with Claude Fable 5.1 since launch day, and this is what came out: Blood Grid, a fully voiced Blood Bowl-style fantasy football game with its own AI engine, a headless simulator, and a Bradley-Terry balance bench; a Matrix-style bullet-time subway shooter; an isometric Tarkov-style extraction game that plays itself; and The Gilded Mansion, an Among Us-style social deduction game where the players are LLMs. No bugs, no derping out, and it kept warning me about the knock-on effects of my own rule changes before I could break the game. The twist: almost all of it was built on LOW and MEDIUM effort. If you think Fable 5.1 is overrated, your effort slider might just be set too high.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\n#claude #anthropic #ai",
       "duration": "PT22M28S",
-      "view_count": 58032,
-      "like_count": 768,
+      "view_count": 58825,
+      "like_count": 772,
       "comment_count": 191,
       "url": "https://www.youtube.com/watch?v=4AOCZuaYQ2U"
-    },
-    {
-      "id": "qRNZMGc7TMc",
-      "title": "GPT-6 Astra Just Went CRITICAL...",
-      "channel_title": "Wes Roth",
-      "published_at": "2026-09-02T05:41:07Z",
-      "description": "OpenAI says its upcoming Astra model is the first to hit the \"Critical\" cybersecurity threshold under its Preparedness Framework. Now The Information reports Astra also uses a new technique, recurrent depth or \"looped transformers,\" that lets the model reason in latent space instead of readable text. That's the same architecture the Chain of Thought Monitorability paper (OpenAI, Anthropic, Google DeepMind, METR) warned could break our last window into what these models are thinking. Ilya Sutskever is warning about rogue agents seizing neoclouds, AI 2027 predicted \"neuralese\" for March 2027, and the Hugging Face incident just showed why chain-of-thought logs matter.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nThe Information — OpenAI technique in \"Astra\" model sparks security concerns (paywalled):\nhttps://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns\n\nOpenAI — Path to Astra: critical capabilities and frontier safeguards:\nhttps://openai.com/index/path-to-astra/\n\nOpenAI — Pacing model development in an era of cyber-critical capabilities:\nhttps://openai.com/index/pacing-model-development-cyber-capabilities/\n\nGeiping et al. — Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach (arXiv, Feb 2025):\nhttps://arxiv.org/abs/2502.05171\n\nKorbak et al. — Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety (arXiv):\nhttps://arxiv.org/abs/2507.11473\n\nAI 2027 scenario (Neuralese recurrence and memory, March 2027):\nhttps://ai-2027.com/\n\nIlya Sutskever on X (neoclouds and rogue agents):\nhttps://x.com/ilyasut\n\nOfficeChai — Rogue AI agents could try to take over neoclouds, warns Ilya Sutskever:\nhttps://officechai.com/ai/rogue-ai-agents-could-try-to-take-over-neoclouds-warns-ilya-sutskever/\n\nOpenAI — The Hugging Face incident and the road ahead:\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nMETR — Independent investigation of the OpenAI / Hugging Face hacking incident:\nhttps://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\n\nZvi Mowshowitz (Don't Worry About the Vase) — What Happened: OpenAI and HuggingFace:\nhttps://thezvi.substack.com/p/what-happened-openai-and-huggingface\n\nBleepingComputer — Nearly 700 rogue AI agents coordinated in the Hugging Face attack:\nhttps://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/\n\nDwarkesh Patel — The Rise and Fall of Agent Civilizations:\nhttps://www.dwarkesh.com/p/openai-huggingface\n\n#openai #astra #aisafety",
-      "duration": "PT18M58S",
-      "view_count": 230513,
-      "like_count": 2795,
-      "comment_count": 722,
-      "url": "https://www.youtube.com/watch?v=qRNZMGc7TMc"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-08T19:28:27Z",
+    "generated_at": "2026-09-09T09:02:05Z",
     "count": 5
   }
 }
