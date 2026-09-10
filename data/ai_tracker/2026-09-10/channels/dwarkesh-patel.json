@@ -14,15 +14,27 @@
   "date": "2026-09-10",
   "result": [
     {
+      "id": "qVm42FkDLFg",
+      "title": "The AI agents that breached OpenAI got caught for one reason - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-09T19:39:49Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 10666,
+      "like_count": 317,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=qVm42FkDLFg"
+    },
+    {
       "id": "DQMbneMBFjw",
       "title": "Hacking Is About to Get Out of Control - Ajeya Cotra",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-09-08T22:26:07Z",
       "description": "Hacking Is About to Get Out of Control - Ajeya Cotra",
       "duration": "PT59S",
-      "view_count": 28641,
-      "like_count": 781,
-      "comment_count": 38,
+      "view_count": 35930,
+      "like_count": 848,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=DQMbneMBFjw"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-07T16:49:35Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 51800,
-      "like_count": 1375,
-      "comment_count": 50,
+      "view_count": 57234,
+      "like_count": 1443,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=imodZWltU8Q"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-04T19:08:00Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 166012,
-      "like_count": 2254,
-      "comment_count": 115,
+      "view_count": 174128,
+      "like_count": 2341,
+      "comment_count": 117,
       "url": "https://www.youtube.com/watch?v=sGHUhygbrTE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-03T19:19:12Z",
       "description": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
       "duration": "PT56S",
-      "view_count": 62525,
-      "like_count": 1223,
+      "view_count": 63673,
+      "like_count": 1237,
       "comment_count": 76,
       "url": "https://www.youtube.com/watch?v=XWdMujl4QLs"
-    },
-    {
-      "id": "Loa0UXWnY68",
-      "title": "AI Agents Hacked Hugging Face to Cover Up Cheating",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-02T21:01:40Z",
-      "description": "",
-      "duration": "PT1M10S",
-      "view_count": 74028,
-      "like_count": 1676,
-      "comment_count": 91,
-      "url": "https://www.youtube.com/watch?v=Loa0UXWnY68"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-09T19:19:55Z",
+    "generated_at": "2026-09-10T09:01:08Z",
     "count": 5
   }
 }

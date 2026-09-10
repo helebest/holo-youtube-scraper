@@ -14,15 +14,39 @@
   "date": "2026-09-10",
   "result": [
     {
+      "id": "kuGjypoJKwk",
+      "title": "ChatGPT Work, now powered by GPT-6 Astra",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-09T21:54:53Z",
+      "description": "ChatGPT Work is now powered by GPT-6 Astra—our best model for professional work.\n\nBring it your next big project. With Astra, ChatGPT Work better understands what you’re trying to do and pulls together the information you need from your connected apps and computer. It helps you create polished reports, presentations, and analyses faster—with more natural writing, a closer fit to your templates and style, and less cleanup.\n\nThen hand over the busywork. With your permission, ChatGPT Work can use your desktop apps and browser much like you do—clicking, typing, and moving between screens to fill out forms, update records and trackers, and schedule meetings. Astra makes it better and faster at these tasks, even in apps that don’t have a ChatGPT integration.\n\nChatGPT Work with GPT-6 Astra is available to all paid ChatGPT plans in the desktop app and on chatgpt.com.\n\nLearn more in our blog: https://openai.com/index/gpt-6-astra-next-generation-work/",
+      "duration": "PT57S",
+      "view_count": 158238,
+      "like_count": 1979,
+      "comment_count": 224,
+      "url": "https://www.youtube.com/watch?v=kuGjypoJKwk"
+    },
+    {
+      "id": "cmN6XVuLEd4",
+      "title": "GPT-6 Astra turned London into a game",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-09T21:39:53Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 3775,
+      "like_count": 139,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=cmN6XVuLEd4"
+    },
+    {
       "id": "n-dqdVMwoas",
       "title": "GPT-6 Astra First Impressions From Businesses",
       "channel_title": "OpenAI",
       "published_at": "2026-09-09T19:00:16Z",
       "description": "See how Box, Ramp, Figma, Cognition, Balsyny Asset Management, and CXO.dev are already using GPT-6 Astra in core business and coding workflows.",
       "duration": "PT3M48S",
-      "view_count": 900,
-      "like_count": 70,
-      "comment_count": 15,
+      "view_count": 39746,
+      "like_count": 396,
+      "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=n-dqdVMwoas"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-09-08T19:11:55Z",
       "description": "Meet Sunburst and Flare, our two new GPT-Image-2.5 models. Sunburst brings sharper details, more natural lighting, and greater control across edits. Flare delivers high quality images over 50% faster. Both support transparent backgrounds for assets ranging from infographics to games.\n\nAvailable now in the API.",
       "duration": "PT1M2S",
-      "view_count": 307038,
-      "like_count": 3284,
-      "comment_count": 284,
+      "view_count": 324377,
+      "like_count": 3354,
+      "comment_count": 289,
       "url": "https://www.youtube.com/watch?v=A7MSwdXj86k"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-09-08T18:48:03Z",
       "description": "Have an idea but need help getting started? \n\nUse templates for popular image formats like posters or merch, then add your message, design elements, or style to make it your own.\nChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web.",
       "duration": "PT28S",
-      "view_count": 58039,
-      "like_count": 742,
-      "comment_count": 36,
+      "view_count": 63335,
+      "like_count": 762,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=-VukmrOT1eE"
-    },
-    {
-      "id": "imPtIEAEHSU",
-      "title": "Sketch with ChatGPT Images 2.5",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-08T18:46:42Z",
-      "description": "Some ideas are easier to draw than describe. \n\nUse Sketch to draw right in ChatGPT and show it exactly what you have in mind.\n\nJust type “@ Sketch” in ChatGPT.",
-      "duration": "PT34S",
-      "view_count": 70065,
-      "like_count": 1033,
-      "comment_count": 88,
-      "url": "https://www.youtube.com/watch?v=imPtIEAEHSU"
-    },
-    {
-      "id": "6l7ble9P74o",
-      "title": "Introducing ChatGPT Images 2.5",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-08T18:44:08Z",
-      "description": "Say hello to ChatGPT Images 2.5—faster, sharper, smarter, with better tools for creating whatever you can dream of. \n\n- Faster image generation to keep your ideas flowing\n- Improved fidelity for more natural, recognizable images\n- Consistent details across multiple edits\n- Comment-based edits to change only what you want",
-      "duration": "PT58S",
-      "view_count": 238178,
-      "like_count": 5832,
-      "comment_count": 435,
-      "url": "https://www.youtube.com/watch?v=6l7ble9P74o"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-09T19:20:00Z",
+    "generated_at": "2026-09-10T09:01:12Z",
     "count": 5
   }
 }

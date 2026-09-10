@@ -20,9 +20,9 @@
       "published_at": "2026-09-09T13:14:11Z",
       "description": "Across Europe, AI communities have been moving the field forward for years. This October, Berlin becomes a meeting point for the people building what comes next. 🤝\n\nJoin researchers, developers, engineers, and industry leaders at #NVIDIAGTC Berlin, October 20-22.\n\nRegister today: https://nvda.ws/46ARP4O",
       "duration": "PT30S",
-      "view_count": 436,
-      "like_count": 26,
-      "comment_count": 3,
+      "view_count": 1038,
+      "like_count": 51,
+      "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-08T19:30:36Z",
       "description": "RTX Spark is built to accelerate demanding creative workflows, helping editors spend less time waiting and more time creating.\n\nThis demo shows how NVIDIA RTX-acceleration in Adobe Premiere can speed up scene edit detection, enable real-time color correction, track objects with one click and play back multiple streams of 4K 10-bit footage without transcoding or low-resolution proxies.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/\n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
       "duration": "PT1M10S",
-      "view_count": 16347,
-      "like_count": 173,
-      "comment_count": 33,
+      "view_count": 18696,
+      "like_count": 189,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-08T10:40:51Z",
       "description": "We sat down with the Barcelona Supercomputing Center to talk about what it really takes to turn a continent's scientific ambition into an AI powerhouse.\n\nBSC hosts MareNostrum 5 — one of the largest supercomputers in Europe. But raw compute is just the start. The BSC AI Factory, backed by the European Commission, is doing something harder: compressing the journey from idea to deployable AI product for the startups and SMEs who can't afford to wait.\n\nThe model is simple in concept, hard to execute: energy → chips → infrastructure → models → applications. Five layers. One coherent stack.",
       "duration": "PT3M2S",
-      "view_count": 8562,
-      "like_count": 76,
-      "comment_count": 22,
+      "view_count": 8962,
+      "like_count": 78,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=4GY-x4WAafc"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-03T19:31:53Z",
       "description": "Local AI agents should be easy to set up.\n\nThat’s why @Nousresearch is bringing one-click local model setup to Hermes Agent across NVIDIA systems on Windows and Linux.\n\nLearn more: https://blogs.nvidia.com/local-ai–ifa-next-gen-agents-nv-pair-rtx-spark",
       "duration": "PT1M6S",
-      "view_count": 11330,
-      "like_count": 274,
-      "comment_count": 15,
+      "view_count": 11667,
+      "like_count": 284,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-02T22:11:08Z",
       "description": "Taiwan helped build the computing era. Now its semiconductor ecosystem is building the infrastructure, systems, and software that power the AI era.\n\nThis video celebrates Taiwan’s technology ecosystem and the engineers, researchers, manufacturers, developers, and partners turning breakthroughs in chip design, advanced manufacturing, accelerated computing, and AI into technology used around the world.\n\nCreated for SEMICON Taiwan 2026.\n\nPresented with Chinese subtitles.",
       "duration": "PT1M36S",
-      "view_count": 85467,
-      "like_count": 1542,
-      "comment_count": 162,
+      "view_count": 85879,
+      "like_count": 1544,
+      "comment_count": 163,
       "url": "https://www.youtube.com/watch?v=3eNtVFTEys4"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-09T19:19:59Z",
+    "generated_at": "2026-09-10T09:01:11Z",
     "count": 5
   }
 }
