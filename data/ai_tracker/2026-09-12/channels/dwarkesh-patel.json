@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-12",
+  "result": [
+    {
+      "id": "mpqnmFBIm0U",
+      "title": "Why the Newest AI Model Feels Dumb After a Month",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-11T17:52:54Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 1207,
+      "like_count": 116,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=mpqnmFBIm0U"
+    },
+    {
+      "id": "PrSf7IOYu-I",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-11T16:54:50Z",
+      "description": "New episode with John Schulman, Charlie O’Neill, and Beren Millidge.\n\nI got together with some of the most insightful AI researchers I know who are at the openish companies, because I wanted to hear the details of what's actually happening at the frontier and what comes next.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/john-beren-charlie\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-researchers-debate-how-close-we-are-to-recursive/id1516093381?i=1000789067132\n* Spotify: https://open.spotify.com/episode/0ePd4PUqCpN78hCjVRH0fr?si=wGvk7u5XQwaLfyrvysdIJQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis helps you trust your code. As agents generate more and more of your software, the bottleneck shifts from your engineers actually writing code to verifying it. Antithesis does that testing for you. Ron Minsky, who co-leads Jane Street's tech group, told me that Antithesis was able to help his team shake out bugs in software that had already undergone heavy review. If you want to see how it fits into your development process, go to https://antithesis.com/dwarkesh\n\n* Jane Street just launched its most ambitious competition yet: design a protocol-emulator ASIC. Basically, if you have a chip you want to test outside of a live system, you should be able to connect it to your design and have it simulate realistic traffic. Jane Street wants general-purpose, reprogrammable designs that can work across multiple protocols and remain useful as new ones emerge. The most novel submissions will actually get taped out, and the winners will receive a physical copy! The competition is open until January 18, 2027, and teams are encouraged. To get started download the template code at https://janestreet.com/dwarkesh\n\n* Grok Bot has been a great way to hand off tasks. My team uses it as a producer: whenever my editor posts a rough cut of an interview in Slack, Grok Bot opens the transcript on its own computer, matches my notes to the exact moments they refer to, and uses a file of my preferences to suggest edits. Then it sends me its top clip candidates so I can review everything from my phone, which saves my editors from sorting through hours of footage. Try Grok Bot for yourself at https://x.ai/bot\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Steelmanning the case against RSI\n00:18:39 – What’s driving the Chinese labs’ progress\n00:28:06 – How will automated AI researchers be trained\n00:33:51 – Will long-horizon RL elicit AGI?\n00:45:24 – The sim-to-real gap\n01:00:33 – How much progress is explained by data?\n01:18:03 – Why is RL working so well?\n01:24:54 – Move 37 and entropy collapse\n01:28:32 – Rapid-fire timelines",
+      "duration": "PT1H37M1S",
+      "view_count": 9794,
+      "like_count": 694,
+      "comment_count": 146,
+      "url": "https://www.youtube.com/watch?v=PrSf7IOYu-I"
+    },
+    {
+      "id": "3x13g2_lfWA",
+      "title": "Where Does the Money Actually Go in AI? - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-10T21:52:53Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 13121,
+      "like_count": 219,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=3x13g2_lfWA"
+    },
+    {
+      "id": "qVm42FkDLFg",
+      "title": "The AI agents that breached OpenAI got caught for one reason - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-09T19:39:49Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 28709,
+      "like_count": 665,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=qVm42FkDLFg"
+    },
+    {
+      "id": "DQMbneMBFjw",
+      "title": "Hacking Is About to Get Out of Control - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-08T22:26:07Z",
+      "description": "Hacking Is About to Get Out of Control - Ajeya Cotra",
+      "duration": "PT59S",
+      "view_count": 43899,
+      "like_count": 936,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=DQMbneMBFjw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-11T19:11:43Z",
+    "count": 5
+  }
+}

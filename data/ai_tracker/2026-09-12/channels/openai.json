@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-12",
+  "result": [
+    {
+      "id": "OSaP6bJoU44",
+      "title": "GPT-Live-1 is now in the API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T17:06:25Z",
+      "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "duration": "PT1M17S",
+      "view_count": 5082,
+      "like_count": 2206,
+      "comment_count": 239,
+      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
+    },
+    {
+      "id": "4bGb2OjU5tA",
+      "title": "GPT-6 Astra handles the editing busywork",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T15:00:24Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 2573,
+      "like_count": 235,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
+    },
+    {
+      "id": "0NUm552iB3U",
+      "title": "GPT-6 Astra built a font playground",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T04:08:16Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 10605,
+      "like_count": 330,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
+    },
+    {
+      "id": "2YHa1vhnmK0",
+      "title": "Introducing the Agents API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-10T19:26:05Z",
+      "description": "The Agents API brings a hosted version of the Codex harness to your applications. See how to build an agent that investigates production incidents, connects to tools through MCP, follows a runbook, and delivers a shareable report with evidence and suggested next steps.\n\nLearn more: https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "duration": "PT2M18S",
+      "view_count": 174053,
+      "like_count": 2116,
+      "comment_count": 168,
+      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0"
+    },
+    {
+      "id": "PbfXbDbCthA",
+      "title": "In Harmony",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-10T17:29:32Z",
+      "description": "Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.",
+      "duration": "PT31S",
+      "view_count": 15393,
+      "like_count": 201,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=PbfXbDbCthA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-11T19:11:48Z",
+    "count": 5
+  }
+}
