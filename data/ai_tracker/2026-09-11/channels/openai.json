@@ -14,15 +14,39 @@
   "date": "2026-09-11",
   "result": [
     {
+      "id": "0NUm552iB3U",
+      "title": "GPT-6 Astra built a font playground",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T04:08:16Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 1957,
+      "like_count": 109,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
+    },
+    {
+      "id": "2YHa1vhnmK0",
+      "title": "Introducing the Agents API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-10T19:26:05Z",
+      "description": "The Agents API brings a hosted version of the Codex harness to your applications. See how to build an agent that investigates production incidents, connects to tools through MCP, follows a runbook, and delivers a shareable report with evidence and suggested next steps.\n\nLearn more: https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "duration": "PT2M18S",
+      "view_count": 112147,
+      "like_count": 1716,
+      "comment_count": 135,
+      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0"
+    },
+    {
       "id": "PbfXbDbCthA",
       "title": "In Harmony",
       "channel_title": "OpenAI",
       "published_at": "2026-09-10T17:29:32Z",
       "description": "Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.",
       "duration": "PT31S",
-      "view_count": 875,
-      "like_count": 53,
-      "comment_count": 5,
+      "view_count": 13192,
+      "like_count": 181,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=PbfXbDbCthA"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-09-10T16:00:27Z",
       "description": "Bradford and Bryan Manning have spent their lives adapting to a world built for sight. Both brothers live with Stargardt disease, which has taken much of their central vision and made everyday tasks like navigating a crowded street far more difficult.\n\nToday, they use ChatGPT to turn visual information into something they can hear, understand, and act on. It helps them navigate unfamiliar places, analyze data, keep up with email, and run Two Blind Brothers, the nonprofit they founded to support the blind community.\n\nFollow Bradford and Bryan as they move through New York, build their business, and use ChatGPT to create more independence in their own lives while expanding what feels possible for the community they serve.",
       "duration": "PT2M22S",
-      "view_count": 1722,
-      "like_count": 148,
-      "comment_count": 14,
+      "view_count": 21291,
+      "like_count": 259,
+      "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=qg_54P-oPgI"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-09-10T16:00:09Z",
       "description": "Derek and Larissa Guetter own ATV Big Air Tour – a small business that brings high-octane ATV and motocross shows to events across the country. They’ve been growing their business for 11 years, and now they’re competing with some of the biggest entertainment companies in the US. \n\nAs a team of two, they use ChatGPT to help them with every aspect of their business. ChatGPT creates marketing plans, evaluates partnerships, and runs inventory, as well as helping them with setup on show days. It acts as everything from their sound tech to their mechanic so that they can make sure every show runs smoothly.",
       "duration": "PT1M54S",
-      "view_count": 1796,
-      "like_count": 132,
-      "comment_count": 6,
+      "view_count": 18548,
+      "like_count": 296,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=mPAmXQnhv2E"
-    },
-    {
-      "id": "0XLGisanEAs",
-      "title": "Discovering new antibiotics with ChatGPT",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-10T15:59:55Z",
-      "description": "The de la Fuente Lab is using ChatGPT and Codex in the search for new molecules that could help fight antibiotic-resistant bacteria.\n\nModern medicine relies on effective antibiotics, which help us recover from routine illnesses, surgeries, childbirth, and more. However, antimicrobial resistance (AMR) is a growing problem. Approximately 5 million people die every year from bacterial AMR, and that number is expected to double by 2050. Dr. César de la Fuente and his team use ChatGPT and Codex to explore the genetic code of living and extinct organisms like woolly mammoths, snake venom, and more to identify promising antibiotic molecules. Work that traditionally takes five or six years can now be done in a matter of hours.",
-      "duration": "PT2M10S",
-      "view_count": 7690,
-      "like_count": 832,
-      "comment_count": 147,
-      "url": "https://www.youtube.com/watch?v=0XLGisanEAs"
-    },
-    {
-      "id": "MSiAd36bGeQ",
-      "title": "Data agent in ChatGPT Work",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-10T15:07:22Z",
-      "description": "Now everyone can put data to work.\n\nWe’re introducing a new Data agent in ChatGPT Work so you can turn your company’s data into answers, interactive dashboards, and action—just by asking.\n\nJust add the Data Plugin in the ChatGPT Work, connect to the data sources and context you already use, and start the conversation. \n\nMore here: https://openai.com/index/put-data-to-work/",
-      "duration": "PT1M12S",
-      "view_count": 7148,
-      "like_count": 469,
-      "comment_count": 24,
-      "url": "https://www.youtube.com/watch?v=MSiAd36bGeQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-10T19:09:39Z",
+    "generated_at": "2026-09-11T08:59:03Z",
     "count": 5
   }
 }

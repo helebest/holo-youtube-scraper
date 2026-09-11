@@ -14,15 +14,27 @@
   "date": "2026-09-11",
   "result": [
     {
+      "id": "3x13g2_lfWA",
+      "title": "Where Does the Money Actually Go in AI? - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-10T21:52:53Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 8422,
+      "like_count": 170,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=3x13g2_lfWA"
+    },
+    {
       "id": "qVm42FkDLFg",
       "title": "The AI agents that breached OpenAI got caught for one reason - Ajeya Cotra",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-09-09T19:39:49Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 18901,
-      "like_count": 495,
-      "comment_count": 20,
+      "view_count": 26448,
+      "like_count": 596,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=qVm42FkDLFg"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-08T22:26:07Z",
       "description": "Hacking Is About to Get Out of Control - Ajeya Cotra",
       "duration": "PT59S",
-      "view_count": 38427,
-      "like_count": 876,
-      "comment_count": 42,
+      "view_count": 41951,
+      "like_count": 910,
+      "comment_count": 43,
       "url": "https://www.youtube.com/watch?v=DQMbneMBFjw"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-07T16:49:35Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 59895,
-      "like_count": 1474,
-      "comment_count": 59,
+      "view_count": 63451,
+      "like_count": 1508,
+      "comment_count": 62,
       "url": "https://www.youtube.com/watch?v=imodZWltU8Q"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-04T19:08:00Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 177494,
-      "like_count": 2377,
-      "comment_count": 119,
+      "view_count": 182519,
+      "like_count": 2422,
+      "comment_count": 121,
       "url": "https://www.youtube.com/watch?v=sGHUhygbrTE"
-    },
-    {
-      "id": "XWdMujl4QLs",
-      "title": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-03T19:19:12Z",
-      "description": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
-      "duration": "PT56S",
-      "view_count": 64214,
-      "like_count": 1241,
-      "comment_count": 76,
-      "url": "https://www.youtube.com/watch?v=XWdMujl4QLs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-10T19:09:34Z",
+    "generated_at": "2026-09-11T08:58:58Z",
     "count": 5
   }
 }
