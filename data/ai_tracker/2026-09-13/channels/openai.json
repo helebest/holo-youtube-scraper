@@ -20,9 +20,9 @@
       "published_at": "2026-09-12T15:00:30Z",
       "description": "",
       "duration": "PT43S",
-      "view_count": 972,
-      "like_count": 43,
-      "comment_count": 0,
+      "view_count": 5699,
+      "like_count": 156,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-11T21:00:04Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 5839,
-      "like_count": 134,
-      "comment_count": 8,
+      "view_count": 10647,
+      "like_count": 226,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-11T17:06:25Z",
       "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
       "duration": "PT1M17S",
-      "view_count": 412556,
-      "like_count": 6384,
-      "comment_count": 472,
+      "view_count": 451576,
+      "like_count": 6794,
+      "comment_count": 488,
       "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-11T15:00:24Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 15701,
-      "like_count": 639,
-      "comment_count": 38,
+      "view_count": 20160,
+      "like_count": 808,
+      "comment_count": 45,
       "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-11T04:08:16Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 19165,
-      "like_count": 445,
-      "comment_count": 16,
+      "view_count": 20654,
+      "like_count": 483,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-12T18:29:55Z",
+    "generated_at": "2026-09-13T09:37:19Z",
     "count": 5
   }
 }

@@ -14,15 +14,27 @@
   "date": "2026-09-13",
   "result": [
     {
+      "id": "6D__H_DO2Xk",
+      "title": "iPhone Duo: What We Missed!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-12T21:36:57Z",
+      "description": "A few new thoughts from the days after the Duo unveil.\n\nThat shirt: http://shop.MKBHD.com\n\nThe full iPhone Duo Hands-on: https://youtu.be/Od6M0AXpcxQ\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M37S",
+      "view_count": 4323691,
+      "like_count": 79925,
+      "comment_count": 7859,
+      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk"
+    },
+    {
       "id": "Od6M0AXpcxQ",
       "title": "iPhone 18 Pro/Duo Impressions: Mogged",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-09-10T07:29:55Z",
       "description": "The first folding iPhone Duo and iPhone 18 Pro are here, and this is everything you need to know.\n\nCheck out Ridge’s latest iPhone tech gear at https://ridge.com/MKBHD\n\niOS 27: https://youtu.be/_oRgdlJUD18\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT17M14S",
-      "view_count": 19806921,
-      "like_count": 318020,
-      "comment_count": 22566,
+      "view_count": 21696032,
+      "like_count": 330002,
+      "comment_count": 23202,
       "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-10T07:02:22Z",
       "description": "What to know about iPhone Duo",
       "duration": "PT1M10S",
-      "view_count": 4014052,
-      "like_count": 139853,
-      "comment_count": 3415,
+      "view_count": 4566002,
+      "like_count": 150087,
+      "comment_count": 3619,
       "url": "https://www.youtube.com/watch?v=R6yNUnRXZ64"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-09T22:14:37Z",
       "description": "",
       "duration": "PT20S",
-      "view_count": 5009794,
-      "like_count": 119729,
-      "comment_count": 4149,
+      "view_count": 5302391,
+      "like_count": 123620,
+      "comment_count": 4252,
       "url": "https://www.youtube.com/watch?v=uJdjKOBikTE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-05T21:18:49Z",
       "description": "Pixel 11 proves Google is going all in in one thing.\n\nEnter for free for a chance to win $100,000 or 1 of 3 cars at https://ridge.com/MKBHD \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhones provided by Google for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT12M28S",
-      "view_count": 4429711,
-      "like_count": 71841,
-      "comment_count": 4196,
+      "view_count": 4464865,
+      "like_count": 72182,
+      "comment_count": 4204,
       "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw"
-    },
-    {
-      "id": "fo-uubnajWM",
-      "title": "I Made a Bet with Tesla",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-09-04T01:18:34Z",
-      "description": "Tesla held a Cybercab event today and it was kinda weird...\n\nOriginal Robotaxi Impressions: https://youtu.be/fgm5uZaS3-E\n\n(I will definitely be donating in January anyway)\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT11M6S",
-      "view_count": 4900461,
-      "like_count": 80034,
-      "comment_count": 4575,
-      "url": "https://www.youtube.com/watch?v=fo-uubnajWM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-12T18:29:54Z",
+    "generated_at": "2026-09-13T09:37:18Z",
     "count": 5
   }
 }
