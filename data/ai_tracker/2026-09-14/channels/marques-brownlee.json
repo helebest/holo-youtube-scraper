@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-09-14",
+  "result": [
+    {
+      "id": "6D__H_DO2Xk",
+      "title": "iPhone Duo: What We Missed!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-12T21:36:57Z",
+      "description": "A few new thoughts from the days after the Duo unveil.\n\nThat shirt: http://shop.MKBHD.com\n\nThe full iPhone Duo Hands-on: https://youtu.be/Od6M0AXpcxQ\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M37S",
+      "view_count": 6329340,
+      "like_count": 104890,
+      "comment_count": 9790,
+      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk"
+    },
+    {
+      "id": "Od6M0AXpcxQ",
+      "title": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-10T07:29:55Z",
+      "description": "The first folding iPhone Duo and iPhone 18 Pro are here, and this is everything you need to know.\n\nCheck out Ridge’s latest iPhone tech gear at https://ridge.com/MKBHD\n\niOS 27: https://youtu.be/_oRgdlJUD18\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT17M14S",
+      "view_count": 22424084,
+      "like_count": 335508,
+      "comment_count": 23478,
+      "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ"
+    },
+    {
+      "id": "R6yNUnRXZ64",
+      "title": "iPhone Duo is here",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-10T07:02:22Z",
+      "description": "What to know about iPhone Duo",
+      "duration": "PT1M10S",
+      "view_count": 4821259,
+      "like_count": 156161,
+      "comment_count": 3737,
+      "url": "https://www.youtube.com/watch?v=R6yNUnRXZ64"
+    },
+    {
+      "id": "uJdjKOBikTE",
+      "title": "This iPhone Duo Animation 👀",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-09T22:14:37Z",
+      "description": "",
+      "duration": "PT20S",
+      "view_count": 5445190,
+      "like_count": 126436,
+      "comment_count": 4320,
+      "url": "https://www.youtube.com/watch?v=uJdjKOBikTE"
+    },
+    {
+      "id": "ANmTVYkEtLw",
+      "title": "Google Pixel 11/Pro Review: Poker Face",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-05T21:18:49Z",
+      "description": "Pixel 11 proves Google is going all in in one thing.\n\nEnter for free for a chance to win $100,000 or 1 of 3 cars at https://ridge.com/MKBHD \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhones provided by Google for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M28S",
+      "view_count": 4484787,
+      "like_count": 72419,
+      "comment_count": 4208,
+      "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-13T18:50:46Z",
+    "count": 5
+  }
+}

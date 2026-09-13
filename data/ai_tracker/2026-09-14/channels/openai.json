@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-14",
+  "result": [
+    {
+      "id": "SiJGdlmdUms",
+      "title": "GPT-6 Astra needs less babysitting",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-12T15:00:30Z",
+      "description": "",
+      "duration": "PT43S",
+      "view_count": 8136,
+      "like_count": 196,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
+    },
+    {
+      "id": "ZlvkQYZo3ZE",
+      "title": "GPT-6 Astra added unexpected details",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T21:00:04Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 13580,
+      "like_count": 314,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
+    },
+    {
+      "id": "OSaP6bJoU44",
+      "title": "GPT-Live-1 is now in the API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T17:06:25Z",
+      "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "duration": "PT1M17S",
+      "view_count": 486867,
+      "like_count": 7287,
+      "comment_count": 513,
+      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
+    },
+    {
+      "id": "4bGb2OjU5tA",
+      "title": "GPT-6 Astra handles the editing busywork",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T15:00:24Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 22282,
+      "like_count": 906,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
+    },
+    {
+      "id": "0NUm552iB3U",
+      "title": "GPT-6 Astra built a font playground",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T04:08:16Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 21251,
+      "like_count": 497,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-13T18:50:47Z",
+    "count": 5
+  }
+}
