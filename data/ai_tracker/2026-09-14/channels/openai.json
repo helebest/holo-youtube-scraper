@@ -14,15 +14,27 @@
   "date": "2026-09-14",
   "result": [
     {
+      "id": "uA5PiAXKGis",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-14T09:00:55Z",
+      "description": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from more than 500,000 hours of executive assistant workflows, Fyxer breaks complex tasks into dozens of specialised models that learn each user’s context, intent and tone. Today, 53% of its AI-generated email drafts are accepted without edits, more than 90% of customers are still paying and using Fyxer after 90 days, and the company grew from $1 million to $32 million in annual recurring revenue in 2025. Hear how Fyxer uses fine-tuning, evaluation and real-world feedback to build AI that helps people spend more time on the work they love.\n\nRead the full customer story here - www.openai.com/index/fyxer",
+      "duration": "PT3M16S",
+      "view_count": 1043,
+      "like_count": 61,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis"
+    },
+    {
       "id": "SiJGdlmdUms",
       "title": "GPT-6 Astra needs less babysitting",
       "channel_title": "OpenAI",
       "published_at": "2026-09-12T15:00:30Z",
       "description": "",
       "duration": "PT43S",
-      "view_count": 8136,
-      "like_count": 196,
-      "comment_count": 10,
+      "view_count": 12070,
+      "like_count": 297,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-11T21:00:04Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 13580,
-      "like_count": 314,
-      "comment_count": 18,
+      "view_count": 19077,
+      "like_count": 427,
+      "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-11T17:06:25Z",
       "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
       "duration": "PT1M17S",
-      "view_count": 486867,
-      "like_count": 7287,
-      "comment_count": 513,
+      "view_count": 549320,
+      "like_count": 7696,
+      "comment_count": 519,
       "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-11T15:00:24Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 22282,
-      "like_count": 906,
-      "comment_count": 48,
+      "view_count": 26994,
+      "like_count": 1013,
+      "comment_count": 53,
       "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
-    },
-    {
-      "id": "0NUm552iB3U",
-      "title": "GPT-6 Astra built a font playground",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-11T04:08:16Z",
-      "description": "",
-      "duration": "PT53S",
-      "view_count": 21251,
-      "like_count": 497,
-      "comment_count": 18,
-      "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-13T18:50:47Z",
+    "generated_at": "2026-09-14T09:59:42Z",
     "count": 5
   }
 }
