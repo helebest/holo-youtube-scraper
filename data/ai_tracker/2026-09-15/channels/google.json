@@ -14,15 +14,27 @@
   "date": "2026-09-15",
   "result": [
     {
+      "id": "x0692zj9jsI",
+      "title": "What a NASA astronaut can teach us about discovery and exploration | Christina Koch & James Manyika",
+      "channel_title": "Google",
+      "published_at": "2026-09-14T20:30:48Z",
+      "description": "What does it mean to stand on the frontiers of human discovery? In this episode of Dialogues on Technology and Society, James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society, sits down with record-breaking astronaut, engineer, and scientist Christina Koch.\n\nChristina Koch served as a mission specialist on the Artemis II lunar flyby mission, making history as the first woman to travel beyond low Earth orbit and fly around the Moon. Together, James and Christina discuss frontier science, human-machine partnerships in orbit, and humanity's shared drive to explore the unknown.\n\n01:34 - What drew you to far-off frontiers & extreme science?\n06:02 - Was becoming an astronaut always your planned trajectory?\n07:34 - What was it like spending 328 days on the ISS?\n08:44 - What did the historic all-female spacewalk entail?\n11:34 - How does it feel being the first woman beyond low-Earth orbit?\n13:17 - How does the view of Earth change from orbit vs. deep space?\n16:53 - How did the math of the Artemis hybrid return trajectory work?\n21:45 - What are the possibilities of AI and robotics in space?\n24:06 - The ultimate questions: are we alone & what advice do you have?\n\nWatch more: https://www.youtube.com/playlist?list=PL590L5WQmH8f8ID51T0_9JkWpeL9Dcb-S\n\nImages and b-roll courtesy of NASA.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT28M11S",
+      "view_count": 19685,
+      "like_count": 311,
+      "comment_count": 46,
+      "url": "https://www.youtube.com/watch?v=x0692zj9jsI"
+    },
+    {
       "id": "rPq7ITrWFvY",
       "title": "The latest updates to Google Translate",
       "channel_title": "Google",
       "published_at": "2026-09-04T16:30:43Z",
       "description": "We’re introducing two updates to the Google Translate app that make understanding conversations in different languages much simpler across 70+ languages on Android and iOS.\n\n🎧 Hear translations through any headphones: Plug in or connect any pair of headphones to hear real-time translations. The app matches the speaker’s tone and rhythm so it sounds more natural and is easy to follow in busy settings like tours, airports, or group dinners.\n\n📱 Listen like a phone call: If you don't have headphones handy, simply hold your phone up to your ear to hear the translation quietly without playing it out loud.\n\nTo get started, open the Google Translate app and tap “Live translate”.\n\nDownload the Google Translate app:\nAndroid: https://play.google.com/store/apps/details?id=com.google.android.apps.translate&pcampaignid=web_share\niOS: https://apps.apple.com/us/app/google-translate/id414706506\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT1M26S",
-      "view_count": 144698,
-      "like_count": 2773,
-      "comment_count": 302,
+      "view_count": 145999,
+      "like_count": 2783,
+      "comment_count": 303,
       "url": "https://www.youtube.com/watch?v=rPq7ITrWFvY"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-03T16:29:33Z",
       "description": "Life is a highway, and your search bar is the fast lane 🛣️💨",
       "duration": "PT8S",
-      "view_count": 94440,
-      "like_count": 1774,
-      "comment_count": 131,
+      "view_count": 95925,
+      "like_count": 1805,
+      "comment_count": 138,
       "url": "https://www.youtube.com/watch?v=7k1sXY-ZCkI"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-09-02T15:59:14Z",
       "description": "Meet the brand new Pixel Watch 5.",
       "duration": "PT43S",
-      "view_count": 45074,
-      "like_count": 761,
+      "view_count": 45505,
+      "like_count": 778,
       "comment_count": 43,
       "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-08-26T19:00:10Z",
       "description": "Meet the brand new Google #Pixel11 Pro.",
       "duration": "PT33S",
-      "view_count": 76324,
-      "like_count": 1378,
+      "view_count": 76870,
+      "like_count": 1389,
       "comment_count": 140,
       "url": "https://www.youtube.com/watch?v=QOE798Nd5vw"
-    },
-    {
-      "id": "LnSdkakqEVY",
-      "title": "Come with us to Olympic National Park 🎒",
-      "channel_title": "Google",
-      "published_at": "2026-08-26T16:12:07Z",
-      "description": "Packed our salty snacks and headed to Olympic National Park to get a ranger’s answers to your most-searched questions 🌲",
-      "duration": "PT53S",
-      "view_count": 31425,
-      "like_count": 520,
-      "comment_count": 22,
-      "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-14T20:21:19Z",
+    "generated_at": "2026-09-15T09:30:05Z",
     "count": 5
   }
 }

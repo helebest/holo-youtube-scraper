@@ -20,9 +20,9 @@
       "published_at": "2026-09-14T15:57:33Z",
       "description": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts firefighters before a spark becomes catastrophic.\n\nRyan’s sensors monitor remote terrain for heat, smoke, flame, and plume activity. When a potential fire is detected, ChatGPT turns complex sensor data into clear alerts firefighters and residents can act on.\n\nFollow Ryan from his garage workshop, where he tested his first prototype with a hair dryer, to the hills above Laguna Beach, where his sensor network now watches over the city. Along the way, he uses ChatGPT hands-free while working in the field and shows firefighters how to ask the sensors questions about a potential fire through a walkie-talkie he built using ChatGPT.\n\nAs he heads off to college, his goal remains the same – to help firefighters respond quicker and make communities safer from wildfires.",
       "duration": "PT2M2S",
-      "view_count": 28116,
-      "like_count": 1040,
-      "comment_count": 100,
+      "view_count": 91298,
+      "like_count": 1601,
+      "comment_count": 141,
       "url": "https://www.youtube.com/watch?v=PSnJBfa183Y"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-09-14T09:00:55Z",
       "description": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from more than 500,000 hours of executive assistant workflows, Fyxer breaks complex tasks into dozens of specialised models that learn each user’s context, intent and tone. Today, 53% of its AI-generated email drafts are accepted without edits, more than 90% of customers are still paying and using Fyxer after 90 days, and the company grew from $1 million to $32 million in annual recurring revenue in 2025. Hear how Fyxer uses fine-tuning, evaluation and real-world feedback to build AI that helps people spend more time on the work they love.\n\nRead the full customer story here - www.openai.com/index/fyxer",
       "duration": "PT3M16S",
-      "view_count": 41380,
-      "like_count": 363,
+      "view_count": 51725,
+      "like_count": 420,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=uA5PiAXKGis"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-09-12T15:00:30Z",
       "description": "",
       "duration": "PT43S",
-      "view_count": 14586,
-      "like_count": 381,
-      "comment_count": 15,
+      "view_count": 18385,
+      "like_count": 489,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-11T21:00:04Z",
       "description": "",
       "duration": "PT56S",
-      "view_count": 21763,
-      "like_count": 524,
-      "comment_count": 23,
+      "view_count": 25634,
+      "like_count": 624,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-11T17:06:25Z",
       "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
       "duration": "PT1M17S",
-      "view_count": 578250,
-      "like_count": 7950,
-      "comment_count": 532,
+      "view_count": 610532,
+      "like_count": 8224,
+      "comment_count": 540,
       "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-14T20:21:19Z",
+    "generated_at": "2026-09-15T09:30:04Z",
     "count": 5
   }
 }

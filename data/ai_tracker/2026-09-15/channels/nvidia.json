@@ -18,11 +18,11 @@
       "title": "NVIDIA Bionemo Inference Runtime",
       "channel_title": "NVIDIA",
       "published_at": "2026-09-10T21:10:09Z",
-      "description": "NVIDIA BioNeMo Inference Runtime (BioIR) \n\nAccelerates biomolecular structure prediction inference for models like OpenFold3 and Boltz-2 on NVIDIA H100 and H200 GPUs.\n\nBy optimizing discovery-scale workloads, BioIR reduces the energy required to generate 31 million protein complex predictions for the AlphaFold Database by an estimated 1.35 GWh - the equivalent of 18,000 EV charges or 5.4 million electric vehicle miles.\n\nGitHub - https://nvda.ws/3UKXFy4\nTech blog - https://nvda.ws/4dchK6H",
+      "description": "NVIDIA BioNeMo Inference Runtime (BIR) \n\nAccelerates biomolecular structure prediction inference for models like OpenFold3 and Boltz-2 on NVIDIA H100 and H200 GPUs.\n\nBy optimizing discovery-scale workloads, BIR reduces the energy required to generate 31 million protein complex predictions for the AlphaFold Database by an estimated 1.35 GWh - the equivalent of 18,000 EV charges or 5.4 million electric vehicle miles.\n\nGitHub - https://nvda.ws/3UKXFy4\nTech blog - https://nvda.ws/4dchK6H",
       "duration": "PT49S",
-      "view_count": 4829,
-      "like_count": 163,
-      "comment_count": 4,
+      "view_count": 5068,
+      "like_count": 169,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=pHQcVJrHveA"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-09-09T13:14:11Z",
       "description": "Across Europe, AI communities have been moving the field forward for years. This October, Berlin becomes a meeting point for the people building what comes next. 🤝\n\nJoin researchers, developers, engineers, and industry leaders at #NVIDIAGTC Berlin, October 20-22.\n\nRegister today: https://nvda.ws/46ARP4O",
       "duration": "PT30S",
-      "view_count": 3493,
-      "like_count": 150,
+      "view_count": 3603,
+      "like_count": 152,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-09-08T19:30:36Z",
       "description": "RTX Spark is built to accelerate demanding creative workflows, helping editors spend less time waiting and more time creating.\n\nThis demo shows how NVIDIA RTX-acceleration in Adobe Premiere can speed up scene edit detection, enable real-time color correction, track objects with one click and play back multiple streams of 4K 10-bit footage without transcoding or low-resolution proxies.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/\n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
       "duration": "PT1M10S",
-      "view_count": 27833,
-      "like_count": 273,
-      "comment_count": 49,
+      "view_count": 28357,
+      "like_count": 277,
+      "comment_count": 52,
       "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-08T10:40:51Z",
       "description": "We sat down with the Barcelona Supercomputing Center to talk about what it really takes to turn a continent's scientific ambition into an AI powerhouse.\n\nBSC hosts MareNostrum 5 — one of the largest supercomputers in Europe. But raw compute is just the start. The BSC AI Factory, backed by the European Commission, is doing something harder: compressing the journey from idea to deployable AI product for the startups and SMEs who can't afford to wait.\n\nThe model is simple in concept, hard to execute: energy → chips → infrastructure → models → applications. Five layers. One coherent stack.",
       "duration": "PT3M2S",
-      "view_count": 10448,
+      "view_count": 10591,
       "like_count": 87,
-      "comment_count": 24,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=4GY-x4WAafc"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-03T19:31:53Z",
       "description": "Local AI agents should be easy to set up.\n\nThat’s why @Nousresearch is bringing one-click local model setup to Hermes Agent across NVIDIA systems on Windows and Linux.\n\nLearn more: https://blogs.nvidia.com/local-ai–ifa-next-gen-agents-nv-pair-rtx-spark",
       "duration": "PT1M6S",
-      "view_count": 13752,
-      "like_count": 312,
+      "view_count": 13919,
+      "like_count": 313,
       "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-14T20:21:18Z",
+    "generated_at": "2026-09-15T09:30:03Z",
     "count": 5
   }
 }
