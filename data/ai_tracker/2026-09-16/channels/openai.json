@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-16",
+  "result": [
+    {
+      "id": "PSnJBfa183Y",
+      "title": "Detecting wildfires with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-14T15:57:33Z",
+      "description": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts firefighters before a spark becomes catastrophic.\n\nRyan’s sensors monitor remote terrain for heat, smoke, flame, and plume activity. When a potential fire is detected, ChatGPT turns complex sensor data into clear alerts firefighters and residents can act on.\n\nFollow Ryan from his garage workshop, where he tested his first prototype with a hair dryer, to the hills above Laguna Beach, where his sensor network now watches over the city. Along the way, he uses ChatGPT hands-free while working in the field and shows firefighters how to ask the sensors questions about a potential fire through a walkie-talkie he built using ChatGPT.\n\nAs he heads off to college, his goal remains the same – to help firefighters respond quicker and make communities safer from wildfires.",
+      "duration": "PT2M2S",
+      "view_count": 106061,
+      "like_count": 1833,
+      "comment_count": 151,
+      "url": "https://www.youtube.com/watch?v=PSnJBfa183Y"
+    },
+    {
+      "id": "uA5PiAXKGis",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-14T09:00:55Z",
+      "description": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from more than 500,000 hours of executive assistant workflows, Fyxer breaks complex tasks into dozens of specialised models that learn each user’s context, intent and tone. Today, 53% of its AI-generated email drafts are accepted without edits, more than 90% of customers are still paying and using Fyxer after 90 days, and the company grew from $1 million to $32 million in annual recurring revenue in 2025. Hear how Fyxer uses fine-tuning, evaluation and real-world feedback to build AI that helps people spend more time on the work they love.\n\nRead the full customer story here - www.openai.com/index/fyxer",
+      "duration": "PT3M16S",
+      "view_count": 54884,
+      "like_count": 442,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis"
+    },
+    {
+      "id": "SiJGdlmdUms",
+      "title": "GPT-6 Astra needs less babysitting",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-12T15:00:30Z",
+      "description": "",
+      "duration": "PT43S",
+      "view_count": 20938,
+      "like_count": 597,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
+    },
+    {
+      "id": "ZlvkQYZo3ZE",
+      "title": "GPT-6 Astra added unexpected details",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T21:00:04Z",
+      "description": "",
+      "duration": "PT56S",
+      "view_count": 27731,
+      "like_count": 679,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
+    },
+    {
+      "id": "OSaP6bJoU44",
+      "title": "GPT-Live-1 is now in the API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-11T17:06:25Z",
+      "description": "GPT-Live-1 is now available in the API.\n\nBring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.\n\nLearn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "duration": "PT1M17S",
+      "view_count": 651180,
+      "like_count": 8603,
+      "comment_count": 554,
+      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-15T19:44:00Z",
+    "count": 5
+  }
+}
