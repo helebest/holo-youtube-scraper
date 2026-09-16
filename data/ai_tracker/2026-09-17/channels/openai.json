@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-17",
+  "result": [
+    {
+      "id": "iZE2r-Vx5b8",
+      "title": "Assess Usage and Value of ChatGPT Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-16T19:03:38Z",
+      "description": "See how insights in the ChatGPT Admin Console help you understand AI adoption, usage, and spend across your organization. Explore team use cases, review Codex contributions, and identify where to focus training and expand access. Then use the ChatGPT Admin plugin to turn those analytics into a leadership deck and share it in Slack.",
+      "duration": "PT3M14S",
+      "view_count": 1178,
+      "like_count": 66,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=iZE2r-Vx5b8"
+    },
+    {
+      "id": "DhAsqpjliYw",
+      "title": "Stay on top of the pack with ChatGPT Work.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-15T23:31:15Z",
+      "description": "Included in ChatGPT Plus and Pro.",
+      "duration": "PT1M23S",
+      "view_count": 2295,
+      "like_count": 97,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=DhAsqpjliYw"
+    },
+    {
+      "id": "PSnJBfa183Y",
+      "title": "Detecting wildfires with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-14T15:57:33Z",
+      "description": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts firefighters before a spark becomes catastrophic.\n\nRyan’s sensors monitor remote terrain for heat, smoke, flame, and plume activity. When a potential fire is detected, ChatGPT turns complex sensor data into clear alerts firefighters and residents can act on.\n\nFollow Ryan from his garage workshop, where he tested his first prototype with a hair dryer, to the hills above Laguna Beach, where his sensor network now watches over the city. Along the way, he uses ChatGPT hands-free while working in the field and shows firefighters how to ask the sensors questions about a potential fire through a walkie-talkie he built using ChatGPT.\n\nAs he heads off to college, his goal remains the same – to help firefighters respond quicker and make communities safer from wildfires.",
+      "duration": "PT2M2S",
+      "view_count": 147156,
+      "like_count": 2383,
+      "comment_count": 188,
+      "url": "https://www.youtube.com/watch?v=PSnJBfa183Y"
+    },
+    {
+      "id": "uA5PiAXKGis",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-14T09:00:55Z",
+      "description": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from more than 500,000 hours of executive assistant workflows, Fyxer breaks complex tasks into dozens of specialised models that learn each user’s context, intent and tone. Today, 53% of its AI-generated email drafts are accepted without edits, more than 90% of customers are still paying and using Fyxer after 90 days, and the company grew from $1 million to $32 million in annual recurring revenue in 2025. Hear how Fyxer uses fine-tuning, evaluation and real-world feedback to build AI that helps people spend more time on the work they love.\n\nRead the full customer story here - www.openai.com/index/fyxer",
+      "duration": "PT3M16S",
+      "view_count": 64339,
+      "like_count": 487,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis"
+    },
+    {
+      "id": "SiJGdlmdUms",
+      "title": "GPT-6 Astra needs less babysitting",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-12T15:00:30Z",
+      "description": "",
+      "duration": "PT43S",
+      "view_count": 27238,
+      "like_count": 735,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-16T19:36:27Z",
+    "count": 5
+  }
+}

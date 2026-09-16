@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-09-17",
+  "result": [
+    {
+      "id": "NswrHx9ljk0",
+      "title": "This iconic wildlife spectacle isn't just beautiful— it tells us vital information about our planet",
+      "channel_title": "TED",
+      "published_at": "2026-09-15T19:00:15Z",
+      "description": "When monarch butterflies migrate, they produce one of the most iconic wildlife spectacles in the world — and provide us with an important indicator of ecological health, says photographer Jaime Rojo. Telling a story about our relationship to the natural world, he shares his experience photographing these mesmerizing insects deep in their remote mountain habitats in Mexico, diving into the latest research into the mysteries of their multi-thousand-mile journey and sharing how each of us can join the growing movement to protect them.",
+      "duration": "PT1M19S",
+      "view_count": 10408,
+      "like_count": 546,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=NswrHx9ljk0"
+    },
+    {
+      "id": "4qtsOh2FwIs",
+      "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+      "channel_title": "TED",
+      "published_at": "2026-09-15T15:00:24Z",
+      "description": "There's more health advice available than ever before — and no easy way to tell what’s worth your time. From biotech breakthroughs to smarter cancer screening, physician Dhruv Khullar and microbiologist Zack Abbott examine what happens when science can change who we are — including the potential of reengineering the human body — and what medicine might look like in 20 years. (This conversation is part of “TED Intersections,” a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/tedintersections\n\nhttps://youtu.be/4qtsOh2FwIs\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Health",
+      "duration": "PT25M55S",
+      "view_count": 61953,
+      "like_count": 182,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=4qtsOh2FwIs"
+    },
+    {
+      "id": "zYO9UbpEC9Y",
+      "title": "How Bullying Spreads — and How Social Bravery Stops It | Amy Cuddy | TED",
+      "channel_title": "TED",
+      "published_at": "2026-09-14T15:00:24Z",
+      "description": "How does bullying take root? Social psychologist Amy Cuddy got an inside view of this question after she became the target of a coordinated campaign to discredit her. Drawing on her own experience and years of research, she gives a clear-eyed analysis of how bullying reshaped our culture and how each of us can practice social bravery — everyday acts of standing up for one another — to end it. (Note: This talk contains discussion of suicide.) (Recorded at TED2026 on April 17, 2026])\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/amycuddy26\n\nhttps://youtu.be/zYO9UbpEC9Y\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #SocialChange",
+      "duration": "PT14M24S",
+      "view_count": 79101,
+      "like_count": 598,
+      "comment_count": 101,
+      "url": "https://www.youtube.com/watch?v=zYO9UbpEC9Y"
+    },
+    {
+      "id": "WFr9Z01sKGg",
+      "title": "Chasing external validation can leave you feeling empty — try this instead #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-09-13T19:00:36Z",
+      "description": "Over two decades of interviewing countless creative people, Debbie Millman (host of the iconic \"Design Matters\" podcast) had a realization: the pride and joy of accomplishing something often evaporates almost instantly. She explains how to stop chasing external validation for your achievements and instead live for the act of creation itself.",
+      "duration": "PT1M35S",
+      "view_count": 22393,
+      "like_count": 751,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=WFr9Z01sKGg"
+    },
+    {
+      "id": "owRN5fVLoEk",
+      "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+      "channel_title": "TED",
+      "published_at": "2026-09-13T15:00:26Z",
+      "description": "We all have a \"thing\" — the way we act when we're not at our best that we somehow can't see in ourselves. Leadership expert Chris Wheatley learned about his when his best friend at work called him on it. He shares how hearing that hard truth shattered a lifelong pattern of defensiveness, offering a practical framework for receiving feedback with tact. (Recorded at TEDxSpokane on January 31, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/chriswheatley\n\nhttps://youtu.be/owRN5fVLoEk\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Communication",
+      "duration": "PT12M30S",
+      "view_count": 101119,
+      "like_count": 817,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=owRN5fVLoEk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-16T19:36:23Z",
+    "count": 5
+  }
+}

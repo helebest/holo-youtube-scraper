@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-17",
+  "result": [
+    {
+      "id": "FxwiNX6l5qA",
+      "title": "What AI Will Actually Do for Math in the Next 5 Years  - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-16T14:49:48Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 3144,
+      "like_count": 234,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=FxwiNX6l5qA"
+    },
+    {
+      "id": "Fp4a4CaI-74",
+      "title": "What chess Elo suggests about AI's economic impact",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-15T21:16:23Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 15826,
+      "like_count": 327,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=Fp4a4CaI-74"
+    },
+    {
+      "id": "GNFf8Ik6lfY",
+      "title": "You Can't Punish a Model Into Alignment - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-14T22:59:24Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 22448,
+      "like_count": 431,
+      "comment_count": 29,
+      "url": "https://www.youtube.com/watch?v=GNFf8Ik6lfY"
+    },
+    {
+      "id": "3U3Tj-j_FwQ",
+      "title": "Why China's Compute Is Worth Less Than America's - Dylan Patel",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-13T17:00:28Z",
+      "description": "",
+      "duration": "PT1M20S",
+      "view_count": 170219,
+      "like_count": 1910,
+      "comment_count": 367,
+      "url": "https://www.youtube.com/watch?v=3U3Tj-j_FwQ"
+    },
+    {
+      "id": "BZTz4HLtOro",
+      "title": "Why Every AI Model Is Starting to Sound the Same",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-12T19:59:48Z",
+      "description": "",
+      "duration": "PT37S",
+      "view_count": 59023,
+      "like_count": 847,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=BZTz4HLtOro"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-16T19:36:22Z",
+    "count": 5
+  }
+}
