@@ -14,15 +14,39 @@
   "date": "2026-09-17",
   "result": [
     {
+      "id": "RuXF7ck32b8",
+      "title": "Advancing Infrastructure for the Era of Agentic AI | Ian Buck at AI Infra Summit 2026",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-16T22:24:54Z",
+      "description": "Agentic AI demands a new kind of AI infrastructure—one built for long context, reasoning, tool calls, sub-agents and efficient performance at scale.\n\nIn this AI Infra Summit 2026 keynote, Ian Buck, NVIDIA vice president of hyperscale and high-performance computing, explores the NVIDIA Vera Rubin full-stack AI factory platform.\n\nVera Rubin delivers a rich ecosystem of developers and partners, a fungible architecture for every model and workload—from pre-training and inference to agentic AI and accelerated computing—and a durable platform that gets faster with every CUDA release across a decade of service.\n\nSee how NVIDIA Vera Rubin NVL72, Groq 3 LPX, Vera CPU, NVLink 6, NVLink Fusion and NVIDIA DSX help AI factories generate more tokens from every megawatt.\n\nExplore more from AI Infra Summit 2026: https://nvda.ws/4xKClav  \n\nLearn how NVIDIA NVLink and extreme co-design enable leading performance in the latest SemiAnalysis AgentX benchmark: https://nvda.ws/4yC811H",
+      "duration": "PT29M7S",
+      "view_count": 17013,
+      "like_count": 132,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
+    },
+    {
+      "id": "KT89PEe9d7U",
+      "title": "The Infrastructure of Intelligence: NVIDIA and OpenAI on a Decade of Building Frontier AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-16T22:11:26Z",
+      "description": "Frontier AI breakthroughs are also infrastructure breakthroughs. In this fireside chat, NVIDIA’s Ian Buck and OpenAI’s Sachin Katti reflect on a decade of collaboration – from the first DGX-1 to the NVIDIA infrastructure powering Astra – and what they’ve learned building and operating AI at unprecedented scale. \n\nThey’ll explore how the relationship has expanded beyond frontier model training, how NVIDIA is using OpenAI technology internally, and what the next generation of AI infrastructure will require. Moderated by Bloomberg’s Dina Bass.",
+      "duration": "PT20M30S",
+      "view_count": 6420,
+      "like_count": 47,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
+    },
+    {
       "id": "CC380G7fyH0",
       "title": "NVIDIA CEO Jensen Huang at the All-In Summit",
       "channel_title": "NVIDIA",
       "published_at": "2026-09-15T18:07:19Z",
       "description": "AI safety matters. \n\nStrong engineering, rigorous testing, and accountability are how we get it right.\n\nOur CEO Jensen Huang on moving quickly, innovating, and leading responsibly.\n\n#AllInSummit",
       "duration": "PT22S",
-      "view_count": 12587,
-      "like_count": 239,
-      "comment_count": 9,
+      "view_count": 16687,
+      "like_count": 285,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=CC380G7fyH0"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-09-15T16:00:12Z",
       "description": "AI factories are designed as integrated systems across grid, power, and cooling turning every megawatt into more intelligence. \n\nSee how the NVIDIA DSX™ AI Factory Platform brings together NVIDIA DSX MaxLPS, 800 VDC power delivery, 45°C closed-loop liquid cooling, and NVIDIA DSX Flex to support more energy efficient, scalable, and grid-aware AI infrastructure.\n\nLearn more: https://www.nvidia.com/en-us/data-center/products/dsx/",
       "duration": "PT1M54S",
-      "view_count": 12428,
-      "like_count": 205,
-      "comment_count": 22,
+      "view_count": 15604,
+      "like_count": 222,
+      "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-09-10T21:10:09Z",
       "description": "NVIDIA BioNeMo Inference Runtime (BIR) \n\nAccelerates biomolecular structure prediction inference for models like OpenFold3 and Boltz-2 on NVIDIA H100 and H200 GPUs.\n\nBy optimizing discovery-scale workloads, BIR reduces the energy required to generate 31 million protein complex predictions for the AlphaFold Database by an estimated 1.35 GWh - the equivalent of 18,000 EV charges or 5.4 million electric vehicle miles.\n\nGitHub - https://nvda.ws/3UKXFy4\nTech blog - https://nvda.ws/4dchK6H",
       "duration": "PT49S",
-      "view_count": 5652,
-      "like_count": 182,
+      "view_count": 5801,
+      "like_count": 148,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=pHQcVJrHveA"
-    },
-    {
-      "id": "a6qM4YHSKRQ",
-      "title": "NVIDIA GTC Europe: Advancing AI Together",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-09-09T13:14:11Z",
-      "description": "Across Europe, AI communities have been moving the field forward for years. This October, Berlin becomes a meeting point for the people building what comes next. 🤝\n\nJoin researchers, developers, engineers, and industry leaders at #NVIDIAGTC Berlin, October 20-22.\n\nRegister today: https://nvda.ws/46ARP4O",
-      "duration": "PT30S",
-      "view_count": 3964,
-      "like_count": 158,
-      "comment_count": 12,
-      "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ"
-    },
-    {
-      "id": "V0Hx37EqcMI",
-      "title": "Editing Faster in Adobe Premiere with NVIDIA RTX Spark",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-09-08T19:30:36Z",
-      "description": "RTX Spark is built to accelerate demanding creative workflows, helping editors spend less time waiting and more time creating.\n\nThis demo shows how NVIDIA RTX-acceleration in Adobe Premiere can speed up scene edit detection, enable real-time color correction, track objects with one click and play back multiple streams of 4K 10-bit footage without transcoding or low-resolution proxies.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/\n\nFollow NVIDIA RTX Spark on social:\nX: https://x.com/NVIDIARTXSpark \nInstagram: https://www.instagram.com/nvidiartxspark/ \nTikTok: https://www.tiktok.com/@nvidiartxspark \nFacebook: https://www.facebook.com/NVIDIARTXSpark",
-      "duration": "PT1M10S",
-      "view_count": 29665,
-      "like_count": 280,
-      "comment_count": 53,
-      "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-16T19:36:26Z",
+    "generated_at": "2026-09-17T09:32:11Z",
     "count": 5
   }
 }

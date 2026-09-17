@@ -14,15 +14,27 @@
   "date": "2026-09-17",
   "result": [
     {
+      "id": "S2VJU5DQqlU",
+      "title": "He Built The Ultimate Spy Tool (Free and Open-Source)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-16T20:57:15Z",
+      "description": "Check out God's Eye View:\nhttps://github.com/bilawalsidhu/gods-eye-view\nhttps://www.spatialintelligence.ai/\n\nWhat if you could turn your computer into a spy movie command center using real-world data? I sat down with Bilawal Sidhu to explore God's Eye View, his open-source tool that brings flights, satellites, ships, traffic, and more into one interactive 3D globe.\n\nWe dive into how he built it with AI, try out its voice controls, and explore everything from military flight data to public traffic cameras and NASA fire detections. Bilawal also shows how people are using it to reconstruct real-world events, and I walk through getting it running on your own computer.\n\nThe project is open source, and many of the data sources are free for personal use. Some features require API keys, and voice interaction or heavier usage can add costs.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nChapters: \n00:00 God's Eye View: Palantir at Home?\n00:27 What It Does and Who It's For\n02:07 How Bilawal Built It With AI\n03:22 API Costs and Privacy Limits\n06:24 Exploring the Globe With Voice Commands\n07:49 Tracking Flights and Asking AI for Context\n10:06 Exploring Public Cameras and Traffic Data\n11:57 Mapping Fires, Rocket Launches, and Real-World Events\n16:04 How to Install God's Eye View",
+      "duration": "PT21M48S",
+      "view_count": 59362,
+      "like_count": 1520,
+      "comment_count": 127,
+      "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU"
+    },
+    {
       "id": "nF45_dhsmWY",
       "title": "Minecraft + ChatGPT (Holy Crap!)",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-09-16T14:32:01Z",
       "description": "I let ChatGPT Astra take control of Minecraft and told it to build a portrait of me out of blocks...\n\nAstra operated the game entirely on its own, placing every block one by one. After 1 hour and 42 minutes, I had a massive monument to myself inside Minecraft.\n\nCompletely unnecessary? Yes.\nAn impressive glimpse at what computer-controlling AI agents can do? Also yes.\n\nWhat should I make Astra build next?\n\n#ai #ainews #chatgpt #openai #aiagents",
       "duration": "PT44S",
-      "view_count": 504,
-      "like_count": 15,
-      "comment_count": 5,
+      "view_count": 1669,
+      "like_count": 28,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=nF45_dhsmWY"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-09-15T12:26:35Z",
       "description": "Is this the easiest AI agent to use?\n\nI connected Meta's new AI Agent Muse to my email and asked it to audit my subscriptions to see how much I’m spending on AI tools. \n\nBut what impressed me most wasn’t just the audit, it was how easy the agent was to use. It feels like a normal messaging app, runs tasks inside a secure virtual machine, and suggests ways it can help as you connect your apps.\n\nIf you’ve only used AI for chatting and haven’t tried agents yet, this might be one of the easiest places to start.\n\n#AI #Aiagent #aitools #meta #muse",
       "duration": "PT1M2S",
-      "view_count": 3606,
-      "like_count": 76,
+      "view_count": 4659,
+      "like_count": 104,
       "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=FxcYK5WOk1c"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-09-14T16:15:59Z",
       "description": "Are all of these AI safety campaigns part of a big coordinated psyop?\n\nApparently some people are actually being paid to push anti-AI messaging, but I’m not sure if that’s the case in these recent instances. \n\nI think it’s more likely that these Anthropic and OpenAI whistleblowers are usually from the alignment and safety sector, so their entire job is to study potential worst-case scenarios. Spending every day inside that world probably changes how you see the risks, but it also means they may be noticing dangers the rest of us aren’t.\n\nI’m inclined to believe their warnings are genuine, but I don’t think panic is the answer. \n\nThe AI arms race probably isn’t slowing down anytime soon. So maybe the smartest move is putting more brainpower into alignment and not just shareholder value.\n\nWhat do you think: genuine warning or manufactured fear?\n\n#AI #AInews #anthropic #openai #aisafety",
       "duration": "PT1M23S",
-      "view_count": 3970,
-      "like_count": 128,
-      "comment_count": 33,
+      "view_count": 4508,
+      "like_count": 151,
+      "comment_count": 37,
       "url": "https://www.youtube.com/watch?v=mku_K8pCLx4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-11T15:00:00Z",
       "description": "Here's the AI News you might have missed this week. See what Optimizely’s Virtual Teammates can automate for you at https://optimizely.com/mattwolfe\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nChatGPT Images 2.5: https://openai.com/index/introducing-chatgpt-images-2-5/\nMeta Introduces Muse: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/\nMuse Hits No. 2: https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/\nDeepSeek-V4.1-Flash Release: https://api-docs.deepseek.com/news/news260910/\nAnthropic Researchers' Warning: https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans\nOpenAI's Alien Mind: https://openai.com/index/an-alien-mind/\nOpenAI Navier–Stokes Solution: https://openai.com/index/navier-stokes-solution/\nPaid AI Doom Offer: https://www.youtube.com/watch?v=lPdmYMHrWKg\nApple Intelligence Health Features: https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/\niPhone 18 Pro Debut: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/\nAirPods 5 Announced: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\niPhone Duo Unveiled: https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/\nSiri AI Usage Caps: https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access\nMAI-Image-2.6: https://microsoft.ai/models/mai-image-2-6/\nChatGPT Work Writing Style: https://x.com/ChatGPT/status/2097018264048251309\nOpenAI Data Analysis: https://openai.com/index/put-data-to-work/\nGemini App Windows: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/\nSuno Licensed Model: https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/\nLyria 3.5 in Gemini: https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/\nDaVinci Resolve 21.1: https://x.com/Blackmagic_News/status/2097202883662106972\nArtificial Movie Trailer: https://www.youtube.com/watch?v=rDZplZFnbOk\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:20 ChatGPT Images 2.5\n3:10 Meta Muse Agent\n10:45 Optimizely Virtual Teammates\n11:43 Deepseek V4.1-Flash\n14:09 AI Doom Discussion\n26:34 Apple Keynote Announcements\n29:18 MAI-Image-2.6\n29:33 ChatGPT Writes Like You\n30:09 ChatGPT Data Agent\n30:46 Gemini App in Windows\n31:00 Suno V6\n31:36 Lyria 3.5\n32:39 DaVinci Resolve AI\n33:16 Artificial Trailer\n34:11 Final Thoughts",
       "duration": "PT35M45S",
-      "view_count": 200363,
-      "like_count": 3185,
-      "comment_count": 687,
+      "view_count": 203717,
+      "like_count": 1276,
+      "comment_count": 693,
       "url": "https://www.youtube.com/watch?v=JwTCjarfJYw"
-    },
-    {
-      "id": "-KcHn0QcSb0",
-      "title": "I Asked GPT-6 Astra to Build an AI Slop Detector",
-      "channel_title": "Matt Wolfe",
-      "published_at": "2026-09-09T22:18:17Z",
-      "description": "AI video is getting REALLY hard to spot… So I tried to build a tool that could detect it for me. Want to run it yourself? Here's the GitHub link: https://github.com/mreflow/ai-slop-detector\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nhttps://github.com/mreflow/ai-slop-detector\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 AI Slop Is Everywhere\n01:16 Can We Actually Detect It?\n02:44 Building The AI Slop Detector\n04:46 Well… It Doesn’t Work\n06:34 8 Hours Later\n08:38 Testing A Real AI Detector\n10:09 Finally Getting It Working\n15:42 This Gets Expensive FAST\n16:49 So… Is This Really AGI?\n18:49 The Final Result",
-      "duration": "PT20M11S",
-      "view_count": 59080,
-      "like_count": 927,
-      "comment_count": 164,
-      "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-16T19:36:29Z",
+    "generated_at": "2026-09-17T09:32:13Z",
     "count": 5
   }
 }
