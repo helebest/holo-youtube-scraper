@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-09-18",
+  "result": [
+    {
+      "id": "thR9_VYJiQo",
+      "title": "Google is SO back...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-17T07:35:41Z",
+      "description": "Google researchers are letting AI “dream” through past experiments to improve how it chooses what to try next. Dream-RSI turns recorded discoveries into replayable worlds, where an agent can test better research strategies before running new experiments. Could learning to choose the right experiment become a key building block for recursive self-improvement?\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nDream-RSI project and interactive explanation:\nhttps://dream-rsi.com/\n\nDream-RSI research paper:\nhttps://arxiv.org/abs/2609.14858\n\nGoogle DeepMind's AlphaEvolve announcement:\nhttps://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\n#ai #google #rsi",
+      "duration": "PT14M31S",
+      "view_count": 101586,
+      "like_count": 1981,
+      "comment_count": 315,
+      "url": "https://www.youtube.com/watch?v=thR9_VYJiQo"
+    },
+    {
+      "id": "WBK2WX7TA4g",
+      "title": "we JUST got played...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-10T08:37:45Z",
+      "description": "Dark money behind the AI panic.\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nJacob Coxon’s resignation post:\nhttps://x.com/hilbertspaess/status/2097476196791709843\n\nWall Street Journal reporting — accessible syndicated version:\nhttps://www.tovima.com/wsj/anthropic-researcher-quits-over-out-of-control-ai-fears/amp/\n\nPolitical reactions discussed — m_adams:\nhttps://x.com/m_adams/status/2097826241533407539\n\nElon Musk post referenced:\nhttps://x.com/elonmusk/status/2096330979388338561\n\nPeter Wildeford’s post sharing the WSJ article:\nhttps://x.com/peterwildeford/status/2097475721170206729\n\nSurvival and Flourishing Fund — public grant recommendations:\nhttps://survivalandflourishing.fund/recommendations\n\nAI Futures Project:\nhttps://www.aifutures.org/\n\nDaniel Kokotajlo:\nhttps://x.com/DKokotajlo\n\nAnthropic’s original funding announcement — Jaan Tallinn and Dustin Moskovitz:\nhttps://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems\n\nSanders–Casar proposal to ban artificial superintelligence:\nhttps://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/\n\nMy post on AI content funding:\nhttps://x.com/WesRoth/status/2096281447732781228\n\nBrian Chau posts discussed:\nhttps://x.com/brianchau57/status/2095128794889945541\nhttps://x.com/brianchau57/status/2097884236023820353\n\nEffort’s allegations about AI funding and media coverage:\nhttps://www.effort.news/tarbell\n\nNewspeak House — fellowship directory:\nhttps://newspeak.house/fellowship\n\nNewspeak House — institutional background:\nhttps://newspeak.house/about\n\nCHAPTERS:\n00:00 Coxon’s Resignation\n01:15 The Viral Post\n03:10 Funding Connections\n06:30 AI Legislation\n08:40 Creator Grants\n10:20 Media Funding\n11:45 Newspeak House\n\n#ai #anthropic #aisafety",
+      "duration": "PT12M55S",
+      "view_count": 109426,
+      "like_count": 2976,
+      "comment_count": 1462,
+      "url": "https://www.youtube.com/watch?v=WBK2WX7TA4g"
+    },
+    {
+      "id": "lkujyxUdUIk",
+      "title": "OpenAI JUST solved math....",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-09T05:41:44Z",
+      "description": "OpenAI says 10,000 AI agents produced a proposed solution to the Navier–Stokes Millennium Prize Problem in just 88 hours. But the announcement has sparked a dispute over credit, competing research, and the role of human mathematicians. We break down the math, Tristan Buckmaster and Levent Alpöge’s work, OpenAI’s response, and what this could mean for the future of scientific discovery.\n\nFrom Euler’s equations and fluid dynamics to Lean proof verification, this is the story behind the headlines—and the questions that still need answers.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI — On the Navier–Stokes Millennium Prize Problem:\nhttps://openai.com/index/navier-stokes-solution/\n\nOpenAI — Navier–Stokes and Euler Lean formalizations:\nhttps://github.com/openai/NavierStokesAndEuler\n\nTristan Buckmaster — Statement on the research and timeline:\nhttps://cims.nyu.edu/~tristanb/statement.pdf\n\nClay Mathematics Institute — Navier–Stokes:\nhttps://www.claymath.org/millennium/navier-stokes-equation/\n\nClay Mathematics Institute — The Millennium Prize Problems:\nhttps://www.claymath.org/millennium-problems/\n\nSam Altman — Response:\nhttps://x.com/sama/status/2097385167002415140\n\nSébastien Bubeck — Response:\nhttps://x.com/SebastienBubeck/status/2097379411691516310\n\nCHAPTERS:\n00:00 OpenAI’s Announcement\n02:05 Navier–Stokes Explained\n09:30 Earlier Research\n12:45 Tristan Buckmaster\n19:20 The Dispute\n22:50 Training Data\n31:25 OpenAI’s Response\n36:10 AI and Research\n\n#openai #ai #navierstokes",
+      "duration": "PT38M28S",
+      "view_count": 209235,
+      "like_count": 2338,
+      "comment_count": 824,
+      "url": "https://www.youtube.com/watch?v=lkujyxUdUIk"
+    },
+    {
+      "id": "Vjh3YCnI3vo",
+      "title": "OpenAI’s chief scientist just issued a warning...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-07T08:45:18Z",
+      "description": "OpenAI’s chief scientist says AI is approaching recursive self-improvement—and our ability to keep it under control isn’t keeping pace. Jakub Pachocki’s new essay, “An Alien Mind,” lays out why this moment matters. We look at OpenAI’s internal research data, the limits of AI alignment, and what it would take to keep humans in charge.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nJakub Pachocki — An Alien Mind:\nhttps://openai.com/index/an-alien-mind/\n\nOpenAI — Research Acceleration: The View Inside OpenAI:\nhttps://openai.com/index/research-acceleration-view-inside-openai/\n\nAnthropic — A Global Workspace in Language Models:\nhttps://www.anthropic.com/research/global-workspace\n\nOpenAI — The Hugging Face Incident and the Road Ahead:\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nAnthropic — The Persona Selection Model:\nhttps://alignment.anthropic.com/2026/psm/\n\nOpenAI — Detecting Misbehavior in Frontier Reasoning Models:\nhttps://openai.com/index/chain-of-thought-monitoring/\n\nOpenAI — How Confessions Can Keep Language Models Honest:\nhttps://openai.com/index/how-confessions-can-keep-language-models-honest/\n\nCHAPTERS:\n00:00 An Alien Mind\n02:25 Research Acceleration\n04:35 Machine Intelligence\n09:55 AI Alignment\n20:55 AI Monitoring\n24:25 Scalable Defense\n25:40 Pacing RSI\n29:45 Safety Debate\n\n#openai #agi #aisafety",
+      "duration": "PT29M28S",
+      "view_count": 185980,
+      "like_count": 2512,
+      "comment_count": 798,
+      "url": "https://www.youtube.com/watch?v=Vjh3YCnI3vo"
+    },
+    {
+      "id": "aHy7cNj-W2I",
+      "title": "OpenAI just crossed a THRESHOLD...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-05T22:17:45Z",
+      "description": "built by Astra:\nhttps://sentient-crystal-ct94.here.now/\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\n\n\nCHAPTERS:\n00:00 Astra really feels like AGI\n00:50 GPT Image → Blender → Unreal Engine\n02:15 RimWorld, groceries and video editing\n03:35 Persistence, overnight work and quota resets\n05:00 An entire AI team across multiple computers\n07:35 The 12.5-hour 3D world project\n10:55 Exploring the Fallout-inspired world\n12:25 A comic-book alien planet\n13:15 The Escape from Tarkov-inspired scene\n14:25 From concept art to Blender assets\n16:00 My prompt and turning lessons into skills\n19:25 Astra plays RimWorld—and faces a mad squirrel\n23:05 Playing Astra's Unreal Engine game\n29:00 Before leaving AI agents running overnight\n29:50 Good night Codex: the bedtime prayer\n\n#openai #astra #ai",
+      "duration": "PT28M52S",
+      "view_count": 218621,
+      "like_count": 2979,
+      "comment_count": 815,
+      "url": "https://www.youtube.com/watch?v=aHy7cNj-W2I"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-17T19:46:11Z",
+    "count": 5
+  }
+}

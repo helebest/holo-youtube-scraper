@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-18",
+  "result": [
+    {
+      "id": "lxVMdEpe0RQ",
+      "title": "ChatGPT for Word is now available",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-17T19:12:10Z",
+      "description": "Procrastination has met its match. ChatGPT is now in Word.\n\nYou can add ChatGPT to Microsoft Word to turn rough notes into first drafts, fix formatting issues, proofread, and get suggested edits—all without leaving your document.\n\nChatGPT for Word (and Powerpoint + Excel) are available across all plans, including Free, with usage limits. \n\nFor Business and Enterprise plans, we’re also offering a two-week free preview of GPT-5.6 Sol in Word, September 17–30, with no impact on usage limits.\n\nhttps://chatgpt.com/apps/word/",
+      "duration": "PT42S",
+      "view_count": 396,
+      "like_count": 35,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
+    },
+    {
+      "id": "s495saGYWFg",
+      "title": "Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-17T18:03:17Z",
+      "description": "At Jump Trading, Lucas Baker, Head of LLM R&D, is seeing agents take on broader, less defined work—from building entire services to analyses that run for days across multiple data sources. The shift he describes: AI becoming part of the team’s everyday work.",
+      "duration": "PT59S",
+      "view_count": 623,
+      "like_count": 40,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=s495saGYWFg"
+    },
+    {
+      "id": "Q_MEaNdMpZw",
+      "title": "Reimagining IT with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-17T02:11:53Z",
+      "description": "Go behind the scenes to see how Open AI's IT team uses ChatGPT to deliver business outcomes.",
+      "duration": "PT3M29S",
+      "view_count": 49057,
+      "like_count": 385,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=Q_MEaNdMpZw"
+    },
+    {
+      "id": "4UTn7oWvSJc",
+      "title": "Meet ChatGPT: Ask Your First Question | OpenAI Academy",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-16T22:29:47Z",
+      "description": "New to ChatGPT? Start here. In this quick tutorial, you’ll learn how to type or speak a question, review the answer, and ask a follow-up to make it simpler or more useful.\n\nThere’s no need to find the perfect words—just start with one question and continue the conversation.\n\nChatGPT can make mistakes or use outdated information. Always double-check important guidance about health, money, deadlines, government forms, or safety with a trusted professional or official source.\n\n#ChatGPT #ChatGPTForBeginners #AITutorial",
+      "duration": "PT1M43S",
+      "view_count": 21747,
+      "like_count": 191,
+      "comment_count": 22,
+      "url": "https://www.youtube.com/watch?v=4UTn7oWvSJc"
+    },
+    {
+      "id": "P-8sCH6syag",
+      "title": "How to Ask ChatGPT Better Questions | OpenAI Academy",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-16T22:29:43Z",
+      "description": "A few helpful details can make a big difference. In this quick tutorial, you’ll learn how to tell ChatGPT what you need, who it’s for, and what kind of answer would be most useful.\n\nSee how a general dinner question becomes a practical meal plan with simple recipes and an organized shopping list—and how easy it is to adjust the answer without starting over.\n\nYou don’t need to share private information to get a useful response. Leave out details such as your full name, address, and account numbers.\n\n#ChatGPT #ChatGPTForBeginners #AITutorial",
+      "duration": "PT1M48S",
+      "view_count": 114694,
+      "like_count": 1819,
+      "comment_count": 105,
+      "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-17T19:46:05Z",
+    "count": 5
+  }
+}
