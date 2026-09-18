@@ -20,9 +20,9 @@
       "published_at": "2026-09-17T17:51:28Z",
       "description": "Discover how NVIDIA NVLink Fusion enables hyperscalers, AI natives, and other custom silicon innovators to combine NVIDIA technology with their XPUs or CPUs to deploy AI infrastructure. \n\nBy extending NVIDIA's vertically integrated and horizontally open platform across custom systems, NVLink Fusion delivers industry-leading scale-up performance, reduces deployment risk, and accelerates time to market for heterogeneous compute.",
       "duration": "PT2M30S",
-      "view_count": 126,
-      "like_count": 14,
-      "comment_count": 4,
+      "view_count": 5510,
+      "like_count": 37,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=cr61seCie_c"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-17T16:39:53Z",
       "description": "AI-RAN is moving beyond field trials and toward commercial deployment. NVIDIA and global telecom leaders have committed to building 6G on open, secure and AI-native platforms.\n\nThe technology is gaining momentum, but what exactly is AI-RAN?\n\nIn this video, Cindy Goh breaks down 5 things you need to know about AI-RAN, from how it improves network performance to how it enables edge AI services and helps lay the foundation for 6G.\n\n🔗 Learn more about AI-RAN: https://nvda.ws/4yyqNHe",
       "duration": "PT2M14S",
-      "view_count": 419,
-      "like_count": 60,
-      "comment_count": 9,
+      "view_count": 1988,
+      "like_count": 108,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-16T22:24:54Z",
       "description": "Agentic AI demands a new kind of AI infrastructure—one built for long context, reasoning, tool calls, sub-agents and efficient performance at scale.\n\nIn this AI Infra Summit 2026 keynote, Ian Buck, NVIDIA vice president of hyperscale and high-performance computing, explores the NVIDIA Vera Rubin full-stack AI factory platform.\n\nVera Rubin delivers a rich ecosystem of developers and partners, a fungible architecture for every model and workload—from pre-training and inference to agentic AI and accelerated computing—and a durable platform that gets faster with every CUDA release across a decade of service.\n\nSee how NVIDIA Vera Rubin NVL72, Groq 3 LPX, Vera CPU, NVLink 6, NVLink Fusion and NVIDIA DSX help AI factories generate more tokens from every megawatt.\n\nExplore more from AI Infra Summit 2026: https://nvda.ws/4xKClav  \n\nLearn how NVIDIA NVLink and extreme co-design enable leading performance in the latest SemiAnalysis AgentX benchmark: https://nvda.ws/4yC811H",
       "duration": "PT29M7S",
-      "view_count": 22273,
-      "like_count": 181,
-      "comment_count": 17,
+      "view_count": 24186,
+      "like_count": 187,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-09-16T22:11:26Z",
       "description": "Frontier AI breakthroughs are also infrastructure breakthroughs. In this fireside chat, NVIDIA’s Ian Buck and OpenAI’s Sachin Katti reflect on a decade of collaboration – from the first DGX-1 to the NVIDIA infrastructure powering Astra – and what they’ve learned building and operating AI at unprecedented scale. \n\nThey’ll explore how the relationship has expanded beyond frontier model training, how NVIDIA is using OpenAI technology internally, and what the next generation of AI infrastructure will require. Moderated by Bloomberg’s Dina Bass.",
       "duration": "PT20M30S",
-      "view_count": 9846,
-      "like_count": 71,
+      "view_count": 11120,
+      "like_count": 67,
       "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-09-15T18:07:19Z",
       "description": "AI safety matters. \n\nStrong engineering, rigorous testing, and accountability are how we get it right.\n\nOur CEO Jensen Huang on moving quickly, innovating, and leading responsibly.\n\n#AllInSummit",
       "duration": "PT22S",
-      "view_count": 20313,
-      "like_count": 324,
-      "comment_count": 13,
+      "view_count": 22789,
+      "like_count": 349,
+      "comment_count": 15,
       "url": "https://www.youtube.com/watch?v=CC380G7fyH0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-17T19:46:04Z",
+    "generated_at": "2026-09-18T09:04:40Z",
     "count": 5
   }
 }
