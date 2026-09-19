@@ -20,9 +20,9 @@
       "published_at": "2026-09-18T18:30:19Z",
       "description": "",
       "duration": "PT1M32S",
-      "view_count": 924,
-      "like_count": 58,
-      "comment_count": 0,
+      "view_count": 25667,
+      "like_count": 675,
+      "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=10LyXQZ2nk4"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-18T14:59:00Z",
       "description": "",
       "duration": "PT39S",
-      "view_count": 6934,
-      "like_count": 177,
-      "comment_count": 22,
+      "view_count": 34785,
+      "like_count": 511,
+      "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=-OIQs3xe9-I"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-17T15:58:24Z",
       "description": "New episode with Noam Brown.\n\nWe talk about multi-agent, Navier-Stokes, and what the current explosion of maths progress tells us about what happens once you automate AI research.\nAnd we also discuss how we will know if the models are actually aligned before we kick off RSI.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/noam-brown\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/noam-brown-agent-swarms-alignment-recursive-self-improvement/id1516093381?i=1000790373289\n* Spotify: https://open.spotify.com/episode/3ngDaNm2UVDH0BsMUYVwcG?si=E_7EYGCoTn-rJbMUJLR7CQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street has been interested in AI for a lot longer than you'd think, and not just for trading. In 2011, a full year before AlexNet and over a decade before ChatGPT launched, they hosted the first FOOM Debate between Eliezer Yudkowsky and Robin Hanson on whether AI would lead to an intelligence explosion. Now Jane Street is revisiting the question with a new panel: Daniel Kokotajlo, Ege Erdil, Ryan Greenblatt, and Jaime Sevilla, hosted by Ron Minsky in San Francisco this October. I expect it to be a truly excellent conversation. Register at https://janestreet.com/dwarkesh\n\n* Grok Bot has made handing off work super easy. It runs on its own cloud computer, where it installs the tools it needs to handle tasks end-to-end. For the podcast, we use Grok Bot to help produce our videos. You may have noticed that our ads feature animations of real websites. Getting these pixel-perfect used to mean running a convoluted, multi-step workflow ourselves. Now we just let Grok Bot handle it. Best of all, Grok Bot has learned all of our specs and preferences, so we don't have to redescribe the task each time! Try Grok Bot for yourself at https://x.ai/bot\n\n* Antithesis gives you the confidence of a giant test suite without actually having to write one. Say you're doing a major backend refactor: building enough tests to trust it could take weeks. Antithesis solves this by running your software through countless simulated worlds, injecting faults and hunting for failures. On any PR, you can turn a dial to decide exactly how much testing you want. And because every run is fully deterministic, agents can branch off the moment a bug appears, rewind it, inspect memory, and replay it, all while the original test keeps running. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Multi-agent and Navier-Stokes\n00:15:28 – How will AI firms work?\n00:22:02 – What math progress tells us about recursive self improvement\n00:40:22 – Hugging Face and alignment\n01:01:18 – The internal/external model gap\n01:08:34 – Chain of thought is degrading\n01:14:12 – How will we know when alignment is solved?",
       "duration": "PT1H20M10S",
-      "view_count": 274591,
-      "like_count": 3081,
-      "comment_count": 675,
+      "view_count": 341947,
+      "like_count": 3429,
+      "comment_count": 766,
       "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-16T14:49:48Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 50395,
-      "like_count": 768,
-      "comment_count": 19,
+      "view_count": 53954,
+      "like_count": 807,
+      "comment_count": 20,
       "url": "https://www.youtube.com/watch?v=FxwiNX6l5qA"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-15T21:16:23Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 33132,
-      "like_count": 473,
-      "comment_count": 33,
+      "view_count": 35188,
+      "like_count": 487,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=Fp4a4CaI-74"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-18T19:04:23Z",
+    "generated_at": "2026-09-19T08:52:12Z",
     "count": 5
   }
 }
