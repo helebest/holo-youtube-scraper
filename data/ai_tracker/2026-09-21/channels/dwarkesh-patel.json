@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-21",
+  "result": [
+    {
+      "id": "jVyTt6eo1f8",
+      "title": "Is AI Getting Smarter Faster Than We Think? - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-20T18:08:17Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 2970,
+      "like_count": 98,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=jVyTt6eo1f8"
+    },
+    {
+      "id": "NSzKc1TRJlo",
+      "title": "It's Getting Harder to Tell If AI Is Actually Aligned - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-19T19:51:03Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 35497,
+      "like_count": 621,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=NSzKc1TRJlo"
+    },
+    {
+      "id": "10LyXQZ2nk4",
+      "title": "What happens when we give AIs impossible tasks?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-18T18:30:19Z",
+      "description": "",
+      "duration": "PT1M32S",
+      "view_count": 48156,
+      "like_count": 1066,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=10LyXQZ2nk4"
+    },
+    {
+      "id": "-OIQs3xe9-I",
+      "title": "AI Is Outrunning Everyone’s Predictions - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-18T14:59:00Z",
+      "description": "",
+      "duration": "PT39S",
+      "view_count": 60047,
+      "like_count": 773,
+      "comment_count": 91,
+      "url": "https://www.youtube.com/watch?v=-OIQs3xe9-I"
+    },
+    {
+      "id": "6AgOfiZOWiY",
+      "title": "OpenAI researcher on agent swarms & recursive self-improvement",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-17T15:58:24Z",
+      "description": "New episode with Noam Brown.\n\nWe talk about multi-agent, Navier-Stokes, and what the current explosion of maths progress tells us about what happens once you automate AI research.\nAnd we also discuss how we will know if the models are actually aligned before we kick off RSI.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/noam-brown\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/noam-brown-agent-swarms-alignment-recursive-self-improvement/id1516093381?i=1000790373289\n* Spotify: https://open.spotify.com/episode/3ngDaNm2UVDH0BsMUYVwcG?si=E_7EYGCoTn-rJbMUJLR7CQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street has been interested in AI for a lot longer than you'd think, and not just for trading. In 2011, a full year before AlexNet and over a decade before ChatGPT launched, they hosted the first FOOM Debate between Eliezer Yudkowsky and Robin Hanson on whether AI would lead to an intelligence explosion. Now Jane Street is revisiting the question with a new panel: Daniel Kokotajlo, Ege Erdil, Ryan Greenblatt, and Jaime Sevilla, hosted by Ron Minsky in San Francisco this October. I expect it to be a truly excellent conversation. Register at https://janestreet.com/dwarkesh\n\n* Grok Bot has made handing off work super easy. It runs on its own cloud computer, where it installs the tools it needs to handle tasks end-to-end. For the podcast, we use Grok Bot to help produce our videos. You may have noticed that our ads feature animations of real websites. Getting these pixel-perfect used to mean running a convoluted, multi-step workflow ourselves. Now we just let Grok Bot handle it. Best of all, Grok Bot has learned all of our specs and preferences, so we don't have to redescribe the task each time! Try Grok Bot for yourself at https://x.ai/bot\n\n* Antithesis gives you the confidence of a giant test suite without actually having to write one. Say you're doing a major backend refactor: building enough tests to trust it could take weeks. Antithesis solves this by running your software through countless simulated worlds, injecting faults and hunting for failures. On any PR, you can turn a dial to decide exactly how much testing you want. And because every run is fully deterministic, agents can branch off the moment a bug appears, rewind it, inspect memory, and replay it, all while the original test keeps running. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Multi-agent and Navier-Stokes\n00:15:28 – How will AI firms work?\n00:22:02 – What math progress tells us about recursive self improvement\n00:40:22 – Hugging Face and alignment\n01:01:18 – The internal/external model gap\n01:08:34 – Chain of thought is degrading\n01:14:12 – How will we know when alignment is solved?",
+      "duration": "PT1H20M10S",
+      "view_count": 422954,
+      "like_count": 4025,
+      "comment_count": 877,
+      "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-20T18:54:10Z",
+    "count": 5
+  }
+}
