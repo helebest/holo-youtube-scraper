@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-09-22",
+  "result": [
+    {
+      "id": "64jq-3jziYM",
+      "title": "The Hugging Face Attack Was Bigger Than We Thought - Ajeya Cotra",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-21T19:36:53Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 1420,
+      "like_count": 57,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=64jq-3jziYM"
+    },
+    {
+      "id": "jVyTt6eo1f8",
+      "title": "Is AI Getting Smarter Faster Than We Think? - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-20T18:08:17Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "view_count": 67992,
+      "like_count": 834,
+      "comment_count": 67,
+      "url": "https://www.youtube.com/watch?v=jVyTt6eo1f8"
+    },
+    {
+      "id": "NSzKc1TRJlo",
+      "title": "It's Getting Harder to Tell If AI Is Actually Aligned - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-19T19:51:03Z",
+      "description": "",
+      "duration": "PT50S",
+      "view_count": 52568,
+      "like_count": 814,
+      "comment_count": 62,
+      "url": "https://www.youtube.com/watch?v=NSzKc1TRJlo"
+    },
+    {
+      "id": "10LyXQZ2nk4",
+      "title": "What happens when we give AIs impossible tasks?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-18T18:30:19Z",
+      "description": "",
+      "duration": "PT1M32S",
+      "view_count": 64857,
+      "like_count": 1361,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=10LyXQZ2nk4"
+    },
+    {
+      "id": "-OIQs3xe9-I",
+      "title": "AI Is Outrunning Everyone’s Predictions - Noam Brown",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-18T14:59:00Z",
+      "description": "",
+      "duration": "PT39S",
+      "view_count": 71479,
+      "like_count": 864,
+      "comment_count": 111,
+      "url": "https://www.youtube.com/watch?v=-OIQs3xe9-I"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-21T20:28:19Z",
+    "count": 5
+  }
+}
