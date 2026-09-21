@@ -20,9 +20,9 @@
       "published_at": "2026-09-18T16:07:31Z",
       "description": "Models across the AI ecosystem run on NVIDIA.\n\nNew models and AI labs are emerging all the time. Our CEO Jensen Huang shares the idea behind NVIDIA’s platform: build what the ecosystem needs and help everyone succeed. #AllInSummit",
       "duration": "PT59S",
-      "view_count": 24824,
-      "like_count": 622,
-      "comment_count": 45,
+      "view_count": 31977,
+      "like_count": 732,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-17T17:51:28Z",
       "description": "Discover how NVIDIA NVLink Fusion enables hyperscalers, AI natives, and other custom silicon innovators to combine NVIDIA technology with their XPUs or CPUs to deploy AI infrastructure. \n\nBy extending NVIDIA's vertically integrated and horizontally open platform across custom systems, NVLink Fusion delivers industry-leading scale-up performance, reduces deployment risk, and accelerates time to market for heterogeneous compute.",
       "duration": "PT2M30S",
-      "view_count": 9477,
-      "like_count": 68,
-      "comment_count": 10,
+      "view_count": 8966,
+      "like_count": 74,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=cr61seCie_c"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-17T16:39:53Z",
       "description": "AI-RAN is moving beyond field trials and toward commercial deployment. NVIDIA and global telecom leaders have committed to building 6G on open, secure and AI-native platforms.\n\nThe technology is gaining momentum, but what exactly is AI-RAN?\n\nIn this video, Cindy Goh breaks down 5 things you need to know about AI-RAN, from how it improves network performance to how it enables edge AI services and helps lay the foundation for 6G.\n\n🔗 Learn more about AI-RAN: https://nvda.ws/4yyqNHe",
       "duration": "PT2M14S",
-      "view_count": 3793,
-      "like_count": 161,
-      "comment_count": 16,
+      "view_count": 3903,
+      "like_count": 172,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-16T22:24:54Z",
       "description": "Agentic AI demands a new kind of AI infrastructure—one built for long context, reasoning, tool calls, sub-agents and efficient performance at scale.\n\nIn this AI Infra Summit 2026 keynote, Ian Buck, NVIDIA vice president of hyperscale and high-performance computing, explores the NVIDIA Vera Rubin full-stack AI factory platform.\n\nVera Rubin delivers a rich ecosystem of developers and partners, a fungible architecture for every model and workload—from pre-training and inference to agentic AI and accelerated computing—and a durable platform that gets faster with every CUDA release across a decade of service.\n\nSee how NVIDIA Vera Rubin NVL72, Groq 3 LPX, Vera CPU, NVLink 6, NVLink Fusion and NVIDIA DSX help AI factories generate more tokens from every megawatt.\n\nExplore more from AI Infra Summit 2026: https://nvda.ws/4xKClav  \n\nLearn how NVIDIA NVLink and extreme co-design enable leading performance in the latest SemiAnalysis AgentX benchmark: https://nvda.ws/4yC811H",
       "duration": "PT29M7S",
-      "view_count": 24688,
-      "like_count": 225,
-      "comment_count": 21,
+      "view_count": 24908,
+      "like_count": 230,
+      "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
     },
     {
@@ -68,7 +68,7 @@
       "published_at": "2026-09-16T22:11:26Z",
       "description": "Frontier AI breakthroughs are also infrastructure breakthroughs. In this fireside chat, NVIDIA’s Ian Buck and OpenAI’s Sachin Katti reflect on a decade of collaboration – from the first DGX-1 to the NVIDIA infrastructure powering Astra – and what they’ve learned building and operating AI at unprecedented scale. \n\nThey’ll explore how the relationship has expanded beyond frontier model training, how NVIDIA is using OpenAI technology internally, and what the next generation of AI infrastructure will require. Moderated by Bloomberg’s Dina Bass.",
       "duration": "PT20M30S",
-      "view_count": 11792,
+      "view_count": 11573,
       "like_count": 77,
       "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-20T18:54:13Z",
+    "generated_at": "2026-09-21T10:04:39Z",
     "count": 5
   }
 }
