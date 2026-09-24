@@ -20,9 +20,9 @@
       "published_at": "2026-09-23T18:03:25Z",
       "description": "Al is technology that is built and improved by people, who have a responsibility to develop and deploy it thoughtfully.\n\nAnd helping people benefit from Al means taking its challenges seriously.\n\nThe technology industry needs to do that work.\n\nCredit: The Ezra Klein Show, New York Times Opinion",
       "duration": "PT1M15S",
-      "view_count": 446,
-      "like_count": 54,
-      "comment_count": 9,
+      "view_count": 6845,
+      "like_count": 228,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-23T16:00:18Z",
       "description": "Daniel Han and Nader Khalil checked out Unsloth’s new @DellTechnologies Pro Max with GB300 and talked about what comes next: support for more models, faster quantization, and more efficient reinforcement learning.\n\nLearn more about DGX Station: https://www.nvidia.com/en-us/products/workstations/dgx-station/",
       "duration": "PT1M8S",
-      "view_count": 798,
-      "like_count": 55,
-      "comment_count": 8,
+      "view_count": 3811,
+      "like_count": 136,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=vFXpC3GOe0E"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-09-22T19:31:08Z",
       "description": "Enterprises should own their intelligence.\n\nThat means bringing AI to their sensitive data while protecting both business data and proprietary models. \n\nNVIDIA’s VP of Enterprise AI Justin Boitano and VAST Data CEO Renen Hallak discuss how NVIDIA Confidential Computing makes this possible.",
       "duration": "PT45S",
-      "view_count": 1305,
-      "like_count": 51,
+      "view_count": 1746,
+      "like_count": 63,
       "comment_count": 1,
       "url": "https://www.youtube.com/watch?v=fZ10JtLAoOc"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-09-18T16:07:31Z",
       "description": "Models across the AI ecosystem run on NVIDIA.\n\nNew models and AI labs are emerging all the time. Our CEO Jensen Huang shares the idea behind NVIDIA’s platform: build what the ecosystem needs and help everyone succeed. #AllInSummit",
       "duration": "PT59S",
-      "view_count": 46840,
-      "like_count": 981,
-      "comment_count": 57,
+      "view_count": 49189,
+      "like_count": 1010,
+      "comment_count": 58,
       "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-17T17:51:28Z",
       "description": "Discover how NVIDIA NVLink Fusion enables hyperscalers, AI natives, and other custom silicon innovators to combine NVIDIA technology with their XPUs or CPUs to deploy AI infrastructure. \n\nBy extending NVIDIA's vertically integrated and horizontally open platform across custom systems, NVLink Fusion delivers industry-leading scale-up performance, reduces deployment risk, and accelerates time to market for heterogeneous compute.",
       "duration": "PT2M30S",
-      "view_count": 10563,
-      "like_count": 95,
+      "view_count": 10810,
+      "like_count": 96,
       "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=cr61seCie_c"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-23T19:43:24Z",
+    "generated_at": "2026-09-24T09:23:50Z",
     "count": 5
   }
 }
