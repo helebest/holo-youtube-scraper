@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-09-25",
+  "result": [
+    {
+      "id": "H7KruLVX2Rk",
+      "title": "Claude JUST found hidden DNA...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-24T05:24:14Z",
+      "description": "Claude just helped uncover a previously unknown biological system—and how it found it might be the bigger story. Anthropic’s agents searched for roughly 21 hours before researchers followed up on a strange pattern in DNA. We look at ART, the surprising signals inside Mythos 5, and what this could mean for the pace of scientific discovery. ART’s function is still unknown, but the clues are fascinating.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nAnthropic — Claude discovers a novel enzyme system:\nhttps://www.anthropic.com/news/claude-discovers-novel-enzyme-system\n\nResearch paper — Autonomous AI agents discover reverse transcriptases with tandem repeat arrays:\nhttps://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf\n\nCHAPTERS:\n00:00 Claude’s Discovery\n04:45 DNA Defenses\n08:15 DNA and RNA\n10:20 Finding ART\n18:40 Tools and Reasoning\n22:10 Inside Mythos\n27:00 Discovery Costs\n29:00 Science and Compute\n\n#claude #ai #science",
+      "duration": "PT30M42S",
+      "view_count": 117357,
+      "like_count": 2094,
+      "comment_count": 529,
+      "url": "https://www.youtube.com/watch?v=H7KruLVX2Rk"
+    },
+    {
+      "id": "p2i-fcx0G0M",
+      "title": "AI labs may be hiding their biggest breakthroughs",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-22T12:20:07Z",
+      "description": "Scott Aaronson thinks the singularity has already started—and says he’s heard that AI companies are sitting on major mathematical breakthroughs they haven’t released. As the debate over OpenAI’s Navier–Stokes result continues, a bigger question is emerging: what happens when machines can make discoveries that humans struggle to understand? We explore the warning signs, the backlash, and what scientific progress could mean for human purpose.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nMy previous video on OpenAI’s math breakthrough:\nhttps://www.youtube.com/watch?v=lkujyxUdUIk\n\nSOURCES:\n\nScott Aaronson — The Age of Wonders and Terrors:\nhttps://scottaaronson.blog/?p=10062\n\nOpenAI — On the Navier–Stokes Millennium Prize Problem:\nhttps://openai.com/index/navier-stokes-solution/\n\nScott Aaronson — Short Letter to My 11-Year-Old Self:\nhttps://scottaaronson.blog/?p=6919\n\nJulian Togelius — Please, Don’t Automate Science!:\nhttps://togelius.blogspot.com/2025/12/please-dont-automate-science.html\n\nDario Amodei — Machines of Loving Grace:\nhttps://darioamodei.com/essay/machines-of-loving-grace\n\nCHAPTERS:\n00:00 Unreleased Breakthroughs\n04:35 Scott Aaronson\n08:20 Warning Signs\n12:10 The Singularity\n15:10 Human Understanding\n17:15 Automating Science\n20:35 Progress and Resistance\n27:25 Alignment and Meaning\n\n#ai #openai #singularity",
+      "duration": "PT24M44S",
+      "view_count": 101984,
+      "like_count": 1808,
+      "comment_count": 561,
+      "url": "https://www.youtube.com/watch?v=p2i-fcx0G0M"
+    },
+    {
+      "id": "iQGLI14p88Q",
+      "title": "OpenAI JUST got HACKED...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-19T08:43:54Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nHacking OpenAI\nhttps://www.hacktron.ai/blog/hacking-openai#costs-of-finding-these-vulnerabilities\n\n#ai #openai #llm",
+      "duration": "PT15M8S",
+      "view_count": 260545,
+      "like_count": 2943,
+      "comment_count": 405,
+      "url": "https://www.youtube.com/watch?v=iQGLI14p88Q"
+    },
+    {
+      "id": "NQQsAegQXuw",
+      "title": "OpenAI's model just JAILBROKE ITSELF...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-18T05:28:05Z",
+      "description": "Try Genspark Design and get free credits: https://www.genspark.ai/agents?type=design&utm_campaign=WesRoth04&utm_source=yt\n\nThanks to @GensparkProduct for sponsoring this video.\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 OpenAI's disclosure\n03:18 Genspark (sponsor)\n06:23 Jailbreak itself?\n\n#Genspark #GensparkDesign #WorkwithGenspark",
+      "duration": "PT24M24S",
+      "view_count": 138181,
+      "like_count": 1939,
+      "comment_count": 433,
+      "url": "https://www.youtube.com/watch?v=NQQsAegQXuw"
+    },
+    {
+      "id": "thR9_VYJiQo",
+      "title": "Google is SO back...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-17T07:35:41Z",
+      "description": "Google researchers are letting AI “dream” through past experiments to improve how it chooses what to try next. Dream-RSI turns recorded discoveries into replayable worlds, where an agent can test better research strategies before running new experiments. Could learning to choose the right experiment become a key building block for recursive self-improvement?\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nDream-RSI project and interactive explanation:\nhttps://dream-rsi.com/\n\nDream-RSI research paper:\nhttps://arxiv.org/abs/2609.14858\n\nGoogle DeepMind's AlphaEvolve announcement:\nhttps://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\n#ai #google #rsi",
+      "duration": "PT14M31S",
+      "view_count": 180301,
+      "like_count": 2495,
+      "comment_count": 390,
+      "url": "https://www.youtube.com/watch?v=thR9_VYJiQo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-24T20:02:10Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-09-25",
+  "result": [
+    {
+      "id": "nsA_HeY3idE",
+      "title": "I hate it when they do this!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-23T16:41:20Z",
+      "description": "PSA to all the AI companies:\n\nPlease stop announcing features like they’re live when they’re still rolling out “over the coming weeks.” \n\nThis happened for like 4 different demos in my recent AI news roundup video...\n\nIs it so hard to just make an announcement when I can actually use the new feature 😅\n\n#ai #ainews #claude",
+      "duration": "PT51S",
+      "view_count": 1950,
+      "like_count": 27,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=nsA_HeY3idE"
+    },
+    {
+      "id": "0t-eWrGFZyA",
+      "title": "Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-22T22:30:04Z",
+      "description": "Two new models in the same day?? Claude and ChatGPT.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT18M17S",
+      "view_count": 183788,
+      "like_count": 2290,
+      "comment_count": 204,
+      "url": "https://www.youtube.com/watch?v=0t-eWrGFZyA"
+    },
+    {
+      "id": "rcUTZysF9s4",
+      "title": "This Robot Looks DEMONIC... On Purpose?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-21T12:43:38Z",
+      "description": "This robot looks straight up like a fantasy movie villain, but it was designed like that on purpose.\n\nDespite how it looks, the Threehalves robot's design actually makes perfect sense: four legs for stability, tools that attach directly to its wrists, and horns that house cameras for a remote operator.\n\nThe goal is to let skilled workers tackle dangerous jobs from a safe distance, like wildfire zones, collapsed buildings, and toxic environments.\n\nIt’s still a half-built proof of concept. But this is the kind of robotics idea I want to see work. Even if I’d absolutely run the other way if I saw it in the woods.\n\n#Robotics #FutureTech #AInews #ai",
+      "duration": "PT1M7S",
+      "view_count": 12072,
+      "like_count": 300,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=rcUTZysF9s4"
+    },
+    {
+      "id": "Kof2VcHTjrk",
+      "title": "AI News: The AI Slowdown: What You Need to Know",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-18T15:12:55Z",
+      "description": "Here's the AI News you probably missed from this week.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nPace the Frontier Essay: https://darioamodei.com/post/we-must-pace-the-frontier\nMusk Backs Dario: https://x.com/elonmusk/status/2098789109980332057\nAltman Agrees on Pacing: https://x.com/sama/status/2098811563415150910\nHassabis Endorses Dario Essay: https://x.com/demishassabis/status/2098909516582490602\nZuckerberg Rejects AI Slowdown: https://apnews.com/article/ai-zuckerberg-meta-slowdown-2f4eab05b1e931456d00ebc2fe93c989\nTrump Calls Jensen Onstage: https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit\nCowork Merges Into Claude: https://claude.com/blog/cowork-is-now-claude\nClaude Projects Redesigned: https://claude.com/blog/projects-redesigned\nGemini Notebook Study Tools: https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/\nSiri AI Launches: https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/\nQwen3.8 Omni Flash: https://qwen.ai/blog?id=qwen3.8-omni-flash\nOpenCode Union Alpha Free: https://x.com/opencode/status/2100236430890991782\nMeta One Subscription: https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/\nMuse Outbound Calls Beta: https://x.com/wailord/status/2100342273854894533\nGemini 3.8 Live: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\nCC Expands to Groups: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\nGrok Build Memory: https://x.ai/news/grok-build-memory\nElevenLabs Music v2.5: https://elevenlabs.io/blog/music-v2-5-model\nElevenLabs MCP Expansion: https://elevenlabs.io/blog/introducing-voice-music-image-and-video-generation-in-the-elevenlabs-mcp\nOpenAI AI Advertising: https://openai.com/index/reimagining-advertising-with-ai/\nUBTECH Humanoid Robot Factory: https://interestingengineering.com/ai-robotics/ubtech-starts-10000-unit-robot-factory\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:34 Pacing AI Advancement\n9:36 Claude Combines Modes\n10:50 Claude Projects\n13:04 Gemini Notebook Update\n14:19 New Siri AI\n16:54 Qwen3.8-Omni-Flash\n17:45 Union Alpha Model\n19:51 New Meta Subscription\n20:37 Muse Agent Phone Calls\n21:17 Gemini 3.8 Live\n22:02 Google CC\n22:51 Memory in Grok Build\n23:08 ElevenLabs Music v2.5\n23:40 ElevenLabs MCP\n24:10 New ChatGPT Ads\n24:41 10,000 Robots Per Year\n25:22 Final Thoughts",
+      "duration": "PT27M15S",
+      "view_count": 113208,
+      "like_count": 2210,
+      "comment_count": 300,
+      "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk"
+    },
+    {
+      "id": "S2VJU5DQqlU",
+      "title": "He Built The Ultimate Spy Tool (Free and Open-Source)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-16T20:57:15Z",
+      "description": "Check out God's Eye View:\nhttps://github.com/bilawalsidhu/gods-eye-view\nhttps://www.spatialintelligence.ai/\n\nWhat if you could turn your computer into a spy movie command center using real-world data? I sat down with Bilawal Sidhu to explore God's Eye View, his open-source tool that brings flights, satellites, ships, traffic, and more into one interactive 3D globe.\n\nWe dive into how he built it with AI, try out its voice controls, and explore everything from military flight data to public traffic cameras and NASA fire detections. Bilawal also shows how people are using it to reconstruct real-world events, and I walk through getting it running on your own computer.\n\nThe project is open source, and many of the data sources are free for personal use. Some features require API keys, and voice interaction or heavier usage can add costs.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nChapters: \n00:00 God's Eye View: Palantir at Home?\n00:27 What It Does and Who It's For\n02:07 How Bilawal Built It With AI\n03:22 API Costs and Privacy Limits\n06:24 Exploring the Globe With Voice Commands\n07:49 Tracking Flights and Asking AI for Context\n10:06 Exploring Public Cameras and Traffic Data\n11:57 Mapping Fires, Rocket Launches, and Real-World Events\n16:04 How to Install God's Eye View",
+      "duration": "PT21M48S",
+      "view_count": 177385,
+      "like_count": 3079,
+      "comment_count": 218,
+      "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-24T20:02:08Z",
+    "count": 5
+  }
+}
