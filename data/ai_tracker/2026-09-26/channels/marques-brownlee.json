@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-09-26",
+  "result": [
+    {
+      "id": "DkUuOr21v4s",
+      "title": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-24T22:26:18Z",
+      "description": "If one-upping the iPhone was a sport, Xiaomi would be Lebron James.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M56S",
+      "view_count": 6018833,
+      "like_count": 79956,
+      "comment_count": 4766,
+      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s"
+    },
+    {
+      "id": "pOX1l1edBME",
+      "title": "The Apple Watch Has a Problem",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-22T17:49:42Z",
+      "description": "Apple Watch series 12 has a new \"Audio Intelligence\" feature, let's talk about it\n\nApple vs the AI Race: https://youtu.be/eWKY0OnPByg\n\nMKBHD Merch: http://shop.MKBHD.com\n\nApple wearable study: https://www.apple.com/health/pdf/Heart_Rate_Accuracy_Study_2026.pdf\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nWatch provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M6S",
+      "view_count": 4268881,
+      "like_count": 67450,
+      "comment_count": 6430,
+      "url": "https://www.youtube.com/watch?v=pOX1l1edBME"
+    },
+    {
+      "id": "ohqxP8EEumo",
+      "title": "iPhone 18 Pro Review: All About that Chip",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-16T12:01:27Z",
+      "description": "iPhone 18 Pro is basically an S year upgrade. And one part of it is really impressive.\n\nProtect your new iPhone 18 with a case or screen protector at http://dbrand.com/shop/iphone-18\n\nThe scale of a transistor: https://youtu.be/Jh9pFp1oM7E\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Make You Happy by Betablock3r\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n1:21 This Camera\n6:47 The Chip\n10:20 Battery Boost\n13:04 The Little Things\n14:22 Conclusion",
+      "duration": "PT16M36S",
+      "view_count": 10953256,
+      "like_count": 156458,
+      "comment_count": 8380,
+      "url": "https://www.youtube.com/watch?v=ohqxP8EEumo"
+    },
+    {
+      "id": "6D__H_DO2Xk",
+      "title": "iPhone Duo: What We Missed!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-12T21:36:57Z",
+      "description": "A few new thoughts from the days after the Duo unveil.\n\nThat shirt: http://shop.MKBHD.com\n\nThe full iPhone Duo Hands-on: https://youtu.be/Od6M0AXpcxQ\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M37S",
+      "view_count": 12146391,
+      "like_count": 151829,
+      "comment_count": 12867,
+      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk"
+    },
+    {
+      "id": "Od6M0AXpcxQ",
+      "title": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-10T07:29:55Z",
+      "description": "The first folding iPhone Duo and iPhone 18 Pro are here, and this is everything you need to know.\n\nCheck out Ridge’s latest iPhone tech gear at https://ridge.com/MKBHD\n\niOS 27: https://youtu.be/_oRgdlJUD18\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT17M14S",
+      "view_count": 27155348,
+      "like_count": 362340,
+      "comment_count": 24862,
+      "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-25T20:03:37Z",
+    "count": 5
+  }
+}

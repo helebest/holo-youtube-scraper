@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-09-26",
+  "result": [
+    {
+      "id": "LYNSHecA2Ks",
+      "title": "THE END IS NEAR... and more AI doom",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-25T13:28:28Z",
+      "description": "Try Runway: https://app.runwayml.com/?utm_source=youtube&utm_medium=sponsored&utm_campaign=ai-influencer=WesRoth\n\nThanks to Runway for sponsoring this video. I made three short films—The Last Light, Second Spring, and Midnight Service—and show how I built them using AI video generation, reference images, edits to real footage, and Runway Agent.\n\nIt’s a wild week for AI news. An OpenAI agent gained unauthorized access to an Australian government statistics portal. Jev is making AI decisions remarkably fast and cheap. And the debate over AI risk is turning political, with new reporting on an Anthropic researcher’s media appearances and a memo targeting Dario Amodei.\n\n**Chapters**  \n0:00 A wild week in AI news  \n2:28 OpenAI Hack Australia\n4:00 Runway (sponsor)\n9:54 Australia Responds\n12:06 Jev\n17:44 AI doom \n\n**Sources**  \nAustralian government briefing: https://www.minister.defence.gov.au/transcripts/2026-09-24/press-conference-sydney  \nPirate Wires reporting: https://www.piratewires.com/p/jacob-coxon-worked-with-ai-doomer-firm  \nAxios reporting: https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei  \nTrump remarks shared by Kobeissi Letter: https://x.com/KobeissiLetter/status/2103087246140199096\n\nWhat do you think is the right way to address real AI risks without turning the debate into a political spectacle?\n\n*Replace the bracketed Runway link with the campaign tracking URL before publishing.*",
+      "duration": "PT32M42S",
+      "view_count": 31972,
+      "like_count": 719,
+      "comment_count": 241,
+      "url": "https://www.youtube.com/watch?v=LYNSHecA2Ks"
+    },
+    {
+      "id": "H7KruLVX2Rk",
+      "title": "Claude JUST found hidden DNA...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-24T05:24:14Z",
+      "description": "Claude just helped uncover a previously unknown biological system—and how it found it might be the bigger story. Anthropic’s agents searched for roughly 21 hours before researchers followed up on a strange pattern in DNA. We look at ART, the surprising signals inside Mythos 5, and what this could mean for the pace of scientific discovery. ART’s function is still unknown, but the clues are fascinating.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nAnthropic — Claude discovers a novel enzyme system:\nhttps://www.anthropic.com/news/claude-discovers-novel-enzyme-system\n\nResearch paper — Autonomous AI agents discover reverse transcriptases with tandem repeat arrays:\nhttps://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf\n\nCHAPTERS:\n00:00 Claude’s Discovery\n04:45 DNA Defenses\n08:15 DNA and RNA\n10:20 Finding ART\n18:40 Tools and Reasoning\n22:10 Inside Mythos\n27:00 Discovery Costs\n29:00 Science and Compute\n\n#claude #ai #science",
+      "duration": "PT30M42S",
+      "view_count": 172543,
+      "like_count": 2519,
+      "comment_count": 659,
+      "url": "https://www.youtube.com/watch?v=H7KruLVX2Rk"
+    },
+    {
+      "id": "p2i-fcx0G0M",
+      "title": "AI labs may be hiding their biggest breakthroughs",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-22T12:20:07Z",
+      "description": "Scott Aaronson thinks the singularity has already started—and says he’s heard that AI companies are sitting on major mathematical breakthroughs they haven’t released. As the debate over OpenAI’s Navier–Stokes result continues, a bigger question is emerging: what happens when machines can make discoveries that humans struggle to understand? We explore the warning signs, the backlash, and what scientific progress could mean for human purpose.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nMy previous video on OpenAI’s math breakthrough:\nhttps://www.youtube.com/watch?v=lkujyxUdUIk\n\nSOURCES:\n\nScott Aaronson — The Age of Wonders and Terrors:\nhttps://scottaaronson.blog/?p=10062\n\nOpenAI — On the Navier–Stokes Millennium Prize Problem:\nhttps://openai.com/index/navier-stokes-solution/\n\nScott Aaronson — Short Letter to My 11-Year-Old Self:\nhttps://scottaaronson.blog/?p=6919\n\nJulian Togelius — Please, Don’t Automate Science!:\nhttps://togelius.blogspot.com/2025/12/please-dont-automate-science.html\n\nDario Amodei — Machines of Loving Grace:\nhttps://darioamodei.com/essay/machines-of-loving-grace\n\nCHAPTERS:\n00:00 Unreleased Breakthroughs\n04:35 Scott Aaronson\n08:20 Warning Signs\n12:10 The Singularity\n15:10 Human Understanding\n17:15 Automating Science\n20:35 Progress and Resistance\n27:25 Alignment and Meaning\n\n#ai #openai #singularity",
+      "duration": "PT24M44S",
+      "view_count": 106412,
+      "like_count": 1842,
+      "comment_count": 578,
+      "url": "https://www.youtube.com/watch?v=p2i-fcx0G0M"
+    },
+    {
+      "id": "iQGLI14p88Q",
+      "title": "OpenAI JUST got HACKED...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-19T08:43:54Z",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nHacking OpenAI\nhttps://www.hacktron.ai/blog/hacking-openai#costs-of-finding-these-vulnerabilities\n\n#ai #openai #llm",
+      "duration": "PT15M8S",
+      "view_count": 261190,
+      "like_count": 2950,
+      "comment_count": 407,
+      "url": "https://www.youtube.com/watch?v=iQGLI14p88Q"
+    },
+    {
+      "id": "NQQsAegQXuw",
+      "title": "OpenAI's model just JAILBROKE ITSELF...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-18T05:28:05Z",
+      "description": "Try Genspark Design and get free credits: https://www.genspark.ai/agents?type=design&utm_campaign=WesRoth04&utm_source=yt\n\nThanks to @GensparkProduct for sponsoring this video.\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 OpenAI's disclosure\n03:18 Genspark (sponsor)\n06:23 Jailbreak itself?\n\n#Genspark #GensparkDesign #WorkwithGenspark",
+      "duration": "PT24M24S",
+      "view_count": 138505,
+      "like_count": 1940,
+      "comment_count": 433,
+      "url": "https://www.youtube.com/watch?v=NQQsAegQXuw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-25T20:03:42Z",
+    "count": 5
+  }
+}
