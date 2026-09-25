@@ -14,15 +14,27 @@
   "date": "2026-09-25",
   "result": [
     {
+      "id": "DkUuOr21v4s",
+      "title": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-24T22:26:18Z",
+      "description": "If one-upping the iPhone was a sport, Xiaomi would be Lebron James.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M56S",
+      "view_count": 3437528,
+      "like_count": 54626,
+      "comment_count": 3567,
+      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s"
+    },
+    {
       "id": "pOX1l1edBME",
       "title": "The Apple Watch Has a Problem",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-09-22T17:49:42Z",
       "description": "Apple Watch series 12 has a new \"Audio Intelligence\" feature, let's talk about it\n\nApple vs the AI Race: https://youtu.be/eWKY0OnPByg\n\nMKBHD Merch: http://shop.MKBHD.com\n\nApple wearable study: https://www.apple.com/health/pdf/Heart_Rate_Accuracy_Study_2026.pdf\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nWatch provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT15M6S",
-      "view_count": 3799778,
-      "like_count": 64343,
-      "comment_count": 6243,
+      "view_count": 4089940,
+      "like_count": 66189,
+      "comment_count": 6328,
       "url": "https://www.youtube.com/watch?v=pOX1l1edBME"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-16T12:01:27Z",
       "description": "iPhone 18 Pro is basically an S year upgrade. And one part of it is really impressive.\n\nProtect your new iPhone 18 with a case or screen protector at http://dbrand.com/shop/iphone-18\n\nThe scale of a transistor: https://youtu.be/Jh9pFp1oM7E\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Make You Happy by Betablock3r\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n1:21 This Camera\n6:47 The Chip\n10:20 Battery Boost\n13:04 The Little Things\n14:22 Conclusion",
       "duration": "PT16M36S",
-      "view_count": 10858185,
-      "like_count": 155664,
-      "comment_count": 8379,
+      "view_count": 10915818,
+      "like_count": 156122,
+      "comment_count": 8369,
       "url": "https://www.youtube.com/watch?v=ohqxP8EEumo"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-12T21:36:57Z",
       "description": "A few new thoughts from the days after the Duo unveil.\n\nThat shirt: http://shop.MKBHD.com\n\nThe full iPhone Duo Hands-on: https://youtu.be/Od6M0AXpcxQ\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M37S",
-      "view_count": 12069214,
-      "like_count": 151437,
-      "comment_count": 12929,
+      "view_count": 12116933,
+      "like_count": 151645,
+      "comment_count": 12864,
       "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-10T07:29:55Z",
       "description": "The first folding iPhone Duo and iPhone 18 Pro are here, and this is everything you need to know.\n\nCheck out Ridge’s latest iPhone tech gear at https://ridge.com/MKBHD\n\niOS 27: https://youtu.be/_oRgdlJUD18\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT17M14S",
-      "view_count": 27078810,
-      "like_count": 361964,
-      "comment_count": 24855,
+      "view_count": 27125712,
+      "like_count": 362167,
+      "comment_count": 24856,
       "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ"
-    },
-    {
-      "id": "R6yNUnRXZ64",
-      "title": "iPhone Duo is here",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-09-10T07:02:22Z",
-      "description": "What to know about iPhone Duo",
-      "duration": "PT1M10S",
-      "view_count": 6801199,
-      "like_count": 193333,
-      "comment_count": 4360,
-      "url": "https://www.youtube.com/watch?v=R6yNUnRXZ64"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-24T20:02:05Z",
+    "generated_at": "2026-09-25T09:41:32Z",
     "count": 5
   }
 }
