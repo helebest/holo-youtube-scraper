@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-09-27",
+  "result": [
+    {
+      "id": "wJOrgRepk_U",
+      "title": "So what’s inside the Lucas Museum? 🖼️👀",
+      "channel_title": "Google",
+      "published_at": "2026-09-26T15:35:19Z",
+      "description": "From classic illustrations and comic books to a few familiar friends, Senior Curator Ryan Linkof answers all your FAQs about the @LucasMuseum 🏛️",
+      "duration": "PT50S",
+      "view_count": 1328,
+      "like_count": 61,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=wJOrgRepk_U"
+    },
+    {
+      "id": "-uu2N53Ig3M",
+      "title": "Lucas Museum: Top searches reveal hidden narratives | Searching For",
+      "channel_title": "Google",
+      "published_at": "2026-09-26T15:00:42Z",
+      "description": "Step inside the Lucas Museum for an exclusive guided tour with Senior Curator Ryan Linkof. From fine art and comic books to cave paintings and beyond, the Lucas Museum of Narrative Art celebrates the stories that connect us all. Join us as we explore the top searches around universal themes of love, play and family through the lens of visual storytelling. Grab your ticket, it’s time for the next episode of Searching For.\n\n00:00 Introduction\n00:32 Where does imagination come from\n01:10 What do people daydream about\n02:37  How it feels to fall in love\n03:32  Power of found family                                                                                \n04:29 That’s a wrap\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT4M44S",
+      "view_count": 8681,
+      "like_count": 173,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=-uu2N53Ig3M"
+    },
+    {
+      "id": "cdt6BB7VAu8",
+      "title": "Can pigs breathe through their 🍑?",
+      "channel_title": "Google",
+      "published_at": "2026-09-25T22:03:02Z",
+      "description": "We answer this and other trending swine-related questions at the @iastatefair 🌽with resident pig expert Ernie Barnes 🐷",
+      "duration": "PT1M",
+      "view_count": 7936,
+      "like_count": 171,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=cdt6BB7VAu8"
+    },
+    {
+      "id": "PUvQCFzn8Ns",
+      "title": "Celebrating Hispanic Heritage Month",
+      "channel_title": "Google",
+      "published_at": "2026-09-25T18:59:40Z",
+      "description": "Sabor, historia, y puro ritmo 💃 🎶 In honor of Hispanic Heritage Month, the #GoogleDoodle is spotlighting the evolution of Latin pop through the legendary Gloria Estefan and her classic hit “Rhythm Is Gonna Get You.”\n\nFrom salsa and bachata to cumbia and dembow, Latin pop carries generations of rhythm in every beat, full of history, heart, and the kind of energy you feel before you even know the lyrics.\n\nIt’s the rhythm we all get – and the rhythm that gets us all. \n\nFeaturing AJ Ramos, Head of Artist and Label Partnerships for Latin Music & Culture at YouTube Music",
+      "duration": "PT1M2S",
+      "view_count": 5159,
+      "like_count": 236,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=PUvQCFzn8Ns"
+    },
+    {
+      "id": "o1JK79jszqo",
+      "title": "Google’s latest moonshot to put machine learning in space",
+      "channel_title": "Google",
+      "published_at": "2026-09-24T13:12:27Z",
+      "description": "A solar panel in space generates up to 8 times more power than one on Earth.\n\nThat’s the vision behind Project Suncatcher: Google’s moonshot to capture continuous sunlight and more efficiently power machine learning in space. \n\nIn this video, we explore some of the monumental engineering questions that must be answered to make this idea a reality.\n\n0:14 - How do we put machine learning in space?\n0:30 - How much power can solar panels generate in orbit?\n0:55 - How do TPU satellites communicate?\n1:40 - What is the future of space-based compute?\n\nRead more about Project Suncatcher on News from Google: https://goo.gle/4xEzOOp\n\n #Google #ProjectSuncatcher #AI #Space #Innovation \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT2M7S",
+      "view_count": 138347,
+      "like_count": 2299,
+      "comment_count": 422,
+      "url": "https://www.youtube.com/watch?v=o1JK79jszqo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-26T19:15:42Z",
+    "count": 5
+  }
+}
