@@ -20,9 +20,9 @@
       "published_at": "2026-09-24T17:49:58Z",
       "description": "Ten years ago at NVIDIA GTC 2016, our CEO Jensen Huang introduced DGX-1, our first AI supercomputer.\n\nSince then, NVIDIA DGX has transformed from a single system into a blueprint for AI factories. What hasn’t changed is the reason why we build DGX: to test the systems and work through the details of interconnects, cooling, and software so our partners and customers have a proven foundation to build on.\n\nCharlie Boyle, our VP of DGX Systems, looks back at how DGX got its start, what’s changed, and what comes next.\n\nThanks to everyone who’s been on this journey with us. #DecadeOfDGX",
       "duration": "PT47S",
-      "view_count": 3064,
-      "like_count": 123,
-      "comment_count": 15,
+      "view_count": 3924,
+      "like_count": 164,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-24T16:00:27Z",
       "description": "A decade ago, Jensen Huang introduced DGX-1 to help researchers tackle AI challenges once thought out of reach. He delivered the first DGX-1 to OpenAI, which started the AI revolution. \nWhat began as a single system has evolved into the blueprint for the modern AI factory—driving breakthroughs across research, medicine, industry and beyond.\n\nThank you to every researcher, developer, partner and customer who has shared this journey. Here’s to the next decade of NVIDIA DGX.\n\nWant to learn more about NVIDIA DGX? \nRegister for DGX sessions at GTC Berlin: \nhttps://www.nvidia.com/en-eu/gtc/sessions/nvidia-dgx-platform/?ncid=so-yout-513661 \n\nSee how customers have achieved AI breakthroughs with DGX: \nhttps://resources.nvidia.com/l/en-us-dgx-customer-use-cases/?ncid=so-yout-258708",
       "duration": "PT3M32S",
-      "view_count": 23313,
-      "like_count": 362,
-      "comment_count": 22,
+      "view_count": 24682,
+      "like_count": 390,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=xAgq8ByWK0M"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-23T18:03:25Z",
       "description": "Al is technology that is built and improved by people, who have a responsibility to develop and deploy it thoughtfully.\n\nAnd helping people benefit from Al means taking its challenges seriously.\n\nThe technology industry needs to do that work.\n\nCredit: The Ezra Klein Show, New York Times Opinion",
       "duration": "PT1M15S",
-      "view_count": 15428,
-      "like_count": 432,
-      "comment_count": 43,
+      "view_count": 17205,
+      "like_count": 479,
+      "comment_count": 47,
       "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-23T16:00:18Z",
       "description": "Daniel Han and Nader Khalil checked out Unsloth’s new @DellTechnologies Pro Max with GB300 and talked about what comes next: support for more models, faster quantization, and more efficient reinforcement learning.\n\nLearn more about DGX Station: https://www.nvidia.com/en-us/products/workstations/dgx-station/",
       "duration": "PT1M8S",
-      "view_count": 8032,
-      "like_count": 265,
-      "comment_count": 28,
+      "view_count": 9072,
+      "like_count": 304,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=vFXpC3GOe0E"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-22T19:31:08Z",
       "description": "Enterprises should own their intelligence.\n\nThat means bringing AI to their sensitive data while protecting both business data and proprietary models. \n\nNVIDIA’s VP of Enterprise AI Justin Boitano and VAST Data CEO Renen Hallak discuss how NVIDIA Confidential Computing makes this possible.",
       "duration": "PT45S",
-      "view_count": 2576,
-      "like_count": 90,
+      "view_count": 2785,
+      "like_count": 96,
       "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=fZ10JtLAoOc"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-25T20:03:38Z",
+    "generated_at": "2026-09-26T09:25:51Z",
     "count": 5
   }
 }

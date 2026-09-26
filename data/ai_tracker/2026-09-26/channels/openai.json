@@ -20,8 +20,8 @@
       "published_at": "2026-09-23T18:48:52Z",
       "description": "Create your own with ChatGPT Images.",
       "duration": "PT50S",
-      "view_count": 6954,
-      "like_count": 212,
+      "view_count": 7886,
+      "like_count": 234,
       "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=rmDu2sSBIrw"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-09-23T17:11:13Z",
       "description": "We heard you loud and clear. \n\nChatGPT Voice can now:\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app.",
       "duration": "PT2M6S",
-      "view_count": 99785,
-      "like_count": 2073,
-      "comment_count": 195,
+      "view_count": 109479,
+      "like_count": 2194,
+      "comment_count": 204,
       "url": "https://www.youtube.com/watch?v=96ogPwN9ykM"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-09-21T19:25:46Z",
       "description": "John gave GPT-6 Astra a moonshot: design the flight-control experience for a new personal aircraft.\n\nThe gap between generating an interface and designing a system is massive, and AI models have always fallen short.\n\nUntil now.\n\nAstra reasoned through the audience, jobs to be done, pilot-versus-passenger tradeoffs, and critical interface states. Then it connected that thinking to a real design system via the Figma MCP Server to create a polished, on-brand prototype of the concept.",
       "duration": "PT2M44S",
-      "view_count": 44950,
-      "like_count": 258,
+      "view_count": 45652,
+      "like_count": 263,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-09-21T19:22:03Z",
       "description": "Veeral gave GPT-6 Astra a one-line feature request: add routing controls for individual API keys. Astra found the right settings, made the changes, and used computer use to check its own work. It verified the mobile experience without being asked.\n\nAbout 12 minutes of implementing. \n\nAnother 15 for validating.\n\nVeeral told Romain Huet that was the shift: give Astra a high-level goal, let it make progress, and come back to changes you can review. \n\nWe're making moves. This is why Astra is the next generation in intelligence at work.",
       "duration": "PT3M13S",
-      "view_count": 22303,
-      "like_count": 114,
+      "view_count": 22605,
+      "like_count": 116,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=p7TjXroM4ak"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-09-21T19:17:35Z",
       "description": "Don’t sleep on Astra. Quinn Johnson started working with GPT-6 Astra differently in Codex: he shared the goal, added context, and let it tackle the problem his team had been working on. On a cache-reuse audit, Astra connected patterns the Notion team had overlooked, then explained the issue clearly. \n\nThe Notion issue was sneaky: older messages were being regenerated using what the agent knew, subtly changing the prompt history and breaking cache reuse. \n\nEverything could still appear to work while becoming quietly slower and more expensive at scale.  🚀 Astra finding that hidden pattern made it a meaningful engineering win.",
       "duration": "PT3M13S",
-      "view_count": 18133,
-      "like_count": 137,
+      "view_count": 18366,
+      "like_count": 138,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-25T20:03:39Z",
+    "generated_at": "2026-09-26T09:25:52Z",
     "count": 5
   }
 }

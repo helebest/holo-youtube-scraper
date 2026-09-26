@@ -14,15 +14,27 @@
   "date": "2026-09-26",
   "result": [
     {
+      "id": "nHkYf3iGlRE",
+      "title": "You can win every battle and still lose the war - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-09-25T20:37:30Z",
+      "description": "",
+      "duration": "PT38S",
+      "view_count": 15672,
+      "like_count": 497,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=nHkYf3iGlRE"
+    },
+    {
       "id": "f6cjAEr08qk",
       "title": "Sarah Paine — Why wars are so difficult to end",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-09-25T18:04:31Z",
       "description": "This is the final lecture in our series with Sarah Paine, and it's a fitting place to end.\n\nSarah tackles war termination: why wars are easy to start, hard to end, and even harder to end on the terms you wanted. Using the Russo-Japanese War as a model, she explains what goes wrong when regional wars escalate into global ones, or when conventional victories turn into endless insurgencies. It's especially relevant given what's going on today.\n\nAs we wrap up, I want to thank Sarah for doing this with me. It's been a real privilege to share her lectures with all of you. Thanks for watching.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n 00:00:00 – How Japan beat a far bigger Russia\n 00:08:18 – Clausewitz's culminating points of victory\n 00:14:24 – What finally made Russia give up?\n 00:26:54 – Gulf War: the war the US didn't pay for\n 00:30:31 – Korea and the cost of shifting war aims\n 00:34:48 – Sun Tzu's \"death ground\"\n 00:39:32 – How regional wars go global: WWI to Pearl Harbor\n 00:46:38 – Why insurgencies deny victory: China to Iraq\n 00:51:06 – Questions to ask before any war",
       "duration": "PT52M40S",
-      "view_count": 5077,
-      "like_count": 451,
-      "comment_count": 53,
+      "view_count": 131433,
+      "like_count": 2518,
+      "comment_count": 202,
       "url": "https://www.youtube.com/watch?v=f6cjAEr08qk"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-24T23:25:28Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 17585,
-      "like_count": 430,
-      "comment_count": 29,
+      "view_count": 22146,
+      "like_count": 484,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=jlPNUtNnFvs"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-23T20:07:28Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 20347,
-      "like_count": 422,
-      "comment_count": 34,
+      "view_count": 21790,
+      "like_count": 442,
+      "comment_count": 35,
       "url": "https://www.youtube.com/watch?v=ISgqeLL5oeo"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-22T19:28:29Z",
       "description": "",
       "duration": "PT45S",
-      "view_count": 26216,
-      "like_count": 468,
+      "view_count": 27775,
+      "like_count": 485,
       "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=W6fL5aGybMo"
-    },
-    {
-      "id": "64jq-3jziYM",
-      "title": "The Hugging Face Attack Was Bigger Than We Thought - Ajeya Cotra",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-21T19:36:53Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 38902,
-      "like_count": 790,
-      "comment_count": 45,
-      "url": "https://www.youtube.com/watch?v=64jq-3jziYM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-25T20:03:34Z",
+    "generated_at": "2026-09-26T09:25:47Z",
     "count": 5
   }
 }
