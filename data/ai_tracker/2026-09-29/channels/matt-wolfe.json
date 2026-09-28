@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-09-29",
+  "result": [
+    {
+      "id": "hx42whM7NsY",
+      "title": "Jev - The New AI model that has people talking",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-28T17:07:47Z",
+      "description": "This AI model doesn’t use… WORDS?\n\nIt’s called Jev, from Typesafe AI, and instead of generating paragraphs or code text, it skips straight to making a decision.\n\nInstead of text, it’s outputs are things like:→ a choice→ a score→ true/false\n\nThat makes it insanely fast and ridiculously cheap. Input costs start at just 4¢ per million tokens, and outputs are free because they’re apparently too cheap to meter.\n\nWould you actually build with something like this?\n\n#ai #ainews #futuretech #aimodel",
+      "duration": "PT1M12S",
+      "view_count": 244,
+      "like_count": 3,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=hx42whM7NsY"
+    },
+    {
+      "id": "aDpIra7NFuE",
+      "title": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-26T02:37:49Z",
+      "description": "Here's the AI News you probably missed this week. Learn more about GPT-Live 1 and the Agent API here: https://developers.openai.com/api/docs/guides/live\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nMeta Connect 2026: https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/\nChatGPT Voice Upgrades: https://x.com/OpenAI/status/2102808325742322002\nGPT-6 Sol and Luna: https://openai.com/index/introducing-gpt-6-sol-and-luna/\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\nGrok 4.7: https://x.ai/news/grok-4-7\nNew AI Model Type: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/\nMade On YouTube: https://www.youtube.com/creators/made-on/\nNew Microsoft Copilot: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\nGemini 3.8 Live Avatar: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/\nGemini 3.8 Flash TTS: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\nGemini in Google Vids: https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/\nSpotify Taste Profile: https://newsroom.spotify.com/2026-09-23/taste-profile-shape-home-feed/\nGoogle Project Suncatcher: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:26 Meta Connect Updates\n8:42 GPT-Live-1\n9:48 GPT-6 Sol and Luna\n12:59 Claude Opus 5.5\n18:13 Grok 4.7\n22:04 JEV\n26:52 Made on YouTube Updates\n29:06 New Microsoft Copilot\n30:33 Gemini 3.8 Live Avatar\n30:56 Gemini 3.8 Text-To-Speech\n31:30 Google Vids Update\n31:53 Spotify Update\n32:12 Project Suncatcher\n33:04 Final Thoughts",
+      "duration": "PT34M38S",
+      "view_count": 166211,
+      "like_count": 2870,
+      "comment_count": 255,
+      "url": "https://www.youtube.com/watch?v=aDpIra7NFuE"
+    },
+    {
+      "id": "SUtGm-nr4Hk",
+      "title": "5 ChatGPT Prompts To Try Right Now!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-24T21:27:54Z",
+      "description": "Here are 5 new ways to use ChatGPT’s 5 new features 👇\n\n1. Use GPT-6’s upgraded computer use to turn you workspace into a digital diorama in Blender.\n2. Use GPT Image 2.5 to redesign one corner of a room while preserving the rest.\n3. Use ChatGPT Work’s cloud browser to check your AI subscriptions across websites you’re signed into and build a dashboard of costs and renewal dates.\n4. Use GPT-Live 1 to build a travel planner you can talk to while it researches.\n5. Use The Agents API to build a guitar-practice coach that remembers your progress between sessions.\n\n🔗 Head to the link in the pinned comment to download @OpenAI Codex and try these prompts for yourself!\n\n#ChatGPT_Partner #AI #ChatGPT #Codex #aiprompts",
+      "duration": "PT1M29S",
+      "view_count": 11648,
+      "like_count": 247,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=SUtGm-nr4Hk"
+    },
+    {
+      "id": "nsA_HeY3idE",
+      "title": "I hate it when they do this!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-23T16:41:20Z",
+      "description": "PSA to all the AI companies:\n\nPlease stop announcing features like they’re live when they’re still rolling out “over the coming weeks.” \n\nThis happened for like 4 different demos in my recent AI news roundup video...\n\nIs it so hard to just make an announcement when I can actually use the new feature 😅\n\n#ai #ainews #claude",
+      "duration": "PT51S",
+      "view_count": 5299,
+      "like_count": 110,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=nsA_HeY3idE"
+    },
+    {
+      "id": "0t-eWrGFZyA",
+      "title": "Claude Opus 5.5 Didn’t Need to Go This Hard",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-22T22:30:04Z",
+      "description": "Two new models in the same day?? Claude and ChatGPT.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT18M17S",
+      "view_count": 215234,
+      "like_count": 2560,
+      "comment_count": 231,
+      "url": "https://www.youtube.com/watch?v=0t-eWrGFZyA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-28T22:09:08Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-09-29",
+  "result": [
+    {
+      "id": "6wNqpZdHE_s",
+      "title": "GPT-6 Astra in practice: Turning ideas into projects",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-28T18:05:42Z",
+      "description": "See what members of the OpenAI Developer Experience team are building with Astra, from a YouTube thumbnail generator and visual learning tools to music workflows, a hardware prototype, and a tactical RPG. The team shares how Astra helps them turn loosely defined ideas into working projects, navigate complex software, and work through the details along the way.",
+      "duration": "PT2M29S",
+      "view_count": 10409,
+      "like_count": 234,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=6wNqpZdHE_s"
+    },
+    {
+      "id": "3jDhHA9JGUE",
+      "title": "The Defender's Window: Cyber security keynote",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-28T13:29:06Z",
+      "description": "OpenAI's security experts explain why every organization needs a cyber defence factory, and how to build it with Daybreak.",
+      "duration": "PT47M24S",
+      "view_count": 15190,
+      "like_count": 201,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3jDhHA9JGUE"
+    },
+    {
+      "id": "rmDu2sSBIrw",
+      "title": "Today’s forecast? Nothing but 80s, baby.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-23T18:48:52Z",
+      "description": "Create your own with ChatGPT Images.",
+      "duration": "PT50S",
+      "view_count": 10536,
+      "like_count": 285,
+      "comment_count": 28,
+      "url": "https://www.youtube.com/watch?v=rmDu2sSBIrw"
+    },
+    {
+      "id": "96ogPwN9ykM",
+      "title": "Get Stuff Done with ChatGPT Voice",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-23T17:11:13Z",
+      "description": "We heard you loud and clear. \n\nChatGPT Voice can now:\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app.",
+      "duration": "PT2M6S",
+      "view_count": 128231,
+      "like_count": 2445,
+      "comment_count": 223,
+      "url": "https://www.youtube.com/watch?v=96ogPwN9ykM"
+    },
+    {
+      "id": "rRm3Vnb7UPY",
+      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-21T19:25:46Z",
+      "description": "John gave GPT-6 Astra a moonshot: design the flight-control experience for a new personal aircraft.\n\nThe gap between generating an interface and designing a system is massive, and AI models have always fallen short.\n\nUntil now.\n\nAstra reasoned through the audience, jobs to be done, pilot-versus-passenger tradeoffs, and critical interface states. Then it connected that thinking to a real design system via the Figma MCP Server to create a polished, on-brand prototype of the concept.",
+      "duration": "PT2M44S",
+      "view_count": 48709,
+      "like_count": 292,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-09-28T22:09:06Z",
+    "count": 5
+  }
+}
