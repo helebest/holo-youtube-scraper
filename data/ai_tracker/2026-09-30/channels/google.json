@@ -20,9 +20,9 @@
       "published_at": "2026-09-29T16:12:33Z",
       "description": "To make space-based AI work, thousands of chips must communicate across a vacuum orbit with minimal delay, orbiting in a highly connected constellation.\n\nWithout physical cables, we use lasers fired between satellites to transfer information; the equivalent of hitting a moving, coin-sized target from kilometers away, over and over again.\n\nIn this video, Google researchers explain how they achieved an 800 Gbps bidirectional laser link by adapting off-the-shelf fiber optics.\n\n00:15 - How can we keep the constellation connected?\n00:38 - Why use lasers for satellite communication?\n01:31 - Can terrestrial hardware work in space?\n\n#Google #ProjectSuncatcher #AI #Space #Innovation \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT2M30S",
-      "view_count": 10674,
-      "like_count": 302,
-      "comment_count": 28,
+      "view_count": 24309,
+      "like_count": 409,
+      "comment_count": 36,
       "url": "https://www.youtube.com/watch?v=KO2bNK9L7WA"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-29T13:31:19Z",
       "description": "WNBA Playoffs are here 🏀 Follow your favorite teams with Google.",
       "duration": "PT26S",
-      "view_count": 2552,
-      "like_count": 127,
-      "comment_count": 17,
+      "view_count": 5939,
+      "like_count": 191,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=aSV48uAywcg"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-28T16:31:41Z",
       "description": "What happens when you get early access to LA’s newest museum before the doors open? Here's a look behind the camera.",
       "duration": "PT40S",
-      "view_count": 8567,
-      "like_count": 238,
-      "comment_count": 22,
+      "view_count": 9987,
+      "like_count": 259,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=_fTT7TEOBH8"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-28T14:10:18Z",
       "description": "Project Suncatcher is a moonshot initiative by Google that aims to put AI into orbit and capture space-based solar energy to power them.\n\nIn this video, the Project Suncatcher team tackles hardware survival: how do you build systems that can withstand 5 years of cosmic radiation, solar events, and the force of a rocket launch that generates acceleration loads up to 10 times the force of gravity?\n\n00:24 - How do systems withstand rocket launch forces?\n01:18 - How does space radiation affect electronics?\n02:27 - Will TPUs survive 5 years in orbit?\n\n#Google #ProjectSuncatcher #AI #Space #Innovation\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT3M14S",
-      "view_count": 55223,
-      "like_count": 792,
-      "comment_count": 75,
+      "view_count": 58583,
+      "like_count": 825,
+      "comment_count": 81,
       "url": "https://www.youtube.com/watch?v=8NPgswgbTnE"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-27T16:00:32Z",
       "description": "Celebrating 28 years of curiosity, learning, and discovery. Today's #GoogleDoodle celebrates with a beloved throwback logo – even the dino made a guest appearance (and managed to find the cake.) Let’s party! 🎂🦖",
       "duration": "PT19S",
-      "view_count": 64494,
-      "like_count": 2495,
-      "comment_count": 918,
+      "view_count": 71919,
+      "like_count": 2705,
+      "comment_count": 970,
       "url": "https://www.youtube.com/watch?v=3_hg2lYDvf0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-09-29T20:54:19Z",
+    "generated_at": "2026-09-30T10:35:09Z",
     "count": 5
   }
 }
