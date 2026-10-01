@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-02",
+  "result": [
+    {
+      "id": "4VGqc9Xzx0M",
+      "title": "What does “fungible” mean for AI infrastructure?",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-01T13:04:11Z",
+      "description": "What does “fungible” mean for AI infrastructure? The flexibility to run different workloads: every type of AI, every phase of AI and even workloads that aren’t AI at all.\n\nOne platform, built for maximum “productivity”, “durable” years after deployment, and “fungible” for every model and workload.\n\nRead the blog to learn more: https://nvda.ws/4hphGmQ",
+      "duration": "PT1M2S",
+      "view_count": 1134,
+      "like_count": 50,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
+    },
+    {
+      "id": "z1t-bp9UC3E",
+      "title": "Meet The Startup: Probabl: by the Creators of Scikit-Learn",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-01T11:31:39Z",
+      "description": "The creators of scikit-learn are GPU-accelerating machine learning — and partnering with NVIDIA to do it.\n\nYann Lechelle, co-founder of Probabl, sat down with us to share why the team behind the world's most downloaded ML framework is doubling down on statistical machine learning — not generative AI — and what that means for the future of tabular data.\n\nScikit-learn has surpassed 5 billion downloads, with 1.3 million GitHub projects depending on it. It's the backbone of data science as we know it. But it was built for CPUs — and the world has changed. Probabl is now offloading key algorithms to GPU, leveraging the Array API as an abstraction layer so that new generations of NVIDIA chips plug in seamlessly, without rewriting everything from scratch.\n\nTheir new product, Skore, wraps scikit-learn and tabular large models into a unified ML platform — with the goal of becoming the world's leading tabular AI company within five years. And as Yann points out, it's not just data scientists using these tools anymore: agents are now the largest driver of scikit-learn downloads, consuming documentation and frameworks at machine speed.\n\nThe partnership with NVIDIA Inception is about more than compute — it's about building the abstraction layer that maximizes intelligence per gigawatt, for humans and agents alike.\n\nLearn more about how NVIDIA Inception supports startups building the future of AI — and explore what GPU-accelerated ML can do for your workflows at nvidia.com/inception.",
+      "duration": "PT1M50S",
+      "view_count": 5746,
+      "like_count": 52,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E"
+    },
+    {
+      "id": "UPmU8AG_548",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-30T19:30:29Z",
+      "description": "Exclusive GTC Berlin merch will be available at the onsite Gear Store, only for registered attendees.\n\nJoin us: https://nvda.ws/46YomSK",
+      "duration": "PT9S",
+      "view_count": 2618,
+      "like_count": 62,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=UPmU8AG_548"
+    },
+    {
+      "id": "vmAIpEHrCok",
+      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-30T19:09:36Z",
+      "description": "This demo is a side-by-side comparison of two AI coding agents tasked with building a Go-based RDMA application using NVIDIA DOCA on a BlueField-3 platform.\n\nBoth agents are given the same goal: implement a working RDMA data path and verify that bytes successfully arrive on hardware. The key difference is that one agent has access to NVIDIA DOCA “skills,” while the other must discover the required modules, headers, and build process from scratch through iterative hardware probing.\n\nThe experiment highlights how access to curated domain knowledge impacts efficiency:\n- The “skilled” agent rapidly identifies the correct DOCA modules, samples, and CGO build configuration.\n- The “unskilled” agent relies on trial-and-error, repeatedly probing hardware and discovering components incrementally.\n- Both approaches ultimately produce a working, hardware-verified RDMA application.\n\nKey results from the comparison:\n- ~73% reduction in handwritten code when using DOCA skills\n- ~50% fewer hardware interaction commands\n- Faster convergence to NVIDIA-supported sample-based implementation\n- More consistent use of validated DOCA pipelines instead of low-level reimplementation\n\nThe demo illustrates how structured platform knowledge can significantly reduce development effort while maintaining correct and verifiable low-level hardware behavior on accelerated networking systems.",
+      "duration": "PT3M35S",
+      "view_count": 7580,
+      "like_count": 64,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok"
+    },
+    {
+      "id": "mFv4VRoFj-k",
+      "title": "Vertically Integrated, Horizontally Open | AI Factory Insider Ep 5",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-29T19:00:28Z",
+      "description": "How can an AI platform be optimized from hardware to software while staying open to developers and partners at every layer?\n\nIn Episode 5 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Pradeep Gupta (VP, Industries Solutions Architecture, NVIDIA) and Stephen Jones (CUDA Architect, NVIDIA) to discuss how vertical integration works with an open ecosystem, how CUDA-X libraries serve specialized industry workloads, and how agent skills are changing software development.\n\nWhat we cover:\n0:00 — Introduction\n1:08 — Meet Pradeep Gupta and Stephen Jones\n1:28 — What does \"vertically integrated, horizontally open\" mean?\n3:25 — One platform, many industries\n4:30 — AI across healthcare, retail, and finance\n6:35 — What stays common across industries\n8:55 — CUDA: the link from apps to GPUs\n10:29 — CUDA's early days and the first debugger\n13:24 — The spreadsheet behind CUDA profiling\n14:24 — CUDA vs. CUDA-X libraries\n16:08 — Identifying the right CUDA-X library for your use case\n17:42 — How is CUDA open if it runs on NVIDIA GPUs?\n21:33 — CUDA-X in finance, biopharma, and smart cities\n22:50 — How CUDA libraries build on each other\n25:18 — CUDA and GPU hardware co-design\n28:05 — Reuse the core; specialize when needed\n29:15 — Agents need tools and skills\n31:01 — CUDA-X libraries as agent skills\n32:59 — How AI agents change the way developer work\n37:15 — Wrap-up\n\nResources:\nCUDA: New Features and Beyond 👉 https://nvda.ws/4hBmS5R\nNVIDIA Enterprise AI Factory Design Guide White Paper 👉 https://nvda.ws/4xV5L5d\nCUDA-X Libraries 👉 https://nvda.ws/4hqwP60\nCUDA Toolkit 👉 https://nvda.ws/4yWzz22\nNVIDIA AI Factories 👉 https://nvda.ws/4z8mdA5",
+      "duration": "PT39M13S",
+      "view_count": 8080,
+      "like_count": 61,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=mFv4VRoFj-k"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-01T21:06:29Z",
+    "count": 5
+  }
+}
