@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-03",
+  "result": [
+    {
+      "id": "UxOQ2qyY6Qo",
+      "title": "Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-02T16:00:20Z",
+      "description": "Simplismart eliminates ML Ops complexity with a no-code platform that lets enterprises design, train, and deploy custom AI models without managing infrastructure. Powered by NVIDIA GPUs, Triton™ Inference Server, TensorRT-LLM, and NVIDIA NIM™ microservices, Simplismart delivers ultra-low latency, automated scaling, and faster time-to-market.\n\nDiscover how NVIDIA's Inception program enabled Simplismart with early hardware access, technical support, and global visibility to turn raw compute into an enterprise-ready, no-code AI engine: https://www.nvidia.com/en-us/startups/?ncid=so-link-805084-vt53",
+      "duration": "PT2M41S",
+      "view_count": 2933,
+      "like_count": 27,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo"
+    },
+    {
+      "id": "4VGqc9Xzx0M",
+      "title": "What does “fungible” mean for AI infrastructure?",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-01T13:04:11Z",
+      "description": "What does “fungible” mean for AI infrastructure? The flexibility to run different workloads: every type of AI, every phase of AI and even workloads that aren’t AI at all.\n\nOne platform, built for maximum “productivity”, “durable” years after deployment, and “fungible” for every model and workload.\n\nRead the blog to learn more: https://nvda.ws/4hphGmQ",
+      "duration": "PT1M2S",
+      "view_count": 2277,
+      "like_count": 84,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
+    },
+    {
+      "id": "z1t-bp9UC3E",
+      "title": "Meet The Startup: Probabl: by the Creators of Scikit-Learn",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-01T11:31:39Z",
+      "description": "The creators of scikit-learn are GPU-accelerating machine learning — and partnering with NVIDIA to do it.\n\nYann Lechelle, co-founder of Probabl, sat down with us to share why the team behind the world's most downloaded ML framework is doubling down on statistical machine learning — not generative AI — and what that means for the future of tabular data.\n\nScikit-learn has surpassed 5 billion downloads, with 1.3 million GitHub projects depending on it. It's the backbone of data science as we know it. But it was built for CPUs — and the world has changed. Probabl is now offloading key algorithms to GPU, leveraging the Array API as an abstraction layer so that new generations of NVIDIA chips plug in seamlessly, without rewriting everything from scratch.\n\nTheir new product, Skore, wraps scikit-learn and tabular large models into a unified ML platform — with the goal of becoming the world's leading tabular AI company within five years. And as Yann points out, it's not just data scientists using these tools anymore: agents are now the largest driver of scikit-learn downloads, consuming documentation and frameworks at machine speed.\n\nThe partnership with NVIDIA Inception is about more than compute — it's about building the abstraction layer that maximizes intelligence per gigawatt, for humans and agents alike.\n\nLearn more about how NVIDIA Inception supports startups building the future of AI — and explore what GPU-accelerated ML can do for your workflows at nvidia.com/inception.",
+      "duration": "PT1M50S",
+      "view_count": 8639,
+      "like_count": 74,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E"
+    },
+    {
+      "id": "UPmU8AG_548",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-30T19:30:29Z",
+      "description": "Exclusive GTC Berlin merch will be available at the onsite Gear Store, only for registered attendees.\n\nJoin us: https://nvda.ws/46YomSK",
+      "duration": "PT9S",
+      "view_count": 3158,
+      "like_count": 79,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=UPmU8AG_548"
+    },
+    {
+      "id": "vmAIpEHrCok",
+      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-09-30T19:09:36Z",
+      "description": "This demo is a side-by-side comparison of two AI coding agents tasked with building a Go-based RDMA application using NVIDIA DOCA on a BlueField-3 platform.\n\nBoth agents are given the same goal: implement a working RDMA data path and verify that bytes successfully arrive on hardware. The key difference is that one agent has access to NVIDIA DOCA “skills,” while the other must discover the required modules, headers, and build process from scratch through iterative hardware probing.\n\nThe experiment highlights how access to curated domain knowledge impacts efficiency:\n- The “skilled” agent rapidly identifies the correct DOCA modules, samples, and CGO build configuration.\n- The “unskilled” agent relies on trial-and-error, repeatedly probing hardware and discovering components incrementally.\n- Both approaches ultimately produce a working, hardware-verified RDMA application.\n\nKey results from the comparison:\n- ~73% reduction in handwritten code when using DOCA skills\n- ~50% fewer hardware interaction commands\n- Faster convergence to NVIDIA-supported sample-based implementation\n- More consistent use of validated DOCA pipelines instead of low-level reimplementation\n\nThe demo illustrates how structured platform knowledge can significantly reduce development effort while maintaining correct and verifiable low-level hardware behavior on accelerated networking systems.",
+      "duration": "PT3M35S",
+      "view_count": 8521,
+      "like_count": 68,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-02T20:49:18Z",
+    "count": 5
+  }
+}

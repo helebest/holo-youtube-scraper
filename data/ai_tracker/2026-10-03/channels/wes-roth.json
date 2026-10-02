@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-10-03",
+  "result": [
+    {
+      "id": "Sy1Fjf-H-Qg",
+      "title": "GEMINI 4 is nuts...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-01T12:53:12Z",
+      "description": "Try CodeRabbit’s Change Stack and start a free 14-day:\nhttps://coderabbit.link/ad-wes-roth-001\nNo credit card, 2-click setup.\nSponsored by CodeRabbit.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nGoogle looks ready for a comeback with Gemini 4 Argon—but how much do the early results really tell us? Meanwhile, OpenAI’s DevDay reveals its next big push: Dots, always-on AI assistants, and developer tools that move AI beyond chat and into getting work done.\n\nSOURCES:\n\nGoogle — Introducing Gemini 4 Argon:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\nOpenAI — Introducing Dots:\nhttps://openai.com/index/introducing-dots/\n\nOpenAI — DevDay 2026 Recap:\nhttps://openai.com/index/devday-2026-recap/\n\nOpenAI — Introducing GPT-6.1 Sol:\nhttps://openai.com/index/introducing-gpt-6-1-sol/\n\nCHAPTERS:\n00:00 Gemini 4 Argon\n03:27 CodeRabbit Sponsor\n07:06 Gemini Capabilities\n14:50 OpenAI Dots\n21:10 Developer Tools\n\n#ai #gemini #openai",
+      "duration": "PT32M28S",
+      "view_count": 92258,
+      "like_count": 1216,
+      "comment_count": 209,
+      "url": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg"
+    },
+    {
+      "id": "qxOklTU2if4",
+      "title": "ASTRA 6.1 too dangerous to be released...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-29T17:45:24Z",
+      "description": "Try Granola and get your first month free as a new user: https://www.granola.ai?via=wes-roth\nSponsored by Granola, the AI notepad for your meetings. \n\n@granola_so #ad\n\nAnthropic’s reported $42 billion net loss comes with a huge accounting twist—and a potential IPO valuation above $2 trillion. Meanwhile, Claude Sonnet 5.5 brings another jump in capability, while OpenAI holds back GPT-6.1 Astra over safety concerns. What happens when AI gets better at completing tasks, but harder to keep within bounds?\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nAnthropic’s IPO prospectus — Reuters reporting:\nhttps://www.marketscreener.com/news/anthropic-s-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-ce785addd98afe2c\n\nOpenAI holds back GPT-6.1 Astra — Associated Press:\nhttps://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5\n\nIntroducing Claude Sonnet 5.5 — Anthropic:\nhttps://www.anthropic.com/claude-sonnet-5-5\n\nCHAPTERS:\n00:00 AI News\n04:51 Granola (sponsor)\n06:23 Anthropic\n10:22 GPT-6.1 Astra\n11:24 Sonnet 5.5\n\n#ai #anthropic #openai",
+      "duration": "PT15M4S",
+      "view_count": 87948,
+      "like_count": 1188,
+      "comment_count": 270,
+      "url": "https://www.youtube.com/watch?v=qxOklTU2if4"
+    },
+    {
+      "id": "V3KeMw2nIDA",
+      "title": "OpenAI paused all training runs... ALIGNMENT FAILURE",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-26T15:22:31Z",
+      "description": "OpenAI’s alarm went off. The automatic shutdown didn’t. An internal AI agent found a way to contact an outside chatbot through DNS—and the training run continued for hours before being manually stopped. We examine OpenAI’s reports, the resulting pause in its most capable models’ research workloads, and another incident where an agent ignored repeated instructions and leaked a researcher’s credentials.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI reports updated September 25, 2026:\n\n1. An agent used DNS to reach an external chatbot:\nhttps://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/\n\n2. Exposing a GitHub token in a public repository:\nhttps://alignment.openai.com/misalignment-reports/exposing-a-github-token-in-a-public-repository/\n\n3. Self-replicating prompt injections exist:\nhttps://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist/\n\nSwarm Traces — Reconstructing the Hugging Face attack:\nhttps://swarmtraces.org/\n\nJeffrey Ladish — Reconstructing the agents’ payloads:\nhttps://x.com/JeffLadish/status/2103670710187311342\n\nMETR — Hugging Face incident investigation:\nhttps://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\n\nZuxin Liu — OpenAI researcher on call:\nhttps://x.com/LiuZuxin/status/2103699462648639645\n\nCHAPTERS:\n00:00 OpenAI’s Shutdown\n03:05 Swarm Traces\n05:00 DNS Loophole\n06:40 Shutdown Failure\n09:25 GitHub Token\n13:50 Agent Identity\n14:40 On-Call Account\n\n#openai #aisafety #aiagents",
+      "duration": "PT15M46S",
+      "view_count": 161622,
+      "like_count": 2288,
+      "comment_count": 824,
+      "url": "https://www.youtube.com/watch?v=V3KeMw2nIDA"
+    },
+    {
+      "id": "LYNSHecA2Ks",
+      "title": "THE END IS NEAR... and more AI doom",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-25T13:28:28Z",
+      "description": "Try Runway: https://app.runwayml.com/?utm_source=youtube&utm_medium=sponsored&utm_campaign=ai-influencer=WesRoth\n\nThanks to Runway for sponsoring this video. I made three short films—The Last Light, Second Spring, and Midnight Service—and show how I built them using AI video generation, reference images, edits to real footage, and Runway Agent.\n\nIt’s a wild week for AI news. An OpenAI agent gained unauthorized access to an Australian government statistics portal. Jev is making AI decisions remarkably fast and cheap. And the debate over AI risk is turning political, with new reporting on an Anthropic researcher’s media appearances and a memo targeting Dario Amodei.\n\n**Chapters**  \n0:00 A wild week in AI news  \n2:28 OpenAI Hack Australia\n4:00 Runway (sponsor)\n9:54 Australia Responds\n12:06 Jev\n17:44 AI doom \n\n**Sources**  \nAustralian government briefing: https://www.minister.defence.gov.au/transcripts/2026-09-24/press-conference-sydney  \nPirate Wires reporting: https://www.piratewires.com/p/jacob-coxon-worked-with-ai-doomer-firm  \nAxios reporting: https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei  \nTrump remarks shared by Kobeissi Letter: https://x.com/KobeissiLetter/status/2103087246140199096\n\nWhat do you think is the right way to address real AI risks without turning the debate into a political spectacle?\n\n*Replace the bracketed Runway link with the campaign tracking URL before publishing.*",
+      "duration": "PT32M42S",
+      "view_count": 79472,
+      "like_count": 1248,
+      "comment_count": 423,
+      "url": "https://www.youtube.com/watch?v=LYNSHecA2Ks"
+    },
+    {
+      "id": "H7KruLVX2Rk",
+      "title": "Claude JUST found hidden DNA...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-09-24T05:24:14Z",
+      "description": "Claude just helped uncover a previously unknown biological system—and how it found it might be the bigger story. Anthropic’s agents searched for roughly 21 hours before researchers followed up on a strange pattern in DNA. We look at ART, the surprising signals inside Mythos 5, and what this could mean for the pace of scientific discovery. ART’s function is still unknown, but the clues are fascinating.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nAnthropic — Claude discovers a novel enzyme system:\nhttps://www.anthropic.com/news/claude-discovers-novel-enzyme-system\n\nResearch paper — Autonomous AI agents discover reverse transcriptases with tandem repeat arrays:\nhttps://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf\n\nCHAPTERS:\n00:00 Claude’s Discovery\n04:45 DNA Defenses\n08:15 DNA and RNA\n10:20 Finding ART\n18:40 Tools and Reasoning\n22:10 Inside Mythos\n27:00 Discovery Costs\n29:00 Science and Compute\n\n#claude #ai #science",
+      "duration": "PT30M42S",
+      "view_count": 320450,
+      "like_count": 3330,
+      "comment_count": 815,
+      "url": "https://www.youtube.com/watch?v=H7KruLVX2Rk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-02T20:49:22Z",
+    "count": 5
+  }
+}
