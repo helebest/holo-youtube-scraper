@@ -20,9 +20,9 @@
       "published_at": "2026-10-01T17:20:52Z",
       "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate.\n\nSee dots in action, from planning a trip to making sense of user feedback and catching up on Slack.\n\nhttps://openai.com/index/introducing-dots/",
       "duration": "PT9M10S",
-      "view_count": 69256,
-      "like_count": 2934,
-      "comment_count": 404,
+      "view_count": 300729,
+      "like_count": 6117,
+      "comment_count": 815,
       "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-09-29T18:47:34Z",
       "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.\n\nBring your ideas to life as fast as you can type them.",
       "duration": "PT45S",
-      "view_count": 54136,
-      "like_count": 531,
-      "comment_count": 66,
+      "view_count": 56429,
+      "like_count": 551,
+      "comment_count": 70,
       "url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-09-29T18:42:29Z",
       "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, including dots, ChatGPT Spaces, GPT-6.1 Sol, Astra Ultrafast, and more.",
       "duration": "PT53M35S",
-      "view_count": 598246,
+      "view_count": 610589,
       "like_count": 0,
-      "comment_count": 429,
+      "comment_count": 447,
       "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-29T18:18:13Z",
       "description": "Start a Codex task, close your laptop, and pick it up from your phone. See how to create a reusable cloud environment with your repositories, networking, and secrets, then share it with your team.",
       "duration": "PT3M24S",
-      "view_count": 77363,
-      "like_count": 1238,
-      "comment_count": 89,
+      "view_count": 81333,
+      "like_count": 1263,
+      "comment_count": 95,
       "url": "https://www.youtube.com/watch?v=7Bv68f5szSU"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-09-29T18:04:41Z",
       "description": "Dots are frontier intelligence that have your back. Powered by GPT‑6 Astra, they have their own cloud computer, learn from feedback over time, and can work towards your goals 24/7. Through our ecosystem of plugins, they can readily connect to over 4,000 apps, giving them the tools to help wherever you need them.\n\nYour dot is always within reach, whether it is through ChatGPT, Slack, or Teams. You can ask questions, explore ideas, and give feedback along the way; or you can simply hop on a voice call when you need to talk something out. The more you work together, the more your dot learns your preferences, how you think, and what good looks like to you.\n\nThe magic of dots is when they bring you work done the way you would do it, sometimes before you even think to ask. With dots alongside you, ambitious ideas and projects you haven’t had the time or support to pursue start to feel achievable.\n\nhttps://openai.com/index/introducing-dots/",
       "duration": "PT2M28S",
-      "view_count": 550095,
-      "like_count": 8173,
-      "comment_count": 744,
+      "view_count": 577949,
+      "like_count": 8412,
+      "comment_count": 754,
       "url": "https://www.youtube.com/watch?v=uXspbC2srEQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-01T21:06:30Z",
+    "generated_at": "2026-10-02T10:36:09Z",
     "count": 5
   }
 }

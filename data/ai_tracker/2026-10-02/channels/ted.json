@@ -14,15 +14,27 @@
   "date": "2026-10-02",
   "result": [
     {
+      "id": "0qRcIglHBxE",
+      "title": "Still going strong — how many times did you stand up today? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-10-01T22:00:35Z",
+      "description": "",
+      "duration": "PT2M8S",
+      "view_count": 6092,
+      "like_count": 150,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=0qRcIglHBxE"
+    },
+    {
       "id": "lSpsm8aVsuc",
       "title": "Human connection is crucial in making sure every person can thrive #TEDTalks",
       "channel_title": "TED",
       "published_at": "2026-10-01T20:00:00Z",
       "description": "What's the most powerful tool in any classroom? In the age of AI, education advocate Matt Wu still believes it's the people. In this hopeful talk, he discusses the nonprofit he leads, Schoolhouse, which pairs students with peer tutors from across the globe, building the crucial human connection that every person needs to thrive. Peer tutoring isn't just teaching students how to learn concepts, says Wu. It's teaching them how to better understand one another.",
       "duration": "PT1M50S",
-      "view_count": 400,
-      "like_count": 17,
-      "comment_count": 0,
+      "view_count": 16131,
+      "like_count": 296,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=lSpsm8aVsuc"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-01T15:00:07Z",
       "description": "After working for years in film, fashion and graphic design, visual artist Kelly A. Boesch found a new collaborator to work with: AI. She walks through how she uses the technology to create dreamlike images and music that remain hauntingly human, exploring the two questions everyone keeps asking her — how do you make it, and is it really art? (Recorded at TED2026 on April 16, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/kellyaboesch\n\nhttps://youtu.be/Hd8npxrnpuo\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI #Art",
       "duration": "PT7M3S",
-      "view_count": 23030,
-      "like_count": 170,
-      "comment_count": 82,
+      "view_count": 45289,
+      "like_count": 297,
+      "comment_count": 117,
       "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-09-30T22:00:35Z",
       "description": "Just how feasible is moving every 30 minutes throughout the day? We caught up with exercise scientist Keith Diaz to talk through the benefits and challenges, along with tips for combating our culture of sitting most of the day. Are you also doing the TED Talks Test this week? Comment below and let us know how it’s going.",
       "duration": "PT2M21S",
-      "view_count": 12841,
-      "like_count": 496,
+      "view_count": 17867,
+      "like_count": 749,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=fxV2ywZfBV0"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-09-30T21:30:31Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 8306,
-      "like_count": 167,
-      "comment_count": 1,
+      "view_count": 9514,
+      "like_count": 178,
+      "comment_count": 2,
       "url": "https://www.youtube.com/watch?v=wCuKZWKlD7M"
-    },
-    {
-      "id": "N8J-PIunXBM",
-      "title": "Banning social media may not be the fix you think it is #TEDTalks",
-      "channel_title": "TED",
-      "published_at": "2026-09-30T20:30:09Z",
-      "description": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows social media may not actually be the culprit for mental health problems. Hear her analysis of what’s really troubling kids these days, and why banning them from online spaces may make things worse.",
-      "duration": "PT14S",
-      "view_count": 22173,
-      "like_count": 273,
-      "comment_count": 30,
-      "url": "https://www.youtube.com/watch?v=N8J-PIunXBM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-01T21:06:24Z",
+    "generated_at": "2026-10-02T10:36:05Z",
     "count": 5
   }
 }

@@ -14,15 +14,27 @@
   "date": "2026-10-02",
   "result": [
     {
+      "id": "KWluK74cNzs",
+      "title": "How Conquistadors Conquered the Aztecs - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-01T22:22:58Z",
+      "description": "",
+      "duration": "PT2M14S",
+      "view_count": 195242,
+      "like_count": 7452,
+      "comment_count": 394,
+      "url": "https://www.youtube.com/watch?v=KWluK74cNzs"
+    },
+    {
       "id": "LwQQ7nBCGSs",
       "title": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-01T16:00:01Z",
       "description": "New episode with military historian Si Sheppard.\n\nThe conquests of the Aztec and Inca empires might be the most shocking events in human history. Hernan Cortés and some hundreds of Conquistadors landed on a new continent they knew basically nothing about, and within 2 and a half years, conquered the 6 million strong Aztec empire.\n\nThen, a decade later, Francisco Pizarro did the same thing to an Incan Empire of some 10 million inhabitants.\n\nIn both cases, the Conquistadors consistently beat native armies while being literally 100x (or even in some cases 1000x) outnumbered - and in many cases, did so without taking a single casualty.\n\nAnd they did this with 99% of their military forces being made up of the very natives they were trying to subjugate.\n\nWe often forget how wild human history is. People talk about AI takeover as if it would be some crazy, unprecedented sci-fi outcome. But this would not be the first time an alien force whose motives the defenders barely understand use more advanced technology and diplomatic cunning to outmaneuver and then take over a much larger and long established existing order.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/si-sheppard\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/si-sheppard-how-did-a-few-hundred-spanish-soldiers/id1516093381?i=1000792593373\n* Spotify: https://open.spotify.com/episode/1fN4B8vugGzaJPcj2yQ2fq?si=WPdtkqugT3mKFDefrh3-KQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s intern projects are even more ambitious than I realized. One intern spent his summer researching LLM memorization, figuring out how to quantify and reduce it. This matters because, when Jane Street tests their models on historical data, they need to know that performance reflects predictive power, not just memorized outcomes. Another intern spent his time developing a new activation checkpointing scheme: his custom version ended up outperforming PyTorch’s native one. If you want to read about more 2026 intern projects or apply for Jane Street’s 2027 internships, go to https://janestreet.com/dwarkesh\n\n* Grok Bot can tackle the tasks you’ve been meaning to handle but just haven’t gotten around to. For example, SpaceXAI recently gave Grok Bot access to their procurement contracts, vendor spend, and usage data: it ended up identifying over $100,000 in potential savings for them. I decided to try this on my own spend, and Grok Bot found over $5,000 of savings for me, even though I run a pretty small team. Try it out yourself at https://x.ai/bot\n\n* Antithesis solves one of the biggest problems with traditional software testing: to test for a bug, you first have to be able to imagine it. Antithesis runs your system through thousands of parallel histories and steers your tests for you, injecting faults and generally trying to make everything as adversarial as possible. That way, your software gets tested against scenarios you’d never imagine but that could still arise in the real world. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Cortés’s conquest of the Aztecs\n00:22:39 – Pizarro’s conquest of the Inca\n00:26:59 – Explaining Conquistador military superiority\n00:34:39 – Could the natives have beat the Conquistadors?\n00:48:56 – The Aztecs and Incas did not learn from each other\n00:56:11 – Why Spain still lost in the long run\n01:07:47 – Why didn’t the Aztecs/Incas adapt better to European warfare?\n01:14:16 – Conquistador motivation\n01:26:22 – Why Mughal India also couldn't play the Europeans off each other\n01:33:42 – Diplomacy was just as important as technology",
       "duration": "PT1H37M24S",
-      "view_count": 28538,
-      "like_count": 403,
-      "comment_count": 99,
+      "view_count": 97223,
+      "like_count": 1018,
+      "comment_count": 181,
       "url": "https://www.youtube.com/watch?v=LwQQ7nBCGSs"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-09-30T23:45:05Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 118214,
-      "like_count": 3408,
-      "comment_count": 81,
+      "view_count": 151691,
+      "like_count": 4018,
+      "comment_count": 86,
       "url": "https://www.youtube.com/watch?v=jSkAV5f9Ptw"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-29T22:34:45Z",
       "description": "",
       "duration": "PT58S",
-      "view_count": 577721,
-      "like_count": 12996,
-      "comment_count": 408,
+      "view_count": 642703,
+      "like_count": 14681,
+      "comment_count": 444,
       "url": "https://www.youtube.com/watch?v=xsYoSwrcNOY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-28T20:27:26Z",
       "description": "",
       "duration": "PT1M17S",
-      "view_count": 376601,
-      "like_count": 9473,
-      "comment_count": 218,
+      "view_count": 410477,
+      "like_count": 10374,
+      "comment_count": 229,
       "url": "https://www.youtube.com/watch?v=DFCfEHD22RY"
-    },
-    {
-      "id": "vkecOqfTh_I",
-      "title": "What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-27T20:35:49Z",
-      "description": "",
-      "duration": "PT43S",
-      "view_count": 29117,
-      "like_count": 411,
-      "comment_count": 23,
-      "url": "https://www.youtube.com/watch?v=vkecOqfTh_I"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-01T21:06:23Z",
+    "generated_at": "2026-10-02T10:36:04Z",
     "count": 5
   }
 }
