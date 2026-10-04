@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-10-05",
+  "result": [
+    {
+      "id": "dDgncbBAA0c",
+      "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-02T15:00:16Z",
+      "description": "Here's the AI News you probably missed this week. See what Optimizely’s Virtual Teammates can automate for you at https://optimizely.com/mattwolfe \n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nDevDay 2026 Recap: https://openai.com/index/devday-2026-recap/\nOpenAI Introduces Dots: https://openai.com/index/introducing-dots/\nxAI Trolls Dots Launch: https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/\nGPT-6.1 Sol: https://openai.com/index/introducing-gpt-6-1-sol/\nClaude Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5\nClaude Code Mods: https://claude.com/blog/claude-code-mods\nClaudeDevs Mods Announcement: https://x.com/ClaudeDevs/status/2105721434807083061\nGemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nIdeogram 4.5: https://ideogram.ai/models/4.5/\nStrands Decider 2B: https://strandsagents.com/blog/introducing-strands-decider/\nxAI Team Bots: https://x.ai/news/team-bots\nElevenLabs Eleven v4: https://elevenlabs.io/blog/eleven-v4\nMicrosoft MAI-Voice-2.1: https://microsoft.ai/models/mai-voice-2-1/\nMicrosoft Streaming Transcription Model: https://microsoft.ai/news/our-first-streaming-transcription-model/\nTrump Superintelligence Executive Order: https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:27 Dots\n7:31 GPT-6.1 Sol\n9:24 Other Dev Day Announcements\n10:35 Decisions API\n11:39 ChatGPT Space and Pages\n12:40 Meeting Plugin\n12:57 Sign in with ChatGPT\n13:55 Optimizely Update\n15:07 Claude Sonnet 5.5\n19:12 Mod Claude Code\n19:39 Gemini 4 Argon\n22:03 Ideogram 4.5\n23:17 Strands Decider 2B\n24:04 Grok Team Bots\n24:34 Eleven V4\n25:24 MAI-Voice-2.1\n25:52 MAI-Transcribe\n26:06 Super Intelligence Agreement\n27:15 Final Thoughts",
+      "duration": "PT30M22S",
+      "view_count": 117962,
+      "like_count": 2296,
+      "comment_count": 214,
+      "url": "https://www.youtube.com/watch?v=dDgncbBAA0c"
+    },
+    {
+      "id": "c7twMUavy5Q",
+      "title": "AI Made a Game I’d ACTUALLY Play",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-30T12:15:21Z",
+      "description": "Opus 5.5 might be the best coding model you can use right now.\n\nI let it run my Megabonk game test for almost 20 HOURS… and the result is kind of insane.\n\nIt's also surprisingly affordable. Opus 5.5 is available on Claude’s Pro, Max, Team, and Enterprise plans, so you can access it starting with the $20/month Pro plan.\n\nIf you’re using the API, it’s $4 per million input tokens and $20 per million output tokens.\n\nThat price-to-performance ratio is pretty wild for a model this good at long-running coding tasks.\n\nHave you tried Opus 5.5 yet?\n\n#ai #ainews #claude #anthropic #vibecoding",
+      "duration": "PT1M4S",
+      "view_count": 7874,
+      "like_count": 139,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=c7twMUavy5Q"
+    },
+    {
+      "id": "hx42whM7NsY",
+      "title": "This AI Model Is INSANELY Fast & Cheap",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-28T17:07:47Z",
+      "description": "This AI model doesn’t use… WORDS?\n\nIt’s called Jev, from Typesafe AI, and instead of generating paragraphs or code text, it skips straight to making a decision.\n\nInstead of text, it’s outputs are things like:→ a choice→ a score→ true/false\n\nThat makes it insanely fast and ridiculously cheap. Input costs start at just 4¢ per million tokens, and outputs are free because they’re apparently too cheap to meter.\n\nWould you actually build with something like this?\n\n#ai #ainews #futuretech #aimodel",
+      "duration": "PT1M12S",
+      "view_count": 1821,
+      "like_count": 34,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=hx42whM7NsY"
+    },
+    {
+      "id": "aDpIra7NFuE",
+      "title": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-26T02:37:49Z",
+      "description": "Here's the AI News you probably missed this week. Learn more about GPT-Live 1 and the Agent API here: https://developers.openai.com/api/docs/guides/live\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nMeta Connect 2026: https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/\nChatGPT Voice Upgrades: https://x.com/OpenAI/status/2102808325742322002\nGPT-6 Sol and Luna: https://openai.com/index/introducing-gpt-6-sol-and-luna/\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\nGrok 4.7: https://x.ai/news/grok-4-7\nNew AI Model Type: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/\nMade On YouTube: https://www.youtube.com/creators/made-on/\nNew Microsoft Copilot: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\nGemini 3.8 Live Avatar: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/\nGemini 3.8 Flash TTS: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\nGemini in Google Vids: https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/\nSpotify Taste Profile: https://newsroom.spotify.com/2026-09-23/taste-profile-shape-home-feed/\nGoogle Project Suncatcher: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:26 Meta Connect Updates\n8:42 GPT-Live-1\n9:48 GPT-6 Sol and Luna\n12:59 Claude Opus 5.5\n18:13 Grok 4.7\n22:04 JEV\n26:52 Made on YouTube Updates\n29:06 New Microsoft Copilot\n30:33 Gemini 3.8 Live Avatar\n30:56 Gemini 3.8 Text-To-Speech\n31:30 Google Vids Update\n31:53 Spotify Update\n32:12 Project Suncatcher\n33:04 Final Thoughts",
+      "duration": "PT34M38S",
+      "view_count": 195475,
+      "like_count": 3165,
+      "comment_count": 273,
+      "url": "https://www.youtube.com/watch?v=aDpIra7NFuE"
+    },
+    {
+      "id": "SUtGm-nr4Hk",
+      "title": "5 ChatGPT Prompts To Try Right Now!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-24T21:27:54Z",
+      "description": "Here are 5 new ways to use ChatGPT’s 5 new features 👇\n\n1. Use GPT-6’s upgraded computer use to turn you workspace into a digital diorama in Blender.\n2. Use GPT Image 2.5 to redesign one corner of a room while preserving the rest.\n3. Use ChatGPT Work’s cloud browser to check your AI subscriptions across websites you’re signed into and build a dashboard of costs and renewal dates.\n4. Use GPT-Live 1 to build a travel planner you can talk to while it researches.\n5. Use The Agents API to build a guitar-practice coach that remembers your progress between sessions.\n\n🔗 Head to the link in the pinned comment to download @OpenAI Codex and try these prompts for yourself!\n\n#ChatGPT_Partner #AI #ChatGPT #Codex #aiprompts",
+      "duration": "PT1M29S",
+      "view_count": 15172,
+      "like_count": 325,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=SUtGm-nr4Hk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-04T19:42:46Z",
+    "count": 5
+  }
+}
