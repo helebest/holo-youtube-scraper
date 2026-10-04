@@ -14,15 +14,27 @@
   "date": "2026-10-04",
   "result": [
     {
+      "id": "5QsADHyOU2w",
+      "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-03T20:22:31Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 53130,
+      "like_count": 1449,
+      "comment_count": 31,
+      "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
+    },
+    {
       "id": "IMRyQ4ro9lg",
       "title": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-02T23:57:00Z",
       "description": "",
       "duration": "PT2M23S",
-      "view_count": 231037,
-      "like_count": 8770,
-      "comment_count": 467,
+      "view_count": 397739,
+      "like_count": 12953,
+      "comment_count": 721,
       "url": "https://www.youtube.com/watch?v=IMRyQ4ro9lg"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-01T22:22:58Z",
       "description": "",
       "duration": "PT2M14S",
-      "view_count": 837321,
-      "like_count": 26172,
-      "comment_count": 1142,
+      "view_count": 984033,
+      "like_count": 30165,
+      "comment_count": 1297,
       "url": "https://www.youtube.com/watch?v=KWluK74cNzs"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-01T16:00:01Z",
       "description": "New episode with military historian Si Sheppard.\n\nThe conquests of the Aztec and Inca empires might be the most shocking events in human history. Hernan Cortés and some hundreds of Conquistadors landed on a new continent they knew basically nothing about, and within 2 and a half years, conquered the 6 million strong Aztec empire.\n\nThen, a decade later, Francisco Pizarro did the same thing to an Incan Empire of some 10 million inhabitants.\n\nIn both cases, the Conquistadors consistently beat native armies while being literally 100x (or even in some cases 1000x) outnumbered - and in many cases, did so without taking a single casualty.\n\nAnd they did this with 99% of their military forces being made up of the very natives they were trying to subjugate.\n\nWe often forget how wild human history is. People talk about AI takeover as if it would be some crazy, unprecedented sci-fi outcome. But this would not be the first time an alien force whose motives the defenders barely understand use more advanced technology and diplomatic cunning to outmaneuver and then take over a much larger and long established existing order.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/si-sheppard\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/si-sheppard-how-did-a-few-hundred-spanish-soldiers/id1516093381?i=1000792593373\n* Spotify: https://open.spotify.com/episode/1fN4B8vugGzaJPcj2yQ2fq?si=WPdtkqugT3mKFDefrh3-KQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s intern projects are even more ambitious than I realized. One intern spent his summer researching LLM memorization, figuring out how to quantify and reduce it. This matters because, when Jane Street tests their models on historical data, they need to know that performance reflects predictive power, not just memorized outcomes. Another intern spent his time developing a new activation checkpointing scheme: his custom version ended up outperforming PyTorch’s native one. If you want to read about more 2026 intern projects or apply for Jane Street’s 2027 internships, go to https://janestreet.com/dwarkesh\n\n* Grok Bot can tackle the tasks you’ve been meaning to handle but just haven’t gotten around to. For example, SpaceXAI recently gave Grok Bot access to their procurement contracts, vendor spend, and usage data: it ended up identifying over $100,000 in potential savings for them. I decided to try this on my own spend, and Grok Bot found over $5,000 of savings for me, even though I run a pretty small team. Try it out yourself at https://x.ai/bot\n\n* Antithesis solves one of the biggest problems with traditional software testing: to test for a bug, you first have to be able to imagine it. Antithesis runs your system through thousands of parallel histories and steers your tests for you, injecting faults and generally trying to make everything as adversarial as possible. That way, your software gets tested against scenarios you’d never imagine but that could still arise in the real world. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Cortés’s conquest of the Aztecs\n00:22:39 – Pizarro’s conquest of the Inca\n00:26:59 – Explaining Conquistador military superiority\n00:34:39 – Could the natives have beat the Conquistadors?\n00:48:56 – The Aztecs and Incas did not learn from each other\n00:56:11 – Why Spain still lost in the long run\n01:07:47 – Why didn’t the Aztecs/Incas adapt better to European warfare?\n01:14:16 – Conquistador motivation\n01:26:22 – Why Mughal India also couldn't play the Europeans off each other\n01:33:42 – Diplomacy was just as important as technology",
       "duration": "PT1H37M24S",
-      "view_count": 190425,
-      "like_count": 2117,
-      "comment_count": 328,
+      "view_count": 232817,
+      "like_count": 2529,
+      "comment_count": 370,
       "url": "https://www.youtube.com/watch?v=LwQQ7nBCGSs"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-30T23:45:05Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 184895,
-      "like_count": 4848,
-      "comment_count": 114,
+      "view_count": 200492,
+      "like_count": 5271,
+      "comment_count": 118,
       "url": "https://www.youtube.com/watch?v=jSkAV5f9Ptw"
-    },
-    {
-      "id": "xsYoSwrcNOY",
-      "title": "How Korea Went from Civil War to Near World War - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-09-29T22:34:45Z",
-      "description": "",
-      "duration": "PT58S",
-      "view_count": 894283,
-      "like_count": 19887,
-      "comment_count": 558,
-      "url": "https://www.youtube.com/watch?v=xsYoSwrcNOY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-03T19:18:16Z",
+    "generated_at": "2026-10-04T10:40:00Z",
     "count": 5
   }
 }
