@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-06",
+  "result": [
+    {
+      "id": "NWZGTdxyTpc",
+      "title": "168 Conquistadors vs 80000 Inca - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-05T21:07:07Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 7283,
+      "like_count": 350,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
+    },
+    {
+      "id": "j7AgSzNlRBk",
+      "title": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-04T20:57:04Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 77079,
+      "like_count": 1588,
+      "comment_count": 57,
+      "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
+    },
+    {
+      "id": "5QsADHyOU2w",
+      "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-03T20:22:31Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 92779,
+      "like_count": 2316,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
+    },
+    {
+      "id": "IMRyQ4ro9lg",
+      "title": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-02T23:57:00Z",
+      "description": "",
+      "duration": "PT2M23S",
+      "view_count": 583228,
+      "like_count": 19066,
+      "comment_count": 1112,
+      "url": "https://www.youtube.com/watch?v=IMRyQ4ro9lg"
+    },
+    {
+      "id": "KWluK74cNzs",
+      "title": "How Conquistadors Conquered the Aztecs - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-01T22:22:58Z",
+      "description": "",
+      "duration": "PT2M14S",
+      "view_count": 1326904,
+      "like_count": 40462,
+      "comment_count": 1621,
+      "url": "https://www.youtube.com/watch?v=KWluK74cNzs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-05T22:46:04Z",
+    "count": 5
+  }
+}
