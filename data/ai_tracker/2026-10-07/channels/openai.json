@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-07",
+  "result": [
+    {
+      "id": "q0_JXcrx3jk",
+      "title": "Building a custom website to stay on top of business with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-06T00:36:28Z",
+      "description": "This furniture shop is popular. So popular that it's tough to keep track of all of the inbound requests. ChatGPT can fix that. Victor Nunez Rodriguez visited Philadelphia Table Company in Philly to help him build a tool to stay on top of it all.\n\nDo you have something you wish existed? Drop your idea below or send us a DM and we'll come build it with you next.",
+      "duration": "PT1M26S",
+      "view_count": 5823,
+      "like_count": 206,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=q0_JXcrx3jk"
+    },
+    {
+      "id": "PUBc2G0Tj5E",
+      "title": "Meet the New Codex CLI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-05T18:29:08Z",
+      "description": "Take a look at the latest Codex CLI updates and the refreshed terminal experience. Follow a walkthrough of the new interface and ways to work with Codex.",
+      "duration": "PT3M15S",
+      "view_count": 162468,
+      "like_count": 3018,
+      "comment_count": 222,
+      "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E"
+    },
+    {
+      "id": "fHEIw5CcN5U",
+      "title": "The dots demo, take two | OpenAI DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-01T17:20:52Z",
+      "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate.\n\nSee dots in action, from planning a trip to making sense of user feedback and catching up on Slack.\n\nhttps://openai.com/index/introducing-dots/",
+      "duration": "PT9M10S",
+      "view_count": 488558,
+      "like_count": 8659,
+      "comment_count": 1089,
+      "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
+    },
+    {
+      "id": "sKltfHvsDQM",
+      "title": "Build faster with Ultrafast ",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-29T18:47:34Z",
+      "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.\n\nBring your ideas to life as fast as you can type them.",
+      "duration": "PT45S",
+      "view_count": 66729,
+      "like_count": 639,
+      "comment_count": 85,
+      "url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
+    },
+    {
+      "id": "Fls_onRviPM",
+      "title": "OpenAI DevDay 2026 Keynote (FULL)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-29T18:42:29Z",
+      "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, including dots, ChatGPT Spaces, GPT-6.1 Sol, Astra Ultrafast, and more.",
+      "duration": "PT53M35S",
+      "view_count": 653750,
+      "like_count": 0,
+      "comment_count": 501,
+      "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-06T21:03:47Z",
+    "count": 5
+  }
+}
