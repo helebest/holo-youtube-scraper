@@ -14,15 +14,27 @@
   "date": "2026-10-06",
   "result": [
     {
+      "id": "q0_JXcrx3jk",
+      "title": "Building a custom website to stay on top of business with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-06T00:36:28Z",
+      "description": "This furniture shop is popular. So popular that it's tough to keep track of all of the inbound requests. ChatGPT can fix that. Victor Nunez Rodriguez visited Philadelphia Table Company in Philly to help him build a tool to stay on top of it all.\n\nDo you have something you wish existed? Drop your idea below or send us a DM and we'll come build it with you next.",
+      "duration": "PT1M26S",
+      "view_count": 3923,
+      "like_count": 145,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=q0_JXcrx3jk"
+    },
+    {
       "id": "PUBc2G0Tj5E",
       "title": "Meet the New Codex CLI",
       "channel_title": "OpenAI",
       "published_at": "2026-10-05T18:29:08Z",
       "description": "Take a look at the latest Codex CLI updates and the refreshed terminal experience. Follow a walkthrough of the new interface and ways to work with Codex.",
       "duration": "PT3M15S",
-      "view_count": 40352,
-      "like_count": 1452,
-      "comment_count": 119,
+      "view_count": 132115,
+      "like_count": 2595,
+      "comment_count": 195,
       "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-01T17:20:52Z",
       "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate.\n\nSee dots in action, from planning a trip to making sense of user feedback and catching up on Slack.\n\nhttps://openai.com/index/introducing-dots/",
       "duration": "PT9M10S",
-      "view_count": 475891,
-      "like_count": 8492,
-      "comment_count": 1078,
+      "view_count": 482904,
+      "like_count": 8583,
+      "comment_count": 1082,
       "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-09-29T18:47:34Z",
       "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.\n\nBring your ideas to life as fast as you can type them.",
       "duration": "PT45S",
-      "view_count": 65733,
-      "like_count": 629,
+      "view_count": 66209,
+      "like_count": 635,
       "comment_count": 85,
       "url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-09-29T18:42:29Z",
       "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, including dots, ChatGPT Spaces, GPT-6.1 Sol, Astra Ultrafast, and more.",
       "duration": "PT53M35S",
-      "view_count": 648527,
+      "view_count": 651088,
       "like_count": 0,
-      "comment_count": 495,
+      "comment_count": 498,
       "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
-    },
-    {
-      "id": "7Bv68f5szSU",
-      "title": "Meet the all new Codex Cloud",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-29T18:18:13Z",
-      "description": "Start a Codex task, close your laptop, and pick it up from your phone. See how to create a reusable cloud environment with your repositories, networking, and secrets, then share it with your team.",
-      "duration": "PT3M24S",
-      "view_count": 94527,
-      "like_count": 1410,
-      "comment_count": 109,
-      "url": "https://www.youtube.com/watch?v=7Bv68f5szSU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-05T22:46:08Z",
+    "generated_at": "2026-10-06T11:22:55Z",
     "count": 5
   }
 }
