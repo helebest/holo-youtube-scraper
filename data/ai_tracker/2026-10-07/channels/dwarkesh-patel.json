@@ -14,15 +14,27 @@
   "date": "2026-10-07",
   "result": [
     {
+      "id": "7rk18oEEqzc",
+      "title": "Toppling Saddam was the easy part - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-06T22:55:07Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 84335,
+      "like_count": 3037,
+      "comment_count": 110,
+      "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
+    },
+    {
       "id": "NWZGTdxyTpc",
       "title": "168 Conquistadors vs 80000 Inca - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-05T21:07:07Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 105317,
-      "like_count": 2752,
-      "comment_count": 190,
+      "view_count": 127681,
+      "like_count": 3126,
+      "comment_count": 217,
       "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-04T20:57:04Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 88105,
-      "like_count": 1805,
-      "comment_count": 60,
+      "view_count": 93285,
+      "like_count": 1955,
+      "comment_count": 63,
       "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-03T20:22:31Z",
       "description": "",
       "duration": "PT1M26S",
-      "view_count": 100932,
-      "like_count": 2538,
-      "comment_count": 60,
+      "view_count": 105486,
+      "like_count": 2638,
+      "comment_count": 63,
       "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-02T23:57:00Z",
       "description": "",
       "duration": "PT2M23S",
-      "view_count": 657855,
-      "like_count": 21690,
-      "comment_count": 1266,
+      "view_count": 703913,
+      "like_count": 23336,
+      "comment_count": 1379,
       "url": "https://www.youtube.com/watch?v=IMRyQ4ro9lg"
-    },
-    {
-      "id": "KWluK74cNzs",
-      "title": "How Conquistadors Conquered the Aztecs - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-01T22:22:58Z",
-      "description": "",
-      "duration": "PT2M14S",
-      "view_count": 1463146,
-      "like_count": 44084,
-      "comment_count": 1752,
-      "url": "https://www.youtube.com/watch?v=KWluK74cNzs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-06T21:03:41Z",
+    "generated_at": "2026-10-07T11:11:08Z",
     "count": 5
   }
 }

@@ -14,15 +14,27 @@
   "date": "2026-10-07",
   "result": [
     {
+      "id": "FB6oCmrIj-Y",
+      "title": "Introducing the Decisions API",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-06T21:33:36Z",
+      "description": "Introducing the Decisions API: a fast way to turn text and images into actions in your app. Give the model an input, define a question and the possible answers, and use its choice to decide what happens next.\n\nPowered by GPT-6 Luna, the Decisions API focuses on a small set of choices to make interactions feel responsive. See how it works alongside GPT-Live-1 and a Microduck to bring voice, visual understanding, and quick decisions together.\n\nChapters:\n00:00 Introducing the Decisions API\n00:42 Classifying text and routing sales leads\n01:17 Making decisions from images\n02:05 Adding expression to voice conversations\n03:05 Guiding Lavender the robot\n05:05 What will you build?",
+      "duration": "PT5M34S",
+      "view_count": 180194,
+      "like_count": 3139,
+      "comment_count": 268,
+      "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
+    },
+    {
       "id": "q0_JXcrx3jk",
       "title": "Building a custom website to stay on top of business with ChatGPT",
       "channel_title": "OpenAI",
       "published_at": "2026-10-06T00:36:28Z",
       "description": "This furniture shop is popular. So popular that it's tough to keep track of all of the inbound requests. ChatGPT can fix that. Victor Nunez Rodriguez visited Philadelphia Table Company in Philly to help him build a tool to stay on top of it all.\n\nDo you have something you wish existed? Drop your idea below or send us a DM and we'll come build it with you next.",
       "duration": "PT1M26S",
-      "view_count": 5823,
-      "like_count": 206,
-      "comment_count": 6,
+      "view_count": 7292,
+      "like_count": 233,
+      "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=q0_JXcrx3jk"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-05T18:29:08Z",
       "description": "Take a look at the latest Codex CLI updates and the refreshed terminal experience. Follow a walkthrough of the new interface and ways to work with Codex.",
       "duration": "PT3M15S",
-      "view_count": 162468,
-      "like_count": 3018,
-      "comment_count": 222,
+      "view_count": 181018,
+      "like_count": 3282,
+      "comment_count": 236,
       "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-01T17:20:52Z",
       "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate.\n\nSee dots in action, from planning a trip to making sense of user feedback and catching up on Slack.\n\nhttps://openai.com/index/introducing-dots/",
       "duration": "PT9M10S",
-      "view_count": 488558,
-      "like_count": 8659,
-      "comment_count": 1089,
+      "view_count": 495534,
+      "like_count": 8723,
+      "comment_count": 1097,
       "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-29T18:47:34Z",
       "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.\n\nBring your ideas to life as fast as you can type them.",
       "duration": "PT45S",
-      "view_count": 66729,
-      "like_count": 639,
-      "comment_count": 85,
+      "view_count": 67363,
+      "like_count": 647,
+      "comment_count": 88,
       "url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
-    },
-    {
-      "id": "Fls_onRviPM",
-      "title": "OpenAI DevDay 2026 Keynote (FULL)",
-      "channel_title": "OpenAI",
-      "published_at": "2026-09-29T18:42:29Z",
-      "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, including dots, ChatGPT Spaces, GPT-6.1 Sol, Astra Ultrafast, and more.",
-      "duration": "PT53M35S",
-      "view_count": 653750,
-      "like_count": 0,
-      "comment_count": 501,
-      "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-06T21:03:47Z",
+    "generated_at": "2026-10-07T11:11:13Z",
     "count": 5
   }
 }
