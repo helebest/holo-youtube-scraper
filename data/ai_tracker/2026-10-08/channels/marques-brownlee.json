@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-10-08",
+  "result": [
+    {
+      "id": "3iRUwVzRDZQ",
+      "title": "Xiaomi 18 Fold: How Does This Happen?",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-02T20:50:25Z",
+      "description": "This is not an iPhone Duo. Xiaomi is at it again.\n\nThe desk pad! https://mkbhd.com/products/overlay-deskpad\n\nShoutout to dbrand for helping to source the phone from China.\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M47S",
+      "view_count": 9684129,
+      "like_count": 92496,
+      "comment_count": 6149,
+      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ"
+    },
+    {
+      "id": "e1q-TuHdc4Y",
+      "title": "Dear YouTube!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-30T14:42:19Z",
+      "description": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M23S",
+      "view_count": 5555069,
+      "like_count": 124554,
+      "comment_count": 9547,
+      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y"
+    },
+    {
+      "id": "rayrrXot17M",
+      "title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-29T01:01:35Z",
+      "description": "Nothing decided to join the $400+ ANC headphone ranks, and made just one bizarre mistake...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT14M20S",
+      "view_count": 5828934,
+      "like_count": 63231,
+      "comment_count": 2685,
+      "url": "https://www.youtube.com/watch?v=rayrrXot17M"
+    },
+    {
+      "id": "DkUuOr21v4s",
+      "title": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-24T22:26:18Z",
+      "description": "If one-upping the iPhone was a sport, Xiaomi would be Lebron James.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M56S",
+      "view_count": 13151366,
+      "like_count": 120421,
+      "comment_count": 6402,
+      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s"
+    },
+    {
+      "id": "pOX1l1edBME",
+      "title": "The Apple Watch Has a Problem",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-22T17:49:42Z",
+      "description": "Apple Watch series 12 has a new \"Audio Intelligence\" feature, let's talk about it\n\nApple vs the AI Race: https://youtu.be/eWKY0OnPByg\n\nMKBHD Merch: http://shop.MKBHD.com\n\nApple wearable study: https://www.apple.com/health/pdf/Heart_Rate_Accuracy_Study_2026.pdf\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nWatch provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M6S",
+      "view_count": 5202308,
+      "like_count": 74653,
+      "comment_count": 6896,
+      "url": "https://www.youtube.com/watch?v=pOX1l1edBME"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-07T21:23:00Z",
+    "count": 5
+  }
+}

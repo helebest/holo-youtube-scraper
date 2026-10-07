@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-08",
+  "result": [
+    {
+      "id": "JoE9AbbVT9A",
+      "title": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-07T21:14:29Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 281,
+      "like_count": 20,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
+    },
+    {
+      "id": "7rk18oEEqzc",
+      "title": "Toppling Saddam was the easy part - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-06T22:55:07Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 156436,
+      "like_count": 5169,
+      "comment_count": 176,
+      "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
+    },
+    {
+      "id": "NWZGTdxyTpc",
+      "title": "168 Conquistadors vs 80000 Inca - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-05T21:07:07Z",
+      "description": "",
+      "duration": "PT1M22S",
+      "view_count": 138173,
+      "like_count": 3377,
+      "comment_count": 231,
+      "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
+    },
+    {
+      "id": "j7AgSzNlRBk",
+      "title": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-04T20:57:04Z",
+      "description": "",
+      "duration": "PT1M",
+      "view_count": 97176,
+      "like_count": 2065,
+      "comment_count": 63,
+      "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
+    },
+    {
+      "id": "5QsADHyOU2w",
+      "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-03T20:22:31Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "view_count": 108113,
+      "like_count": 2711,
+      "comment_count": 66,
+      "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-07T21:22:57Z",
+    "count": 5
+  }
+}

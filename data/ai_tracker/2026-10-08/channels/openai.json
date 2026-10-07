@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-08",
+  "result": [
+    {
+      "id": "_nmlHbSB8kM",
+      "title": "Stop Overpaying for Intelligence | DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:10:51Z",
+      "description": "Cut AI costs while preserving quality. Learn to measure cost per completed task, choose models and reasoning effort, and use prompt caching, Programmatic Tool Calling, and the Batch API.",
+      "duration": "PT23M4S",
+      "view_count": 25,
+      "like_count": 0,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM"
+    },
+    {
+      "id": "3glzJZ-_qB8",
+      "title": "Stack Overflow - From Idea to Product | DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:10:48Z",
+      "description": "See how small teams at Stack Overflow used Codex to build Stack Overflow for Agents and reimagine Stack Internal. Take away lessons for accelerating R&D and bringing new products to market.",
+      "duration": "PT13M12S",
+      "view_count": 12,
+      "like_count": 0,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8"
+    },
+    {
+      "id": "8804JYm81cc",
+      "title": "Higgsfield - Building Agents That Provision Their Own Compute | DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:10:48Z",
+      "description": "Explore how Higgsfield agents choose models and provision their own compute. Learn when to use dedicated GPUs or hosted models, how to deliver predictable throughput, and where the approach can fail.",
+      "duration": "PT12M50S",
+      "view_count": 10,
+      "like_count": 1,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=8804JYm81cc"
+    },
+    {
+      "id": "SXCfs7mitPo",
+      "title": "How OpenAI Puts ChatGPT to Work | DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:10:48Z",
+      "description": "See how OpenAI’s teams use ChatGPT to manage launches, research competitors, and turn expertise into tools. Take practical ideas back to your own work.",
+      "duration": "PT19M41S",
+      "view_count": 77,
+      "like_count": 2,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=SXCfs7mitPo"
+    },
+    {
+      "id": "XkKdbPhIvbY",
+      "title": "Codex Has Left The Laptop | DevDay 2026",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:10:48Z",
+      "description": "Explore what’s new in Codex across the CLI, app, and web. Through live demos, see how to move from delegating individual tasks to letting Codex tackle entire problems and goals.",
+      "duration": "PT22M1S",
+      "view_count": 36,
+      "like_count": 0,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=XkKdbPhIvbY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-07T21:23:02Z",
+    "count": 5
+  }
+}
