@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-09",
+  "result": [
+    {
+      "id": "OgjMGn4T6Ok",
+      "title": "More visual answers from GPT-6 with Intelligent UI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T17:46:54Z",
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment.\n\nGPT‑6 with Intelligent UI is rolled out globally to ChatGPT Plus, Pro, Business and Enterprise tiers in the Chat tab. Starting today, the rollout expands to Free and Go tiers. Enterprise availability depends on workplace admin settings.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat experience in ChatGPT. The models powering Work and Codex are not changing as part of this release.",
+      "duration": "PT17S",
+      "view_count": 1816,
+      "like_count": 63,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=OgjMGn4T6Ok"
+    },
+    {
+      "id": "Rs5qLAnkNcI",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T17:43:05Z",
+      "description": "“We’ve gone from zero to 100, not zero to 60.”\n\nJan Ackerman shares how Oracle built a talent market intelligence tool with ChatGPT Work to transform hiring preparation.\n\nStarting with a job description, it researches comparable roles, benchmarks compensation, and assesses talent pools across locations, giving hiring managers consistent data and insights.\n\nRead how Oracle is transforming work with ChatGPT Work and Codex: https://openai.com/index/oracle/",
+      "duration": "PT28S",
+      "view_count": 600,
+      "like_count": 15,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Rs5qLAnkNcI"
+    },
+    {
+      "id": "Wv0PRPMzkJg",
+      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T17:41:31Z",
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment.\n\nGPT‑6 with Intelligent UI is rolled out globally to ChatGPT Plus, Pro, Business and Enterprise tiers in the Chat tab. Starting today, the rollout expands to Free and Go tiers. Enterprise availability depends on workplace admin settings.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat experience in ChatGPT. The models powering Work and Codex are not changing as part of this release.",
+      "duration": "PT16S",
+      "view_count": 646,
+      "like_count": 15,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=Wv0PRPMzkJg"
+    },
+    {
+      "id": "BHQF1xl2ScU",
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T17:40:12Z",
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment.\n\nGPT‑6 with Intelligent UI is rolled out globally to ChatGPT Plus, Pro, Business and Enterprise tiers in the Chat tab. Starting today, the rollout expands to Free and Go tiers. Enterprise availability depends on workplace admin settings.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat experience in ChatGPT. The models powering Work and Codex are not changing as part of this release.",
+      "duration": "PT17S",
+      "view_count": 1328,
+      "like_count": 54,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=BHQF1xl2ScU"
+    },
+    {
+      "id": "Mm3EsJL73tM",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T17:38:00Z",
+      "description": "“We’ve gone from zero to 100, not zero to 60.”\n\nJan Ackerman shares how Oracle built a talent market intelligence tool with ChatGPT Work to transform hiring preparation.\n\nStarting with a job description, it researches comparable roles, benchmarks compensation, and assesses talent pools across locations, giving hiring managers consistent data and insights.\n\nRead how Oracle is transforming work with ChatGPT Work and Codex: https://openai.com/index/oracle/",
+      "duration": "PT1M18S",
+      "view_count": 5354,
+      "like_count": 73,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Mm3EsJL73tM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-08T21:23:50Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-09",
+  "result": [
+    {
+      "id": "XxHfJRnUG24",
+      "title": "The new Jaguar Type 01, powered by NVIDIA.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-07T17:54:24Z",
+      "description": "Under its stunning design is NVIDIA Hyperion, the computer and sensor platform that takes in everything the car sees and senses, then helps it make smart decisions in real time.\n\nIt’s paired with NVIDIA Halos, a safety system that covers everything from the chips to the software. Before reaching the road, Type 01's software passed 150,000 tests over tens of thousands of hours.\n\nAnd with over-the-air updates, it’ll keep getting better long after it leaves the showroom.\n\nOur own Ali Kani and Rishi Dhall joined the JLR team in New York to celebrate the reveal. Congratulations!",
+      "duration": "PT15S",
+      "view_count": 42048,
+      "like_count": 145,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=XxHfJRnUG24"
+    },
+    {
+      "id": "4XZzjY4X13A",
+      "title": "NVIDIA RTX Spark | Made to Create",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-06T19:01:19Z",
+      "description": "Bring your ideas to life on NVIDIA RTX Spark. From faster video edits to smoother 3D rendering and generative AI, RTX acceleration gives creators more ways to craft, refine, and share their work.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M1S",
+      "view_count": 40020,
+      "like_count": 390,
+      "comment_count": 65,
+      "url": "https://www.youtube.com/watch?v=4XZzjY4X13A"
+    },
+    {
+      "id": "v0d-7DOxUNU",
+      "title": "The NVIDIA GTC Berlin keynote is almost here.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-06T13:36:55Z",
+      "description": "NVIDIA founder and CEO Jensen Huang takes the stage at the Tempodrom on October 21 at 11 AM CEST. Watch the livestream from anywhere.\n\nAdd it to your calendar: https://nvda.ws/3TjKELG",
+      "duration": "PT29S",
+      "view_count": 7607,
+      "like_count": 190,
+      "comment_count": 13,
+      "url": "https://www.youtube.com/watch?v=v0d-7DOxUNU"
+    },
+    {
+      "id": "UxOQ2qyY6Qo",
+      "title": "Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-02T16:00:20Z",
+      "description": "Simplismart eliminates ML Ops complexity with a no-code platform that lets enterprises design, train, and deploy custom AI models without managing infrastructure. Powered by NVIDIA GPUs, Triton™ Inference Server, TensorRT-LLM, and NVIDIA NIM™ microservices, Simplismart delivers ultra-low latency, automated scaling, and faster time-to-market.\n\nDiscover how NVIDIA's Inception program enabled Simplismart with early hardware access, technical support, and global visibility to turn raw compute into an enterprise-ready, no-code AI engine: https://www.nvidia.com/en-us/startups/?ncid=so-link-805084-vt53",
+      "duration": "PT2M41S",
+      "view_count": 11504,
+      "like_count": 63,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo"
+    },
+    {
+      "id": "4VGqc9Xzx0M",
+      "title": "What does “fungible” mean for AI infrastructure?",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-01T13:04:11Z",
+      "description": "What does “fungible” mean for AI infrastructure? The flexibility to run different workloads: every type of AI, every phase of AI and even workloads that aren’t AI at all.\n\nOne platform, built for maximum “productivity”, “durable” years after deployment, and “fungible” for every model and workload.\n\nRead the blog to learn more: https://nvda.ws/4hphGmQ",
+      "duration": "PT1M2S",
+      "view_count": 4616,
+      "like_count": 130,
+      "comment_count": 10,
+      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-08T21:23:49Z",
+    "count": 5
+  }
+}
