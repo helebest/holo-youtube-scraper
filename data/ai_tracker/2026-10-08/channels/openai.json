@@ -14,15 +14,39 @@
   "date": "2026-10-08",
   "result": [
     {
+      "id": "IsL4dVezs18",
+      "title": "Introducing GPT-6 in ChatGPT with Intelligent UI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:55:41Z",
+      "description": "ChatGPT just got a lot more visual—introducing Intelligent UI.\n\nIntelligent UI allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual. It makes learning complex topics easier, and it quickly creates tools to solve a task right in the moment.\n\nOh, and also...GPT-6 is coming to ChatGPT. For everyone. GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers.\n\nGPT‑6 with Intelligent UI starts rolling out globally to ChatGPT Plus, Pro, Business and Enterprise tiers today in the Chat tab.  \n\nStarting tomorrow, the rollout expands to Free and Go tiers.\n\nhttps://openai.com/index/gpt-6-for-everyone/",
+      "duration": "PT1M11S",
+      "view_count": 284122,
+      "like_count": 5330,
+      "comment_count": 348,
+      "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
+    },
+    {
+      "id": "LiNhqbetrbU",
+      "title": "Build Plugins for ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-07T21:34:02Z",
+      "description": "Explore plugin extensions through Meetings and OpenAI Developers. See how a custom interface can live beside a conversation and bring selected context into your work with ChatGPT.",
+      "duration": "PT2M32S",
+      "view_count": 51208,
+      "like_count": 672,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
+    },
+    {
       "id": "_nmlHbSB8kM",
       "title": "Stop Overpaying for Intelligence | DevDay 2026",
       "channel_title": "OpenAI",
       "published_at": "2026-10-07T21:10:51Z",
       "description": "Cut AI costs while preserving quality. Learn to measure cost per completed task, choose models and reasoning effort, and use prompt caching, Programmatic Tool Calling, and the Batch API.",
       "duration": "PT23M4S",
-      "view_count": 25,
-      "like_count": 0,
-      "comment_count": 0,
+      "view_count": 3193,
+      "like_count": 33,
+      "comment_count": 27,
       "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM"
     },
     {
@@ -32,9 +56,9 @@
       "published_at": "2026-10-07T21:10:48Z",
       "description": "See how small teams at Stack Overflow used Codex to build Stack Overflow for Agents and reimagine Stack Internal. Take away lessons for accelerating R&D and bringing new products to market.",
       "duration": "PT13M12S",
-      "view_count": 12,
-      "like_count": 0,
-      "comment_count": 0,
+      "view_count": 546,
+      "like_count": 7,
+      "comment_count": 1,
       "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8"
     },
     {
@@ -44,39 +68,15 @@
       "published_at": "2026-10-07T21:10:48Z",
       "description": "Explore how Higgsfield agents choose models and provision their own compute. Learn when to use dedicated GPUs or hosted models, how to deliver predictable throughput, and where the approach can fail.",
       "duration": "PT12M50S",
-      "view_count": 10,
-      "like_count": 1,
-      "comment_count": 0,
+      "view_count": 749,
+      "like_count": 10,
+      "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=8804JYm81cc"
-    },
-    {
-      "id": "SXCfs7mitPo",
-      "title": "How OpenAI Puts ChatGPT to Work | DevDay 2026",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-07T21:10:48Z",
-      "description": "See how OpenAI’s teams use ChatGPT to manage launches, research competitors, and turn expertise into tools. Take practical ideas back to your own work.",
-      "duration": "PT19M41S",
-      "view_count": 77,
-      "like_count": 2,
-      "comment_count": 2,
-      "url": "https://www.youtube.com/watch?v=SXCfs7mitPo"
-    },
-    {
-      "id": "XkKdbPhIvbY",
-      "title": "Codex Has Left The Laptop | DevDay 2026",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-07T21:10:48Z",
-      "description": "Explore what’s new in Codex across the CLI, app, and web. Through live demos, see how to move from delegating individual tasks to letting Codex tackle entire problems and goals.",
-      "duration": "PT22M1S",
-      "view_count": 36,
-      "like_count": 0,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=XkKdbPhIvbY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-07T21:23:02Z",
+    "generated_at": "2026-10-08T11:28:48Z",
     "count": 5
   }
 }

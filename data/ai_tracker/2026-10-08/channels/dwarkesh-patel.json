@@ -20,9 +20,9 @@
       "published_at": "2026-10-07T21:14:29Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 281,
-      "like_count": 20,
-      "comment_count": 0,
+      "view_count": 154443,
+      "like_count": 4517,
+      "comment_count": 214,
       "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-10-06T22:55:07Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 156436,
-      "like_count": 5169,
-      "comment_count": 176,
+      "view_count": 224396,
+      "like_count": 6828,
+      "comment_count": 223,
       "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-10-05T21:07:07Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 138173,
-      "like_count": 3377,
-      "comment_count": 231,
+      "view_count": 147134,
+      "like_count": 3571,
+      "comment_count": 246,
       "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-10-04T20:57:04Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 97176,
-      "like_count": 2065,
-      "comment_count": 63,
+      "view_count": 102862,
+      "like_count": 2217,
+      "comment_count": 65,
       "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-10-03T20:22:31Z",
       "description": "",
       "duration": "PT1M26S",
-      "view_count": 108113,
-      "like_count": 2711,
+      "view_count": 112553,
+      "like_count": 2806,
       "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-07T21:22:57Z",
+    "generated_at": "2026-10-08T11:28:43Z",
     "count": 5
   }
 }
