@@ -14,15 +14,27 @@
   "date": "2026-10-09",
   "result": [
     {
+      "id": "f2g-3rYGHJE",
+      "title": "How Silver Made Spain Poorer - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-09T00:01:37Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 76095,
+      "like_count": 2324,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE"
+    },
+    {
       "id": "JoE9AbbVT9A",
       "title": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-07T21:14:29Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 244209,
-      "like_count": 6545,
-      "comment_count": 291,
+      "view_count": 295173,
+      "like_count": 7756,
+      "comment_count": 354,
       "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-06T22:55:07Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 242577,
-      "like_count": 7408,
-      "comment_count": 242,
+      "view_count": 259592,
+      "like_count": 7928,
+      "comment_count": 249,
       "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-05T21:07:07Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 154425,
-      "like_count": 3758,
-      "comment_count": 259,
+      "view_count": 166321,
+      "like_count": 3975,
+      "comment_count": 270,
       "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-04T20:57:04Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 108723,
-      "like_count": 2358,
-      "comment_count": 67,
+      "view_count": 113788,
+      "like_count": 2487,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
-    },
-    {
-      "id": "5QsADHyOU2w",
-      "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-03T20:22:31Z",
-      "description": "",
-      "duration": "PT1M26S",
-      "view_count": 115829,
-      "like_count": 2869,
-      "comment_count": 66,
-      "url": "https://www.youtube.com/watch?v=5QsADHyOU2w"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-08T21:23:45Z",
+    "generated_at": "2026-10-09T11:24:34Z",
     "count": 5
   }
 }
