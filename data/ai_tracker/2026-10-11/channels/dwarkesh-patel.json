@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-11",
+  "result": [
+    {
+      "id": "hTHPsAOEIWM",
+      "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T18:49:05Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 6873,
+      "like_count": 300,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
+    },
+    {
+      "id": "BWnygfn04qA",
+      "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T00:00:15Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 112114,
+      "like_count": 3237,
+      "comment_count": 123,
+      "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
+    },
+    {
+      "id": "f2g-3rYGHJE",
+      "title": "How Silver Made Spain Poorer - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-09T00:01:37Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 233115,
+      "like_count": 5779,
+      "comment_count": 247,
+      "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE"
+    },
+    {
+      "id": "JoE9AbbVT9A",
+      "title": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-07T21:14:29Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 358965,
+      "like_count": 10131,
+      "comment_count": 488,
+      "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
+    },
+    {
+      "id": "7rk18oEEqzc",
+      "title": "Toppling Saddam was the easy part - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-06T22:55:07Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 295640,
+      "like_count": 9007,
+      "comment_count": 290,
+      "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-10T20:10:11Z",
+    "count": 5
+  }
+}
