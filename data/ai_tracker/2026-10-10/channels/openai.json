@@ -20,9 +20,9 @@
       "published_at": "2026-10-09T19:13:03Z",
       "description": "You can now create a dot from the ChatGPT mobile app. Set up your dot, edit the name, customize the avatar, and set your dot to be the first conversation you see when you open the ChatGPT app. \n\nLearn more about dots here: https://learn.chatgpt.com/docs/dots",
       "duration": "PT2M47S",
-      "view_count": 5335,
-      "like_count": 358,
-      "comment_count": 63,
+      "view_count": 68026,
+      "like_count": 1049,
+      "comment_count": 156,
       "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-10-09T17:00:34Z",
       "description": "See how the Codex community brings people together to build, learn, and share. Pauline Narvas and VB talk about growing the Codex Ambassador program, their favorite moments from local meetups and Build Week, and what it means to build with heart.",
       "duration": "PT5M39S",
-      "view_count": 4557,
-      "like_count": 64,
-      "comment_count": 15,
+      "view_count": 13075,
+      "like_count": 96,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=enPbh_A5F7E"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-10-09T08:37:55Z",
       "description": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos’s cybersecurity expertise to reduce average response time from 38 minutes to 89 seconds for cases using those agents. Hear how Sophos is helping its MDR team investigate threats faster, protect customers at scale and keep human judgement at the centre.\n\nRead the full customer story - https://openai.com/index/sophos/",
       "duration": "PT2M23S",
-      "view_count": 14082,
-      "like_count": 115,
+      "view_count": 16750,
+      "like_count": 124,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MUHjyljBPHI"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-10-08T21:35:18Z",
       "description": "It’s 3 a.m. and checkout errors are climbing. What do you check first?\n\nJoin cohosts Tony Loehr and Anke Hao for three practical production-monitoring demos with Codex. Follow a checkout failure in Grafana, investigate a Kubernetes rollout that causes out-of-memory restarts, and explore how a Codex Security finding connects service availability to a missing resource limit.\n\nSee how telemetry, release history, and code support an investigation; learn how engineers review a proposed change and check the result.",
       "duration": "PT7M59S",
-      "view_count": 23385,
-      "like_count": 178,
-      "comment_count": 23,
+      "view_count": 25534,
+      "like_count": 190,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-10-08T17:46:54Z",
       "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment.\n\nGPT‑6 with Intelligent UI is rolled out globally to ChatGPT Plus, Pro, Business and Enterprise tiers in the Chat tab. Starting today, the rollout expands to Free and Go tiers. Enterprise availability depends on workplace admin settings.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat experience in ChatGPT. The models powering Work and Codex are not changing as part of this release.",
       "duration": "PT17S",
-      "view_count": 14275,
-      "like_count": 239,
-      "comment_count": 17,
+      "view_count": 16261,
+      "like_count": 281,
+      "comment_count": 19,
       "url": "https://www.youtube.com/watch?v=OgjMGn4T6Ok"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-09T21:01:47Z",
+    "generated_at": "2026-10-10T10:42:09Z",
     "count": 5
   }
 }

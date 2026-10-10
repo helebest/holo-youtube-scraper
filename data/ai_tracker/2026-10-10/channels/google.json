@@ -20,9 +20,9 @@
       "published_at": "2026-10-09T15:00:20Z",
       "description": "Head to the search bar and type “A’ja Wilson” to celebrate 5 years as the best 🎉",
       "duration": "PT10S",
-      "view_count": 7696,
-      "like_count": 280,
-      "comment_count": 96,
+      "view_count": 20415,
+      "like_count": 515,
+      "comment_count": 132,
       "url": "https://www.youtube.com/watch?v=VFiWYLSQNP4"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-10-08T16:22:05Z",
       "description": "Fun fact: It would take 100 million Moons lined up to cross the TON 618 black hole 🤯 Track down more space facts with Google Search.\n\n#SpaceWeek #GoogleSearch #SpaceFacts",
       "duration": "PT20S",
-      "view_count": 24500,
-      "like_count": 657,
-      "comment_count": 53,
+      "view_count": 27591,
+      "like_count": 747,
+      "comment_count": 63,
       "url": "https://www.youtube.com/watch?v=MSf34rqZxbU"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-10-06T13:14:55Z",
       "description": "Upgrade your study sessions by asking Google Search to turn your notes into a custom practice quiz. Here’s how:\n\n📱 Head to AI Mode in Search.\n📁 Tap the ➕ and select “Add files” to upload your study materials.\n✨ Search “quiz me on my notes” to get practice questions with answer breakdowns.\n\n#TestPrep #GoogleSearch #StudyHacks",
       "duration": "PT14S",
-      "view_count": 19533,
-      "like_count": 364,
-      "comment_count": 68,
+      "view_count": 20753,
+      "like_count": 388,
+      "comment_count": 71,
       "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-09-30T16:07:24Z",
       "description": "Project Suncatcher is Google’s moonshot to launch solar-powered AI into Earth’s orbit. But operating TPU clusters in space creates a massive hurdle. \n\nOn Earth, cooling chips means blowing air over heat sinks. In the vacuum of space, there is no air.\n\nIn this video, Google researchers share the thermal engineering challenge of moving heat, using heat pipes, pumped fluid loops, and thermal vacuum chambers.\n\n00:10 - How do we cool AI chips in space?\n01:05 - How do heat pipes and fluid loops move heat to radiators?\n01:26 - How do thermal vacuum chambers simulate space on Earth?\n\nMore on Project Suncatcher: \nhttps://youtu.be/o1JK79jszqo\nhttps://youtu.be/8NPgswgbTnE\nhttps://youtu.be/KO2bNK9L7WA\n\n#Google #ProjectSuncatcher #AI #Space #Innovation \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT2M13S",
-      "view_count": 101469,
-      "like_count": 1147,
-      "comment_count": 228,
+      "view_count": 102375,
+      "like_count": 1153,
+      "comment_count": 235,
       "url": "https://www.youtube.com/watch?v=ktdbUIZKeSE"
     },
     {
@@ -68,7 +68,7 @@
       "published_at": "2026-09-29T16:12:33Z",
       "description": "To make space-based AI work, thousands of chips must communicate across a vacuum orbit with minimal delay, orbiting in a highly connected constellation.\n\nWithout physical cables, we use lasers fired between satellites to transfer information; the equivalent of hitting a moving, coin-sized target from kilometers away, over and over again.\n\nIn this video, Google researchers explain how they achieved an 800 Gbps bidirectional laser link by adapting off-the-shelf fiber optics.\n\n00:15 - How can we keep the constellation connected?\n00:38 - Why use lasers for satellite communication?\n01:31 - Can terrestrial hardware work in space?\n\nMore on Project Suncatcher: \nhttps://youtu.be/o1JK79jszqo\nhttps://youtu.be/8NPgswgbTnE\nhttps://youtu.be/ktdbUIZKeSE\n\n#Google #ProjectSuncatcher #AI #Space #Innovation \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
       "duration": "PT2M30S",
-      "view_count": 45316,
+      "view_count": 45754,
       "like_count": 620,
       "comment_count": 51,
       "url": "https://www.youtube.com/watch?v=KO2bNK9L7WA"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-09T21:01:48Z",
+    "generated_at": "2026-10-10T10:42:10Z",
     "count": 5
   }
 }

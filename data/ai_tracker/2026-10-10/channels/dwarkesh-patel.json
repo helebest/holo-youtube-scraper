@@ -14,15 +14,27 @@
   "date": "2026-10-10",
   "result": [
     {
+      "id": "BWnygfn04qA",
+      "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T00:00:15Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 63482,
+      "like_count": 1997,
+      "comment_count": 72,
+      "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
+    },
+    {
       "id": "f2g-3rYGHJE",
       "title": "How Silver Made Spain Poorer - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-09T00:01:37Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 152074,
-      "like_count": 4080,
-      "comment_count": 170,
+      "view_count": 213775,
+      "like_count": 5232,
+      "comment_count": 210,
       "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-07T21:14:29Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 312182,
-      "like_count": 8459,
-      "comment_count": 394,
+      "view_count": 336842,
+      "like_count": 9290,
+      "comment_count": 447,
       "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-06T22:55:07Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 273689,
-      "like_count": 8387,
-      "comment_count": 262,
+      "view_count": 287273,
+      "like_count": 8742,
+      "comment_count": 283,
       "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-05T21:07:07Z",
       "description": "",
       "duration": "PT1M22S",
-      "view_count": 174878,
-      "like_count": 4180,
-      "comment_count": 276,
+      "view_count": 187048,
+      "like_count": 4461,
+      "comment_count": 283,
       "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc"
-    },
-    {
-      "id": "j7AgSzNlRBk",
-      "title": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-04T20:57:04Z",
-      "description": "",
-      "duration": "PT1M",
-      "view_count": 116908,
-      "like_count": 2582,
-      "comment_count": 72,
-      "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-09T21:01:42Z",
+    "generated_at": "2026-10-10T10:42:05Z",
     "count": 5
   }
 }

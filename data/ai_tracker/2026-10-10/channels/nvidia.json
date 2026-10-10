@@ -20,8 +20,8 @@
       "published_at": "2026-10-07T17:54:24Z",
       "description": "Under its stunning design is NVIDIA Hyperion, the computer and sensor platform that takes in everything the car sees and senses, then helps it make smart decisions in real time.\n\nIt’s paired with NVIDIA Halos, a safety system that covers everything from the chips to the software. Before reaching the road, Type 01's software passed 150,000 tests over tens of thousands of hours.\n\nAnd with over-the-air updates, it’ll keep getting better long after it leaves the showroom.\n\nOur own Ali Kani and Rishi Dhall joined the JLR team in New York to celebrate the reveal. Congratulations!",
       "duration": "PT15S",
-      "view_count": 70804,
-      "like_count": 186,
+      "view_count": 72969,
+      "like_count": 194,
       "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=XxHfJRnUG24"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-10-06T19:01:19Z",
       "description": "Bring your ideas to life on NVIDIA RTX Spark. From faster video edits to smoother 3D rendering and generative AI, RTX acceleration gives creators more ways to craft, refine, and share their work.\n\nLearn more about RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT1M1S",
-      "view_count": 46045,
-      "like_count": 428,
-      "comment_count": 71,
+      "view_count": 47765,
+      "like_count": 437,
+      "comment_count": 73,
       "url": "https://www.youtube.com/watch?v=4XZzjY4X13A"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-10-06T13:36:55Z",
       "description": "NVIDIA founder and CEO Jensen Huang takes the stage at the Tempodrom on October 21 at 11 AM CEST. Watch the livestream from anywhere.\n\nAdd it to your calendar: https://nvda.ws/3TjKELG",
       "duration": "PT29S",
-      "view_count": 8480,
-      "like_count": 223,
-      "comment_count": 15,
+      "view_count": 8732,
+      "like_count": 233,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=v0d-7DOxUNU"
     },
     {
@@ -56,7 +56,7 @@
       "published_at": "2026-10-02T16:00:20Z",
       "description": "Simplismart eliminates ML Ops complexity with a no-code platform that lets enterprises design, train, and deploy custom AI models without managing infrastructure. Powered by NVIDIA GPUs, Triton™ Inference Server, TensorRT-LLM, and NVIDIA NIM™ microservices, Simplismart delivers ultra-low latency, automated scaling, and faster time-to-market.\n\nDiscover how NVIDIA's Inception program enabled Simplismart with early hardware access, technical support, and global visibility to turn raw compute into an enterprise-ready, no-code AI engine: https://www.nvidia.com/en-us/startups/?ncid=so-link-805084-vt53",
       "duration": "PT2M41S",
-      "view_count": 11830,
+      "view_count": 11931,
       "like_count": 64,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo"
@@ -68,7 +68,7 @@
       "published_at": "2026-10-01T13:04:11Z",
       "description": "What does “fungible” mean for AI infrastructure? The flexibility to run different workloads: every type of AI, every phase of AI and even workloads that aren’t AI at all.\n\nOne platform, built for maximum “productivity”, “durable” years after deployment, and “fungible” for every model and workload.\n\nRead the blog to learn more: https://nvda.ws/4hphGmQ",
       "duration": "PT1M2S",
-      "view_count": 4709,
+      "view_count": 4768,
       "like_count": 133,
       "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-09T21:01:46Z",
+    "generated_at": "2026-10-10T10:42:09Z",
     "count": 5
   }
 }
