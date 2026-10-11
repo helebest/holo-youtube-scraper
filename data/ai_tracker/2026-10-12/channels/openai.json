@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-12",
+  "result": [
+    {
+      "id": "Ju-JyxDgV7g",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-10T21:40:25Z",
+      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing the outcome they want, users can get an analysis, a report, or an application, with Codex gathering the information from internal systems.\n\nRead the full Oracle story: https://openai.com/index/oracle/",
+      "duration": "PT1M10S",
+      "view_count": 20138,
+      "like_count": 114,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g"
+    },
+    {
+      "id": "p5KxBTUncoE",
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-09T19:13:03Z",
+      "description": "You can now create a dot from the ChatGPT mobile app. Set up your dot, edit the name, customize the avatar, and set your dot to be the first conversation you see when you open the ChatGPT app. \n\nLearn more about dots here: https://learn.chatgpt.com/docs/dots",
+      "duration": "PT2M47S",
+      "view_count": 102895,
+      "like_count": 1445,
+      "comment_count": 216,
+      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
+    },
+    {
+      "id": "enPbh_A5F7E",
+      "title": "Building the Codex community",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-09T17:00:34Z",
+      "description": "See how the Codex community brings people together to build, learn, and share. Pauline Narvas and VB talk about growing the Codex Ambassador program, their favorite moments from local meetups and Build Week, and what it means to build with heart.",
+      "duration": "PT5M39S",
+      "view_count": 17587,
+      "like_count": 111,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=enPbh_A5F7E"
+    },
+    {
+      "id": "MUHjyljBPHI",
+      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-09T08:37:55Z",
+      "description": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos’s cybersecurity expertise to reduce average response time from 38 minutes to 89 seconds for cases using those agents. Hear how Sophos is helping its MDR team investigate threats faster, protect customers at scale and keep human judgement at the centre.\n\nRead the full customer story - https://openai.com/index/sophos/",
+      "duration": "PT2M23S",
+      "view_count": 18952,
+      "like_count": 136,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=MUHjyljBPHI"
+    },
+    {
+      "id": "RQfg-zo4R-g",
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-08T21:35:18Z",
+      "description": "It’s 3 a.m. and checkout errors are climbing. What do you check first?\n\nJoin cohosts Tony Loehr and Anke Hao for three practical production-monitoring demos with Codex. Follow a checkout failure in Grafana, investigate a Kubernetes rollout that causes out-of-memory restarts, and explore how a Codex Security finding connects service availability to a missing resource limit.\n\nSee how telemetry, release history, and code support an investigation; learn how engineers review a proposed change and check the result.",
+      "duration": "PT7M59S",
+      "view_count": 29496,
+      "like_count": 217,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-11T20:23:43Z",
+    "count": 5
+  }
+}
