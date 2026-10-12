@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-10-13",
+  "result": [
+    {
+      "id": "eW5Oi91m4SY",
+      "title": "The original cosmic hit #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-10-12T17:00:07Z",
+      "description": "What sound came after the Big Bang? Astronomer Mark Whittle takes us back to the infant cosmos, where massive sound waves pulsed through primordial gas in a pattern that's still traceable across the universe today. Working with sound artist Ander Mikalson and composer Caroline Shaw, he turns those ancient tones into a glorious, awe-inspiring choral work.",
+      "duration": "PT2M23S",
+      "view_count": 3621,
+      "like_count": 176,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=eW5Oi91m4SY"
+    },
+    {
+      "id": "9i1LVL3_xpU",
+      "title": "Why We Blew Up Four Dams — and Saved a River | Amy Bowers Cordalis | TED",
+      "channel_title": "TED",
+      "published_at": "2026-10-12T15:00:34Z",
+      "description": "For thousands of years, the Klamath River in Northern California was home to one of the continent’s great salmon runs, creating abundance for the native Yurok Tribe … until a series of dams and a century of extraction nearly destroyed it. Indigenous advocate Amy Bowers Cordalis helped lead the fight to take down those dams — the largest removal of its kind in US history. She offers a roadmap for communities everywhere working to protect and restore the places they call home. (Recorded at TED2026 on April 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/amybowerscordalis\n\nhttps://youtu.be/9i1LVL3_xpU\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Conservation #Nature",
+      "duration": "PT12M57S",
+      "view_count": 35664,
+      "like_count": 137,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=9i1LVL3_xpU"
+    },
+    {
+      "id": "CKAyfGItpgg",
+      "title": "How to Start Any Conversation the Right Way | Chris Fenning | TED",
+      "channel_title": "TED",
+      "published_at": "2026-10-11T18:00:21Z",
+      "description": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right. (Recorded at TEDxEindhoven on November 7, 2024)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/chrisfenning\n\nhttps://youtu.be/CKAyfGItpgg\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Business",
+      "duration": "PT11M8S",
+      "view_count": 105500,
+      "like_count": 893,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=CKAyfGItpgg"
+    },
+    {
+      "id": "Hgh8L_aNiCA",
+      "title": "Here’s your reminder that you are enough — and you always will be #WorldMentalHealthDay",
+      "channel_title": "TED",
+      "published_at": "2026-10-10T15:00:31Z",
+      "description": "On paper, Blake Mycoskie is a glowing success story: he founded TOMS Shoes, building a global brand that has given away more than 100 million pairs of shoes to children in need. Yet despite his success, his struggle with depression nearly cost him his life. In this personal talk, he explores the all-too-common shame that keeps people suffering in silence — and shares his new mission to spread the simple yet powerful message that each of us is inherently enough. (Note: This talk includes discussion of suicide and depression.) (Recorded at TED2026 on April 17, 2026)",
+      "duration": "PT2M58S",
+      "view_count": 26003,
+      "like_count": 816,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=Hgh8L_aNiCA"
+    },
+    {
+      "id": "tBfHI8sNWVU",
+      "title": "The Three Words That Saved My Life | Blake Mycoskie | TED",
+      "channel_title": "TED",
+      "published_at": "2026-10-10T12:00:18Z",
+      "description": "On paper, Blake Mycoskie is a glowing success story: he founded TOMS Shoes, building a global brand that has given away more than 100 million pairs of shoes to children in need. Yet despite his success, his struggle with depression nearly cost him his life. In this personal talk, he explores the all-too-common shame that keeps people suffering in silence — and shares his new mission to spread the simple yet powerful message that each of us is inherently enough. (Note: This talk includes discussion of suicide and depression.) (Recorded at TED2026 on April 17, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/blakemycoskie\n\nhttps://youtu.be/tBfHI8sNWVU\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #MentalHealth",
+      "duration": "PT15M38S",
+      "view_count": 92560,
+      "like_count": 657,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=tBfHI8sNWVU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-12T23:04:41Z",
+    "count": 5
+  }
+}
