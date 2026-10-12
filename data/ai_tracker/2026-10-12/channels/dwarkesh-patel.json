@@ -14,15 +14,27 @@
   "date": "2026-10-12",
   "result": [
     {
+      "id": "Q3nhfMQLZdQ",
+      "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-11T20:54:26Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 105568,
+      "like_count": 2824,
+      "comment_count": 151,
+      "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
+    },
+    {
       "id": "hTHPsAOEIWM",
       "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-10T18:49:05Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 136039,
-      "like_count": 3443,
-      "comment_count": 98,
+      "view_count": 156093,
+      "like_count": 3847,
+      "comment_count": 111,
       "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-10T00:00:15Z",
       "description": "",
       "duration": "PT1M27S",
-      "view_count": 172951,
-      "like_count": 4809,
-      "comment_count": 188,
+      "view_count": 193520,
+      "like_count": 5426,
+      "comment_count": 211,
       "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-09T00:01:37Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 266186,
-      "like_count": 6674,
-      "comment_count": 281,
+      "view_count": 284317,
+      "like_count": 7109,
+      "comment_count": 291,
       "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-07T21:14:29Z",
       "description": "",
       "duration": "PT1M13S",
-      "view_count": 418135,
-      "like_count": 12372,
-      "comment_count": 573,
+      "view_count": 440956,
+      "like_count": 13101,
+      "comment_count": 619,
       "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A"
-    },
-    {
-      "id": "7rk18oEEqzc",
-      "title": "Toppling Saddam was the easy part - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-06T22:55:07Z",
-      "description": "",
-      "duration": "PT1M25S",
-      "view_count": 312828,
-      "like_count": 9606,
-      "comment_count": 316,
-      "url": "https://www.youtube.com/watch?v=7rk18oEEqzc"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-11T20:23:38Z",
+    "generated_at": "2026-10-12T12:13:26Z",
     "count": 5
   }
 }
