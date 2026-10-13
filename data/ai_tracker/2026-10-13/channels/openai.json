@@ -20,9 +20,9 @@
       "published_at": "2026-10-12T16:00:08Z",
       "description": "Code review is the new bottleneck. Codex brings pull requests, review feedback, and private conversations about your code into one place.\n\nSee how to find reviews across repositories, understand changes and risks, apply your team’s review guidelines, and draft comments without switching tools.\n\nGitHub code review is generally available, with GitLab support in preview.",
       "duration": "PT2M22S",
-      "view_count": 20707,
-      "like_count": 388,
-      "comment_count": 44,
+      "view_count": 52189,
+      "like_count": 702,
+      "comment_count": 80,
       "url": "https://www.youtube.com/watch?v=IZXv6a78NDw"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-10-10T21:40:25Z",
       "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing the outcome they want, users can get an analysis, a report, or an application, with Codex gathering the information from internal systems.\n\nRead the full Oracle story: https://openai.com/index/oracle/",
       "duration": "PT1M10S",
-      "view_count": 27524,
-      "like_count": 131,
+      "view_count": 28571,
+      "like_count": 133,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-10-09T19:13:03Z",
       "description": "You can now create a dot from the ChatGPT mobile app. Set up your dot, edit the name, customize the avatar, and set your dot to be the first conversation you see when you open the ChatGPT app. \n\nLearn more about dots here: https://learn.chatgpt.com/docs/dots",
       "duration": "PT2M47S",
-      "view_count": 114445,
-      "like_count": 1561,
-      "comment_count": 227,
+      "view_count": 117212,
+      "like_count": 1584,
+      "comment_count": 228,
       "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-10-09T17:00:34Z",
       "description": "See how the Codex community brings people together to build, learn, and share. Pauline Narvas and VB talk about growing the Codex Ambassador program, their favorite moments from local meetups and Build Week, and what it means to build with heart.",
       "duration": "PT5M39S",
-      "view_count": 18852,
-      "like_count": 119,
+      "view_count": 19204,
+      "like_count": 121,
       "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=enPbh_A5F7E"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-10-09T08:37:55Z",
       "description": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos’s cybersecurity expertise to reduce average response time from 38 minutes to 89 seconds for cases using those agents. Hear how Sophos is helping its MDR team investigate threats faster, protect customers at scale and keep human judgement at the centre.\n\nRead the full customer story - https://openai.com/index/sophos/",
       "duration": "PT2M23S",
-      "view_count": 19861,
-      "like_count": 143,
+      "view_count": 20124,
+      "like_count": 145,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MUHjyljBPHI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-12T23:04:45Z",
+    "generated_at": "2026-10-13T11:57:30Z",
     "count": 5
   }
 }
