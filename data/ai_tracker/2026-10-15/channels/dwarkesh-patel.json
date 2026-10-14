@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-15",
+  "result": [
+    {
+      "id": "RUoY5GCdONY",
+      "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-12T17:40:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 216417,
+      "like_count": 4655,
+      "comment_count": 206,
+      "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
+    },
+    {
+      "id": "Q3nhfMQLZdQ",
+      "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-11T20:54:26Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 188309,
+      "like_count": 4806,
+      "comment_count": 263,
+      "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
+    },
+    {
+      "id": "hTHPsAOEIWM",
+      "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T18:49:05Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 193768,
+      "like_count": 4856,
+      "comment_count": 152,
+      "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
+    },
+    {
+      "id": "BWnygfn04qA",
+      "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T00:00:15Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 304012,
+      "like_count": 8772,
+      "comment_count": 358,
+      "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
+    },
+    {
+      "id": "f2g-3rYGHJE",
+      "title": "How Silver Made Spain Poorer - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-09T00:01:37Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 335635,
+      "like_count": 8278,
+      "comment_count": 308,
+      "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-14T20:15:04Z",
+    "count": 5
+  }
+}
