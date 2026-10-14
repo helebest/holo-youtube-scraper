@@ -14,15 +14,27 @@
   "date": "2026-10-14",
   "result": [
     {
+      "id": "QVv3mQzlrN0",
+      "title": "Apple Homeview Impressions: Not Convinced!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-13T22:42:38Z",
+      "description": "New Smart home display from Apple. With plenty of quirks and features.\n\nThe deskpad! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M47S",
+      "view_count": 3038752,
+      "like_count": 51578,
+      "comment_count": 4473,
+      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0"
+    },
+    {
       "id": "_0G4OG39XjI",
       "title": "WTF is a Googlebook?",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-10-08T21:00:40Z",
       "description": "New laptops are dropping left and right! Let's talk about Google's entry.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nAsus Googlebook provided by Asus for review.\nXPS Googlebook provided by Dell for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT14M13S",
-      "view_count": 7391653,
-      "like_count": 92646,
-      "comment_count": 7636,
+      "view_count": 7556264,
+      "like_count": 93725,
+      "comment_count": 7704,
       "url": "https://www.youtube.com/watch?v=_0G4OG39XjI"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-02T20:50:25Z",
       "description": "This is not an iPhone Duo. Xiaomi is at it again.\n\nThe desk pad! https://mkbhd.com/products/overlay-deskpad\n\nShoutout to dbrand for helping to source the phone from China.\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M47S",
-      "view_count": 11110923,
-      "like_count": 97256,
-      "comment_count": 6328,
+      "view_count": 11172527,
+      "like_count": 97538,
+      "comment_count": 6342,
       "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-09-30T14:42:19Z",
       "description": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT12M23S",
-      "view_count": 5723188,
-      "like_count": 126517,
-      "comment_count": 9573,
+      "view_count": 5735300,
+      "like_count": 126715,
+      "comment_count": 9578,
       "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-29T01:01:35Z",
       "description": "Nothing decided to join the $400+ ANC headphone ranks, and made just one bizarre mistake...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT14M20S",
-      "view_count": 6049895,
-      "like_count": 64445,
-      "comment_count": 2713,
+      "view_count": 6066657,
+      "like_count": 64507,
+      "comment_count": 2717,
       "url": "https://www.youtube.com/watch?v=rayrrXot17M"
-    },
-    {
-      "id": "DkUuOr21v4s",
-      "title": "Xiaomi 18 Pro Max: They've Done It Again!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-09-24T22:26:18Z",
-      "description": "If one-upping the iPhone was a sport, Xiaomi would be Lebron James.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT11M56S",
-      "view_count": 13549562,
-      "like_count": 122194,
-      "comment_count": 6464,
-      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-13T21:21:03Z",
+    "generated_at": "2026-10-14T09:36:39Z",
     "count": 5
   }
 }

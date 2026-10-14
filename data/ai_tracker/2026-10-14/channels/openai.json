@@ -14,15 +14,27 @@
   "date": "2026-10-14",
   "result": [
     {
+      "id": "DTcK95TAZ-k",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-14T09:35:27Z",
+      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing the outcome they want, users can get an analysis, a report, or an application, with Codex gathering the information from internal systems.\n\nRead the full Oracle story: https://openai.com/index/oracle/",
+      "duration": "PT22S",
+      "view_count": 3,
+      "like_count": 2,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k"
+    },
+    {
       "id": "G-9Y2xNiDKQ",
       "title": "Work with your team in ChatGPT Space",
       "channel_title": "OpenAI",
       "published_at": "2026-10-13T21:01:10Z",
       "description": "Explore a shared place to work with people and ChatGPT. See how Space brings conversations, context and collaborative work together.",
       "duration": "PT3M24S",
-      "view_count": 893,
-      "like_count": 61,
-      "comment_count": 7,
+      "view_count": 33808,
+      "like_count": 524,
+      "comment_count": 42,
       "url": "https://www.youtube.com/watch?v=G-9Y2xNiDKQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-13T18:02:20Z",
       "description": "“Now you know and now you can take action before someone else knows.”\n\nA weakness in your code can be part of a much bigger attack. Seeing how those weaknesses connect gives defenders a clearer picture of where to act.\n\nBlock’s Chief Information Security Officer, James Nettesheim, shares how OpenAI’s cyber capabilities can help uncover software vulnerabilities and connect them into a path to compromise.\n\nThen comes the work that turns discovery into action: identify the affected software and its owner, propose a patch, and verify that the fix works, with a person guiding deployment.\n\nWatch James on what AI can make possible for cybersecurity teams—from vulnerability analysis and hidden security risks to patch verification and the next steps defenders can take.",
       "duration": "PT24S",
-      "view_count": 739,
-      "like_count": 22,
-      "comment_count": 2,
+      "view_count": 3179,
+      "like_count": 79,
+      "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-10-13T17:59:33Z",
       "description": "“Now you know and now you can take action before someone else knows.”\n\nA weakness in your code can be part of a much bigger attack. Seeing how those weaknesses connect gives defenders a clearer picture of where to act.\n\nBlock’s Chief Information Security Officer, James Nettesheim, shares how OpenAI’s cyber capabilities can help uncover software vulnerabilities and connect them into a path to compromise.\n\nThen comes the work that turns discovery into action: identify the affected software and its owner, propose a patch, and verify that the fix works, with a person guiding deployment.\n\nWatch James on what AI can make possible for cybersecurity teams—from vulnerability analysis and hidden security risks to patch verification and the next steps defenders can take.",
       "duration": "PT45S",
-      "view_count": 5957,
-      "like_count": 72,
+      "view_count": 16536,
+      "like_count": 124,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=N6K_pxaAh0w"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-10-13T15:47:28Z",
       "description": "Make your own sticker packs with ChatGPT Images.",
       "duration": "PT1M5S",
-      "view_count": 3252,
-      "like_count": 179,
-      "comment_count": 20,
+      "view_count": 5572,
+      "like_count": 295,
+      "comment_count": 28,
       "url": "https://www.youtube.com/watch?v=TD0bImyg_IM"
-    },
-    {
-      "id": "IZXv6a78NDw",
-      "title": "Code review is no longer the bottleneck",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-12T16:00:08Z",
-      "description": "Code review is the new bottleneck. Codex brings pull requests, review feedback, and private conversations about your code into one place.\n\nSee how to find reviews across repositories, understand changes and risks, apply your team’s review guidelines, and draft comments without switching tools.\n\nGitHub code review is generally available, with GitLab support in preview.",
-      "duration": "PT2M22S",
-      "view_count": 69875,
-      "like_count": 832,
-      "comment_count": 97,
-      "url": "https://www.youtube.com/watch?v=IZXv6a78NDw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-13T21:21:05Z",
+    "generated_at": "2026-10-14T09:36:41Z",
     "count": 5
   }
 }
