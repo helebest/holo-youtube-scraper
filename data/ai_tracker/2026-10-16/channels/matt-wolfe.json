@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-10-16",
+  "result": [
+    {
+      "id": "XEl4ZQKKxig",
+      "title": "The Cheapest Robot On The Market?!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-14T14:41:38Z",
+      "description": "This week I discovered the Flourish 1, a $3,500 robot that uses a Raspberry Pi instead of expensive hardware and can learn household chores just by watching you move your phone.\n\nIt focuses on practical tasks instead of flashy features, and the price reflects that.\n\nOnly 50 are being made in the first batch with shipping planned for December.\n\nWould you rather get this instead of an ultra advanced $20,000 robot? \n\n#Robotics #FutureTech #AI #AInews",
+      "duration": "PT1M13S",
+      "view_count": 4035,
+      "like_count": 116,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=XEl4ZQKKxig"
+    },
+    {
+      "id": "eBszYxzE2dk",
+      "title": "Google Just Caught Up (Gemini-4 Argon)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-13T16:47:07Z",
+      "description": "Gemini 4 Argon is finally here, so I put it through some hands-on tests—from coding games to 3D printing Gary Busey. Here’s what impressed me, what got stuck, and how Google stacks up against Claude and ChatGPT.\n\nSharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com \n\n#Gemini4 #GoogleGemini #AITools\n\nTime Stamps:\n00:00 Gemini 4 Argon Is Here\n01:47 Benchmarks and the Million-Token Output\n04:32 Antigravity and Gemini App Updates\n06:54 Pricing and Who Gets Access\n08:21 Coding Tests: SVGs, Games and Physics\n11:38 Scheduling and Research Tests\n13:34 3D Printing Gary Busey\n15:00 Testing Gemini Tasks\n16:30 Teaching a Robot to Play Cornhole\n17:35 Has Google Caught Up?",
+      "duration": "PT20M40S",
+      "view_count": 232741,
+      "like_count": 3355,
+      "comment_count": 319,
+      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
+    },
+    {
+      "id": "b0jA6fkGsk8",
+      "title": "How To Stop Being An \"AI Meat Proxy\"",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-13T15:10:54Z",
+      "description": "The whole point of AI is to do LESS busywork. So why do I feel like an AI Meat Proxy?!\n\nAI helps write an email, but we’re still doing all the copying, pasting, sending, and checking.\n\nThat stuff adds up, especially when you’re running a business.\n\n@birdHQ built a platform where AI agents can handle more of those repetitive tasks, while you decide what still needs your review.\n\nIf you're interested, check them out at the link in the pinned comment.\n\n#BirdPartner #customerservice #aitools #ai #smallbusiness",
+      "duration": "PT1M1S",
+      "view_count": 7415,
+      "like_count": 164,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=b0jA6fkGsk8"
+    },
+    {
+      "id": "NUizyuGj-kE",
+      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-09T15:00:01Z",
+      "description": "Here's The AI News You Probably Missed This Week! Get $100 in free credits for @Hyperagent when you sign up for a paid plan here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nClaude Haiku 5.5: https://www.anthropic.com/claude-haiku-5-5\nClaude Dashboards & Motion: https://claude.com/resources/articles/dashboards-and-motion\nCodex 28-Day Improvements: https://x.com/thsottiaux/status/2106845241357824205\nGPT-6 for Everyone: https://openai.com/index/gpt-6-for-everyone/\nCodex Faster Default Speed: https://x.com/thsottiaux/status/2107158998495748264\nFree Codex Auto-Review: https://x.com/thsottiaux/status/2107368734981517634\nChatGPT Meetings Plugin: https://x.com/ChatGPT/status/2107567930557026653\nOpenAI Decisions API: https://x.com/OpenAIDevs/status/2107573382229188645\nOpenAI Developers Post: https://x.com/OpenAIDevs/status/2107539647392096384\nGPT-6.1 Sol Ultrafast: https://x.com/OpenAIDevs/status/2108262812489531498\nCodex Instant Steering: https://x.com/thsottiaux/status/2108275041276420573\nGrok Multi-Model Backend: https://x.com/elonmusk/status/2107724314451878104\nGrok Bot Monitors X: https://x.com/bot/status/2107949161878606089\nMistral Large 4: https://mistral.ai/news/mistral-large-4/\nReflection Beam Model: https://reflection.ai/blog/introducing-beam\nGoogle Playground Games: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/\nGoogle Offline Note-Taker: https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline\nGemini Agent Launch: https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\nSynthID Detector Expansion: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/\nHark Pro Intro: https://www.youtube.com/watch?v=i3mfnrEwaA0\nMeta Muse Gadgets Open-Sourced: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link\nClaude Abuse Policy: https://x.com/AndrewCurran_/status/2108244808494154089\nAndrew Curran Post: https://x.com/AndrewCurran_/status/2108278519163912412\nSuleyman on AI Jobs: https://x.com/mustafasuleyman/status/2107475087075197239\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:11 Claude Haiku 5.5\n4:25 Claude Live Dashboards and Motion\n7:00 HyperAgent\n10:02 OpenAI 28-Days\n10:23 GPT-6 and Intelligent UI\n13:29 GPT Speed Update\n13:50 OpenAI Free Auto-Review\n14:47 ChatGPT Note Taker\n15:46 Decisions API\n16:46 OpenAI API Pricing Update\n17:02 GPT-6.1 Ultrafast\n18:05 GPT Better Course-Correct\n18:58 GrokBot Updates\n24:37 Mistral Large 4\n25:26 Reflections 501B\n26:39 Google Playground\n27:29 Google AI Notetaker\n28:23 Gemini Agent\n29:34 SynthID Update\n29:53 Hark Pro\n31:29 Muse AI Gadgets\n31:39 No Claude Abuse\n32:32 AI Won't Take As Many Jobs\n33:10 Final Thoughts",
+      "duration": "PT35M28S",
+      "view_count": 128230,
+      "like_count": 2370,
+      "comment_count": 271,
+      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
+    },
+    {
+      "id": "grOilk8aCS0",
+      "title": "AI Design Hack Saves HOURS",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-08T15:13:52Z",
+      "description": "#ad I used @GensparkProduct Design to generate the UI for a FutureTools app... and it only took me about 30 minutes.\n\nIt created the home feed, individual tool pages, and a layered, fully editable design. I could even generate a launch video in the same visual style, share the project with my team, and bring it into Genspark Code to start turning it into a working product.\n\nIf you want to check out all their design templates, or start one from scratch, sign up and get free credits at the link in the pinned comment. \n\n#Genspark #GensparkDesign #WorkwithGenspark #AI #AITools",
+      "duration": "PT58S",
+      "view_count": 11630,
+      "like_count": 217,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=grOilk8aCS0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-15T19:56:15Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-16",
+  "result": [
+    {
+      "id": "_hH7vnTWnq8",
+      "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-14T21:33:58Z",
+      "description": "",
+      "duration": "PT1M38S",
+      "view_count": 509307,
+      "like_count": 14153,
+      "comment_count": 693,
+      "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
+    },
+    {
+      "id": "RUoY5GCdONY",
+      "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-12T17:40:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 270858,
+      "like_count": 5815,
+      "comment_count": 242,
+      "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
+    },
+    {
+      "id": "Q3nhfMQLZdQ",
+      "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-11T20:54:26Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 202424,
+      "like_count": 5215,
+      "comment_count": 273,
+      "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
+    },
+    {
+      "id": "hTHPsAOEIWM",
+      "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T18:49:05Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 212836,
+      "like_count": 5320,
+      "comment_count": 165,
+      "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
+    },
+    {
+      "id": "BWnygfn04qA",
+      "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T00:00:15Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 344806,
+      "like_count": 9866,
+      "comment_count": 356,
+      "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-15T19:56:09Z",
+    "count": 5
+  }
+}

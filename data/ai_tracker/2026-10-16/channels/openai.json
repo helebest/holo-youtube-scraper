@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-16",
+  "result": [
+    {
+      "id": "GyO8Ao7yKJc",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T18:24:44Z",
+      "description": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API.",
+      "duration": "PT41S",
+      "view_count": 5694,
+      "like_count": 887,
+      "comment_count": 89,
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "id": "3IVo-MNwk2I",
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T14:13:38Z",
+      "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nWatch Gregor explain what faster research makes possible.",
+      "duration": "PT27S",
+      "view_count": 1334,
+      "like_count": 39,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3IVo-MNwk2I"
+    },
+    {
+      "id": "BOTAeAU5ExQ",
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T14:12:09Z",
+      "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nWatch Gregor explain what faster research makes possible.",
+      "duration": "PT53S",
+      "view_count": 10092,
+      "like_count": 114,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ"
+    },
+    {
+      "id": "PZxbaIp8PzE",
+      "title": "Cooking up a catering business with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-14T17:47:37Z",
+      "description": "Running a restaurant is a 24/7 commitment. And apparently finding catering clients is just as time-consuming. Nick Baumann visited Richard at @thedumplingprince in Toronto to put ChatGPT to work on a catering deck and automated outreach. It didn't get an apron.\n\n👉🛠️ Wish something existed? Drop your idea below or DM us and we'll come build it with you next.",
+      "duration": "PT1M48S",
+      "view_count": 4921,
+      "like_count": 205,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE"
+    },
+    {
+      "id": "DTcK95TAZ-k",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-14T09:35:27Z",
+      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing the outcome they want, users can get an analysis, a report, or an application, with Codex gathering the information from internal systems.\n\nRead the full Oracle story: https://openai.com/index/oracle/",
+      "duration": "PT22S",
+      "view_count": 4477,
+      "like_count": 116,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-15T19:56:14Z",
+    "count": 5
+  }
+}
