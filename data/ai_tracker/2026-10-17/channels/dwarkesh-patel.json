@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-17",
+  "result": [
+    {
+      "id": "hjhJQXlQ6HQ",
+      "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-16T00:01:56Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 339905,
+      "like_count": 10606,
+      "comment_count": 455,
+      "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
+    },
+    {
+      "id": "_hH7vnTWnq8",
+      "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-14T21:33:58Z",
+      "description": "",
+      "duration": "PT1M38S",
+      "view_count": 796013,
+      "like_count": 21942,
+      "comment_count": 977,
+      "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
+    },
+    {
+      "id": "RUoY5GCdONY",
+      "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-12T17:40:51Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 399558,
+      "like_count": 8036,
+      "comment_count": 309,
+      "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
+    },
+    {
+      "id": "Q3nhfMQLZdQ",
+      "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-11T20:54:26Z",
+      "description": "",
+      "duration": "PT53S",
+      "view_count": 224508,
+      "like_count": 5800,
+      "comment_count": 296,
+      "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
+    },
+    {
+      "id": "hTHPsAOEIWM",
+      "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-10T18:49:05Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "view_count": 228271,
+      "like_count": 5666,
+      "comment_count": 178,
+      "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-16T19:35:47Z",
+    "count": 5
+  }
+}

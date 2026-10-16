@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Wes Roth",
+    "tier": "news_tools",
+    "handle": "@WesRoth",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+  },
+  "date": "2026-10-17",
+  "result": [
+    {
+      "id": "EmaXeEdlJkI",
+      "title": "AI just BROKE all of the software industry...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-15T03:46:29Z",
+      "description": "Minecraft in GTA. Mario in Elden Ring. And software companies suddenly competing with their own customers. AI is changing how people modify games and rebuild the tools they use, so I tried it myself. Here's what people are making, how to get started, and why some of the possibilities get uncomfortable fast.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nMario in Elden Ring:\nhttps://github.com/deltarooo/er-mario\n\nMinecraft in GTA V:\nhttps://github.com/rehan-remade/universal-modder/blob/main/examples/minecraft-gta5-passthrough/README.md\n\nSRE-Bench research paper:\nhttps://arxiv.org/html/2608.11469v2\n\nPhotoCraft, open-source image editor:\nhttps://github.com/storytold/photocraft\n\nFilmCraft, open-source video editor:\nhttps://github.com/storytold/filmcraft\n\nNigel, iterative coding-agent workflow:\nhttps://github.com/cdlewis/nigel\n\nSnowboard Kids decompilation:\nhttps://github.com/cdlewis/snowboardkids-decomp\n\nReverse Engineer Anything:\nhttps://github.com/morluto/rea\n\nArkWeb, Spider-Man movement in Batman:\nhttps://github.com/luki-1/ArkWeb\n\nUniversal Modder:\nhttps://github.com/rehan-remade/universal-modder\n\nCHAPTERS:\n00:00 Game Mashups\n03:00 Reverse Engineering\n06:00 Building Software\n09:00 Adobe Alternatives\n12:00 Game Exploits\n17:00 Training Data\n19:00 Modding Tools\n25:00 Personal Projects\n\n#ai #gaming #codex",
+      "duration": "PT26M15S",
+      "view_count": 156293,
+      "like_count": 2264,
+      "comment_count": 697,
+      "url": "https://www.youtube.com/watch?v=EmaXeEdlJkI"
+    },
+    {
+      "id": "NL0yDYXAQ0E",
+      "title": "GEMINI 4 ARGON IS WEIRD...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-14T03:28:07Z",
+      "description": "Google is back, but Gemini 4 Argon feels very different. I tested Google’s polished demos, built my own games, and found a powerful model with some strange habits. We also explore its robotics capabilities and what Google’s safety findings reveal about shortcuts that stopped showing up in the model’s reasoning.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nGoogle — Gemini 4 Argon launch:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\n\nWizard Chess — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/wizard-chess-3d?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nDesk Racer — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/desk-racer?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nGoogle — Gemini 4 Argon for Robotics:\nhttps://developers.googleblog.com/en/gemini-4-argon-for-robotics/\n\nAndon Labs — Drone-Bench:\nhttps://andonlabs.com/evals/drone-bench\n\nGoogle — Gemini 4 safety and security:\nhttps://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/\n\nCHAPTERS:\n00:00 First Impressions\n01:05 Google’s Demos\n03:05 My Builds\n07:00 Early Access\n09:30 AI Robotics\n16:50 Model Comparison\n19:10 AI Safety\n23:25 Final Thoughts\n\n#gemini4 #google #ai",
+      "duration": "PT24M57S",
+      "view_count": 234176,
+      "like_count": 2609,
+      "comment_count": 552,
+      "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E"
+    },
+    {
+      "id": "S0JwWcLVzQA",
+      "title": "Vibe Coding 2.0 is here...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-13T04:16:47Z",
+      "description": "Check out Superblocks and book a demo:\nhttps://www.superblocks.com/?utm_source=youtube&utm_medium=influencer&utm_content=WesR\n\nVibe coding can get you a working demo. What happens when an entire team needs to use it? I use Superblocks to build a customer support CRM and explore what comes next. From permissions and security checks to keeping the app under your company’s control.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES\n\nBuilding with Clark AI\nhttps://docs.superblocks.com/building-with-clark/index\n\nCode Security\nhttps://docs.superblocks.com/admin/code-security/index\n\nCloudPrem on AWS\nhttps://docs.superblocks.com/enterprise/cloud-prem/aws\n\nCHAPTERS\n\n00:00 Vibe Coding\n02:11 Building the CRM\n03:06 Refund Workflow\n04:17 App Permissions\n05:16 Security Checks\n06:16 Audit Logs\n06:59 CloudPrem\n07:44 Enterprise Apps\n\n#vibecoding #ai #superblockspartner",
+      "duration": "PT8M58S",
+      "view_count": 41959,
+      "like_count": 408,
+      "comment_count": 71,
+      "url": "https://www.youtube.com/watch?v=S0JwWcLVzQA"
+    },
+    {
+      "id": "rxpV3QLV-pg",
+      "title": "OpenAI’s “Alien Math” Is Freaking People Out",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-09T04:28:24Z",
+      "description": "OpenAI released hundreds of mathematical results—and a group of mathematicians called for a boycott. Scott Aaronson calls it the “Mathocalypse,” while Vitalik Buterin and Justin Drake warn about what AI-driven discoveries could mean for Bitcoin, Ethereum, and encryption. We explore the backlash, the strange new proofs, and why Anthropic is drawing a line around how people treat Claude.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI’s mathematics release:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\n\nResearch papers and formalizations:\nhttps://github.com/openai/math\n\nScott Aaronson — The Mathocalypse:\nhttps://scottaaronson.blog/?p=10169\n\nAssociation for Human Mathematics statement:\nhttps://www.ahmath.org/statements\n\nJustin Drake’s “bunker mode” warning:\nhttps://x.com/drakefjustin/status/2107837081313505768\n\nVitalik Buterin on AI and cryptography:\nhttps://x.com/VitalikButerin/status/2107976296320106851\n\nAnthropic’s usage policy update:\nhttps://www.anthropic.com/news/2026-usage-policy-update\n\nCHAPTERS:\n00:00 Math Apocalypse\n05:00 Math Backlash\n07:00 Alien Proofs\n12:00 Crypto Risks\n22:00 Government Secrecy\n26:00 Vitalik’s Warning\n31:00 AI Welfare\n37:00 Human Mathematics\n\n#ai #openai #crypto",
+      "duration": "PT33M57S",
+      "view_count": 770269,
+      "like_count": 8310,
+      "comment_count": 3532,
+      "url": "https://www.youtube.com/watch?v=rxpV3QLV-pg"
+    },
+    {
+      "id": "fTGIV3e8dTU",
+      "title": "OpenAI's secret model just BROKE math...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-07T04:02:49Z",
+      "description": "OpenAI just released 722 mathematical manuscripts from an unreleased AI model. As AI pushes further into frontier mathematics, verifying and understanding the results could become the real bottleneck. What does that mean for science, future AI systems, and medicine?\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI’s new mathematics release:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\n\nMathematical manuscripts and proof files:\nhttps://github.com/openai/math\n\nOpenAI’s Navier–Stokes announcement:\nhttps://openai.com/index/navier-stokes-solution/\n\nGoogle DeepMind’s AlphaEvolve:\nhttps://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\nScott Aaronson — The Age of Wonders and Terrors:\nhttps://scottaaronson.blog/?p=10062\n\nOpen letter from 25 Fields Medalists:\nhttps://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\n\nCHAPTERS:\n00:00 OpenAI’s Math Release\n04:20 Mathematical Breakthroughs\n07:10 Proof Verification\n10:10 Improving AI\n12:30 Human Understanding\n18:15 AI and Medicine\n20:20 A Math Joke\n\n#openai #ai #mathematics",
+      "duration": "PT21M44S",
+      "view_count": 147287,
+      "like_count": 2120,
+      "comment_count": 780,
+      "url": "https://www.youtube.com/watch?v=fTGIV3e8dTU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-16T19:35:56Z",
+    "count": 5
+  }
+}
