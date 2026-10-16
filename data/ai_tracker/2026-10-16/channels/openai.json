@@ -14,15 +14,27 @@
   "date": "2026-10-16",
   "result": [
     {
+      "id": "KJ_7KPKlO_Q",
+      "title": "Build more personal sites with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T20:48:59Z",
+      "description": "Keep your team's Sites up to date and make them personal to each visitor. Connect scheduled tasks to refresh site data automatically and let your users connect their plugins for a personalized view of your site.\n\nTo try it out, just ask Codex.",
+      "duration": "PT1M21S",
+      "view_count": 56488,
+      "like_count": 630,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q"
+    },
+    {
       "id": "GyO8Ao7yKJc",
       "title": "GPT-Live-1.1 has new voices and better accents.",
       "channel_title": "OpenAI",
       "published_at": "2026-10-15T18:24:44Z",
       "description": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API.",
       "duration": "PT41S",
-      "view_count": 5694,
-      "like_count": 887,
-      "comment_count": 89,
+      "view_count": 104245,
+      "like_count": 2001,
+      "comment_count": 167,
       "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-10-15T14:13:38Z",
       "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nWatch Gregor explain what faster research makes possible.",
       "duration": "PT27S",
-      "view_count": 1334,
-      "like_count": 39,
+      "view_count": 3980,
+      "like_count": 74,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=3IVo-MNwk2I"
     },
@@ -42,10 +54,10 @@
       "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
       "channel_title": "OpenAI",
       "published_at": "2026-10-15T14:12:09Z",
-      "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nWatch Gregor explain what faster research makes possible.",
+      "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nLearn what faster research makes possible for SentinelOne: https://openai.com/index/sentinelone/",
       "duration": "PT53S",
-      "view_count": 10092,
-      "like_count": 114,
+      "view_count": 17122,
+      "like_count": 153,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-10-14T17:47:37Z",
       "description": "Running a restaurant is a 24/7 commitment. And apparently finding catering clients is just as time-consuming. Nick Baumann visited Richard at @thedumplingprince in Toronto to put ChatGPT to work on a catering deck and automated outreach. It didn't get an apron.\n\n👉🛠️ Wish something existed? Drop your idea below or DM us and we'll come build it with you next.",
       "duration": "PT1M48S",
-      "view_count": 4921,
-      "like_count": 205,
-      "comment_count": 8,
+      "view_count": 6033,
+      "like_count": 245,
+      "comment_count": 10,
       "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE"
-    },
-    {
-      "id": "DTcK95TAZ-k",
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-14T09:35:27Z",
-      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing the outcome they want, users can get an analysis, a report, or an application, with Codex gathering the information from internal systems.\n\nRead the full Oracle story: https://openai.com/index/oracle/",
-      "duration": "PT22S",
-      "view_count": 4477,
-      "like_count": 116,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-15T19:56:14Z",
+    "generated_at": "2026-10-16T09:07:39Z",
     "count": 5
   }
 }

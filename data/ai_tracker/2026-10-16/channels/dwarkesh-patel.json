@@ -14,15 +14,27 @@
   "date": "2026-10-16",
   "result": [
     {
+      "id": "hjhJQXlQ6HQ",
+      "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-16T00:01:56Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 134566,
+      "like_count": 5193,
+      "comment_count": 239,
+      "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
+    },
+    {
       "id": "_hH7vnTWnq8",
       "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-14T21:33:58Z",
       "description": "",
       "duration": "PT1M38S",
-      "view_count": 509307,
-      "like_count": 14153,
-      "comment_count": 693,
+      "view_count": 709520,
+      "like_count": 18887,
+      "comment_count": 839,
       "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-12T17:40:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 270858,
-      "like_count": 5815,
-      "comment_count": 242,
+      "view_count": 318388,
+      "like_count": 6709,
+      "comment_count": 266,
       "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-11T20:54:26Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 202424,
-      "like_count": 5215,
-      "comment_count": 273,
+      "view_count": 215213,
+      "like_count": 5532,
+      "comment_count": 289,
       "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-10T18:49:05Z",
       "description": "",
       "duration": "PT1M4S",
-      "view_count": 212836,
-      "like_count": 5320,
-      "comment_count": 165,
+      "view_count": 219938,
+      "like_count": 5489,
+      "comment_count": 170,
       "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
-    },
-    {
-      "id": "BWnygfn04qA",
-      "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-10T00:00:15Z",
-      "description": "",
-      "duration": "PT1M27S",
-      "view_count": 344806,
-      "like_count": 9866,
-      "comment_count": 356,
-      "url": "https://www.youtube.com/watch?v=BWnygfn04qA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-15T19:56:09Z",
+    "generated_at": "2026-10-16T09:07:34Z",
     "count": 5
   }
 }
