@@ -14,15 +14,27 @@
   "date": "2026-10-17",
   "result": [
     {
+      "id": "scwlR0QHGOk",
+      "title": "The NEW Tesla Roadster: My Honest Reaction",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-17T02:09:23Z",
+      "description": "Tesla doesn't do marketing. Until they do.\n\nHagerty video: https://youtu.be/22rvpUecLts?si=z7reGi_rtH9mG3R3\n\nAuto Focus: http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT22M45S",
+      "view_count": 2509232,
+      "like_count": 62029,
+      "comment_count": 7905,
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk"
+    },
+    {
       "id": "QVv3mQzlrN0",
       "title": "Apple Homeview Impressions: Not Convinced!",
       "channel_title": "Marques Brownlee",
       "published_at": "2026-10-13T22:42:38Z",
       "description": "New Smart home display from Apple. With plenty of quirks and features.\n\nThe deskpad! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT11M47S",
-      "view_count": 8823894,
-      "like_count": 98043,
-      "comment_count": 7353,
+      "view_count": 9275267,
+      "like_count": 99834,
+      "comment_count": 7484,
       "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-08T21:00:40Z",
       "description": "New laptops are dropping left and right! Let's talk about Google's entry.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nAsus Googlebook provided by Asus for review.\nXPS Googlebook provided by Dell for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT14M13S",
-      "view_count": 8112137,
-      "like_count": 96915,
-      "comment_count": 7824,
+      "view_count": 8192246,
+      "like_count": 97304,
+      "comment_count": 7836,
       "url": "https://www.youtube.com/watch?v=_0G4OG39XjI"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-02T20:50:25Z",
       "description": "This is not an iPhone Duo. Xiaomi is at it again.\n\nThe desk pad! https://mkbhd.com/products/overlay-deskpad\n\nShoutout to dbrand for helping to source the phone from China.\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT10M47S",
-      "view_count": 11480400,
-      "like_count": 98544,
-      "comment_count": 6345,
+      "view_count": 11528141,
+      "like_count": 98680,
+      "comment_count": 6350,
       "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-09-30T14:42:19Z",
       "description": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
       "duration": "PT12M23S",
-      "view_count": 5786287,
-      "like_count": 127268,
-      "comment_count": 9528,
+      "view_count": 5792325,
+      "like_count": 127336,
+      "comment_count": 9533,
       "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y"
-    },
-    {
-      "id": "rayrrXot17M",
-      "title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "channel_title": "Marques Brownlee",
-      "published_at": "2026-09-29T01:01:35Z",
-      "description": "Nothing decided to join the $400+ ANC headphone ranks, and made just one bizarre mistake...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-      "duration": "PT14M20S",
-      "view_count": 6131404,
-      "like_count": 64801,
-      "comment_count": 2715,
-      "url": "https://www.youtube.com/watch?v=rayrrXot17M"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-16T19:35:50Z",
+    "generated_at": "2026-10-17T08:40:07Z",
     "count": 5
   }
 }

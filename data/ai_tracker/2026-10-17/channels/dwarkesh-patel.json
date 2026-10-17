@@ -14,15 +14,27 @@
   "date": "2026-10-17",
   "result": [
     {
+      "id": "B6FAMw8FgX4",
+      "title": "Why Guns Didn’t Conquer the Aztecs - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-16T23:06:48Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 85286,
+      "like_count": 3237,
+      "comment_count": 187,
+      "url": "https://www.youtube.com/watch?v=B6FAMw8FgX4"
+    },
+    {
       "id": "hjhJQXlQ6HQ",
       "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-16T00:01:56Z",
       "description": "",
       "duration": "PT1M48S",
-      "view_count": 339905,
-      "like_count": 10606,
-      "comment_count": 455,
+      "view_count": 509948,
+      "like_count": 15015,
+      "comment_count": 604,
       "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-14T21:33:58Z",
       "description": "",
       "duration": "PT1M38S",
-      "view_count": 796013,
-      "like_count": 21942,
-      "comment_count": 977,
+      "view_count": 887364,
+      "like_count": 24854,
+      "comment_count": 1051,
       "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-12T17:40:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 399558,
-      "like_count": 8036,
-      "comment_count": 309,
+      "view_count": 461849,
+      "like_count": 9206,
+      "comment_count": 369,
       "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-11T20:54:26Z",
       "description": "",
       "duration": "PT53S",
-      "view_count": 224508,
-      "like_count": 5800,
-      "comment_count": 296,
+      "view_count": 235686,
+      "like_count": 6053,
+      "comment_count": 306,
       "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
-    },
-    {
-      "id": "hTHPsAOEIWM",
-      "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-10T18:49:05Z",
-      "description": "",
-      "duration": "PT1M4S",
-      "view_count": 228271,
-      "like_count": 5666,
-      "comment_count": 178,
-      "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-16T19:35:47Z",
+    "generated_at": "2026-10-17T08:40:04Z",
     "count": 5
   }
 }
