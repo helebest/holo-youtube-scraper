@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-10-18",
+  "result": [
+    {
+      "id": "lns1MoLvttU",
+      "title": "The WNBA Finals are on 🔥",
+      "channel_title": "Google",
+      "published_at": "2026-10-17T13:26:24Z",
+      "description": "Dream 🆚 Valkyries, the WNBA Finals are underway! Drop a 🏆 if you’re locked in from tip-off to final buzzer.",
+      "duration": "PT11S",
+      "view_count": 2050,
+      "like_count": 85,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=lns1MoLvttU"
+    },
+    {
+      "id": "eSGqW_VMMXQ",
+      "title": "Why the future of healthcare is prevention | Dr. Eric Topol & Josh Woodward",
+      "channel_title": "Google",
+      "published_at": "2026-10-16T18:59:42Z",
+      "description": "In this episode of Dialogues, Josh Woodward, VP, Google Labs and Gemini, sits down with Dr. Eric Topol, practicing cardiologist, founder and director of the Scripps Research Translational Institute, and author of \"Deep Medicine\" and \"Super Agers.\"\n\nThey explore how generative tools and ambient note-taking can help return the gift of time to doctors. Dr. Topol dives into the core insights from his book \"Super Agers,” and how he uses Gemini Notebook every day to understand complex medical research.\n\n03:00 - AI and ambient note-taking for clinicians\n08:21 - Key insights from Super Agers and preventive healthcare\n10:40 - Using Gemini Notebook for complex medical research\n\nWatch more: https://www.youtube.com/playlist?list=PL590L5WQmH8f8ID51T0_9JkWpeL9Dcb-S\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT13M54S",
+      "view_count": 19568,
+      "like_count": 192,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=eSGqW_VMMXQ"
+    },
+    {
+      "id": "VFiWYLSQNP4",
+      "title": "Guess who’s #1 ... again 🏆",
+      "channel_title": "Google",
+      "published_at": "2026-10-09T15:00:20Z",
+      "description": "Head to the search bar and type “A’ja Wilson” to celebrate 5 years as the best 🎉",
+      "duration": "PT10S",
+      "view_count": 47852,
+      "like_count": 996,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=VFiWYLSQNP4"
+    },
+    {
+      "id": "MSf34rqZxbU",
+      "title": "How big is space really? 🤔",
+      "channel_title": "Google",
+      "published_at": "2026-10-08T16:22:05Z",
+      "description": "Fun fact: It would take 100 million Moons lined up to cross the TON 618 black hole 🤯 Track down more space facts with Google Search.\n\n#SpaceWeek #GoogleSearch #SpaceFacts",
+      "duration": "PT20S",
+      "view_count": 45497,
+      "like_count": 1148,
+      "comment_count": 169,
+      "url": "https://www.youtube.com/watch?v=MSf34rqZxbU"
+    },
+    {
+      "id": "vCiOLi-NDic",
+      "title": "Turn notes into quizzes with Google Search 📝",
+      "channel_title": "Google",
+      "published_at": "2026-10-06T13:14:55Z",
+      "description": "Upgrade your study sessions by asking Google Search to turn your notes into a custom practice quiz. Here’s how:\n\n📱 Head to AI Mode in Search.\n📁 Tap the ➕ and select “Add files” to upload your study materials.\n✨ Search “quiz me on my notes” to get practice questions with answer breakdowns.\n\n#TestPrep #GoogleSearch #StudyHacks",
+      "duration": "PT14S",
+      "view_count": 31770,
+      "like_count": 591,
+      "comment_count": 107,
+      "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-17T18:35:29Z",
+    "count": 5
+  }
+}
