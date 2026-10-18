@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-19",
+  "result": [
+    {
+      "id": "GBOZIRK1ujw",
+      "title": "Put your dot on call",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-16T21:43:48Z",
+      "description": "Ali, an engineer at OpenAI, used his dot to triage an on-call incident at 3am.\n \nHis dot investigated the issue and started a Codex thread, so he could steer the work from his phone in the ChatGPT app.",
+      "duration": "PT2M38S",
+      "view_count": 129342,
+      "like_count": 1368,
+      "comment_count": 205,
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+    },
+    {
+      "id": "OMxEUdIgsQc",
+      "title": "Put ChatGPT to work on shared team tasks",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-16T18:00:49Z",
+      "description": "Set up recurring work your team can manage together with team tasks in ChatGPT. Follow a legal team's daily intake workflow—from reviewing incoming requests and checking deadlines to refining shared instructions for the next run.\n\nTasks run in the cloud, so teammates can review results, improve the workflow, and keep work moving when someone is away.\n\nAvailable to Enterprise plans",
+      "duration": "PT2M34S",
+      "view_count": 24343,
+      "like_count": 262,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc"
+    },
+    {
+      "id": "KJ_7KPKlO_Q",
+      "title": "Build more personal sites with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T20:48:59Z",
+      "description": "Keep your team's Sites up to date and make them personal to each visitor. Connect scheduled tasks to refresh site data automatically and let your users connect their plugins for a personalized view of your site.\n\nTo try it out, just ask Codex.",
+      "duration": "PT1M21S",
+      "view_count": 94251,
+      "like_count": 946,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q"
+    },
+    {
+      "id": "GyO8Ao7yKJc",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T18:24:44Z",
+      "description": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API.",
+      "duration": "PT41S",
+      "view_count": 172947,
+      "like_count": 2638,
+      "comment_count": 221,
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "id": "3IVo-MNwk2I",
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-15T14:13:38Z",
+      "description": "Cybersecurity research, moving from weeks to hours.\n\nSentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks.\n\nThat lets security teams investigate more malware, connect related threats and keep a clearer picture of how attacks are evolving.\n\n“That’s a kind of intelligence that we were never able to afford before.”\n\nWatch Gregor explain what faster research makes possible.",
+      "duration": "PT27S",
+      "view_count": 11172,
+      "like_count": 255,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=3IVo-MNwk2I"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-18T18:43:10Z",
+    "count": 5
+  }
+}

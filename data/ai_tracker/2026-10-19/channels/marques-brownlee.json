@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-10-19",
+  "result": [
+    {
+      "id": "scwlR0QHGOk",
+      "title": "The NEW Tesla Roadster: My Honest Reaction",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-17T02:09:23Z",
+      "description": "Tesla doesn't do marketing. Until they do.\n\nHagerty video: https://youtu.be/22rvpUecLts?si=z7reGi_rtH9mG3R3\n\nAuto Focus: http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT22M45S",
+      "view_count": 8628149,
+      "like_count": 151391,
+      "comment_count": 18043,
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk"
+    },
+    {
+      "id": "QVv3mQzlrN0",
+      "title": "Apple Homeview Impressions: Not Convinced!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-13T22:42:38Z",
+      "description": "New Smart home display from Apple. With plenty of quirks and features.\n\nThe deskpad! http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT11M47S",
+      "view_count": 9817145,
+      "like_count": 102397,
+      "comment_count": 7624,
+      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0"
+    },
+    {
+      "id": "_0G4OG39XjI",
+      "title": "WTF is a Googlebook?",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-08T21:00:40Z",
+      "description": "New laptops are dropping left and right! Let's talk about Google's entry.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nAsus Googlebook provided by Asus for review.\nXPS Googlebook provided by Dell for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT14M13S",
+      "view_count": 8354015,
+      "like_count": 98135,
+      "comment_count": 7878,
+      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI"
+    },
+    {
+      "id": "3iRUwVzRDZQ",
+      "title": "Xiaomi 18 Fold: How Does This Happen?",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-10-02T20:50:25Z",
+      "description": "This is not an iPhone Duo. Xiaomi is at it again.\n\nThe desk pad! https://mkbhd.com/products/overlay-deskpad\n\nShoutout to dbrand for helping to source the phone from China.\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT10M47S",
+      "view_count": 11612770,
+      "like_count": 98961,
+      "comment_count": 6349,
+      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ"
+    },
+    {
+      "id": "e1q-TuHdc4Y",
+      "title": "Dear YouTube!",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-09-30T14:42:19Z",
+      "description": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT12M23S",
+      "view_count": 5806200,
+      "like_count": 127531,
+      "comment_count": 9548,
+      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-18T18:43:08Z",
+    "count": 5
+  }
+}
