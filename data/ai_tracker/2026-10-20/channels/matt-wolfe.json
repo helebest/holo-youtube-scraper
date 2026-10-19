@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-10-20",
+  "result": [
+    {
+      "id": "aIrrq3CLSKM",
+      "title": "3 New Claude Prompts You Need To Try",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-19T12:43:39Z",
+      "description": "Claude just got 3 powerful new upgrades. Here's how to use them:\n\n1. Motion can transform boring reports into animated explainer videos in seconds. \n2. Dashboards can turn your business data into interactive, live dashboards with a simple prompt.\n3. And Claude Haiku 5.5 let's you get everyday AI tasks done faster and cheaper.\n\nFollow for more AI tools, news, and future tech videos.\n\n#Claude #Anthropic #AITools #Productivityhack",
+      "duration": "PT56S",
+      "view_count": 3944,
+      "like_count": 138,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=aIrrq3CLSKM"
+    },
+    {
+      "id": "KGcuuhqmPhI",
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-16T16:20:28Z",
+      "description": "Get free credits when you sign up for @GensparkProduct Design here: https://www.genspark.ai/agents?type=design&utm_campaign=mattwolfe04&utm_source=yt\n\nThis week in AI: Krea 3 makes image editing seriously easy, Google’s Gemini 4 Argon and Meta’s Muse Wonder get put to the test, and new open-weight models keep coming. Plus, the latest OpenAI updates, Grok Voice 3.0, and a rapid-fire roundup of AI news.\n\nSharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nKrea 3 Beta: https://x.com/krea_ai/status/2110760037128012146\nFLUX 3 Image Klein: https://bfl.ai/blog/flux-3-image-klein\nQwen-Image-2.1-Turbo: https://x.com/Alibaba_Qwen/status/2108549075218120949\nGemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\nMeta Muse Wonder: https://research.meta.ai/blog/muse-wonder\nMuse Spark Open: https://research.meta.ai/blog/muse-spark-open\nMicrosoft MAI-Base-2: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/\nNVIDIA Nemotron 3.5: https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/\nUltramarine 1 Flash: https://www.paperinstruments.com/ultramarine\nOpenAI 28 Days of Shipping: https://x.com/thsottiaux/status/2106845241357824205\nChatGPT Dots Update: https://x.com/ChatGPT/status/2108636745915052037\nCodex Message Predictions: https://x.com/OpenAIDevs/status/2108624138369929725\nGPT-6.1 Sol 500K Context: https://x.com/thsottiaux/status/2109430343346581527\nMicrosoft Decision-1: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\nBespoke Labs Nimble-v4: https://x.com/madiator/status/2110061495795216639\nGrok Voice 3.0: https://x.ai/news/grok-voice-3\nElevenLabs Instant Soundtracks: https://elevenlabs.io/blog/introducing-instant-soundtracks\nFacebook AI Feed Controls: https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/\nCircle to Search Scam Detection: https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/\nKylon Company Harness: https://x.com/quinn_leng/status/2110036327286886731\nXbox Labs: https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration\nEpic Games AI Acceleration: https://x.com/TimSweeneyEpic/status/2109705826688549304\nApple TV 4K: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/\nApple HomeView: https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 This Week in AI\n00:20 Krea 3: AI Image Editing Demo\n03:13 FLUX 3: Open-Weight Image Generation\n05:18 Qwen Image 2.1 Turbo\n06:17 Genspark Design (Sponsor)\n07:38 Gemini 4 Argon: Benchmarks & Tests\n11:02 Meta Muse Wonder: Benchmarks & Tests\n14:16 New Open-Weight AI Models\n19:03 OpenAI’s 28 Days of Shipping\n21:52 Microsoft Decision-1\n23:00 Bespoke Labs' Nimble-v4 and Nimble-v4-max\n23:33 Grok Voice 3.0\n25:57 Facebook update\n25:35 ElevenLabs Instant Soundtracks\n26:19 Google Android scam detection\n26:47 Kylon\n27:15 Xbox Labs\n28:09 Epic Games' AI pivot\n29:04 Apple TV 4K\n29:13 Apple HomeView\n29:44 Final Thoughts",
+      "duration": "PT31M8S",
+      "view_count": 158072,
+      "like_count": 2808,
+      "comment_count": 164,
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
+    },
+    {
+      "id": "WXWFmwfo1JA",
+      "title": "This Tesla Actually Flies (NOT AI)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-16T04:30:35Z",
+      "description": "This Tesla is Insane - Hard to believe it's not AI.",
+      "duration": "PT46S",
+      "view_count": 171178,
+      "like_count": 2520,
+      "comment_count": 605,
+      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
+    },
+    {
+      "id": "XEl4ZQKKxig",
+      "title": "The Cheapest Robot On The Market?!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-14T14:41:38Z",
+      "description": "This week I discovered the Flourish 1, a $3,500 robot that uses a Raspberry Pi instead of expensive hardware and can learn household chores just by watching you move your phone.\n\nIt focuses on practical tasks instead of flashy features, and the price reflects that.\n\nOnly 50 are being made in the first batch with shipping planned for December.\n\nWould you rather get this instead of an ultra advanced $20,000 robot? \n\n#Robotics #FutureTech #AI #AInews",
+      "duration": "PT1M13S",
+      "view_count": 11740,
+      "like_count": 360,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=XEl4ZQKKxig"
+    },
+    {
+      "id": "eBszYxzE2dk",
+      "title": "Google Just Caught Up (Gemini-4 Argon)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-13T16:47:07Z",
+      "description": "Gemini 4 Argon is finally here, so I put it through some hands-on tests—from coding games to 3D printing Gary Busey. Here’s what impressed me, what got stuck, and how Google stacks up against Claude and ChatGPT.\n\nSharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com \n\n#Gemini4 #GoogleGemini #AITools\n\nTime Stamps:\n00:00 Gemini 4 Argon Is Here\n01:47 Benchmarks and the Million-Token Output\n04:32 Antigravity and Gemini App Updates\n06:54 Pricing and Who Gets Access\n08:21 Coding Tests: SVGs, Games and Physics\n11:38 Scheduling and Research Tests\n13:34 3D Printing Gary Busey\n15:00 Testing Gemini Tasks\n16:30 Teaching a Robot to Play Cornhole\n17:35 Has Google Caught Up?",
+      "duration": "PT20M40S",
+      "view_count": 263476,
+      "like_count": 3583,
+      "comment_count": 333,
+      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-19T21:09:33Z",
+    "count": 5
+  }
+}

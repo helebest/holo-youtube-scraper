@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-20",
+  "result": [
+    {
+      "id": "HZQAbXW_5jU",
+      "title": "AI factories need to respond when the power grid needs relief.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-19T16:47:40Z",
+      "description": "At #OCPSummit26, NVIDIA’s Ian Buck explains how adjusting power use and shifting computing workloads can help, and why collaboration across the industry matters.\n\nWe’re working with partners to advance open standards, designs, and software for the next generation of AI factories.\n\nCatch up in our OCP Global Summit recap: https://nvda.ws/47KU3za",
+      "duration": "PT42S",
+      "view_count": 980,
+      "like_count": 50,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=HZQAbXW_5jU"
+    },
+    {
+      "id": "tvejT5fN4jY",
+      "title": "Our CEO Jensen Huang on joining X.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-19T12:09:29Z",
+      "description": "Entire industries will be built on open models.\nDevelopers need the freedom to build them.\n\nOur CEO Jensen Huang on why keeping these models open and accessible matters.",
+      "duration": "PT49S",
+      "view_count": 2999,
+      "like_count": 114,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=tvejT5fN4jY"
+    },
+    {
+      "id": "_tsiWjmWEZ8",
+      "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-16T11:59:06Z",
+      "description": "Your first PC opened up new worlds.\n\nNow, bring your creative ideas to life, build AI locally,  and play your favorite games—all on one powerful PC.\n\nNVIDIA RTX Spark is here. A new beginning for @Windows PCs.\n\nShop RTX Spark systems: https://marketplace.nvidia.com/en-us/products/rtx-spark/ \n\nLearn more about NVIDIA RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M16S",
+      "view_count": 1043833,
+      "like_count": 1386,
+      "comment_count": 187,
+      "url": "https://www.youtube.com/watch?v=_tsiWjmWEZ8"
+    },
+    {
+      "id": "tWuhYmpPZ0o",
+      "title": "What are People Saying about NVIDIA RTX Spark?",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-16T00:17:45Z",
+      "description": "We caught up with creators and developers at the @Windows Surface event to hear what they’re looking forward to building, creating, and playing.",
+      "duration": "PT1M35S",
+      "view_count": 13124,
+      "like_count": 415,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=tWuhYmpPZ0o"
+    },
+    {
+      "id": "mGQHufCewjc",
+      "title": "Cheers to the UK’s AI builders. 🇬🇧",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-14T21:50:16Z",
+      "description": "Tonight in London, our CEO Jensen Huang celebrated the people behind the UK’s AI ecosystem and announced new investments in Boltz, Foresight, Hiverge, Prima Mente, and Riverlane.\n\nBoltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI agents that help scientists predict molecular structures and interactions, and design potential new medicines.\n\nForesight, a London-based startup, helps owners of major infrastructure projects, including hyperscale data centers, predict completion dates, mitigate risks and accelerate time to revenue.\n\nHiverge, a Cambridge-based AI startup founded by researchers from Google DeepMind and the University of Cambridge, builds an AI discovery engine that automatically writes and optimizes algorithms for tasks such as faster AI training and complex logistics planning.\n\nPrima Mente, a London-based AI biology startup, focuses on building biological foundation models to decode complex diseases and identify novel therapeutic targets, starting with Alzheimer’s, Parkinson’s and ALS.\n\nRiverlane, a Cambridge-based quantum computing startup, builds real-time error correction hardware and software that work across all major qubit types, helping quantum computers become reliable enough for practical use.\n\nFrom new medicines to quantum computing, there’s plenty to build.",
+      "duration": "PT39S",
+      "view_count": 19375,
+      "like_count": 550,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=mGQHufCewjc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-19T21:09:30Z",
+    "count": 5
+  }
+}
