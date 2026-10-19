@@ -14,15 +14,27 @@
   "date": "2026-10-19",
   "result": [
     {
+      "id": "HkMlMdaiODQ",
+      "title": "Why India’s Kings Lost to a Company - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-18T19:44:44Z",
+      "description": "",
+      "duration": "PT1M46S",
+      "view_count": 154996,
+      "like_count": 4940,
+      "comment_count": 192,
+      "url": "https://www.youtube.com/watch?v=HkMlMdaiODQ"
+    },
+    {
       "id": "B6FAMw8FgX4",
       "title": "Why Guns Didn’t Conquer the Aztecs - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-16T23:06:48Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 244353,
-      "like_count": 7155,
-      "comment_count": 417,
+      "view_count": 285151,
+      "like_count": 8584,
+      "comment_count": 467,
       "url": "https://www.youtube.com/watch?v=B6FAMw8FgX4"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-16T00:01:56Z",
       "description": "",
       "duration": "PT1M48S",
-      "view_count": 807967,
-      "like_count": 24298,
-      "comment_count": 867,
+      "view_count": 929990,
+      "like_count": 27355,
+      "comment_count": 955,
       "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-14T21:33:58Z",
       "description": "",
       "duration": "PT1M38S",
-      "view_count": 1027047,
-      "like_count": 29924,
-      "comment_count": 1185,
+      "view_count": 1078913,
+      "like_count": 31420,
+      "comment_count": 1211,
       "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-12T17:40:51Z",
       "description": "",
       "duration": "PT1M19S",
-      "view_count": 676588,
-      "like_count": 13022,
-      "comment_count": 507,
+      "view_count": 758022,
+      "like_count": 14304,
+      "comment_count": 529,
       "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
-    },
-    {
-      "id": "Q3nhfMQLZdQ",
-      "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-11T20:54:26Z",
-      "description": "",
-      "duration": "PT53S",
-      "view_count": 260729,
-      "like_count": 6718,
-      "comment_count": 318,
-      "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-18T18:43:05Z",
+    "generated_at": "2026-10-19T10:04:37Z",
     "count": 5
   }
 }
