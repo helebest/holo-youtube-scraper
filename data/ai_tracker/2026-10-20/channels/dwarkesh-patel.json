@@ -14,15 +14,27 @@
   "date": "2026-10-20",
   "result": [
     {
+      "id": "jG-I55-5rYo",
+      "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-19T21:28:33Z",
+      "description": "",
+      "duration": "PT1M58S",
+      "view_count": 151238,
+      "like_count": 5180,
+      "comment_count": 153,
+      "url": "https://www.youtube.com/watch?v=jG-I55-5rYo"
+    },
+    {
       "id": "HkMlMdaiODQ",
       "title": "Why India’s Kings Lost to a Company - Si Sheppard",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-18T19:44:44Z",
       "description": "",
       "duration": "PT1M46S",
-      "view_count": 215132,
-      "like_count": 6652,
-      "comment_count": 255,
+      "view_count": 253171,
+      "like_count": 7444,
+      "comment_count": 273,
       "url": "https://www.youtube.com/watch?v=HkMlMdaiODQ"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-16T23:06:48Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 313021,
-      "like_count": 9621,
-      "comment_count": 491,
+      "view_count": 340204,
+      "like_count": 10431,
+      "comment_count": 507,
       "url": "https://www.youtube.com/watch?v=B6FAMw8FgX4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-16T00:01:56Z",
       "description": "",
       "duration": "PT1M48S",
-      "view_count": 993080,
-      "like_count": 29330,
-      "comment_count": 998,
+      "view_count": 1072553,
+      "like_count": 30897,
+      "comment_count": 1040,
       "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-14T21:33:58Z",
       "description": "",
       "duration": "PT1M38S",
-      "view_count": 1110746,
-      "like_count": 32471,
-      "comment_count": 1244,
+      "view_count": 1143394,
+      "like_count": 33134,
+      "comment_count": 1262,
       "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
-    },
-    {
-      "id": "RUoY5GCdONY",
-      "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-12T17:40:51Z",
-      "description": "",
-      "duration": "PT1M19S",
-      "view_count": 802823,
-      "like_count": 15043,
-      "comment_count": 543,
-      "url": "https://www.youtube.com/watch?v=RUoY5GCdONY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-19T21:09:26Z",
+    "generated_at": "2026-10-20T09:31:03Z",
     "count": 5
   }
 }

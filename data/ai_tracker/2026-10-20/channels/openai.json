@@ -14,15 +14,27 @@
   "date": "2026-10-20",
   "result": [
     {
+      "id": "DQHtmW9ZlIs",
+      "title": "Cooking with Codex: Ep. 1",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T22:55:26Z",
+      "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
+      "duration": "PT9M8S",
+      "view_count": 29376,
+      "like_count": 386,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+    },
+    {
       "id": "7lC2N9woZy4",
       "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
       "channel_title": "OpenAI",
       "published_at": "2026-10-19T15:13:45Z",
       "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
       "duration": "PT31S",
-      "view_count": 1238,
-      "like_count": 25,
-      "comment_count": 1,
+      "view_count": 3441,
+      "like_count": 47,
+      "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-10-19T15:07:35Z",
       "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
       "duration": "PT57S",
-      "view_count": 8254,
-      "like_count": 53,
+      "view_count": 14322,
+      "like_count": 77,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-10-19T05:30:13Z",
       "description": "You’ll want to turn the sound on for this one.\n\nRead more here: https://chatgpt.com/features/voice/",
       "duration": "PT2M35S",
-      "view_count": 78824,
-      "like_count": 1622,
-      "comment_count": 119,
+      "view_count": 107391,
+      "like_count": 1892,
+      "comment_count": 127,
       "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-19T04:30:15Z",
       "description": "Ein kleiner Tipp von uns: Ton an, denn das willst du hören.\n\nHier weiterlesen: https://chatgpt.com/de-DE/features/voice/",
       "duration": "PT3M14S",
-      "view_count": 17411,
-      "like_count": 237,
-      "comment_count": 30,
+      "view_count": 19893,
+      "like_count": 259,
+      "comment_count": 33,
       "url": "https://www.youtube.com/watch?v=xIEzjwReF2s"
-    },
-    {
-      "id": "-vpwIHxkDFw",
-      "title": "France: This is the new ChatGPT Voice, powered by GPT Live",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-19T04:30:12Z",
-      "description": "Pour cette vidéo, pensez à activez le son pour ne rien manquer.\n\nEn savoir plus: https://chatgpt.com/fr-FR/features/voice/",
-      "duration": "PT2M20S",
-      "view_count": 29409,
-      "like_count": 278,
-      "comment_count": 24,
-      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-19T21:09:31Z",
+    "generated_at": "2026-10-20T09:31:09Z",
     "count": 5
   }
 }
