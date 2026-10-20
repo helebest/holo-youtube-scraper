@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-21",
+  "result": [
+    {
+      "id": "v45XAMqH7pE",
+      "title": "You need a better headshot.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T13:00:34Z",
+      "description": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
+      "duration": "PT55S",
+      "view_count": 3371,
+      "like_count": 137,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
+    },
+    {
+      "id": "DQHtmW9ZlIs",
+      "title": "Cooking with Codex: Ep. 1",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T22:55:26Z",
+      "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
+      "duration": "PT9M8S",
+      "view_count": 46127,
+      "like_count": 563,
+      "comment_count": 73,
+      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+    },
+    {
+      "id": "7lC2N9woZy4",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T15:13:45Z",
+      "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
+      "duration": "PT31S",
+      "view_count": 4504,
+      "like_count": 70,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
+    },
+    {
+      "id": "ExVDpMeaWp0",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T15:07:35Z",
+      "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
+      "duration": "PT57S",
+      "view_count": 16438,
+      "like_count": 86,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
+    },
+    {
+      "id": "mEulEkuxCnM",
+      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T05:30:13Z",
+      "description": "You’ll want to turn the sound on for this one.\n\nRead more here: https://chatgpt.com/features/voice/",
+      "duration": "PT2M35S",
+      "view_count": 117699,
+      "like_count": 2022,
+      "comment_count": 134,
+      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-20T20:02:01Z",
+    "count": 5
+  }
+}

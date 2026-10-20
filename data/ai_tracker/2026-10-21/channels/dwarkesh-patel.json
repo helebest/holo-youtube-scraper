@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-21",
+  "result": [
+    {
+      "id": "jG-I55-5rYo",
+      "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-19T21:28:33Z",
+      "description": "",
+      "duration": "PT1M58S",
+      "view_count": 273908,
+      "like_count": 8526,
+      "comment_count": 244,
+      "url": "https://www.youtube.com/watch?v=jG-I55-5rYo"
+    },
+    {
+      "id": "HkMlMdaiODQ",
+      "title": "Why India’s Kings Lost to a Company - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-18T19:44:44Z",
+      "description": "",
+      "duration": "PT1M46S",
+      "view_count": 266375,
+      "like_count": 7837,
+      "comment_count": 286,
+      "url": "https://www.youtube.com/watch?v=HkMlMdaiODQ"
+    },
+    {
+      "id": "B6FAMw8FgX4",
+      "title": "Why Guns Didn’t Conquer the Aztecs - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-16T23:06:48Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 362430,
+      "like_count": 11158,
+      "comment_count": 538,
+      "url": "https://www.youtube.com/watch?v=B6FAMw8FgX4"
+    },
+    {
+      "id": "hjhJQXlQ6HQ",
+      "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-16T00:01:56Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 1122137,
+      "like_count": 31983,
+      "comment_count": 1076,
+      "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
+    },
+    {
+      "id": "_hH7vnTWnq8",
+      "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-14T21:33:58Z",
+      "description": "",
+      "duration": "PT1M38S",
+      "view_count": 1161372,
+      "like_count": 33638,
+      "comment_count": 1271,
+      "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-20T20:01:57Z",
+    "count": 5
+  }
+}
