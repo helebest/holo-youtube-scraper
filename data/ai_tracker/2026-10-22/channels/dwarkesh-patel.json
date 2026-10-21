@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-22",
+  "result": [
+    {
+      "id": "Hph1Bwzdk_4",
+      "title": "Why Britain Gave Up America - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-21T18:15:24Z",
+      "description": "",
+      "duration": "PT1M19S",
+      "view_count": 22861,
+      "like_count": 1808,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=Hph1Bwzdk_4"
+    },
+    {
+      "id": "2FaEkewECHs",
+      "title": "Why nobody could stop World War I - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-21T15:00:09Z",
+      "description": "",
+      "duration": "PT1M17S",
+      "view_count": 28952,
+      "like_count": 1506,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=2FaEkewECHs"
+    },
+    {
+      "id": "ykyt-M6s3PA",
+      "title": "What if the Vikings had colonized America? - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-20T21:25:20Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 225130,
+      "like_count": 7020,
+      "comment_count": 375,
+      "url": "https://www.youtube.com/watch?v=ykyt-M6s3PA"
+    },
+    {
+      "id": "jG-I55-5rYo",
+      "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-19T21:28:33Z",
+      "description": "",
+      "duration": "PT1M58S",
+      "view_count": 430843,
+      "like_count": 12231,
+      "comment_count": 358,
+      "url": "https://www.youtube.com/watch?v=jG-I55-5rYo"
+    },
+    {
+      "id": "HkMlMdaiODQ",
+      "title": "Why India’s Kings Lost to a Company - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-18T19:44:44Z",
+      "description": "",
+      "duration": "PT1M46S",
+      "view_count": 298462,
+      "like_count": 8806,
+      "comment_count": 307,
+      "url": "https://www.youtube.com/watch?v=HkMlMdaiODQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-21T20:14:23Z",
+    "count": 5
+  }
+}

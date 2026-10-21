@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-22",
+  "result": [
+    {
+      "id": "8n-SXxRIrm8",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T22:57:52Z",
+      "description": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order.\n\nIn this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The agent recommends products, generates a preview of the room, adjusts selections to fit a $250 budget, and suggests a complementary throw blanket. After checkout, it helps switch the order from store pickup to home delivery—all through conversation.\n\nExplore what you can build with OpenAI: https://openai.com/solutions/industries/retail/",
+      "duration": "PT2M1S",
+      "view_count": 57683,
+      "like_count": 605,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
+    },
+    {
+      "id": "v45XAMqH7pE",
+      "title": "You need a better headshot.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T13:00:34Z",
+      "description": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
+      "duration": "PT55S",
+      "view_count": 7174,
+      "like_count": 212,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
+    },
+    {
+      "id": "DQHtmW9ZlIs",
+      "title": "Cooking with Codex: Ep. 1",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T22:55:26Z",
+      "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
+      "duration": "PT9M8S",
+      "view_count": 58273,
+      "like_count": 702,
+      "comment_count": 83,
+      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+    },
+    {
+      "id": "7lC2N9woZy4",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T15:13:45Z",
+      "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
+      "duration": "PT31S",
+      "view_count": 6259,
+      "like_count": 108,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
+    },
+    {
+      "id": "ExVDpMeaWp0",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T15:07:35Z",
+      "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
+      "duration": "PT57S",
+      "view_count": 18054,
+      "like_count": 88,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-21T20:14:28Z",
+    "count": 5
+  }
+}
