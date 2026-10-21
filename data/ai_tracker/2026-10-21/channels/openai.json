@@ -14,15 +14,27 @@
   "date": "2026-10-21",
   "result": [
     {
+      "id": "8n-SXxRIrm8",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T22:57:52Z",
+      "description": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order.\n\nIn this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The agent recommends products, generates a preview of the room, adjusts selections to fit a $250 budget, and suggests a complementary throw blanket. After checkout, it helps switch the order from store pickup to home delivery—all through conversation.\n\nExplore what you can build with OpenAI: https://openai.com/solutions/industries/retail/",
+      "duration": "PT2M1S",
+      "view_count": 35669,
+      "like_count": 442,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
+    },
+    {
       "id": "v45XAMqH7pE",
       "title": "You need a better headshot.",
       "channel_title": "OpenAI",
       "published_at": "2026-10-20T13:00:34Z",
       "description": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
       "duration": "PT55S",
-      "view_count": 3371,
-      "like_count": 137,
-      "comment_count": 14,
+      "view_count": 5950,
+      "like_count": 186,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-19T22:55:26Z",
       "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
       "duration": "PT9M8S",
-      "view_count": 46127,
-      "like_count": 563,
-      "comment_count": 73,
+      "view_count": 54173,
+      "like_count": 646,
+      "comment_count": 78,
       "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-19T15:13:45Z",
       "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
       "duration": "PT31S",
-      "view_count": 4504,
-      "like_count": 70,
-      "comment_count": 4,
+      "view_count": 5430,
+      "like_count": 88,
+      "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-19T15:07:35Z",
       "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
       "duration": "PT57S",
-      "view_count": 16438,
-      "like_count": 86,
+      "view_count": 17411,
+      "like_count": 88,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
-    },
-    {
-      "id": "mEulEkuxCnM",
-      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-19T05:30:13Z",
-      "description": "You’ll want to turn the sound on for this one.\n\nRead more here: https://chatgpt.com/features/voice/",
-      "duration": "PT2M35S",
-      "view_count": 117699,
-      "like_count": 2022,
-      "comment_count": 134,
-      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-20T20:02:01Z",
+    "generated_at": "2026-10-21T09:27:00Z",
     "count": 5
   }
 }

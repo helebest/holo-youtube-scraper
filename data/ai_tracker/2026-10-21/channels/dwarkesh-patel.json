@@ -14,15 +14,27 @@
   "date": "2026-10-21",
   "result": [
     {
+      "id": "ykyt-M6s3PA",
+      "title": "What if the Vikings had colonized America? - Si Sheppard",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-20T21:25:20Z",
+      "description": "",
+      "duration": "PT1M13S",
+      "view_count": 137701,
+      "like_count": 4819,
+      "comment_count": 275,
+      "url": "https://www.youtube.com/watch?v=ykyt-M6s3PA"
+    },
+    {
       "id": "jG-I55-5rYo",
       "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-19T21:28:33Z",
       "description": "",
       "duration": "PT1M58S",
-      "view_count": 273908,
-      "like_count": 8526,
-      "comment_count": 244,
+      "view_count": 376114,
+      "like_count": 10901,
+      "comment_count": 322,
       "url": "https://www.youtube.com/watch?v=jG-I55-5rYo"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-18T19:44:44Z",
       "description": "",
       "duration": "PT1M46S",
-      "view_count": 266375,
-      "like_count": 7837,
-      "comment_count": 286,
+      "view_count": 286355,
+      "like_count": 8447,
+      "comment_count": 300,
       "url": "https://www.youtube.com/watch?v=HkMlMdaiODQ"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-16T23:06:48Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 362430,
-      "like_count": 11158,
-      "comment_count": 538,
+      "view_count": 385387,
+      "like_count": 11922,
+      "comment_count": 552,
       "url": "https://www.youtube.com/watch?v=B6FAMw8FgX4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-16T00:01:56Z",
       "description": "",
       "duration": "PT1M48S",
-      "view_count": 1122137,
-      "like_count": 31983,
-      "comment_count": 1076,
+      "view_count": 1178745,
+      "like_count": 33369,
+      "comment_count": 1101,
       "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ"
-    },
-    {
-      "id": "_hH7vnTWnq8",
-      "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-14T21:33:58Z",
-      "description": "",
-      "duration": "PT1M38S",
-      "view_count": 1161372,
-      "like_count": 33638,
-      "comment_count": 1271,
-      "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-20T20:01:57Z",
+    "generated_at": "2026-10-21T09:26:56Z",
     "count": 5
   }
 }
