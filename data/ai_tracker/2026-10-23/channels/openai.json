@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-23",
+  "result": [
+    {
+      "id": "l16Gw7oVLNQ",
+      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-22T18:00:13Z",
+      "description": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platform for knowledge work.\n\nUber CTO Praveen Neppalli Naga and OpenAI co-founder and President Greg Brockman discuss expanding AI beyond engineering and helping teams rethink entire workflows.\n\nRead more about Uber’s rollout of ChatGPT Work: https://openai.com/index/uber-chatgpt-work-rollout/",
+      "duration": "PT1M21S",
+      "view_count": 1506,
+      "like_count": 69,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ"
+    },
+    {
+      "id": "20IRGgQwPkc",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-21T22:05:10Z",
+      "description": "V7 Go organizes company files into a Context Graph that agents can query to screen investment deals and support insurance underwriting. On V7’s hardest graph-query tests across thousands of documents, GPT-6 Astra reached 89% accuracy.\n\nRead the full story: https://openai.com/index/v7/",
+      "duration": "PT2M7S",
+      "view_count": 22363,
+      "like_count": 169,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc"
+    },
+    {
+      "id": "8n-SXxRIrm8",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T22:57:52Z",
+      "description": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order.\n\nIn this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The agent recommends products, generates a preview of the room, adjusts selections to fit a $250 budget, and suggests a complementary throw blanket. After checkout, it helps switch the order from store pickup to home delivery—all through conversation.\n\nThis demo brings together two OpenAI models:\nGPT-Live-1 powers natural voice conversations to help shoppers find what they’re looking for.\nGPT-Images-2.6 creates and edits images to preview furniture in photos of shoppers’ own rooms.\n\nExplore what you can build with OpenAI: https://openai.com/solutions/industries/retail/",
+      "duration": "PT2M1S",
+      "view_count": 68689,
+      "like_count": 672,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
+    },
+    {
+      "id": "v45XAMqH7pE",
+      "title": "You need a better headshot.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-20T13:00:34Z",
+      "description": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
+      "duration": "PT55S",
+      "view_count": 8454,
+      "like_count": 240,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
+    },
+    {
+      "id": "DQHtmW9ZlIs",
+      "title": "Cooking with Codex: Ep. 1",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-19T22:55:26Z",
+      "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
+      "duration": "PT9M8S",
+      "view_count": 61932,
+      "like_count": 722,
+      "comment_count": 88,
+      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-22T20:12:34Z",
+    "count": 5
+  }
+}
