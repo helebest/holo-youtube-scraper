@@ -14,15 +14,27 @@
   "date": "2026-10-22",
   "result": [
     {
+      "id": "20IRGgQwPkc",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-21T22:05:10Z",
+      "description": "V7 Go organizes company files into a Context Graph that agents can query to screen investment deals and support insurance underwriting. On V7’s hardest graph-query tests across thousands of documents, GPT-6 Astra reached 89% accuracy.\n\nRead the full story: https://openai.com/index/v7/",
+      "duration": "PT2M7S",
+      "view_count": 15774,
+      "like_count": 135,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc"
+    },
+    {
       "id": "8n-SXxRIrm8",
       "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
       "channel_title": "OpenAI",
       "published_at": "2026-10-20T22:57:52Z",
-      "description": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order.\n\nIn this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The agent recommends products, generates a preview of the room, adjusts selections to fit a $250 budget, and suggests a complementary throw blanket. After checkout, it helps switch the order from store pickup to home delivery—all through conversation.\n\nExplore what you can build with OpenAI: https://openai.com/solutions/industries/retail/",
+      "description": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order.\n\nIn this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The agent recommends products, generates a preview of the room, adjusts selections to fit a $250 budget, and suggests a complementary throw blanket. After checkout, it helps switch the order from store pickup to home delivery—all through conversation.\n\nThis demo brings together two OpenAI models:\nGPT-Live-1 powers natural voice conversations to help shoppers find what they’re looking for.\nGPT-Images-2.6 creates and edits images to preview furniture in photos of shoppers’ own rooms.\n\nExplore what you can build with OpenAI: https://openai.com/solutions/industries/retail/",
       "duration": "PT2M1S",
-      "view_count": 57683,
-      "like_count": 605,
-      "comment_count": 39,
+      "view_count": 65650,
+      "like_count": 655,
+      "comment_count": 40,
       "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-20T13:00:34Z",
       "description": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
       "duration": "PT55S",
-      "view_count": 7174,
-      "like_count": 212,
-      "comment_count": 23,
+      "view_count": 7829,
+      "like_count": 224,
+      "comment_count": 25,
       "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-19T22:55:26Z",
       "description": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process.\n\nAlso covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features including voice input, agent management, and forking conversations into separate worktrees.\n\nMatthew and Brian from Forward Future join to build an 8-bit ramen game using Ultrafast and play it on a ModRetro.\n\nPlus, a showcase of community projects, from a retro space shooter to a racing game featuring hand-drawn horses.",
       "duration": "PT9M8S",
-      "view_count": 58273,
-      "like_count": 702,
-      "comment_count": 83,
+      "view_count": 60604,
+      "like_count": 715,
+      "comment_count": 87,
       "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-19T15:13:45Z",
       "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
       "duration": "PT31S",
-      "view_count": 6259,
-      "like_count": 108,
+      "view_count": 6933,
+      "like_count": 118,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
-    },
-    {
-      "id": "ExVDpMeaWp0",
-      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-19T15:07:35Z",
-      "description": "Bringing legal expertise and frontier AI together starts with trust.\n\nFor Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on.\n\nCamillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal into ChatGPT Enterprise, connecting the tools lawyers rely on in one place.",
-      "duration": "PT57S",
-      "view_count": 18054,
-      "like_count": 88,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-21T20:14:28Z",
+    "generated_at": "2026-10-22T09:30:07Z",
     "count": 5
   }
 }
