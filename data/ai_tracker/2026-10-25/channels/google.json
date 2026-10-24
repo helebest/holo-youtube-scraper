@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-10-25",
+  "result": [
+    {
+      "id": "I7Nlw9rSCeo",
+      "title": "Avengers fans assemble ⚡",
+      "channel_title": "Google",
+      "published_at": "2026-10-23T16:03:39Z",
+      "description": "How well do you really know the Marvel universe? 👀 Search “Avengers: Doomsday” on Google to see if you can ace the quiz.",
+      "duration": "PT23S",
+      "view_count": 46212,
+      "like_count": 2448,
+      "comment_count": 91,
+      "url": "https://www.youtube.com/watch?v=I7Nlw9rSCeo"
+    },
+    {
+      "id": "WMjVP7QQyDI",
+      "title": "Giannis x Google Search: Miami Pickup Hoops",
+      "channel_title": "Google",
+      "published_at": "2026-10-20T14:32:05Z",
+      "description": "For @GiannisAntetokounmpo getting to know Miami starts with the hoops. Let’s see if Google Search can help him find the best runs in the 305. #GooglePartner \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "duration": "PT1M13S",
+      "view_count": 25302,
+      "like_count": 252,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=WMjVP7QQyDI"
+    },
+    {
+      "id": "yI5C7LqBVEM",
+      "title": "Turn messy notes into clean PDFs with Google Search ✨",
+      "channel_title": "Google",
+      "published_at": "2026-10-19T16:01:07Z",
+      "description": "Upload your handwritten notes and ask Google Search to generate a study guide outlining all the important concepts.\n\n#StudyHacks #GoogleSearch #StudyTips",
+      "duration": "PT25S",
+      "view_count": 18302,
+      "like_count": 461,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=yI5C7LqBVEM"
+    },
+    {
+      "id": "RcEmV2BB_XE",
+      "title": "Who could it be? 🧐",
+      "channel_title": "Google",
+      "published_at": "2026-10-18T15:59:32Z",
+      "description": "Float over to AI Mode and search to reveal 🌊🦦",
+      "duration": "PT10S",
+      "view_count": 37411,
+      "like_count": 1055,
+      "comment_count": 124,
+      "url": "https://www.youtube.com/watch?v=RcEmV2BB_XE"
+    },
+    {
+      "id": "lns1MoLvttU",
+      "title": "The WNBA Finals are on 🔥",
+      "channel_title": "Google",
+      "published_at": "2026-10-17T13:26:24Z",
+      "description": "Dream 🆚 Valkyries, the WNBA Finals are underway! Drop a 🏆 if you’re locked in from tip-off to final buzzer.",
+      "duration": "PT11S",
+      "view_count": 15323,
+      "like_count": 317,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=lns1MoLvttU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-24T18:51:14Z",
+    "count": 5
+  }
+}
