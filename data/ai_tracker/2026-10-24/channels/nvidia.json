@@ -14,15 +14,51 @@
   "date": "2026-10-24",
   "result": [
     {
+      "id": "a7cnTxoV3v0",
+      "title": "A New Look for Minecraft: Java Edition with NVIDIA RTX Remix",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-23T22:26:51Z",
+      "description": "RTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on NVIDIA GeForce and NVIDIA RTX Spark.\n.",
+      "duration": "PT1M6S",
+      "view_count": 3628,
+      "like_count": 130,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0"
+    },
+    {
+      "id": "c_igmkuu0sI",
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-23T20:44:58Z",
+      "description": "See how NVIDIA Halos SAFE AV connects real-world testing, simulation, and vehicle hardware to evaluate autonomous vehicle safety in one continuous loop.\n\nDiscover how NVIDIA Omniverse NuRec reconstructs real driving scenarios and NVIDIA Cosmos generates variations across traffic, weather, and edge cases.\n\n🔗 Explore NVIDIA Halos → https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\n\n📖 Read the press release → https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "duration": "PT2M38S",
+      "view_count": 7003,
+      "like_count": 109,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=c_igmkuu0sI"
+    },
+    {
+      "id": "roUZ7_Rsf5c",
+      "title": "Accelerating Robot Development With AI Agents and NVIDIA Isaac",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-23T20:44:08Z",
+      "description": "From prompts and data to real-world robot skills, frontier AI agents build training worlds, replay real-world motion, and tune physics using NVIDIA open libraries and models.\n\nSkills are trained with NVIDIA Isaac Lab and Newton and evaluated with NVIDIA Isaac Lab-Arena, locally on NVIDIA DGX Station. Agile ONE brings those skills into the physical world, built on NVIDIA Isaac GR00T and powered by NVIDIA Jetson Thor.\n\n📖 Read the Press Release: https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "duration": "PT2M3S",
+      "view_count": 14391,
+      "like_count": 243,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=roUZ7_Rsf5c"
+    },
+    {
       "id": "W3fUEVcaXwg",
       "title": "How Nokia and NVIDIA Are Accelerating the Future of AI-Native Networks",
       "channel_title": "NVIDIA",
       "published_at": "2026-10-23T17:00:03Z",
       "description": "Nokia and NVIDIA are advancing AI-RAN commercialization around the globe, helping telecom operators build 5G networks today that are software-programmable to 6G. \n\nExplore the momentum behind AI-native networks and learn how running AI and RAN workloads on shared infrastructure opens new service opportunities. \n\nNokia and NVIDIA also collaborate on autonomous network solutions that help networks adapt to changing conditions, optimize performance, and simplify operations.\n\nDiscover how these advances can help operators deliver new services and unlock opportunities in the AI economy: https://nvda.ws/4yyW2BI",
       "duration": "PT1M58S",
-      "view_count": 2081,
-      "like_count": 99,
-      "comment_count": 15,
+      "view_count": 13296,
+      "like_count": 201,
+      "comment_count": 22,
       "url": "https://www.youtube.com/watch?v=W3fUEVcaXwg"
     },
     {
@@ -32,51 +68,15 @@
       "published_at": "2026-10-23T12:13:02Z",
       "description": "Our CEO Jensen Huang on why that knowledge is a natural resource for Kazakhstan’s AI future.",
       "duration": "PT1M3S",
-      "view_count": 1559,
-      "like_count": 93,
-      "comment_count": 21,
+      "view_count": 2633,
+      "like_count": 145,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=3KZbymg-lOw"
-    },
-    {
-      "id": "v-NGxyPjcrE",
-      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-10-23T08:43:07Z",
-      "description": "Join NVIDIA founder and CEO Jensen Huang live from Berlin for the latest in AI and accelerated computing. Discover how Europe is building its own intelligence—with the control, knowledge, and tools to put AI to work.",
-      "duration": "PT1H31M59S",
-      "view_count": 2845245,
-      "like_count": 1605,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
-    },
-    {
-      "id": "4idQxzAyPDo",
-      "title": "How AI Enables Better, More Connected Patient Care",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-10-21T16:16:52Z",
-      "description": "Better care starts when the systems around a doctor and a patient work together. AI connects conversations, lab results, operating room planning, supplies, and recovery support. This gives care teams better information to provide you with what you need. Connected digital tools and AI-powered equipment can help doctors spend more time being your doctor.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B",
-      "duration": "PT1M36S",
-      "view_count": 7734,
-      "like_count": 68,
-      "comment_count": 9,
-      "url": "https://www.youtube.com/watch?v=4idQxzAyPDo"
-    },
-    {
-      "id": "Y39uub4n0LA",
-      "title": "How Lila Sciences’ AI and Automated Labs Help Scientists Discover New Medicines Faster",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-10-21T14:00:29Z",
-      "description": "Lila Sciences connects AI agents to an autonomous lab to explore a therapy designed to help a patient’s own immune cells fight B-cell lymphoma. Lila builds an experimental plan using NVIDIA Nemotron and NVIDIA Agent Toolkit, while models built with NVIDIA BioNeMo can run millions of virtual experiments to identify promising candidates for lab testing.\nIn Lila’s AI Science Factory, robotic instruments make and test those candidates. The results return to inform the next round of designs and experiments.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B",
-      "duration": "PT1M43S",
-      "view_count": 11302,
-      "like_count": 151,
-      "comment_count": 14,
-      "url": "https://www.youtube.com/watch?v=Y39uub4n0LA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-23T19:59:14Z",
+    "generated_at": "2026-10-24T08:57:35Z",
     "count": 5
   }
 }
