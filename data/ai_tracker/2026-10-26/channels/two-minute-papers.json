@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-10-26",
+  "result": [
+    {
+      "id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-19T08:49:21Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/EnvolDev/status/2110116583016419760\nhttps://x.com/kickingkeys/status/2110037855452180633\nhttps://x.com/thtbee_/status/2110069786415968754?s=20\nhttps://x.com/demishassabis/status/2110041008100843835?s=20\nhttps://x.com/ann_nnng/status/2110234900616126769?s=20\nhttps://x.com/atomic_chat_hq/status/2110145714659664275?s=20\nhttps://x.com/thebuggeddev/status/2110043093466743194?s=20\nhttps://x.com/maxt3chno/status/2110088443619598716?s=20\nhttps://en.rattibha.com/thread/2107916384277541236\nhttps://x.com/universalmodhq/status/2110150043596681673/video/1\nhttps://x.com/amoufarek/status/2110098721090228530/video/1\nhttps://x.com/anxuanng/status/2110357629159854196/video/1\nhttps://x.com/Avenoxai/status/2110249491140071834/video/1\nhttps://starskirmish.com/bench/v0-2/\n\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT6M49S",
+      "view_count": 231530,
+      "like_count": 3670,
+      "comment_count": 351,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "id": "z_sXLlLVUls",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-13T08:56:12Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT8M49S",
+      "view_count": 362484,
+      "like_count": 5657,
+      "comment_count": 660,
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
+    },
+    {
+      "id": "4fLVq6HJsKc",
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-11T16:53:17Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek OCR paper is available here:\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT5M38S",
+      "view_count": 331591,
+      "like_count": 5994,
+      "comment_count": 449,
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
+    },
+    {
+      "id": "Wkaw03p3BrM",
+      "title": "DeepMind's New AI Just Cracked The Code Of Life",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-07T13:29:33Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT33M17S",
+      "view_count": 154721,
+      "like_count": 2669,
+      "comment_count": 315,
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM"
+    },
+    {
+      "id": "ZHVNTTKu9fU",
+      "title": "The Billion Dollar AI Advantage Is Disappearing",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-05T09:53:12Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT3M43S",
+      "view_count": 167407,
+      "like_count": 2808,
+      "comment_count": 226,
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-25T19:07:46Z",
+    "count": 5
+  }
+}
