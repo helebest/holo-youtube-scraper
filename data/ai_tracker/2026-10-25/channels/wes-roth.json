@@ -20,9 +20,9 @@
       "published_at": "2026-10-24T06:17:07Z",
       "description": "Try Crusoe Intelligence Foundry and get $5 in free credits:\nhttps://console.crusoecloud.com/request-foundry?utm_source=wesroth&utm_medium=influencer&utm_campaign=mi-su-credits\n\nSign up to Crusoe Intelligence Foundry and get $5 in free credits. Explore Serverless Inference and Serverless Fine-Tuning. \n\nNo promo code needed.\n\nThanks to Crusoe for sponsoring this video. \n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI on the critical PHP vulnerabilities and coordinated response:\nhttps://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\n\nJason Clinton’s cybersecurity warning:\nhttps://x.com/JasonDClinton/status/2113325263157395456\n\nSam Altman’s Stanford interview:\nhttps://www.youtube.com/watch?v=anAmTGcewX8\n\nMicrosoft’s investigation into AI-powered attacks:\nhttps://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\n\nCHAPTERS:\n00:00 Black October\n03:02 Crusoe (sponsor)\n04:36 banks in panic\n07:49 should we pause?\n18:50 new cybersecurity age\n\n#ai #cybersecurity #artificialintelligence",
       "duration": "PT30M18S",
-      "view_count": 171430,
-      "like_count": 2512,
-      "comment_count": 1119,
+      "view_count": 228842,
+      "like_count": 3111,
+      "comment_count": 1285,
       "url": "https://www.youtube.com/watch?v=eK7Sn0_zHQw"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-10-21T20:47:18Z",
       "description": "AI helped uncover something dangerous in the software behind a huge part of the internet. Government websites went offline as a precaution while defenders raced to respond. Here's how OpenAI and Google's models helped researchers uncover PHP2Shell, why finding the flaws was only the beginning, and what you can do to protect yourself.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nDutch government: precautionary website shutdowns:\nhttps://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php\n\nPHP: official security advisory and updates:\nhttps://www.php.net/archive/2026.php#2026-10-21-5\n\nCalif: the original PHP2Shell research:\nhttps://calif.io/php2shell/\n\nWiz: how AI helped uncover the vulnerabilities:\nhttps://www.wiz.io/blog/php2shell-php-rce\n\nOpenAI: Patch the Planet and the coordinated response:\nhttps://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\n\nCloudflare: protections against PHP2Shell:\nhttps://blog.cloudflare.com/php-vulnerabilities-waf-protection\n\nNCSC: practical steps for staying secure online:\nhttps://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online\n\n#ai #cybersecurity #php2shell",
       "duration": "PT16M48S",
-      "view_count": 480563,
-      "like_count": 6098,
-      "comment_count": 1319,
+      "view_count": 487867,
+      "like_count": 6131,
+      "comment_count": 1321,
       "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-10-15T03:46:29Z",
       "description": "Minecraft in GTA. Mario in Elden Ring. And software companies suddenly competing with their own customers. AI is changing how people modify games and rebuild the tools they use, so I tried it myself. Here's what people are making, how to get started, and why some of the possibilities get uncomfortable fast.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nMario in Elden Ring:\nhttps://github.com/deltarooo/er-mario\n\nMinecraft in GTA V:\nhttps://github.com/rehan-remade/universal-modder/blob/main/examples/minecraft-gta5-passthrough/README.md\n\nSRE-Bench research paper:\nhttps://arxiv.org/html/2608.11469v2\n\nPhotoCraft, open-source image editor:\nhttps://github.com/storytold/photocraft\n\nFilmCraft, open-source video editor:\nhttps://github.com/storytold/filmcraft\n\nNigel, iterative coding-agent workflow:\nhttps://github.com/cdlewis/nigel\n\nSnowboard Kids decompilation:\nhttps://github.com/cdlewis/snowboardkids-decomp\n\nReverse Engineer Anything:\nhttps://github.com/morluto/rea\n\nArkWeb, Spider-Man movement in Batman:\nhttps://github.com/luki-1/ArkWeb\n\nUniversal Modder:\nhttps://github.com/rehan-remade/universal-modder\n\nCHAPTERS:\n00:00 Game Mashups\n03:00 Reverse Engineering\n06:00 Building Software\n09:00 Adobe Alternatives\n12:00 Game Exploits\n17:00 Training Data\n19:00 Modding Tools\n25:00 Personal Projects\n\n#ai #gaming #codex",
       "duration": "PT26M15S",
-      "view_count": 186972,
-      "like_count": 2487,
+      "view_count": 187853,
+      "like_count": 2490,
       "comment_count": 750,
       "url": "https://www.youtube.com/watch?v=EmaXeEdlJkI"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-10-14T03:28:07Z",
       "description": "Google is back, but Gemini 4 Argon feels very different. I tested Google’s polished demos, built my own games, and found a powerful model with some strange habits. We also explore its robotics capabilities and what Google’s safety findings reveal about shortcuts that stopped showing up in the model’s reasoning.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nGoogle — Gemini 4 Argon launch:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\n\nWizard Chess — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/wizard-chess-3d?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nDesk Racer — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/desk-racer?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nGoogle — Gemini 4 Argon for Robotics:\nhttps://developers.googleblog.com/en/gemini-4-argon-for-robotics/\n\nAndon Labs — Drone-Bench:\nhttps://andonlabs.com/evals/drone-bench\n\nGoogle — Gemini 4 safety and security:\nhttps://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/\n\nCHAPTERS:\n00:00 First Impressions\n01:05 Google’s Demos\n03:05 My Builds\n07:00 Early Access\n09:30 AI Robotics\n16:50 Model Comparison\n19:10 AI Safety\n23:25 Final Thoughts\n\n#gemini4 #google #ai",
       "duration": "PT24M57S",
-      "view_count": 281234,
-      "like_count": 2878,
-      "comment_count": 581,
+      "view_count": 281876,
+      "like_count": 2880,
+      "comment_count": 582,
       "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E"
     },
     {
@@ -68,7 +68,7 @@
       "published_at": "2026-10-13T04:16:47Z",
       "description": "Check out Superblocks and book a demo:\nhttps://www.superblocks.com/?utm_source=youtube&utm_medium=influencer&utm_content=WesR\n\nVibe coding can get you a working demo. What happens when an entire team needs to use it? I use Superblocks to build a customer support CRM and explore what comes next. From permissions and security checks to keeping the app under your company’s control.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES\n\nBuilding with Clark AI\nhttps://docs.superblocks.com/building-with-clark/index\n\nCode Security\nhttps://docs.superblocks.com/admin/code-security/index\n\nCloudPrem on AWS\nhttps://docs.superblocks.com/enterprise/cloud-prem/aws\n\nCHAPTERS\n\n00:00 Vibe Coding\n02:11 Building the CRM\n03:06 Refund Workflow\n04:17 App Permissions\n05:16 Security Checks\n06:16 Audit Logs\n06:59 CloudPrem\n07:44 Enterprise Apps\n\n#vibecoding #ai #superblockspartner",
       "duration": "PT8M58S",
-      "view_count": 51239,
+      "view_count": 51400,
       "like_count": 450,
       "comment_count": 77,
       "url": "https://www.youtube.com/watch?v=S0JwWcLVzQA"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-24T18:51:17Z",
+    "generated_at": "2026-10-25T09:14:47Z",
     "count": 5
   }
 }

@@ -20,8 +20,8 @@
       "published_at": "2026-10-24T10:42:33Z",
       "description": "Join Deirdre Bosa and Gavin Baker live from Berlin’s Tempodrom ahead of Jensen Huang’s keynote. Hear from Europe’s leading founders, investors and industry leaders on how Europe is building its AI future.",
       "duration": "PT1H55M14S",
-      "view_count": 227605,
-      "like_count": 130,
+      "view_count": 449450,
+      "like_count": 194,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=rySnll4sgu4"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-10-23T22:26:51Z",
       "description": "RTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on NVIDIA GeForce and NVIDIA RTX Spark.\n.",
       "duration": "PT1M6S",
-      "view_count": 6392,
-      "like_count": 256,
+      "view_count": 8848,
+      "like_count": 403,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-10-23T20:44:58Z",
       "description": "See how NVIDIA Halos SAFE AV connects real-world testing, simulation, and vehicle hardware to evaluate autonomous vehicle safety in one continuous loop.\n\nDiscover how NVIDIA Omniverse NuRec reconstructs real driving scenarios and NVIDIA Cosmos generates variations across traffic, weather, and edge cases.\n\n🔗 Explore NVIDIA Halos → https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\n\n📖 Read the press release → https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
       "duration": "PT2M38S",
-      "view_count": 10046,
-      "like_count": 151,
+      "view_count": 11605,
+      "like_count": 170,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=c_igmkuu0sI"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-10-23T20:44:08Z",
       "description": "From prompts and data to real-world robot skills, frontier AI agents build training worlds, replay real-world motion, and tune physics using NVIDIA open libraries and models.\n\nSkills are trained with NVIDIA Isaac Lab and Newton and evaluated with NVIDIA Isaac Lab-Arena, locally on NVIDIA DGX Station. Agile ONE brings those skills into the physical world, built on NVIDIA Isaac GR00T and powered by NVIDIA Jetson Thor.\n\n📖 Read the Press Release: https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
       "duration": "PT2M3S",
-      "view_count": 23210,
-      "like_count": 325,
+      "view_count": 28692,
+      "like_count": 370,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=roUZ7_Rsf5c"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-10-23T17:00:03Z",
       "description": "Nokia and NVIDIA are advancing AI-RAN commercialization around the globe, helping telecom operators build 5G networks today that are software-programmable to 6G. \n\nExplore the momentum behind AI-native networks and learn how running AI and RAN workloads on shared infrastructure opens new service opportunities. \n\nNokia and NVIDIA also collaborate on autonomous network solutions that help networks adapt to changing conditions, optimize performance, and simplify operations.\n\nDiscover how these advances can help operators deliver new services and unlock opportunities in the AI economy: https://nvda.ws/4yyW2BI",
       "duration": "PT1M58S",
-      "view_count": 16503,
-      "like_count": 236,
-      "comment_count": 25,
+      "view_count": 18157,
+      "like_count": 255,
+      "comment_count": 26,
       "url": "https://www.youtube.com/watch?v=W3fUEVcaXwg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-24T18:51:12Z",
+    "generated_at": "2026-10-25T09:14:43Z",
     "count": 5
   }
 }
