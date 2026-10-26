@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-27",
+  "result": [
+    {
+      "id": "crEHJon4iD4",
+      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-26T20:06:50Z",
+      "description": "At Sullivan & Cromwell LLP, John Savva uses Codex to build tools around the firm’s legal expertise.\n\nAgreement Analyzer brings together a draft agreement, selected precedents, and playbooks reflecting the firm’s and client’s positions. It identifies potential issues and returns a memo and proposed tracked changes for a lawyer to review.\n\nLawyers can inspect the sources and explanations behind the findings, then accept, revise, or reject the proposed changes before advising the client.\n\nWatch John explain the workflow, and read the full story: https://openai.com/index/sullivan-cromwell/",
+      "duration": "PT1M1S",
+      "view_count": 369,
+      "like_count": 26,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=crEHJon4iD4"
+    },
+    {
+      "id": "aNMZjoPGPOg",
+      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-26T19:58:02Z",
+      "description": "“We see Astra actually show over double digit gains over any other model we've tested on two fronts.”\n\nHebbia’s Kavita Anand names the two: selecting the right sources and generating PowerPoint presentations.\n\nFor a banker or investor working through a data room with thousands of documents, both matter. The research needs to draw from the right evidence, and the deck needs to follow the user’s guidelines before it informs an investment decision.\n\nWatch Kavita explain what Hebbia found in its evaluations.",
+      "duration": "PT1M3S",
+      "view_count": 788,
+      "like_count": 64,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg"
+    },
+    {
+      "id": "tTuk4pGnT0A",
+      "title": "GPT-6.1 Terra is now in orbit",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-26T18:12:28Z",
+      "description": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.\n\nGPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families and is a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices. \n\nIn ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terra than with GPT‑5.6 Terra—and far more than with GPT‑6.1 Sol or GPT‑6 Astra.\n\nGPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.\n\nDevelopers can also access it through the OpenAI API as gpt-6.1-terra.",
+      "duration": "PT32S",
+      "view_count": 73689,
+      "like_count": 2967,
+      "comment_count": 321,
+      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A"
+    },
+    {
+      "id": "6f7ojkd4_Wc",
+      "title": "Hunt bugs with your dot",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-23T22:05:37Z",
+      "description": "We’re using dots to build better dots.\n\nRennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex.\n\nGet started with dots today: https://learn.chatgpt.com/docs/dots",
+      "duration": "PT5M12S",
+      "view_count": 66869,
+      "like_count": 799,
+      "comment_count": 121,
+      "url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc"
+    },
+    {
+      "id": "7Cs5qyBlYQk",
+      "title": "From notes to AI training with ChatGPT Work | Realpage.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-23T18:42:11Z",
+      "description": "Austin Braham at Realpage. uses ChatGPT Work to turn ideas, notes and source materials into complete AI training packages tailored to different teams, roles and skill levels.",
+      "duration": "PT50S",
+      "view_count": 8189,
+      "like_count": 213,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=7Cs5qyBlYQk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-26T21:05:33Z",
+    "count": 5
+  }
+}
