@@ -14,15 +14,27 @@
   "date": "2026-10-27",
   "result": [
     {
+      "id": "dmbT2IHpOKU",
+      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-26T23:43:23Z",
+      "description": "France helped bring NVIDIA’s first chip to life. More than 30 years later, its developers, researchers, and companies are using NVIDIA accelerated computing to advance industrial design, healthcare, and open AI models—and building AI factories to support what comes next.\n\n🔗 European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-post-european-cities-agents-urban-operations\n\n🔗 France Gathers for Innovation—and Huang Meets With President Macron → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-france-gathers-for-innovation-and-huang-meets-with-president-macron",
+      "duration": "PT2M44S",
+      "view_count": 8890,
+      "like_count": 160,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
+    },
+    {
       "id": "ouNWfNvqlDg",
       "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
       "channel_title": "NVIDIA",
       "published_at": "2026-10-26T19:49:36Z",
       "description": "Audi teams are reimaginging production with digital twins and physical AI. See how production teams will build digital twins in DELMIA using LEO, a Dassault Systemes’ virtual companion and foundational knowledge from the 3DEXPERIENCE platform. With NVIDIA Omniverse libraries enabling perception and motion simulation, these digital twins become the virtual training ground for mobile humanoid robots from Agile Robots and Idealworks.\n\nScaling the simulation to multi-robot fleets ensures safe operation and will save months in future testing of logistics processes. \n\n📖 Read the Blog → https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
       "duration": "PT1M1S",
-      "view_count": 587,
-      "like_count": 70,
-      "comment_count": 4,
+      "view_count": 12894,
+      "like_count": 192,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-10-26T16:00:24Z",
       "description": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with OpenAI GPT-6 Astra, build 3D assets with NVIDIA Omniverse libraries, simulate physics with Newton, train policies in NVIDIA Isaac Lab, and validate them in Isaac Sim on NVIDIA RTX Spark.",
       "duration": "PT41S",
-      "view_count": 1215,
-      "like_count": 39,
+      "view_count": 2850,
+      "like_count": 101,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=bXNTUB209KE"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-10-25T23:00:08Z",
       "description": "Little ducks. Big conference. 🦆",
       "duration": "PT23S",
-      "view_count": 9639,
-      "like_count": 213,
+      "view_count": 13417,
+      "like_count": 246,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=MLHcSiNVIto"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-10-25T19:37:57Z",
       "description": "Helpful robots, sleepy ducks. 🦆🤖 Everyone had a favorite.",
       "duration": "PT40S",
-      "view_count": 9810,
-      "like_count": 200,
+      "view_count": 11250,
+      "like_count": 216,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=nSjyyZEtYEg"
-    },
-    {
-      "id": "rF1EsryCAwc",
-      "title": "Jensen Huang’s Keynote Highlights at NVIDIA GTC Berlin 2026",
-      "channel_title": "NVIDIA",
-      "published_at": "2026-10-25T17:10:16Z",
-      "description": "Europe is building its AI economy. NVIDIA founder and CEO Jensen Huang explains how AI factories are evolving to run agents and why physical AI is the next frontier.\n\nCatch the highlights from his NVIDIA GTC Berlin keynote, including announcements across AI infrastructure, safe agents, open models, enterprise AI, healthcare, mobility, robotics, and personal AI.\n\nWatch the full keynote: https://www.youtube.com/live/PvFjbPYEOZI\n\n#NVIDIAGTC",
-      "duration": "PT3M59S",
-      "view_count": 46961,
-      "like_count": 679,
-      "comment_count": 72,
-      "url": "https://www.youtube.com/watch?v=rF1EsryCAwc"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-26T21:05:32Z",
+    "generated_at": "2026-10-27T09:54:24Z",
     "count": 5
   }
 }
