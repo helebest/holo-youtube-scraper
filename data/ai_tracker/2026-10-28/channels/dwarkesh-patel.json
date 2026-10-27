@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-28",
+  "result": [
+    {
+      "id": "PUwdxqzEBY4",
+      "title": "Why the US Kept Hirohito Alive - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-26T16:45:36Z",
+      "description": "",
+      "duration": "PT1M50S",
+      "view_count": 273695,
+      "like_count": 9488,
+      "comment_count": 305,
+      "url": "https://www.youtube.com/watch?v=PUwdxqzEBY4"
+    },
+    {
+      "id": "Uo297BJeNvQ",
+      "title": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-24T19:43:51Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 194297,
+      "like_count": 5781,
+      "comment_count": 269,
+      "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ"
+    },
+    {
+      "id": "cy1yoHVX2IQ",
+      "title": "Why transistors stopped being flat",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-23T22:40:10Z",
+      "description": "",
+      "duration": "PT1M37S",
+      "view_count": 31676,
+      "like_count": 957,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=cy1yoHVX2IQ"
+    },
+    {
+      "id": "o5UZtZuPAeY",
+      "title": "AI’s bottleneck isn’t compute. It’s geometry.",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-22T23:21:44Z",
+      "description": "",
+      "duration": "PT2M20S",
+      "view_count": 369026,
+      "like_count": 10797,
+      "comment_count": 260,
+      "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
+    },
+    {
+      "id": "frYSOKvNiiE",
+      "title": "What will computer chips look like in 2045?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-22T16:00:07Z",
+      "description": "I spent two days touring Intel’s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like.\n\nA lot of what's coming next – gate-all-around transistors, backside power, CFET, hybrid bonding – is hard to follow without actually seeing it, so we made all the awesome animated explainers that I wish I had while I was prepping.\n\nI also asked Intel’s leadership how the semiconductor industry will cope with the enormous shock in demand from AI.\n\nAI compute has grown 3x a year for the last decade, but according to Intel's CTO, Intel could only double leading-edge wafer production with today’s global stock of chipmaking tools.\n\nWhat kinds of tricks can foundries pull to extend this crossover point where demand surges way ahead of supply?\n\nThis was a totally new format for us - hope you enjoy!\n\nI also made flashcards for the concepts I had to learn to prep for this episode – link below.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n\n* Flashcards: http://flashcards.dwarkesh.com/intel\n* Transcript: https://www.dwarkesh.com/p/intel-tour\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/what-will-computer-chips-look-like-in-2045/id1516093381?i=1000797633702\n* Spotify: https://open.spotify.com/episode/1kycOQ4f8ZHsXMOvUujdq6?si=NVKBI5NCRqirns5WPXzepQ\n\nMusic for this episode composed by Tom Fox @tomfoxcatalog \n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n\n* WorkOS helps you do business with enterprises. It gives you access to all the features most commonly required by enterprises: SSO, SCIM, RBAC, audit logs, and more. It’s easy to plug these features in — it only takes a few lines of code — and WorkOS is releasing new functionality all the time, including things like auth for agents. If you want to join the 3,000+ companies that rely on WorkOS, go to https://workos.com\n\n* Jane Street built a powerful tool called magic-trace to help analyze and debug their trading systems. It only exists because one engineer noticed a feature on Intel chips called Processor Trace and thought it’d be valuable to build on top of. Now, traders and developers across Jane Street use magic-trace every single day! If you want to be trusted to pursue the ideas you think matter most, Jane Street is hiring. Go to https://janestreet.com/dwarkesh\n\n* Antithesis’ testing platform lets you perfectly reproduce every single bug you find. That’s because it runs on a fully deterministic computer, which strips out all the unpredictability that can make certain bugs flaky and hard to pin down. To build it, Antithesis found every source of non-determinism in Intel’s x86 architecture and either sealed it off or replaced it with a controlled simulation. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Intro\n00:00:47 – How Intel brings up a new process node\n00:03:22 – What Intel learned from 10nm\n00:06:28 – From planar transistors to gate-all-around\n00:13:13 – Why High-NA EUV pays off for Intel but not TSMC\n00:19:20 – Could chips have evolved completely differently?\n00:23:33 – Inside Intel's \"Hot Topics\" meeting\n00:29:30 – Replacing copper wires with ruthenium\n00:32:41 – Why stacked transistors take a decade to ship\n00:39:45 – Hybrid bonding and the chip-to-chip bottleneck\n00:48:00 – There aren't enough tools to 10x chip production\n00:53:14 – Can Intel catch up to TSMC?\n01:01:02 – Terafab, and rethinking the fab from scratch",
+      "duration": "PT1H9M1S",
+      "view_count": 232060,
+      "like_count": 2940,
+      "comment_count": 178,
+      "url": "https://www.youtube.com/watch?v=frYSOKvNiiE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-27T20:47:34Z",
+    "count": 5
+  }
+}

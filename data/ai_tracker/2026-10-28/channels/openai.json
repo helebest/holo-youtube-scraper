@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-28",
+  "result": [
+    {
+      "id": "Yim7JrVzSkk",
+      "title": "Lawyers Stay in Control | AT&T + OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-27T15:40:48Z",
+      "description": "AT&T’s David McAtee and Bill Ryan discuss how AI can support legal work while lawyers remain responsible for strategy, judgment and decisions.",
+      "duration": "PT26S",
+      "view_count": 440,
+      "like_count": 12,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Yim7JrVzSkk"
+    },
+    {
+      "id": "lPZQrVFcz3c",
+      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-27T15:04:57Z",
+      "description": "“The whole point is I want to hit the ground running.” HashiCorp co-founder Mitchell Hashimoto wraps up his day by putting Codex agents to work. They research the competition, compare tools and prototype features he’s still working out—giving him a head start on the next day’s work.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
+      "duration": "PT46S",
+      "view_count": 6963,
+      "like_count": 56,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c"
+    },
+    {
+      "id": "cflbzHRvGvg",
+      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-27T15:03:41Z",
+      "description": "“If you have an idea, bring a prototype right away.” For Shopify CTO Mikhail Parakhin, Codex is changing what his team brings to the meeting. From delegating tasks to exploring architectural options, he’s using Codex to take on work he couldn’t before. Meet Mikhail, one of the builders in Codex Originals.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
+      "duration": "PT1M6S",
+      "view_count": 4345,
+      "like_count": 20,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg"
+    },
+    {
+      "id": "C2vdw5GSTQo",
+      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-27T15:02:46Z",
+      "description": "“Not being technical is not a reason to not build.” At Sotira, Amrita Bhasin uses Codex to connect unsold products with people who need them, helping keep millions of pounds of inventory out of landfills. Meet Amrita, one of the builders in Codex Originals.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
+      "duration": "PT43S",
+      "view_count": 4621,
+      "like_count": 22,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo"
+    },
+    {
+      "id": "vKMDQJpRSvA",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-27T14:55:22Z",
+      "description": "Security teams face a constant stream of vulnerabilities and alerts. Cloudflare’s Mark Anderson describes using AI to automate detection and response so experts can focus on threats that need their judgment. He sees automation from companies like OpenAI as a way to take on routine security work and help teams keep pace.",
+      "duration": "PT29S",
+      "view_count": 817,
+      "like_count": 23,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-27T20:47:39Z",
+    "count": 5
+  }
+}
