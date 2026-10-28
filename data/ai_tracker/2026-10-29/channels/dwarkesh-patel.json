@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-29",
+  "result": [
+    {
+      "id": "uXRcpSXIunA",
+      "title": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-28T00:36:59Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 19379,
+      "like_count": 543,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=uXRcpSXIunA"
+    },
+    {
+      "id": "PUwdxqzEBY4",
+      "title": "Why the US Kept Hirohito Alive - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-26T16:45:36Z",
+      "description": "",
+      "duration": "PT1M50S",
+      "view_count": 307668,
+      "like_count": 10652,
+      "comment_count": 321,
+      "url": "https://www.youtube.com/watch?v=PUwdxqzEBY4"
+    },
+    {
+      "id": "Uo297BJeNvQ",
+      "title": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-24T19:43:51Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 202189,
+      "like_count": 5986,
+      "comment_count": 252,
+      "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ"
+    },
+    {
+      "id": "cy1yoHVX2IQ",
+      "title": "Why transistors stopped being flat",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-23T22:40:10Z",
+      "description": "",
+      "duration": "PT1M37S",
+      "view_count": 33243,
+      "like_count": 993,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=cy1yoHVX2IQ"
+    },
+    {
+      "id": "o5UZtZuPAeY",
+      "title": "AI’s bottleneck isn’t compute. It’s geometry.",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-22T23:21:44Z",
+      "description": "",
+      "duration": "PT2M20S",
+      "view_count": 392523,
+      "like_count": 11421,
+      "comment_count": 270,
+      "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-28T21:11:22Z",
+    "count": 5
+  }
+}
