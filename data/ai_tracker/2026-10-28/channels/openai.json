@@ -14,69 +14,69 @@
   "date": "2026-10-28",
   "result": [
     {
+      "id": "M2Oa42hF67E",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T09:45:24Z",
+      "description": "NDA reviews once took up around 20% of Legora’s legal team’s capacity. Today, that figure is under 1%. General Counsel Emma Kadri Bergström shares how AI is helping her team reclaim time, support a rapidly growing business and take on more complex work, while keeping lawyers responsible for the decisions. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+      "duration": "PT4M2S",
+      "view_count": 107,
+      "like_count": 4,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E"
+    },
+    {
+      "id": "UOfmD1fY-i8",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T09:45:18Z",
+      "description": "Legora co-founder and CEO Max Junestrand wants to make legal expertise available wherever it’s needed. He shares how OpenAI helped turn that ambition into a platform, why staying AI-native matters as the company grows, and what becomes possible when lawyers can take on work that time and capacity once put out of reach. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+      "duration": "PT3M42S",
+      "view_count": 246,
+      "like_count": 23,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8"
+    },
+    {
+      "id": "z-WZMjNsg-k",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T09:45:16Z",
+      "description": "When deadlines limit how many contracts lawyers can examine, important risks can go unseen. Alex Fortescue-Webb, Global Head of Legal Engineering at Legora, explains how AI powered by OpenAI models helps teams analyse thousands of contracts across multiple questions in minutes, expanding the scope of due diligence and giving lawyers more information to apply their judgment. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+      "duration": "PT4M7S",
+      "view_count": 156,
+      "like_count": 10,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k"
+    },
+    {
+      "id": "yJxZef1Ylok",
+      "title": "How Legora is transforming legal work with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T09:45:14Z",
+      "description": "What can lawyers achieve when time is no longer the limit? Discover how Legora uses OpenAI models, ChatGPT and Codex to help legal teams review contracts faster, broaden their analysis and make more room for work that needs human judgment. Part of Intelligence at Work, a series exploring how businesses are putting AI to work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+      "duration": "PT2M35S",
+      "view_count": 370,
+      "like_count": 20,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yJxZef1Ylok"
+    },
+    {
       "id": "Yim7JrVzSkk",
       "title": "Lawyers Stay in Control | AT&T + OpenAI",
       "channel_title": "OpenAI",
       "published_at": "2026-10-27T15:40:48Z",
       "description": "AT&T’s David McAtee and Bill Ryan discuss how AI can support legal work while lawyers remain responsible for strategy, judgment and decisions.",
       "duration": "PT26S",
-      "view_count": 440,
-      "like_count": 12,
+      "view_count": 1244,
+      "like_count": 33,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=Yim7JrVzSkk"
-    },
-    {
-      "id": "lPZQrVFcz3c",
-      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-27T15:04:57Z",
-      "description": "“The whole point is I want to hit the ground running.” HashiCorp co-founder Mitchell Hashimoto wraps up his day by putting Codex agents to work. They research the competition, compare tools and prototype features he’s still working out—giving him a head start on the next day’s work.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
-      "duration": "PT46S",
-      "view_count": 6963,
-      "like_count": 56,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c"
-    },
-    {
-      "id": "cflbzHRvGvg",
-      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-27T15:03:41Z",
-      "description": "“If you have an idea, bring a prototype right away.” For Shopify CTO Mikhail Parakhin, Codex is changing what his team brings to the meeting. From delegating tasks to exploring architectural options, he’s using Codex to take on work he couldn’t before. Meet Mikhail, one of the builders in Codex Originals.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
-      "duration": "PT1M6S",
-      "view_count": 4345,
-      "like_count": 20,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg"
-    },
-    {
-      "id": "C2vdw5GSTQo",
-      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-27T15:02:46Z",
-      "description": "“Not being technical is not a reason to not build.” At Sotira, Amrita Bhasin uses Codex to connect unsold products with people who need them, helping keep millions of pounds of inventory out of landfills. Meet Amrita, one of the builders in Codex Originals.\n\nBuilding with Codex? Share your story: https://openai.com/form/codex-originals/",
-      "duration": "PT43S",
-      "view_count": 4621,
-      "like_count": 22,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo"
-    },
-    {
-      "id": "vKMDQJpRSvA",
-      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-27T14:55:22Z",
-      "description": "Security teams face a constant stream of vulnerabilities and alerts. Cloudflare’s Mark Anderson describes using AI to automate detection and response so experts can focus on threats that need their judgment. He sees automation from companies like OpenAI as a way to take on routine security work and help teams keep pace.",
-      "duration": "PT29S",
-      "view_count": 817,
-      "like_count": 23,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-27T20:47:39Z",
+    "generated_at": "2026-10-28T10:41:14Z",
     "count": 5
   }
 }

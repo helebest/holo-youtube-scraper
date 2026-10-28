@@ -14,15 +14,27 @@
   "date": "2026-10-28",
   "result": [
     {
+      "id": "6-sMVePCKS4",
+      "title": "AI builds EVERYTHING...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-10-28T07:36:56Z",
+      "description": "Hostinger Black Friday: https://hostinger.com/wesrothvps\nGet up to 64% OFF + an extra 10% OFF with code WESROTH. Don’t miss out! 🚀 Grab your deal before it’s gone.\n\nThanks to Hostinger for sponsoring this video!\n\nSee my \"Blood Bench\" here:\nhttps://srv2088371.hstgr.cloud:8443/?demo=1\n(very much work in progress...)\n\nI wanted to see whether AI could coach a fantasy football team through an entire league. So I built Blood Bench, using AI to create the code, graphics, and online game, then connected competing AI models to play against each other. Here's how it came together, what went wrong, and how you can use the same workflow to build your own ideas.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nMy OpenClaw installation and VPS tutorial:\nhttps://www.youtube.com/watch?v=ZcIqiLLT7Fg\n\nSOURCES:\n\nHostinger API MCP Server:\nhttps://github.com/hostinger/api-mcp-server\n\nCHAPTERS:\n00:00 Building Blood Bench\n05:24 Teams and Gameplay\n07:45 AI Building Workflow\n10:32 Hostinger VPS Setup\n16:36 Deploying With AI\n19:25 Connecting Hostinger\n22:34 AI Tournament\n27:27 Voice Mode Development\n\n#ai #vibecoding #aiagents",
+      "duration": "PT32M46S",
+      "view_count": 8444,
+      "like_count": 217,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=6-sMVePCKS4"
+    },
+    {
       "id": "lskEzJ7ixw0",
       "title": "OpenAI just broke physics...",
       "channel_title": "Wes Roth",
       "published_at": "2026-10-27T12:10:55Z",
       "description": "OpenAI says its AI has disproved the Exponential Time Hypothesis, challenging a barrier that shaped decades of computer science. Could there be shortcuts through problems we thought were impossibly hard? We unpack the connection to P versus NP, what a practical breakthrough could mean for encryption and AI, and the idea of a “cheat code” to the universe.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI’s announcement:\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/\n\nScott Aaronson on P versus NP:\nhttps://www.scottaaronson.com/papers/pnp.pdf\n\nThe P versus NP Millennium Prize problem:\nhttps://www.claymath.org/millennium/p-vs-np/\n\nOpenAI’s ETH proof documentation:\nhttps://github.com/openai/math/blob/main/lean/docs/378.md\n\nEmanuele Viola: “I believe P=NP”:\nhttps://emanueleviola.wordpress.com/2018/02/16/i-believe-pnp/\n\nYang–Mills existence and mass gap:\nhttps://www.claymath.org/millennium/yang-mills-the-maths-gap/\n\nOpenAI’s local smoothing and Kakeya documentation:\nhttps://github.com/openai/math/blob/main/lean/docs/079.md\n\nCHAPTERS:\n00:00 OpenAI’s Announcement\n06:20 P Versus NP\n12:35 Exponential Time Hypothesis\n14:05 AI and Mathematicians\n18:10 The Mountain Analogy\n22:00 Computing’s Cheat Code\n24:30 Constants and Simulations\n27:25 Viola and Physics\n\n#openai #ai #science",
       "duration": "PT32M59S",
-      "view_count": 155356,
-      "like_count": 3070,
-      "comment_count": 848,
+      "view_count": 233912,
+      "like_count": 3986,
+      "comment_count": 1077,
       "url": "https://www.youtube.com/watch?v=lskEzJ7ixw0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-24T06:17:07Z",
       "description": "Try Crusoe Intelligence Foundry and get $5 in free credits:\nhttps://console.crusoecloud.com/request-foundry?utm_source=wesroth&utm_medium=influencer&utm_campaign=mi-su-credits\n\nSign up to Crusoe Intelligence Foundry and get $5 in free credits. Explore Serverless Inference and Serverless Fine-Tuning. \n\nNo promo code needed.\n\nThanks to Crusoe for sponsoring this video. \n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nOpenAI on the critical PHP vulnerabilities and coordinated response:\nhttps://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\n\nJason Clinton’s cybersecurity warning:\nhttps://x.com/JasonDClinton/status/2113325263157395456\n\nSam Altman’s Stanford interview:\nhttps://www.youtube.com/watch?v=anAmTGcewX8\n\nMicrosoft’s investigation into AI-powered attacks:\nhttps://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\n\nCHAPTERS:\n00:00 Black October\n03:02 Crusoe (sponsor)\n04:36 banks in panic\n07:49 should we pause?\n18:50 new cybersecurity age\n\n#ai #cybersecurity #artificialintelligence",
       "duration": "PT30M18S",
-      "view_count": 289776,
-      "like_count": 3572,
-      "comment_count": 1455,
+      "view_count": 292499,
+      "like_count": 3588,
+      "comment_count": 1462,
       "url": "https://www.youtube.com/watch?v=eK7Sn0_zHQw"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-21T20:47:18Z",
       "description": "AI helped uncover something dangerous in the software behind a huge part of the internet. Government websites went offline as a precaution while defenders raced to respond. Here's how OpenAI and Google's models helped researchers uncover PHP2Shell, why finding the flaws was only the beginning, and what you can do to protect yourself.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nDutch government: precautionary website shutdowns:\nhttps://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php\n\nPHP: official security advisory and updates:\nhttps://www.php.net/archive/2026.php#2026-10-21-5\n\nCalif: the original PHP2Shell research:\nhttps://calif.io/php2shell/\n\nWiz: how AI helped uncover the vulnerabilities:\nhttps://www.wiz.io/blog/php2shell-php-rce\n\nOpenAI: Patch the Planet and the coordinated response:\nhttps://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\n\nCloudflare: protections against PHP2Shell:\nhttps://blog.cloudflare.com/php-vulnerabilities-waf-protection\n\nNCSC: practical steps for staying secure online:\nhttps://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online\n\n#ai #cybersecurity #php2shell",
       "duration": "PT16M48S",
-      "view_count": 496803,
-      "like_count": 6173,
-      "comment_count": 1250,
+      "view_count": 497526,
+      "like_count": 6175,
+      "comment_count": 1253,
       "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-15T03:46:29Z",
       "description": "Minecraft in GTA. Mario in Elden Ring. And software companies suddenly competing with their own customers. AI is changing how people modify games and rebuild the tools they use, so I tried it myself. Here's what people are making, how to get started, and why some of the possibilities get uncomfortable fast.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nMario in Elden Ring:\nhttps://github.com/deltarooo/er-mario\n\nMinecraft in GTA V:\nhttps://github.com/rehan-remade/universal-modder/blob/main/examples/minecraft-gta5-passthrough/README.md\n\nSRE-Bench research paper:\nhttps://arxiv.org/html/2608.11469v2\n\nPhotoCraft, open-source image editor:\nhttps://github.com/storytold/photocraft\n\nFilmCraft, open-source video editor:\nhttps://github.com/storytold/filmcraft\n\nNigel, iterative coding-agent workflow:\nhttps://github.com/cdlewis/nigel\n\nSnowboard Kids decompilation:\nhttps://github.com/cdlewis/snowboardkids-decomp\n\nReverse Engineer Anything:\nhttps://github.com/morluto/rea\n\nArkWeb, Spider-Man movement in Batman:\nhttps://github.com/luki-1/ArkWeb\n\nUniversal Modder:\nhttps://github.com/rehan-remade/universal-modder\n\nCHAPTERS:\n00:00 Game Mashups\n03:00 Reverse Engineering\n06:00 Building Software\n09:00 Adobe Alternatives\n12:00 Game Exploits\n17:00 Training Data\n19:00 Modding Tools\n25:00 Personal Projects\n\n#ai #gaming #codex",
       "duration": "PT26M15S",
-      "view_count": 192679,
-      "like_count": 2515,
-      "comment_count": 745,
+      "view_count": 193412,
+      "like_count": 2521,
+      "comment_count": 746,
       "url": "https://www.youtube.com/watch?v=EmaXeEdlJkI"
-    },
-    {
-      "id": "NL0yDYXAQ0E",
-      "title": "GEMINI 4 ARGON IS WEIRD...",
-      "channel_title": "Wes Roth",
-      "published_at": "2026-10-14T03:28:07Z",
-      "description": "Google is back, but Gemini 4 Argon feels very different. I tested Google’s polished demos, built my own games, and found a powerful model with some strange habits. We also explore its robotics capabilities and what Google’s safety findings reveal about shortcuts that stopped showing up in the model’s reasoning.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nGoogle — Gemini 4 Argon launch:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\n\nWizard Chess — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/wizard-chess-3d?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nDesk Racer — Google AI Studio demo:\nhttps://aistudio.google.com/apps/bundled/desk-racer?showAssistant=true&showPreview=true&fullscreenApplet=true\n\nGoogle — Gemini 4 Argon for Robotics:\nhttps://developers.googleblog.com/en/gemini-4-argon-for-robotics/\n\nAndon Labs — Drone-Bench:\nhttps://andonlabs.com/evals/drone-bench\n\nGoogle — Gemini 4 safety and security:\nhttps://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/\n\nCHAPTERS:\n00:00 First Impressions\n01:05 Google’s Demos\n03:05 My Builds\n07:00 Early Access\n09:30 AI Robotics\n16:50 Model Comparison\n19:10 AI Safety\n23:25 Final Thoughts\n\n#gemini4 #google #ai",
-      "duration": "PT24M57S",
-      "view_count": 284311,
-      "like_count": 2891,
-      "comment_count": 582,
-      "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-27T20:47:42Z",
+    "generated_at": "2026-10-28T10:41:18Z",
     "count": 5
   }
 }
