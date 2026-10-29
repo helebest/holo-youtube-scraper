@@ -20,8 +20,8 @@
       "published_at": "2026-10-28T00:45:39Z",
       "description": "In her special address at NVIDIA GTC Berlin, Kimberly Powell, Vice President of Healthcare and Life Sciences at NVIDIA, explored how digital health agents are reaching national scale, how AI factories are speeding up drug discovery from research to clinic, and how robotic systems are expanding access to surgical care and essential medicines. These advances point to an intelligent, connected healthcare ecosystem that can deliver faster innovation and wider access to care across Europe and the world.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
       "duration": "PT46M44S",
-      "view_count": 14260,
-      "like_count": 274,
+      "view_count": 16835,
+      "like_count": 300,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=QqeKRvAkIc8"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-10-27T16:36:42Z",
       "description": "A millionfold improvement in AI performance in ten years opens up new possibilities for science, engineering, and everyday life.\n\nBehind that progress is NVIDIA's extreme co-design: we advance chips, systems, software, and algorithms together so scientists and engineers can put AI to work on bigger challenges.",
       "duration": "PT24S",
-      "view_count": 7721,
-      "like_count": 276,
+      "view_count": 10587,
+      "like_count": 373,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-10-27T13:00:19Z",
       "description": "From drug discovery to robotics, voice, and video, the UK’s developers, researchers, and companies are advancing AI with NVIDIA accelerated computing. We celebrate their work—and the new AI factories being built to power what comes next.\n\n🔗 NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years →  https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years\n\n🔗 Build-a-Claw Comes to UK Developers →  https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-build-a-claw-comes-to-uk-developers\n\n🔗 In Dublin, European Union and Industry Leaders Convene at International AI Summit → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-in-dublin-european-union-and-industry-leaders-convene-at-international-ai-summit",
       "duration": "PT3M1S",
-      "view_count": 11667,
-      "like_count": 171,
+      "view_count": 12200,
+      "like_count": 177,
       "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-10-26T23:43:23Z",
       "description": "France helped bring NVIDIA’s first chip to life. More than 30 years later, its developers, researchers, and companies are using NVIDIA accelerated computing to advance industrial design, healthcare, and open AI models—and building AI factories to support what comes next.\n\n🔗 European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-post-european-cities-agents-urban-operations\n\n🔗 France Gathers for Innovation—and Huang Meets With President Macron → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-france-gathers-for-innovation-and-huang-meets-with-president-macron",
       "duration": "PT2M44S",
-      "view_count": 14299,
-      "like_count": 226,
+      "view_count": 14500,
+      "like_count": 229,
       "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-10-26T19:49:36Z",
       "description": "Audi teams are reimaginging production with digital twins and physical AI. See how production teams will build digital twins in DELMIA using LEO, a Dassault Systemes’ virtual companion and foundational knowledge from the 3DEXPERIENCE platform. With NVIDIA Omniverse libraries enabling perception and motion simulation, these digital twins become the virtual training ground for mobile humanoid robots from Agile Robots and Idealworks.\n\nScaling the simulation to multi-robot fleets ensures safe operation and will save months in future testing of logistics processes. \n\n📖 Read the Blog → https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
       "duration": "PT1M1S",
-      "view_count": 19958,
-      "like_count": 257,
+      "view_count": 20396,
+      "like_count": 261,
       "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-28T21:11:26Z",
+    "generated_at": "2026-10-29T10:58:30Z",
     "count": 5
   }
 }

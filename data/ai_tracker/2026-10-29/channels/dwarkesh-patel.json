@@ -14,15 +14,27 @@
   "date": "2026-10-29",
   "result": [
     {
+      "id": "Xtkj1FMqRj8",
+      "title": "Why COVID Was Impossible to Contain  - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-28T22:35:04Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 13984,
+      "like_count": 405,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=Xtkj1FMqRj8"
+    },
+    {
       "id": "uXRcpSXIunA",
       "title": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-28T00:36:59Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 19379,
-      "like_count": 543,
-      "comment_count": 16,
+      "view_count": 24164,
+      "like_count": 650,
+      "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=uXRcpSXIunA"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-26T16:45:36Z",
       "description": "",
       "duration": "PT1M50S",
-      "view_count": 307668,
-      "like_count": 10652,
-      "comment_count": 321,
+      "view_count": 317246,
+      "like_count": 11030,
+      "comment_count": 326,
       "url": "https://www.youtube.com/watch?v=PUwdxqzEBY4"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-24T19:43:51Z",
       "description": "",
       "duration": "PT1M48S",
-      "view_count": 202189,
-      "like_count": 5986,
-      "comment_count": 252,
+      "view_count": 206969,
+      "like_count": 6111,
+      "comment_count": 256,
       "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-23T22:40:10Z",
       "description": "",
       "duration": "PT1M37S",
-      "view_count": 33243,
-      "like_count": 993,
-      "comment_count": 30,
+      "view_count": 33772,
+      "like_count": 1006,
+      "comment_count": 31,
       "url": "https://www.youtube.com/watch?v=cy1yoHVX2IQ"
-    },
-    {
-      "id": "o5UZtZuPAeY",
-      "title": "AI’s bottleneck isn’t compute. It’s geometry.",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-22T23:21:44Z",
-      "description": "",
-      "duration": "PT2M20S",
-      "view_count": 392523,
-      "like_count": 11421,
-      "comment_count": 270,
-      "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-28T21:11:22Z",
+    "generated_at": "2026-10-29T10:58:26Z",
     "count": 5
   }
 }

@@ -14,14 +14,26 @@
   "date": "2026-10-29",
   "result": [
     {
+      "id": "ujmyzWSj8IU",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T23:45:26Z",
+      "description": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents.\n\nCredit amounts depend on the plan.  Pro plans get $100, $200 or $500 per month by tier.  Business plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nhttps://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
+      "duration": "PT2M26S",
+      "view_count": 25415,
+      "like_count": 342,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU"
+    },
+    {
       "id": "kP26OlW5PBk",
       "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
       "channel_title": "OpenAI",
       "published_at": "2026-10-28T11:51:11Z",
       "description": "“If you're an executive, you are the ceiling for AI fluency for your organization.”\n\nMerge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes.\n\nUsing Codex, she asked it to help redesign a feature using the product’s existing design system. She describes it working through each task and filling in details she hadn’t specified. Her non-engineering teammates are also building tools for their own workflows.\n\nWatch Shensi explain why she stays hands-on.",
       "duration": "PT31S",
-      "view_count": 1419,
-      "like_count": 45,
+      "view_count": 2833,
+      "like_count": 78,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=kP26OlW5PBk"
     },
@@ -32,8 +44,8 @@
       "published_at": "2026-10-28T11:50:26Z",
       "description": "“If you're an executive, you are the ceiling for AI fluency for your organization.”\n\nMerge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes.\n\nWith Codex, she asked for help redesigning a feature without prescribing the solution. It drew on Merge’s existing design system, proposed different approaches and helped her work through difficult UX decisions.\n\nThat kind of experimentation has changed how she runs the business. When Shensi and her co-founder built Merge’s second product themselves, what they learned shaped the expectations they set for their teams. Employees are encouraged to choose their tools and spend time testing ideas. Non-engineering teammates can build tools for their own workflows without waiting for engineering.\n\nFor Shensi, the cost of trying an idea has changed—and with it, the calculation of what’s worth pursuing. Staying hands-on helps her recognize where the business can move faster, test more possibilities and give people greater autonomy to build.",
       "duration": "PT1M3S",
-      "view_count": 7165,
-      "like_count": 30,
+      "view_count": 9977,
+      "like_count": 47,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw"
     },
@@ -44,8 +56,8 @@
       "published_at": "2026-10-28T09:45:24Z",
       "description": "NDA reviews once took up around 20% of Legora’s legal team’s capacity. Today, that figure is under 1%. General Counsel Emma Kadri Bergström shares how AI is helping her team reclaim time, support a rapidly growing business and take on more complex work, while keeping lawyers responsible for the decisions. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
       "duration": "PT4M2S",
-      "view_count": 6163,
-      "like_count": 22,
+      "view_count": 7672,
+      "like_count": 36,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=M2Oa42hF67E"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-10-28T09:45:18Z",
       "description": "Legora co-founder and CEO Max Junestrand wants to make legal expertise available wherever it’s needed. He shares how OpenAI helped turn that ambition into a platform, why staying AI-native matters as the company grows, and what becomes possible when lawyers can take on work that time and capacity once put out of reach. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
       "duration": "PT3M42S",
-      "view_count": 5711,
-      "like_count": 54,
+      "view_count": 7535,
+      "like_count": 71,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8"
-    },
-    {
-      "id": "z-WZMjNsg-k",
-      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
-      "channel_title": "OpenAI",
-      "published_at": "2026-10-28T09:45:16Z",
-      "description": "When deadlines limit how many contracts lawyers can examine, important risks can go unseen. Alex Fortescue-Webb, Global Head of Legal Engineering at Legora, explains how AI powered by OpenAI models helps teams analyse thousands of contracts across multiple questions in minutes, expanding the scope of due diligence and giving lawyers more information to apply their judgment. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
-      "duration": "PT4M7S",
-      "view_count": 4470,
-      "like_count": 28,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-28T21:11:26Z",
+    "generated_at": "2026-10-29T10:58:31Z",
     "count": 5
   }
 }
