@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-30",
+  "result": [
+    {
+      "id": "QqeKRvAkIc8",
+      "title": "How AI Is Advancing Human Health",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-28T00:45:39Z",
+      "description": "In her special address at NVIDIA GTC Berlin, Kimberly Powell, Vice President of Healthcare and Life Sciences at NVIDIA, explored how digital health agents are reaching national scale, how AI factories are speeding up drug discovery from research to clinic, and how robotic systems are expanding access to surgical care and essential medicines. These advances point to an intelligent, connected healthcare ecosystem that can deliver faster innovation and wider access to care across Europe and the world.\n\nFollow us:\nX: https://nvda.ws/4hi2sxB\nLinkedIn: https://nvda.ws/4eSlE3B\nSubscribe to the NVIDIA AI Healthcare Newsletter: https://nvda.ws/4eS1F54",
+      "duration": "PT46M44S",
+      "view_count": 18270,
+      "like_count": 321,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=QqeKRvAkIc8"
+    },
+    {
+      "id": "7cJlIJpKBW4",
+      "title": "Ten years. A Millionfold Leap in AI.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-27T16:36:42Z",
+      "description": "A millionfold improvement in AI performance in ten years opens up new possibilities for science, engineering, and everyday life.\n\nBehind that progress is NVIDIA's extreme co-design: we advance chips, systems, software, and algorithms together so scientists and engineers can put AI to work on bigger challenges.",
+      "duration": "PT24S",
+      "view_count": 12371,
+      "like_count": 445,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4"
+    },
+    {
+      "id": "XWYMvOFMacA",
+      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-27T13:00:19Z",
+      "description": "From drug discovery to robotics, voice, and video, the UK’s developers, researchers, and companies are advancing AI with NVIDIA accelerated computing. We celebrate their work—and the new AI factories being built to power what comes next.\n\n🔗 NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years →  https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years\n\n🔗 Build-a-Claw Comes to UK Developers →  https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-build-a-claw-comes-to-uk-developers\n\n🔗 In Dublin, European Union and Industry Leaders Convene at International AI Summit → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-in-dublin-european-union-and-industry-leaders-convene-at-international-ai-summit",
+      "duration": "PT3M1S",
+      "view_count": 12836,
+      "like_count": 181,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
+    },
+    {
+      "id": "dmbT2IHpOKU",
+      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-26T23:43:23Z",
+      "description": "France helped bring NVIDIA’s first chip to life. More than 30 years later, its developers, researchers, and companies are using NVIDIA accelerated computing to advance industrial design, healthcare, and open AI models—and building AI factories to support what comes next.\n\n🔗 European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-post-european-cities-agents-urban-operations\n\n🔗 France Gathers for Innovation—and Huang Meets With President Macron → https://blogs.nvidia.com/gtc-berlin-2026-news/#entry-postlet-france-gathers-for-innovation-and-huang-meets-with-president-macron",
+      "duration": "PT2M44S",
+      "view_count": 14712,
+      "like_count": 230,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
+    },
+    {
+      "id": "ouNWfNvqlDg",
+      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-26T19:49:36Z",
+      "description": "Audi teams are reimaginging production with digital twins and physical AI. See how production teams will build digital twins in DELMIA using LEO, a Dassault Systemes’ virtual companion and foundational knowledge from the 3DEXPERIENCE platform. With NVIDIA Omniverse libraries enabling perception and motion simulation, these digital twins become the virtual training ground for mobile humanoid robots from Agile Robots and Idealworks.\n\nScaling the simulation to multi-robot fleets ensures safe operation and will save months in future testing of logistics processes. \n\n📖 Read the Blog → https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+      "duration": "PT1M1S",
+      "view_count": 20941,
+      "like_count": 265,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-29T21:14:38Z",
+    "count": 5
+  }
+}

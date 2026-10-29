@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-10-30",
+  "result": [
+    {
+      "id": "L6pzlo1QvoM",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-29T16:23:43Z",
+      "description": "“We have about 600 applications that have been built by different people in the company.”\n\nAt Zendesk, teams across sales, marketing, and operations are building applications for their own work. ChatGPT Enterprise is available to every employee, and business users are asking questions about their data directly.\n\nIn sales, an AI agent connects product usage and tickets per agent to surface expansion opportunities—and helps salespeople explain how the customer could benefit. About 1,000 people use the application every day.\n\nWatch Daniel Humble, VP of Enterprise Data and Analytics at Zendesk, share what teams are building and putting to work.",
+      "duration": "PT56S",
+      "view_count": 5271,
+      "like_count": 62,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM"
+    },
+    {
+      "id": "ujmyzWSj8IU",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T23:45:26Z",
+      "description": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents.\n\nCredit amounts depend on the plan.  Pro plans get $100, $200 or $500 per month by tier.  Business plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nhttps://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
+      "duration": "PT2M26S",
+      "view_count": 38763,
+      "like_count": 477,
+      "comment_count": 53,
+      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU"
+    },
+    {
+      "id": "kP26OlW5PBk",
+      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T11:51:11Z",
+      "description": "“If you're an executive, you are the ceiling for AI fluency for your organization.”\n\nMerge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes.\n\nUsing Codex, she asked it to help redesign a feature using the product’s existing design system. She describes it working through each task and filling in details she hadn’t specified. Her non-engineering teammates are also building tools for their own workflows.\n\nWatch Shensi explain why she stays hands-on.",
+      "duration": "PT31S",
+      "view_count": 3878,
+      "like_count": 117,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=kP26OlW5PBk"
+    },
+    {
+      "id": "6ep8Vvm4Bdw",
+      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T11:50:26Z",
+      "description": "“If you're an executive, you are the ceiling for AI fluency for your organization.”\n\nMerge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes.\n\nWith Codex, she asked for help redesigning a feature without prescribing the solution. It drew on Merge’s existing design system, proposed different approaches and helped her work through difficult UX decisions.\n\nThat kind of experimentation has changed how she runs the business. When Shensi and her co-founder built Merge’s second product themselves, what they learned shaped the expectations they set for their teams. Employees are encouraged to choose their tools and spend time testing ideas. Non-engineering teammates can build tools for their own workflows without waiting for engineering.\n\nFor Shensi, the cost of trying an idea has changed—and with it, the calculation of what’s worth pursuing. Staying hands-on helps her recognize where the business can move faster, test more possibilities and give people greater autonomy to build.",
+      "duration": "PT1M3S",
+      "view_count": 10950,
+      "like_count": 51,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw"
+    },
+    {
+      "id": "M2Oa42hF67E",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "channel_title": "OpenAI",
+      "published_at": "2026-10-28T09:45:24Z",
+      "description": "NDA reviews once took up around 20% of Legora’s legal team’s capacity. Today, that figure is under 1%. General Counsel Emma Kadri Bergström shares how AI is helping her team reclaim time, support a rapidly growing business and take on more complex work, while keeping lawyers responsible for the decisions. Part of Intelligence at Work. \n\nRead the full story: https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+      "duration": "PT4M2S",
+      "view_count": 8246,
+      "like_count": 40,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-29T21:14:39Z",
+    "count": 5
+  }
+}

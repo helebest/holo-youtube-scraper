@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-30",
+  "result": [
+    {
+      "id": "kX_WmQK_tt0",
+      "title": "How an unelected man ruled New York for 30 years",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-29T16:51:24Z",
+      "description": "I recently got to interview Robert Caro, who is my favorite author of all time.\n\nThis gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses. I decided to compile their lessons about power into this video essay.\n\nThanks to Max Farrens, who paired with me in writing the script for this video essay, and to Aaron and Ishan, who produced this video essay.\n\nMusic by Tom Fox @tomfoxcatalog \n\nIf you just want to read the essay: https://www.dwarkesh.com/p/lessons-in-power",
+      "duration": "PT24M42S",
+      "view_count": 17544,
+      "like_count": 480,
+      "comment_count": 36,
+      "url": "https://www.youtube.com/watch?v=kX_WmQK_tt0"
+    },
+    {
+      "id": "Xtkj1FMqRj8",
+      "title": "Why COVID Was Impossible to Contain  - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-28T22:35:04Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 19402,
+      "like_count": 537,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=Xtkj1FMqRj8"
+    },
+    {
+      "id": "uXRcpSXIunA",
+      "title": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-28T00:36:59Z",
+      "description": "",
+      "duration": "PT59S",
+      "view_count": 26103,
+      "like_count": 676,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=uXRcpSXIunA"
+    },
+    {
+      "id": "PUwdxqzEBY4",
+      "title": "Why the US Kept Hirohito Alive - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-26T16:45:36Z",
+      "description": "",
+      "duration": "PT1M50S",
+      "view_count": 324207,
+      "like_count": 11271,
+      "comment_count": 332,
+      "url": "https://www.youtube.com/watch?v=PUwdxqzEBY4"
+    },
+    {
+      "id": "Uo297BJeNvQ",
+      "title": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-24T19:43:51Z",
+      "description": "",
+      "duration": "PT1M48S",
+      "view_count": 209848,
+      "like_count": 6180,
+      "comment_count": 259,
+      "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-29T21:14:34Z",
+    "count": 5
+  }
+}
