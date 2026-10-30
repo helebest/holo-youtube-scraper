@@ -14,15 +14,27 @@
   "date": "2026-10-30",
   "result": [
     {
+      "id": "O0JgGEAwAqA",
+      "title": "How did tiny Japan beat Russia? - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-29T23:41:37Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 39987,
+      "like_count": 1668,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=O0JgGEAwAqA"
+    },
+    {
       "id": "kX_WmQK_tt0",
       "title": "How an unelected man ruled New York for 30 years",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-10-29T16:51:24Z",
       "description": "I recently got to interview Robert Caro, who is my favorite author of all time.\n\nThis gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses. I decided to compile their lessons about power into this video essay.\n\nThanks to Max Farrens, who paired with me in writing the script for this video essay, and to Aaron and Ishan, who produced this video essay.\n\nMusic by Tom Fox @tomfoxcatalog \n\nIf you just want to read the essay: https://www.dwarkesh.com/p/lessons-in-power",
       "duration": "PT24M42S",
-      "view_count": 17544,
-      "like_count": 480,
-      "comment_count": 36,
+      "view_count": 58695,
+      "like_count": 1060,
+      "comment_count": 66,
       "url": "https://www.youtube.com/watch?v=kX_WmQK_tt0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-10-28T22:35:04Z",
       "description": "",
       "duration": "PT1M3S",
-      "view_count": 19402,
-      "like_count": 537,
-      "comment_count": 54,
+      "view_count": 23247,
+      "like_count": 628,
+      "comment_count": 59,
       "url": "https://www.youtube.com/watch?v=Xtkj1FMqRj8"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-10-28T00:36:59Z",
       "description": "",
       "duration": "PT59S",
-      "view_count": 26103,
-      "like_count": 676,
-      "comment_count": 17,
+      "view_count": 27833,
+      "like_count": 706,
+      "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=uXRcpSXIunA"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-10-26T16:45:36Z",
       "description": "",
       "duration": "PT1M50S",
-      "view_count": 324207,
-      "like_count": 11271,
-      "comment_count": 332,
+      "view_count": 333147,
+      "like_count": 11594,
+      "comment_count": 333,
       "url": "https://www.youtube.com/watch?v=PUwdxqzEBY4"
-    },
-    {
-      "id": "Uo297BJeNvQ",
-      "title": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-10-24T19:43:51Z",
-      "description": "",
-      "duration": "PT1M48S",
-      "view_count": 209848,
-      "like_count": 6180,
-      "comment_count": 259,
-      "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-29T21:14:34Z",
+    "generated_at": "2026-10-30T10:56:17Z",
     "count": 5
   }
 }
