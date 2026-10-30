@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-10-31",
+  "result": [
+    {
+      "id": "LRSJXRsKmLQ",
+      "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-30T20:27:20Z",
+      "description": "Relive NVIDIA GTC Berlin 2026, where developers, researchers, startups, partners, and industry leaders came together to explore the ideas and technology shaping AI across Europe and around the world.\n\nFrom NVIDIA CEO Jensen Huang’s keynote at Tempodrom and packed sessions at STATION-Berlin to hands-on training, partner demos, the Build-a-Claw activation, the Festival of Lights, and four Microducks in the spotlight, see the moments that brought GTC Berlin to life.\n\nWatch the keynote and explore sessions on demand: https://nvda.ws/4e95G6L\n#NVIDIAGTC #AI #NVIDIA",
+      "duration": "PT1M28S",
+      "view_count": 40,
+      "like_count": 5,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
+    },
+    {
+      "id": "ndtnt5kWT5A",
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-30T19:47:01Z",
+      "description": "See how NVIDIA Halos SAFE AV connects real-world testing, simulation, and vehicle hardware to evaluate autonomous vehicle safety in one continuous loop.\n\nDiscover how NVIDIA Omniverse NuRec reconstructs real driving scenarios and NVIDIA Cosmos generates variations across traffic, weather, and edge cases.\n\n🔗 Explore NVIDIA Halos → https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\n\n📖 Read the press release → https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "duration": "PT2M38S",
+      "view_count": 233,
+      "like_count": 39,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A"
+    },
+    {
+      "id": "rg6gRXwHaS8",
+      "title": "From Berlin to your living room. 🌍",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-30T18:26:58Z",
+      "description": "Jensen’s keynote and sessions from #NVIDIAGTC Berlin are now available on demand.\n\nStart watching: https://nvda.ws/4ip4P3g",
+      "duration": "PT12S",
+      "view_count": 383,
+      "like_count": 18,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8"
+    },
+    {
+      "id": "JXEMFLQwi4A",
+      "title": "GTC Berlin 2026: Power Demand, Increasing Grid Reliability and Resiliency",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-29T21:36:29Z",
+      "description": "Hear leaders from Siemens Energy, Bayernwerk, and TenneT discuss how AI and accelerated computing are helping modernize grid operations, integrate distributed energy resources, and keep power reliable as demand rises.\n\n#GTCBerlin #EnergyforAI #AIforEnergy",
+      "duration": "PT41M24S",
+      "view_count": 5720,
+      "like_count": 42,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A"
+    },
+    {
+      "id": "8mYfTR3E3Cw",
+      "title": "Designed in Berlin, for GTC Berlin.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-29T21:35:36Z",
+      "description": "Meet HÜLPMAN, the Berlin artist behind our limited-edition #NVIDIAGTC Berlin T-shirt.\n\nHear how Felix brought his hometown perspective and signature illustration style to a design selected by Jensen.",
+      "duration": "PT42S",
+      "view_count": 1251,
+      "like_count": 29,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=8mYfTR3E3Cw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-30T20:53:47Z",
+    "count": 5
+  }
+}

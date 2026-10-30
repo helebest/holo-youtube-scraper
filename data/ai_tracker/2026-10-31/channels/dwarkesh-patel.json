@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-10-31",
+  "result": [
+    {
+      "id": "2bMhtD2MuwM",
+      "title": "Why Old Buildings Are More Beautiful Than New Ones - Robert Caro",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-30T18:17:34Z",
+      "description": "",
+      "duration": "PT1M6S",
+      "view_count": 10031,
+      "like_count": 568,
+      "comment_count": 40,
+      "url": "https://www.youtube.com/watch?v=2bMhtD2MuwM"
+    },
+    {
+      "id": "f0J_EeW42Lo",
+      "title": "What Robert Caro learned about power after studying it for 50 years",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-30T17:18:35Z",
+      "description": "𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/robert-caro\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/robert-caro-the-master-biographer-reflects-at-91/id1516093381?i=1000798931746\n* Spotify: https://open.spotify.com/episode/4qFEcgsHB5hAnRoGw0Ypiv\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis lets you run thorough simulation tests on every PR your coding agents ship. That’s because Antithesis is FAST. On a recent project, it packed fifteen hours of simulation into each fifteen-minute run: every change could be tested in thousands of hostile worlds before being merged. Every minute your software spends in Antithesis is one of the unluckiest hours it will ever experience. Learn more at https://antithesis.com/dwarkesh\n\n* WorkOS’s Airlock is a judgment layer that sits between your agents and your most important tools. When an agent makes a request, Airlock evaluates it against your company’s policies and decides whether to allow it, block it, or escalate it to a human. If it allows it, Airlock takes action on behalf of the agent, which means your agents never see your API keys or other credentials. Airlock is in early access. If you’re interested, go to https://workos.com/airlock\n\n* Jane Street’s mystery ASIC puzzle is over, and they’ve published a blog post that reveals the chip’s purpose. You can read it here: https://blog.janestreet.com/asic-puzzle-results/. More importantly, there’s another challenge live now! For this one, you have to design a protocol-emulator ASIC that can be used to test chips outside of a live system. Jane Street will pay to fabricate their favorite submissions. The competition is open until January 18th. Get started at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – How Caro gets people to talk\n00:05:03 – Does America need a little more Moses today?\n00:12:42 – Moses the young idealist\n00:17:57 – Watching Moses lose power\n00:24:01 – Did Moses realize he was changing?\n00:27:53 – Building during the Great Depression\n00:32:51 – The threats and promises of Lyndon Johnson\n00:36:08 – Could Kennedy have passed Johnson’s laws?\n00:41:00 – Getting a book down to one sentence\n00:46:21 – All the material that never made it into the books\n00:52:59 – Loneliness",
+      "duration": "PT1H1M10S",
+      "view_count": 18687,
+      "like_count": 672,
+      "comment_count": 72,
+      "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo"
+    },
+    {
+      "id": "O0JgGEAwAqA",
+      "title": "How did tiny Japan beat Russia? - Sarah Paine",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-29T23:41:37Z",
+      "description": "",
+      "duration": "PT42S",
+      "view_count": 68659,
+      "like_count": 2573,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=O0JgGEAwAqA"
+    },
+    {
+      "id": "kX_WmQK_tt0",
+      "title": "What Robert Caro’s books taught me about power",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-29T16:51:24Z",
+      "description": "I recently got to interview Robert Caro, who is my favorite author of all time.\n\nThis gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses. I decided to compile their lessons about power into this video essay.\n\nThanks to Max Farrens, who paired with me in writing the script for this video essay, and to Aaron and Ishan, who produced this video essay.\n\nMusic by Tom Fox @tomfoxcatalog \n\nIf you just want to read the essay: https://www.dwarkesh.com/p/lessons-in-power",
+      "duration": "PT24M42S",
+      "view_count": 85113,
+      "like_count": 1412,
+      "comment_count": 77,
+      "url": "https://www.youtube.com/watch?v=kX_WmQK_tt0"
+    },
+    {
+      "id": "Xtkj1FMqRj8",
+      "title": "Why COVID Was Impossible to Contain  - Kyle Harper",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-10-28T22:35:04Z",
+      "description": "",
+      "duration": "PT1M3S",
+      "view_count": 24880,
+      "like_count": 668,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=Xtkj1FMqRj8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-30T20:53:43Z",
+    "count": 5
+  }
+}
