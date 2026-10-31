@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-11-01",
+  "result": [
+    {
+      "id": "22YWTc-KaNo",
+      "title": "Happy Halloween 🎃",
+      "channel_title": "Google",
+      "published_at": "2026-10-31T16:11:38Z",
+      "description": "Who let the bats out?! They're stealing the spotlight from today’s #GoogleDoodle  🦇👀 Dare to LIKE…",
+      "duration": "PT6S",
+      "view_count": 14210,
+      "like_count": 1553,
+      "comment_count": 244,
+      "url": "https://www.youtube.com/watch?v=22YWTc-KaNo"
+    },
+    {
+      "id": "dIlza2R5hFE",
+      "title": "Spider bro went to WORK 🕸️",
+      "channel_title": "Google",
+      "published_at": "2026-10-30T12:59:58Z",
+      "description": "Want to create your own spooky interactive visuals with AI Mode in Search? Start with this prompt: “build a simulation of how a spider spins a web”. \n\n#GoogleSearch",
+      "duration": "PT13S",
+      "view_count": 13754,
+      "like_count": 370,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=dIlza2R5hFE"
+    },
+    {
+      "id": "Aop7fAyKn00",
+      "title": "Spooky Gs just dropped 🎃",
+      "channel_title": "Google",
+      "published_at": "2026-10-28T17:07:20Z",
+      "description": "The G is ready for Halloween 👻 Head to Google Search for all your spooky season inspo.",
+      "duration": "PT8S",
+      "view_count": 28058,
+      "like_count": 1009,
+      "comment_count": 129,
+      "url": "https://www.youtube.com/watch?v=Aop7fAyKn00"
+    },
+    {
+      "id": "fKYjE9_qNSg",
+      "title": "3 Google Search study hacks for students 📚",
+      "channel_title": "Google",
+      "published_at": "2026-10-27T20:22:06Z",
+      "description": "Here are 3 ways to use Google Search to help with your next study session:\n\n📄 Turn your notes into PDFs\n1️⃣ Head to AI Mode and tap the ➕ button\n2️⃣ Select “Add files” to upload your notes\n3️⃣ Search “turn my notes into a pdf”\n\n📝 Make a practice quiz from your notes\n1️⃣ Open AI Mode and tap the ➕ button\n2️⃣ Select “Add files” to upload your study materials\n3️⃣ Search “make a quiz using my notes”\n\n🌌 Create interactive visuals\n1️⃣ Go to AI Mode\n2️⃣ Search “create an interactive visual of [topic]”\n3️⃣ Adjust the sliders to see complex concepts come to life\n\n#StudyHacks #GoogleSearch #Exams",
+      "duration": "PT35S",
+      "view_count": 14756,
+      "like_count": 451,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=fKYjE9_qNSg"
+    },
+    {
+      "id": "dQMYDBGX0uk",
+      "title": "Tap to pause to find your Halloween costume 🎃",
+      "channel_title": "Google",
+      "published_at": "2026-10-26T19:05:19Z",
+      "description": "Food costumes are dominating the Search trends this year. Tap to pause the video, then drop the emoji in the comments 👇",
+      "duration": "PT11S",
+      "view_count": 15887,
+      "like_count": 434,
+      "comment_count": 87,
+      "url": "https://www.youtube.com/watch?v=dQMYDBGX0uk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-10-31T20:05:34Z",
+    "count": 5
+  }
+}
