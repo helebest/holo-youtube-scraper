@@ -20,8 +20,8 @@
       "published_at": "2026-10-31T18:04:07Z",
       "description": "Happy Halloween!",
       "duration": "PT23S",
-      "view_count": 797,
-      "like_count": 33,
+      "view_count": 2540,
+      "like_count": 86,
       "comment_count": 3,
       "url": "https://www.youtube.com/watch?v=8K08Ywgduno"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-10-30T20:27:20Z",
       "description": "Relive NVIDIA GTC Berlin 2026, where developers, researchers, startups, partners, and industry leaders came together to explore the ideas and technology shaping AI across Europe and around the world.\n\nFrom NVIDIA CEO Jensen Huang’s keynote at Tempodrom and packed sessions at STATION-Berlin to hands-on training, partner demos, the Build-a-Claw activation, the Festival of Lights, and four Microducks in the spotlight, see the moments that brought GTC Berlin to life.\n\nWatch the keynote and explore sessions on demand: https://nvda.ws/4e95G6L\n#NVIDIAGTC #AI #NVIDIA",
       "duration": "PT1M28S",
-      "view_count": 5179,
-      "like_count": 40,
+      "view_count": 6021,
+      "like_count": 44,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-10-30T19:47:01Z",
       "description": "See how NVIDIA Halos SAFE AV connects real-world testing, simulation, and vehicle hardware to evaluate autonomous vehicle safety in one continuous loop.\n\nDiscover how NVIDIA Omniverse NuRec reconstructs real driving scenarios and NVIDIA Cosmos generates variations across traffic, weather, and edge cases.\n\n🔗 Explore NVIDIA Halos → https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\n\n📖 Read the press release → https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
       "duration": "PT2M38S",
-      "view_count": 8029,
-      "like_count": 121,
+      "view_count": 9068,
+      "like_count": 131,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A"
     },
@@ -56,9 +56,9 @@
       "published_at": "2026-10-30T18:26:58Z",
       "description": "Jensen’s keynote and sessions from #NVIDIAGTC Berlin are now available on demand.\n\nStart watching: https://nvda.ws/4ip4P3g",
       "duration": "PT12S",
-      "view_count": 2698,
-      "like_count": 85,
-      "comment_count": 3,
+      "view_count": 3116,
+      "like_count": 106,
+      "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-10-29T21:36:29Z",
       "description": "Hear leaders from Siemens Energy, Bayernwerk, and TenneT discuss how AI and accelerated computing are helping modernize grid operations, integrate distributed energy resources, and keep power reliable as demand rises.\n\n#GTCBerlin #EnergyforAI #AIforEnergy",
       "duration": "PT41M24S",
-      "view_count": 6328,
-      "like_count": 50,
+      "view_count": 6521,
+      "like_count": 51,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-10-31T20:05:32Z",
+    "generated_at": "2026-11-01T11:23:23Z",
     "count": 5
   }
 }
