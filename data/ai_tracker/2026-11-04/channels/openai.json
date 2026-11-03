@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-04",
+  "result": [
+    {
+      "id": "NCxD-qsQcN0",
+      "title": "TamaGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T18:30:30Z",
+      "description": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
+      "duration": "PT1M22S",
+      "view_count": 22331,
+      "like_count": 1292,
+      "comment_count": 162,
+      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
+    },
+    {
+      "id": "yC72iQx6rM0",
+      "title": "Qodo brings company context into Codex code review",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T18:11:23Z",
+      "description": "Qodo’s Codex plugin brings company context, codebase standards, and independent review into the development workflow. It helps developers catch bugs across repositories, where a change can look right in one codebase and break a service in another.\n\nIn Behind the Build, co-founder Itamar Friedman and AI DevRel lead Nnenna Ndukwe discuss how they’re building with GPT-6 Astra and their vision for a workflow where one agent writes code and another challenges it.\n\nRead the full story: https://openai.com/index/qodo-codex-plugin/",
+      "duration": "PT1M25S",
+      "view_count": 2912,
+      "like_count": 27,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
+    },
+    {
+      "id": "63pcV4z0DwI",
+      "title": "ChatGPT Voice is now in Finances",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T18:04:51Z",
+      "description": "ChatGPT Voice 🤝 Finances.\n\nSecurely connect your accounts through Finances, then talk through your finances on topics like what subscriptions you're paying for, discuss which you’d like to keep and what you could save by cancelling. \n\nTry it: chatgpt.com/finances",
+      "duration": "PT52S",
+      "view_count": 7662,
+      "like_count": 264,
+      "comment_count": 18,
+      "url": "https://www.youtube.com/watch?v=63pcV4z0DwI"
+    },
+    {
+      "id": "JR7xBi2kJjY",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T16:51:36Z",
+      "description": "Glean co-founder and CTO T.R. Vishwanath discusses customer control of data and Glean’s work with OpenAI on the Private Safety Processing preview.\n\nLearn more about OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
+      "duration": "PT28S",
+      "view_count": 1138,
+      "like_count": 37,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=JR7xBi2kJjY"
+    },
+    {
+      "id": "2h16j4K_NbA",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T16:46:37Z",
+      "description": "Using more capable AI starts with confidence that your data stays under your control. For Glean’s customers, privacy is a priority.\n\nGlean co-founder and CTO Vishwanath T R shares how Glean and OpenAI have worked together to help meet those needs, including through the Private Safety Processing preview.\n\nLearn more about OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
+      "duration": "PT57S",
+      "view_count": 5133,
+      "like_count": 55,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=2h16j4K_NbA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-03T21:51:08Z",
+    "count": 5
+  }
+}

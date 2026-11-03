@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-11-04",
+  "result": [
+    {
+      "id": "yLMjEpMio2w",
+      "title": "From AI Infrastructure to the 6G Future",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-03T13:00:13Z",
+      "description": "In this Telecom Special Address from NVIDIA GTC Berlin, Ronnie Vasishta, SVP of Telecom at NVIDIA, explores how AI-RAN, accelerated computing, and AI inference at the edge are shaping the path to 6G.\n\nKey Highlights: \n- Understand how AI factories, distributed inference, AI-RAN, and 6G fit into one strategic roadmap for telcos.\n- Learn about the latest breakthroughs and ecosystem advancements in AI Infrastructure, edge AI, and 6G.\n- Discover what this advancement means for your business, from a commercialization and monetization perspective.\n\nChapters:\n00:00 Telecom Infrastructure’s Role in AI\n08:27 Deutsche Telekom’s Distributed Cloud and AI-RAN Pilot\n09:43 Edge AI Robotics with Agile Robots\n11:29 Orange’s Real-Time AI Translation Pilot with Nemotron\n13:46 European Telco AI Factories and AI Services\n15:04 AI-RAN: Moving to Software-Defined Radio Access Networks\n17:24 NVIDIA Aerial RAN Computers: MGX Systems and DGX Spark\n20:58 Elisa Demo: Running AI and RAN on Shared Infrastructure\n22:27 BT’s Planned AI-RAN Trials and T-Mobile’s Commercial Call\n25:25 Open 6G Research with NVIDIA Sionna and Aerial\n30:40 Nemotron Models for Telecom Network Operations\n33:04 Cisco and Nokia: AI Agents for Network Troubleshooting\n34:21 Nokia and NVIDIA’s AI-RAN Partnership",
+      "duration": "PT38M",
+      "view_count": 7080,
+      "like_count": 119,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
+    },
+    {
+      "id": "sooiYbnctEw",
+      "title": "Your Spark, Your Story: Yannik Marek | NVIDIA RTX Spark",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-02T20:51:00Z",
+      "description": "What got ComfyUI's creator into PCs? \n\nFor Yannik Marek, it was video games on an old CRT monitor. Today, his curiosity & experimentation is powered by NVIDIA RTX Spark.\n\nLearn more about NVIDIA RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/",
+      "duration": "PT1M24S",
+      "view_count": 10794,
+      "like_count": 97,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=sooiYbnctEw"
+    },
+    {
+      "id": "8K08Ywgduno",
+      "title": "The robots were told there’d be candy. 🍬🎃",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-31T18:04:07Z",
+      "description": "Happy Halloween!",
+      "duration": "PT23S",
+      "view_count": 7815,
+      "like_count": 323,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=8K08Ywgduno"
+    },
+    {
+      "id": "LRSJXRsKmLQ",
+      "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-30T20:27:20Z",
+      "description": "Relive NVIDIA GTC Berlin 2026, where developers, researchers, startups, partners, and industry leaders came together to explore the ideas and technology shaping AI across Europe and around the world.\n\nFrom NVIDIA CEO Jensen Huang’s keynote at Tempodrom and packed sessions at STATION-Berlin to hands-on training, partner demos, the Build-a-Claw activation, the Festival of Lights, and four Microducks in the spotlight, see the moments that brought GTC Berlin to life.\n\nWatch the keynote and explore sessions on demand: https://nvda.ws/4e95G6L\n#NVIDIAGTC #AI #NVIDIA",
+      "duration": "PT1M28S",
+      "view_count": 7646,
+      "like_count": 56,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
+    },
+    {
+      "id": "ndtnt5kWT5A",
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-10-30T19:47:01Z",
+      "description": "See how NVIDIA Halos SAFE AV connects real-world testing, simulation, and vehicle hardware to evaluate autonomous vehicle safety in one continuous loop.\n\nDiscover how NVIDIA Omniverse NuRec reconstructs real driving scenarios and NVIDIA Cosmos generates variations across traffic, weather, and edge cases.\n\n🔗 Explore NVIDIA Halos → https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\n\n📖 Read the press release → https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "duration": "PT2M38S",
+      "view_count": 10962,
+      "like_count": 144,
+      "comment_count": 2,
+      "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-03T21:51:08Z",
+    "count": 5
+  }
+}
