@@ -20,9 +20,9 @@
       "published_at": "2026-11-03T20:25:36Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 1998,
-      "like_count": 119,
-      "comment_count": 2,
+      "view_count": 11722,
+      "like_count": 360,
+      "comment_count": 21,
       "url": "https://www.youtube.com/watch?v=paOOAJS5Omk"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-11-02T21:42:00Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 39479,
-      "like_count": 1128,
-      "comment_count": 74,
+      "view_count": 49773,
+      "like_count": 1392,
+      "comment_count": 82,
       "url": "https://www.youtube.com/watch?v=7l6IEPzt68I"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-11-02T08:11:03Z",
       "description": "",
       "duration": "PT1M18S",
-      "view_count": 116113,
-      "like_count": 4894,
-      "comment_count": 84,
+      "view_count": 136157,
+      "like_count": 5653,
+      "comment_count": 90,
       "url": "https://www.youtube.com/watch?v=n8uMYGFhg3U"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-10-30T18:17:34Z",
       "description": "",
       "duration": "PT1M6S",
-      "view_count": 422563,
-      "like_count": 10766,
-      "comment_count": 568,
+      "view_count": 443431,
+      "like_count": 11179,
+      "comment_count": 580,
       "url": "https://www.youtube.com/watch?v=2bMhtD2MuwM"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-10-30T17:18:35Z",
       "description": "𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/robert-caro\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/robert-caro-the-master-biographer-reflects-at-91/id1516093381?i=1000798931746\n* Spotify: https://open.spotify.com/episode/4qFEcgsHB5hAnRoGw0Ypiv\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis lets you run thorough simulation tests on every PR your coding agents ship. That’s because Antithesis is FAST. On a recent project, it packed fifteen hours of simulation into each fifteen-minute run: every change could be tested in thousands of hostile worlds before being merged. Every minute your software spends in Antithesis is one of the unluckiest hours it will ever experience. Learn more at https://antithesis.com/dwarkesh\n\n* WorkOS’s Airlock is a judgment layer that sits between your agents and your most important tools. When an agent makes a request, Airlock evaluates it against your company’s policies and decides whether to allow it, block it, or escalate it to a human. If it allows it, Airlock takes action on behalf of the agent, which means your agents never see your API keys or other credentials. Airlock is in early access. If you’re interested, go to https://workos.com/airlock\n\n* Jane Street’s mystery ASIC puzzle is over, and they’ve published a blog post that reveals the chip’s purpose. You can read it here: https://blog.janestreet.com/asic-puzzle-results/. More importantly, there’s another challenge live now! For this one, you have to design a protocol-emulator ASIC that can be used to test chips outside of a live system. Jane Street will pay to fabricate their favorite submissions. The competition is open until January 18th. Get started at https://janestreet.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – How Caro gets people to talk\n00:05:03 – Does America need a little more Moses today?\n00:12:42 – Moses the young idealist\n00:17:57 – Watching Moses lose power\n00:24:01 – Did Moses realize he was changing?\n00:27:53 – Building during the Great Depression\n00:32:51 – The threats and promises of Lyndon Johnson\n00:36:08 – Could Kennedy have passed Johnson’s laws?\n00:41:00 – Getting a book down to one sentence\n00:46:21 – All the material that never made it into the books\n00:52:59 – Loneliness",
       "duration": "PT1H1M10S",
-      "view_count": 225522,
-      "like_count": 3283,
-      "comment_count": 229,
+      "view_count": 236449,
+      "like_count": 3390,
+      "comment_count": 237,
       "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-03T21:51:04Z",
+    "generated_at": "2026-11-04T12:18:56Z",
     "count": 5
   }
 }

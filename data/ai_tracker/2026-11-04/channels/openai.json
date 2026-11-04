@@ -20,9 +20,9 @@
       "published_at": "2026-11-03T18:30:30Z",
       "description": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
       "duration": "PT1M22S",
-      "view_count": 22331,
-      "like_count": 1292,
-      "comment_count": 162,
+      "view_count": 209463,
+      "like_count": 3255,
+      "comment_count": 328,
       "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-11-03T18:11:23Z",
       "description": "Qodo’s Codex plugin brings company context, codebase standards, and independent review into the development workflow. It helps developers catch bugs across repositories, where a change can look right in one codebase and break a service in another.\n\nIn Behind the Build, co-founder Itamar Friedman and AI DevRel lead Nnenna Ndukwe discuss how they’re building with GPT-6 Astra and their vision for a workflow where one agent writes code and another challenges it.\n\nRead the full story: https://openai.com/index/qodo-codex-plugin/",
       "duration": "PT1M25S",
-      "view_count": 2912,
-      "like_count": 27,
+      "view_count": 9177,
+      "like_count": 52,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-11-03T18:04:51Z",
       "description": "ChatGPT Voice 🤝 Finances.\n\nSecurely connect your accounts through Finances, then talk through your finances on topics like what subscriptions you're paying for, discuss which you’d like to keep and what you could save by cancelling. \n\nTry it: chatgpt.com/finances",
       "duration": "PT52S",
-      "view_count": 7662,
-      "like_count": 264,
-      "comment_count": 18,
+      "view_count": 35389,
+      "like_count": 539,
+      "comment_count": 29,
       "url": "https://www.youtube.com/watch?v=63pcV4z0DwI"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-11-03T16:51:36Z",
       "description": "Glean co-founder and CTO T.R. Vishwanath discusses customer control of data and Glean’s work with OpenAI on the Private Safety Processing preview.\n\nLearn more about OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
       "duration": "PT28S",
-      "view_count": 1138,
-      "like_count": 37,
+      "view_count": 3696,
+      "like_count": 86,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=JR7xBi2kJjY"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-11-03T16:46:37Z",
       "description": "Using more capable AI starts with confidence that your data stays under your control. For Glean’s customers, privacy is a priority.\n\nGlean co-founder and CTO Vishwanath T R shares how Glean and OpenAI have worked together to help meet those needs, including through the Private Safety Processing preview.\n\nLearn more about OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
       "duration": "PT57S",
-      "view_count": 5133,
-      "like_count": 55,
+      "view_count": 9716,
+      "like_count": 78,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=2h16j4K_NbA"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-03T21:51:08Z",
+    "generated_at": "2026-11-04T12:19:00Z",
     "count": 5
   }
 }
