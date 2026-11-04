@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-05",
+  "result": [
+    {
+      "id": "6IttBmI4P9M",
+      "title": "Messi asks ChatGPT to reimagine his room",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-04T19:25:46Z",
+      "description": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas.\n\nTry it yourself: “Reimagine this room in my style. Surprise me.”",
+      "duration": "PT18S",
+      "view_count": 2131,
+      "like_count": 77,
+      "comment_count": 9,
+      "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
+    },
+    {
+      "id": "0LDs5rvx1EI",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-04T17:33:11Z",
+      "description": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing.\n\nIn an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric.\n\n“OpenAI has unlocked the ability to deliver self-serve analytics across Figma,” says Sharath Chandra, who leads Data Engineering.\n\nWatch Sharath explain the workflow.",
+      "duration": "PT42S",
+      "view_count": 1081,
+      "like_count": 26,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI"
+    },
+    {
+      "id": "44GBqQGc-v0",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-04T17:27:07Z",
+      "description": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing.\n\nIn an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric.\n\n“OpenAI has unlocked the ability to deliver self-serve analytics across Figma,” says Sharath Chandra, who leads Data Engineering.\n\nWatch Sharath explain the workflow.",
+      "duration": "PT1M6S",
+      "view_count": 4651,
+      "like_count": 50,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=44GBqQGc-v0"
+    },
+    {
+      "id": "NCxD-qsQcN0",
+      "title": "TamaGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T18:30:30Z",
+      "description": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
+      "duration": "PT1M22S",
+      "view_count": 295764,
+      "like_count": 4739,
+      "comment_count": 444,
+      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
+    },
+    {
+      "id": "yC72iQx6rM0",
+      "title": "Qodo brings company context into Codex code review",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-03T18:11:23Z",
+      "description": "Qodo’s Codex plugin brings company context, codebase standards, and independent review into the development workflow. It helps developers catch bugs across repositories, where a change can look right in one codebase and break a service in another.\n\nIn Behind the Build, co-founder Itamar Friedman and AI DevRel lead Nnenna Ndukwe discuss how they’re building with GPT-6 Astra and their vision for a workflow where one agent writes code and another challenges it.\n\nRead the full story: https://openai.com/index/qodo-codex-plugin/",
+      "duration": "PT1M25S",
+      "view_count": 10875,
+      "like_count": 64,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-04T21:58:46Z",
+    "count": 5
+  }
+}

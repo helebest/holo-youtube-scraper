@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-11-05",
+  "result": [
+    {
+      "id": "ep4psgAFOqc",
+      "title": "How I Get Claude To Edit My Videos (No Code Needed)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-04T16:40:16Z",
+      "description": "Try vidIQ for only $1 https://vidiq.com/mattwolfe/\n\nLearn how to edit videos with Claude AI, work with Premiere Pro, and turn your footage into short-form content.\n\nIn this guide, I walk through how to use Claude to help with video editing, from working with your existing footage to creating clips for Shorts and Reels. We’ll explore how Claude fits into an Adobe Premiere Pro workflow and where AI can help with the editing process.\n\nThe focus is on making useful content from your own videos, with creative control over the results. Less repetitive work, without filling your feed with AI slop.\n\nSharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n\nLearn how I use claude video editing to automate my production workflow. This process generates scripts and handles B-roll selection.\n\nI demonstrate the full setup using Claude Opus 5.5, VidIQ, and 11 Labs to build a specialized system. By connecting these tools, I created a pipeline for claude ai video editing that turns raw A-roll into finished content. We explore how to configure these capabilities to refine audio and pacing without manual intervention.\n\nThis workflow is perfect for anyone looking to master claude code video editing by building an iterative feedback loop. I also cover troubleshooting API errors and how to use data-driven insights to improve future output. Whether you want to streamline your production or understand the potential for youtube automation, this guide breaks down the entire technical process.\n\nSubscribe for weekly AI workflow breakdowns and comment below if you want to see the specific Python scripts used in this setup.\n\n00:00 Editing Videos With Claude\n02:29 Researching Video Ideas With vidIQ\n04:11 From Script to AI Video Edit\n07:15 Setting Up Claude for Video Editing\n09:21 Connecting vidIQ to Claude\n10:55 Building Claude Skills for Your Channel\n17:38 MotionBricks Demo\n21:02 Refining the Edit and What’s Next",
+      "duration": "PT32M45S",
+      "view_count": 13385,
+      "like_count": 413,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=ep4psgAFOqc"
+    },
+    {
+      "id": "PRAY_SewRxI",
+      "title": "A real-life speeder bike from Return of the Jedi (Not AI)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-03T20:51:24Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #StarWars #FutreTech",
+      "duration": "PT1M4S",
+      "view_count": 20996,
+      "like_count": 914,
+      "comment_count": 32,
+      "url": "https://www.youtube.com/watch?v=PRAY_SewRxI"
+    },
+    {
+      "id": "lZes3U_WIug",
+      "title": "Generate Worlds in Real-Time (Free & Open Source)",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-02T23:12:03Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M16S",
+      "view_count": 9575,
+      "like_count": 277,
+      "comment_count": 12,
+      "url": "https://www.youtube.com/watch?v=lZes3U_WIug"
+    },
+    {
+      "id": "h5SNFLIZl_U",
+      "title": "Would you be excited to see this at Disneyland?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-02T04:16:43Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M14S",
+      "view_count": 9639,
+      "like_count": 389,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=h5SNFLIZl_U"
+    },
+    {
+      "id": "_9R7QOhJh-o",
+      "title": "Glasses That Make You Telepathic",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-10-31T18:16:57Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M16S",
+      "view_count": 18237,
+      "like_count": 563,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=_9R7QOhJh-o"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-04T21:58:48Z",
+    "count": 5
+  }
+}
