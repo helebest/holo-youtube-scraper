@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-11-06",
+  "result": [
+    {
+      "id": "SM3lUcU2Z2I",
+      "title": "We’re all less cult-prof than we would like to think #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-05T22:00:09Z",
+      "description": "Nobody joins a cult on purpose, says Sarah Edmondson, a former member of the infamous Nxivm cult and one of the three whistleblowers that led to its downfall. She explains how she got ensnared in this highly manipulative group — and then escaped it — and shares red flags to help you distinguish between a cult and a safe community.",
+      "duration": "PT2M16S",
+      "view_count": 106,
+      "like_count": 11,
+      "comment_count": 1,
+      "url": "https://www.youtube.com/watch?v=SM3lUcU2Z2I"
+    },
+    {
+      "id": "VC4g2l47rzc",
+      "title": "How Imaginary Worlds Help Kids Learn | Anna Rainio | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-05T16:00:03Z",
+      "description": "All children develop at different paces — so why do schools expect every student to learn the same way? Early education researcher Anna Rainio introduces \"playworlds,\" a learning activity where adults and kids create imaginary stories together. She shows how pretend play helps students find their place — and the power of a teacher or parent starting with a simple question: Why not? (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/annarainio\n\nhttps://youtu.be/VC4g2l47rzc\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Education",
+      "duration": "PT11M44S",
+      "view_count": 16543,
+      "like_count": 95,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=VC4g2l47rzc"
+    },
+    {
+      "id": "JOPuUlsXMso",
+      "title": "Instead of asking why they stay, ask how we can help #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-03T22:30:31Z",
+      "description": "Leslie Morgan Steiner was in \"crazy love\" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence.",
+      "duration": "PT1M16S",
+      "view_count": 37791,
+      "like_count": 1199,
+      "comment_count": 23,
+      "url": "https://www.youtube.com/watch?v=JOPuUlsXMso"
+    },
+    {
+      "id": "Wv9wTfGidXQ",
+      "title": "The Art of Disagreeing with Dignity | Tami Pyfer | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-03T16:00:32Z",
+      "description": "Tami Pyfer has five kids who belong to five different political parties, and sometimes family conversations get heated. Drawing on her work as a former policy advisor to the governor of Utah, she wanted to find a healthier way for people to talk about politics without contempt. The result is the Dignity Index: an eight-point scale that measures the language we use to disagree, aiming to ease political divisions. What score do you think your last conversation would get? (Recorded at TED Democracy Philadelphia on June 13, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/tamipyfer\n\nhttps://youtu.be/Wv9wTfGidXQ\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Communication",
+      "duration": "PT11M6S",
+      "view_count": 64789,
+      "like_count": 571,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=Wv9wTfGidXQ"
+    },
+    {
+      "id": "Gswo90kocHU",
+      "title": "How to Make Parenting Less Lonely | Stacey McLachlan | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-02T16:00:39Z",
+      "description": "When parents first have kids, some risk entering “the loneliest decade,” where they fall out of touch with friends. Writer Stacey McLachlan decided to do something different when she had her daughter, refusing to let her social life slip away. In this witty talk, she shares her solution — and why it matters for all of us. (Recorded at TEDxVancouver on March 8, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/staceymclachlan\n\nhttps://youtu.be/Gswo90kocHU\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Parenting",
+      "duration": "PT17M54S",
+      "view_count": 75200,
+      "like_count": 317,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Gswo90kocHU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-05T22:07:38Z",
+    "count": 5
+  }
+}

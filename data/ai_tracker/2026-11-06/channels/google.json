@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-11-06",
+  "result": [
+    {
+      "id": "MFwdoEtxbwA",
+      "title": "Happy Hunger Games 🐍",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T20:59:20Z",
+      "description": "Search “the hunger games: sunrise on the reaping” to play.",
+      "duration": "PT9S",
+      "view_count": 710,
+      "like_count": 47,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=MFwdoEtxbwA"
+    },
+    {
+      "id": "wNZdVkiEZtE",
+      "title": "Search “Ocarina of Time” to test if you’re a true Hero of Time 🗡️",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T18:49:06Z",
+      "description": "See what happens when you enter it in the search bar ✨\n\n@NintendoAmerica",
+      "duration": "PT8S",
+      "view_count": 2583,
+      "like_count": 158,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=wNZdVkiEZtE"
+    },
+    {
+      "id": "aRg5DWHAC_g",
+      "title": "Double tap to break the ice, then search what’s inside ❄️",
+      "channel_title": "Google",
+      "published_at": "2026-11-01T14:00:48Z",
+      "description": "Search “mariah carey” on Google for a holiday miracle ✨ \n@MariahCarey",
+      "duration": "PT6S",
+      "view_count": 70492,
+      "like_count": 3490,
+      "comment_count": 272,
+      "url": "https://www.youtube.com/watch?v=aRg5DWHAC_g"
+    },
+    {
+      "id": "22YWTc-KaNo",
+      "title": "Happy Halloween 🎃",
+      "channel_title": "Google",
+      "published_at": "2026-10-31T16:11:38Z",
+      "description": "Who let the bats out?! They're stealing the spotlight from today’s #GoogleDoodle  🦇👀 Dare to LIKE…",
+      "duration": "PT6S",
+      "view_count": 86417,
+      "like_count": 4933,
+      "comment_count": 619,
+      "url": "https://www.youtube.com/watch?v=22YWTc-KaNo"
+    },
+    {
+      "id": "dIlza2R5hFE",
+      "title": "Spider bro went to WORK 🕸️",
+      "channel_title": "Google",
+      "published_at": "2026-10-30T12:59:58Z",
+      "description": "Want to create your own spooky interactive visuals with AI Mode in Search? Start with this prompt: “build a simulation of how a spider spins a web”. \n\n#GoogleSearch",
+      "duration": "PT13S",
+      "view_count": 26083,
+      "like_count": 668,
+      "comment_count": 82,
+      "url": "https://www.youtube.com/watch?v=dIlza2R5hFE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-05T22:07:44Z",
+    "count": 5
+  }
+}
