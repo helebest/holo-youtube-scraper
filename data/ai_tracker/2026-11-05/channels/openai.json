@@ -14,15 +14,39 @@
   "date": "2026-11-05",
   "result": [
     {
+      "id": "bJldMYfRvMQ",
+      "title": "Introducing ChatGPT Images 2.6",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-05T02:32:21Z",
+      "description": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.\n\nImages, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/",
+      "duration": "PT35S",
+      "view_count": 58443,
+      "like_count": 1451,
+      "comment_count": 178,
+      "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
+    },
+    {
+      "id": "9ZxCOHkfn_8",
+      "title": "GPT-Image-2.6: Faster image generation with Flare and Sunburst",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-04T23:42:40Z",
+      "description": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before.\n\nUse Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds. When you need details to stay consistent across edits, use Sunburst at medium or high quality. Try changing a product’s backdrop while keeping its shape and texture, or bring a mascot to life as a looping GIF.\n\nhttp://openai.com/index/introducing-images-2-6/",
+      "duration": "PT1M28S",
+      "view_count": 161199,
+      "like_count": 2955,
+      "comment_count": 189,
+      "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
+    },
+    {
       "id": "6IttBmI4P9M",
       "title": "Messi asks ChatGPT to reimagine his room",
       "channel_title": "OpenAI",
       "published_at": "2026-11-04T19:25:46Z",
       "description": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas.\n\nTry it yourself: “Reimagine this room in my style. Surprise me.”",
       "duration": "PT18S",
-      "view_count": 2131,
-      "like_count": 77,
-      "comment_count": 9,
+      "view_count": 20963,
+      "like_count": 435,
+      "comment_count": 24,
       "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
     },
     {
@@ -32,8 +56,8 @@
       "published_at": "2026-11-04T17:33:11Z",
       "description": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing.\n\nIn an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric.\n\n“OpenAI has unlocked the ability to deliver self-serve analytics across Figma,” says Sharath Chandra, who leads Data Engineering.\n\nWatch Sharath explain the workflow.",
       "duration": "PT42S",
-      "view_count": 1081,
-      "like_count": 26,
+      "view_count": 3603,
+      "like_count": 81,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI"
     },
@@ -44,39 +68,15 @@
       "published_at": "2026-11-04T17:27:07Z",
       "description": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing.\n\nIn an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric.\n\n“OpenAI has unlocked the ability to deliver self-serve analytics across Figma,” says Sharath Chandra, who leads Data Engineering.\n\nWatch Sharath explain the workflow.",
       "duration": "PT1M6S",
-      "view_count": 4651,
-      "like_count": 50,
+      "view_count": 10905,
+      "like_count": 83,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=44GBqQGc-v0"
-    },
-    {
-      "id": "NCxD-qsQcN0",
-      "title": "TamaGPT",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-03T18:30:30Z",
-      "description": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
-      "duration": "PT1M22S",
-      "view_count": 295764,
-      "like_count": 4739,
-      "comment_count": 444,
-      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
-    },
-    {
-      "id": "yC72iQx6rM0",
-      "title": "Qodo brings company context into Codex code review",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-03T18:11:23Z",
-      "description": "Qodo’s Codex plugin brings company context, codebase standards, and independent review into the development workflow. It helps developers catch bugs across repositories, where a change can look right in one codebase and break a service in another.\n\nIn Behind the Build, co-founder Itamar Friedman and AI DevRel lead Nnenna Ndukwe discuss how they’re building with GPT-6 Astra and their vision for a workflow where one agent writes code and another challenges it.\n\nRead the full story: https://openai.com/index/qodo-codex-plugin/",
-      "duration": "PT1M25S",
-      "view_count": 10875,
-      "like_count": 64,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-04T21:58:46Z",
+    "generated_at": "2026-11-05T12:33:45Z",
     "count": 5
   }
 }
