@@ -14,15 +14,27 @@
   "date": "2026-11-06",
   "result": [
     {
+      "id": "JyB3mExvn_w",
+      "title": "The Man Who Built New York Without Winning a Single Vote - Robert Caro",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-06T04:34:08Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 5330,
+      "like_count": 226,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=JyB3mExvn_w"
+    },
+    {
       "id": "1NQwfImTseU",
       "title": "Which AI is the best liar?",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-11-05T21:00:50Z",
       "description": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: clocktowerbench.com\n\nMusic by @tomfoxcatalog \n\nRead the post: dwarkesh.com/p/clocktower\n\nCheck out Tom Taylor et al.'s Blood on the Clocktower benchmark at https://www.lesswrong.com/posts/4pgGkbwvdmxKPcJsM/bench-on-the-clocktower",
       "duration": "PT18M14S",
-      "view_count": 2398,
-      "like_count": 203,
-      "comment_count": 18,
+      "view_count": 64319,
+      "like_count": 1322,
+      "comment_count": 132,
       "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-11-04T23:17:12Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 12623,
-      "like_count": 381,
-      "comment_count": 9,
+      "view_count": 15100,
+      "like_count": 448,
+      "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=CGPQ2-pJ6As"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-11-03T20:25:36Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 20061,
-      "like_count": 571,
-      "comment_count": 29,
+      "view_count": 21849,
+      "like_count": 620,
+      "comment_count": 34,
       "url": "https://www.youtube.com/watch?v=paOOAJS5Omk"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-11-02T21:42:00Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 75575,
-      "like_count": 2096,
-      "comment_count": 105,
+      "view_count": 82286,
+      "like_count": 2283,
+      "comment_count": 107,
       "url": "https://www.youtube.com/watch?v=7l6IEPzt68I"
-    },
-    {
-      "id": "n8uMYGFhg3U",
-      "title": "How Japan Accidentally Helped Kill the Tsar - Sarah Paine",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-11-02T08:11:03Z",
-      "description": "",
-      "duration": "PT1M18S",
-      "view_count": 176858,
-      "like_count": 6973,
-      "comment_count": 119,
-      "url": "https://www.youtube.com/watch?v=n8uMYGFhg3U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-05T22:07:37Z",
+    "generated_at": "2026-11-06T12:16:37Z",
     "count": 5
   }
 }

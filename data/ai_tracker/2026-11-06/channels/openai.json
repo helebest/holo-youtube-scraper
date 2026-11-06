@@ -20,8 +20,8 @@
       "published_at": "2026-11-05T17:14:11Z",
       "description": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software.\n\nHear Brian Grinstead, Distinguished Engineer for Firefox, share Mozilla’s experience and what stronger AI can mean for software defense.\n\nhttps://openai.com/index/introducing-gpt-6-cyber/",
       "duration": "PT54S",
-      "view_count": 7911,
-      "like_count": 174,
+      "view_count": 16681,
+      "like_count": 265,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-11-05T02:32:21Z",
       "description": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.\n\nImages, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/",
       "duration": "PT35S",
-      "view_count": 92357,
-      "like_count": 1985,
-      "comment_count": 221,
+      "view_count": 107231,
+      "like_count": 2300,
+      "comment_count": 232,
       "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-11-04T23:42:40Z",
       "description": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before.\n\nUse Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds. When you need details to stay consistent across edits, use Sunburst at medium or high quality. Try changing a product’s backdrop while keeping its shape and texture, or bring a mascot to life as a looping GIF.\n\nhttp://openai.com/index/introducing-images-2-6/",
       "duration": "PT1M28S",
-      "view_count": 226862,
-      "like_count": 3671,
-      "comment_count": 230,
+      "view_count": 278190,
+      "like_count": 4107,
+      "comment_count": 254,
       "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-11-04T19:25:46Z",
       "description": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas.\n\nTry it yourself: “Reimagine this room in my style. Surprise me.”",
       "duration": "PT18S",
-      "view_count": 44245,
-      "like_count": 756,
-      "comment_count": 36,
+      "view_count": 53746,
+      "like_count": 973,
+      "comment_count": 56,
       "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-11-04T17:33:11Z",
       "description": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing.\n\nIn an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric.\n\n“OpenAI has unlocked the ability to deliver self-serve analytics across Figma,” says Sharath Chandra, who leads Data Engineering.\n\nWatch Sharath explain the workflow.",
       "duration": "PT42S",
-      "view_count": 4825,
-      "like_count": 97,
+      "view_count": 5346,
+      "like_count": 108,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-05T22:07:43Z",
+    "generated_at": "2026-11-06T12:16:41Z",
     "count": 5
   }
 }
