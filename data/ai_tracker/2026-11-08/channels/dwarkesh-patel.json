@@ -14,15 +14,27 @@
   "date": "2026-11-08",
   "result": [
     {
+      "id": "S4NYamZuts4",
+      "title": "How LBJ Fooled the Segregationists - Robert Caro",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-07T21:53:54Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 34209,
+      "like_count": 1456,
+      "comment_count": 79,
+      "url": "https://www.youtube.com/watch?v=S4NYamZuts4"
+    },
+    {
       "id": "JyB3mExvn_w",
       "title": "The Man Who Built New York Without Winning a Single Vote - Robert Caro",
       "channel_title": "Dwarkesh Patel",
       "published_at": "2026-11-06T04:34:08Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 20342,
-      "like_count": 624,
-      "comment_count": 12,
+      "view_count": 23758,
+      "like_count": 726,
+      "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=JyB3mExvn_w"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-11-05T21:00:50Z",
       "description": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: clocktowerbench.com\n\nMusic by @tomfoxcatalog \n\nGithub: https://github.com/dwarkeshsp/clocktower\nRead the post: dwarkesh.com/p/clocktower\n\n\nCheck out Tom Taylor et al.'s Blood on the Clocktower benchmark at https://www.lesswrong.com/posts/4pgGkbwvdmxKPcJsM/bench-on-the-clocktower",
       "duration": "PT18M14S",
-      "view_count": 119921,
-      "like_count": 2061,
-      "comment_count": 203,
+      "view_count": 132230,
+      "like_count": 2226,
+      "comment_count": 216,
       "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-11-04T23:17:12Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 18517,
-      "like_count": 547,
+      "view_count": 19266,
+      "like_count": 572,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=CGPQ2-pJ6As"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-11-03T20:25:36Z",
       "description": "",
       "duration": "PT1M",
-      "view_count": 25252,
-      "like_count": 704,
-      "comment_count": 43,
+      "view_count": 26887,
+      "like_count": 741,
+      "comment_count": 44,
       "url": "https://www.youtube.com/watch?v=paOOAJS5Omk"
-    },
-    {
-      "id": "7l6IEPzt68I",
-      "title": "Why Senators Couldn’t Say No to LBJ – Robert Caro",
-      "channel_title": "Dwarkesh Patel",
-      "published_at": "2026-11-02T21:42:00Z",
-      "description": "",
-      "duration": "PT1M12S",
-      "view_count": 91978,
-      "like_count": 2545,
-      "comment_count": 108,
-      "url": "https://www.youtube.com/watch?v=7l6IEPzt68I"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-07T20:19:14Z",
+    "generated_at": "2026-11-08T11:23:35Z",
     "count": 5
   }
 }

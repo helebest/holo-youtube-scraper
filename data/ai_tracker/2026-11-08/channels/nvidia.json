@@ -20,9 +20,9 @@
       "published_at": "2026-11-06T23:10:49Z",
       "description": "See how Siemens uses the NVIDIA Factory Operations Blueprint to plan production in minutes and NVIDIA Cosmos to generate a virtual prototype and synthetic data for training optical inspection models before production starts.\n\nDiscover how Siemens is integrating AI agents and digital twins to accelerate production planning and operations—advancing adaptive manufacturing.\n\n📖 Read the Blog →  https://nvda.ws/4iAT0XN\n\n📖 Learn more about the FOX Blueprint https://nvda.ws/4sA7jQO\n\n#NVIDIACosmos #IndustrialAI #Manufacturing #NVIDIAGTC",
       "duration": "PT1M33S",
-      "view_count": 11940,
-      "like_count": 190,
-      "comment_count": 10,
+      "view_count": 14385,
+      "like_count": 210,
+      "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=784YQBiZArk"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-11-05T17:49:47Z",
       "description": "Conference passes for #NVIDIAGTC are sold out, but you can still join us with an exhibits-only pass.\n\nConnect with innovators and explore the latest technology in the nation’s capital.\n\n📅 December 1–3\n\nGet your exhibits-only pass today: nvda.ws/4iCCoim",
       "duration": "PT31S",
-      "view_count": 3274,
-      "like_count": 130,
-      "comment_count": 4,
+      "view_count": 3652,
+      "like_count": 142,
+      "comment_count": 5,
       "url": "https://www.youtube.com/watch?v=pheCh2nQPjQ"
     },
     {
@@ -44,8 +44,8 @@
       "published_at": "2026-11-03T13:00:13Z",
       "description": "In this Telecom Special Address from NVIDIA GTC Berlin, Ronnie Vasishta, SVP of Telecom at NVIDIA, explores how AI-RAN, accelerated computing, and AI inference at the edge are shaping the path to 6G.\n\nKey Highlights: \n- Understand how AI factories, distributed inference, AI-RAN, and 6G fit into one strategic roadmap for telcos.\n- Learn about the latest breakthroughs and ecosystem advancements in AI Infrastructure, edge AI, and 6G.\n- Discover what this advancement means for your business, from a commercialization and monetization perspective.\n\nChapters:\n00:00 Telecom Infrastructure’s Role in AI\n08:27 Deutsche Telekom’s Distributed Cloud and AI-RAN Pilot\n09:43 Edge AI Robotics with Agile Robots\n11:29 Orange’s Real-Time AI Translation Pilot with Nemotron\n13:46 European Telco AI Factories and AI Services\n15:04 AI-RAN: Moving to Software-Defined Radio Access Networks\n17:24 NVIDIA Aerial RAN Computers: MGX Systems and DGX Spark\n20:58 Elisa Demo: Running AI and RAN on Shared Infrastructure\n22:27 BT’s Planned AI-RAN Trials and T-Mobile’s Commercial Call\n25:25 Open 6G Research with NVIDIA Sionna and Aerial\n30:40 Nemotron Models for Telecom Network Operations\n33:04 Cisco and Nokia: AI Agents for Network Troubleshooting\n34:21 Nokia and NVIDIA’s AI-RAN Partnership",
       "duration": "PT38M",
-      "view_count": 14356,
-      "like_count": 184,
+      "view_count": 14730,
+      "like_count": 191,
       "comment_count": 18,
       "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
     },
@@ -56,7 +56,7 @@
       "published_at": "2026-11-02T20:51:00Z",
       "description": "What got ComfyUI's creator into PCs? \n\nFor Yannik Marek, it was video games on an old CRT monitor. Today, his curiosity & experimentation is powered by NVIDIA RTX Spark.\n\nLearn more about NVIDIA RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/",
       "duration": "PT1M24S",
-      "view_count": 13166,
+      "view_count": 13252,
       "like_count": 108,
       "comment_count": 12,
       "url": "https://www.youtube.com/watch?v=sooiYbnctEw"
@@ -68,15 +68,15 @@
       "published_at": "2026-10-31T18:04:07Z",
       "description": "Happy Halloween!",
       "duration": "PT23S",
-      "view_count": 10663,
-      "like_count": 388,
+      "view_count": 10790,
+      "like_count": 390,
       "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=8K08Ywgduno"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-07T20:19:18Z",
+    "generated_at": "2026-11-08T11:23:38Z",
     "count": 5
   }
 }
