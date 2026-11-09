@@ -20,9 +20,9 @@
       "published_at": "2026-11-06T21:11:34Z",
       "description": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. \n\nSo we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services and managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\n\nhttps://openai.com/index/lifeval/",
       "duration": "PT1M5S",
-      "view_count": 42050,
-      "like_count": 486,
-      "comment_count": 74,
+      "view_count": 44017,
+      "like_count": 501,
+      "comment_count": 76,
       "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-11-05T17:14:11Z",
       "description": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software.\n\nHear Brian Grinstead, Distinguished Engineer for Firefox, share Mozilla’s experience and what stronger AI can mean for software defense.\n\nhttps://openai.com/index/introducing-gpt-6-cyber/",
       "duration": "PT54S",
-      "view_count": 25818,
-      "like_count": 337,
+      "view_count": 26810,
+      "like_count": 345,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
     },
@@ -44,9 +44,9 @@
       "published_at": "2026-11-05T02:32:21Z",
       "description": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.\n\nImages, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/",
       "duration": "PT35S",
-      "view_count": 135072,
-      "like_count": 2749,
-      "comment_count": 260,
+      "view_count": 140007,
+      "like_count": 2802,
+      "comment_count": 262,
       "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-11-04T23:42:40Z",
       "description": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before.\n\nUse Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds. When you need details to stay consistent across edits, use Sunburst at medium or high quality. Try changing a product’s backdrop while keeping its shape and texture, or bring a mascot to life as a looping GIF.\n\nhttp://openai.com/index/introducing-images-2-6/",
       "duration": "PT1M28S",
-      "view_count": 359954,
-      "like_count": 4621,
-      "comment_count": 280,
+      "view_count": 366350,
+      "like_count": 4640,
+      "comment_count": 281,
       "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-11-04T19:25:46Z",
       "description": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas.\n\nTry it yourself: “Reimagine this room in my style. Surprise me.”",
       "duration": "PT18S",
-      "view_count": 149300,
-      "like_count": 3086,
-      "comment_count": 103,
+      "view_count": 191085,
+      "like_count": 4260,
+      "comment_count": 116,
       "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-08T20:37:29Z",
+    "generated_at": "2026-11-09T13:05:43Z",
     "count": 5
   }
 }
