@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-11-10",
+  "result": [
+    {
+      "id": "mdSB_Fizm0A",
+      "title": "Google Search Task: Stargazing Edition",
+      "channel_title": "Google",
+      "published_at": "2026-11-06T15:16:04Z",
+      "description": "Set up a task in AI Mode to stay updated on upcoming meteor shower conditions ✨\n\n#GoogleSearch #Space #Stargazing",
+      "duration": "PT16S",
+      "view_count": 13854,
+      "like_count": 459,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=mdSB_Fizm0A"
+    },
+    {
+      "id": "MFwdoEtxbwA",
+      "title": "Happy Hunger Games 🐍",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T20:59:20Z",
+      "description": "Search “the hunger games: sunrise on the reaping” to play.",
+      "duration": "PT9S",
+      "view_count": 19133,
+      "like_count": 641,
+      "comment_count": 43,
+      "url": "https://www.youtube.com/watch?v=MFwdoEtxbwA"
+    },
+    {
+      "id": "wNZdVkiEZtE",
+      "title": "Search “Ocarina of Time” to test if you’re a true Hero of Time 🗡️",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T18:49:06Z",
+      "description": "See what happens when you enter it in the search bar ✨\n\n@NintendoAmerica",
+      "duration": "PT8S",
+      "view_count": 20563,
+      "like_count": 599,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=wNZdVkiEZtE"
+    },
+    {
+      "id": "aRg5DWHAC_g",
+      "title": "Double tap to break the ice, then search what’s inside ❄️",
+      "channel_title": "Google",
+      "published_at": "2026-11-01T14:00:48Z",
+      "description": "Search “mariah carey” on Google for a holiday miracle ✨ \n@MariahCarey",
+      "duration": "PT6S",
+      "view_count": 82040,
+      "like_count": 3906,
+      "comment_count": 299,
+      "url": "https://www.youtube.com/watch?v=aRg5DWHAC_g"
+    },
+    {
+      "id": "22YWTc-KaNo",
+      "title": "Happy Halloween 🎃",
+      "channel_title": "Google",
+      "published_at": "2026-10-31T16:11:38Z",
+      "description": "Who let the bats out?! They're stealing the spotlight from today’s #GoogleDoodle  🦇👀 Dare to LIKE…",
+      "duration": "PT6S",
+      "view_count": 94729,
+      "like_count": 5173,
+      "comment_count": 639,
+      "url": "https://www.youtube.com/watch?v=22YWTc-KaNo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-10T00:18:56Z",
+    "count": 5
+  }
+}
