@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Two Minute Papers",
+    "tier": "tier2_frontier",
+    "handle": "@TwoMinutePapers",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  "date": "2026-11-11",
+  "result": [
+    {
+      "id": "vug73goPJaM",
+      "title": "Is Software Over?",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-11-10T10:15:57Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n0:00 AI reverse engineering\n1:01 Legal landscape\n1:22 Scientific research\n2:11 Visual reconstruction\n3:05 How AI learns software\n3:55 The problem with restrictions\n4:26 The future of software",
+      "duration": "PT6M26S",
+      "view_count": 117017,
+      "like_count": 2290,
+      "comment_count": 449,
+      "url": "https://www.youtube.com/watch?v=vug73goPJaM"
+    },
+    {
+      "id": "GJ6PMUm5oTA",
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-11-07T16:24:47Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT5M49S",
+      "view_count": 225552,
+      "like_count": 3674,
+      "comment_count": 259,
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA"
+    },
+    {
+      "id": "XgC1QTs6A2U",
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-11-06T07:27:02Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be Good Enough?\n43:53 Favorite Papers\n44:53 The hardest question\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT46M19S",
+      "view_count": 47270,
+      "like_count": 579,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U"
+    },
+    {
+      "id": "CWdTBLsbaQs",
+      "title": "OpenAI Claims It Just Did The Impossible",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-30T15:57:16Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT7M22S",
+      "view_count": 494729,
+      "like_count": 9061,
+      "comment_count": 665,
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs"
+    },
+    {
+      "id": "pryCaGv8wuo",
+      "title": "DeepSeek's New AI Is An Absolute Monster",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-10-28T17:32:40Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status/2113126108787089811/video/1\nhttps://x.com/notjazii/status/2111414086349336841/photo/1\nhttps://x.com/EnvolDev/status/2112304943076184535/video/1\nhttps://x.com/loktar00/status/2111468860935127532/video/1\nhttps://x.com/ItsmeAjayKV/status/2114036230354788581/video/1\nhttps://x.com/SPAC89/status/2111413922989224089/video/1\nhttps://x.com/marcthecreatorr/status/2114074078340649183/video/1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT5M41S",
+      "view_count": 202443,
+      "like_count": 3073,
+      "comment_count": 227,
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-10T21:50:54Z",
+    "count": 5
+  }
+}

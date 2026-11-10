@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-11",
+  "result": [
+    {
+      "id": "5YXlrzC_RYE",
+      "title": "Answering your questions about GPT-Live",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T21:10:08Z",
+      "description": "We’re answering the internet’s questions about GPT-Live, starting with how it’s different from earlier voice models and what developers are using it for. Already building with GPT-Live? We’ll share practical tips for customizing your agent’s voice and improving delegation.\n\nWhat else would you like to know about building with GPT-Live? Leave us a question in the comments!\n\nChapters\n00:00 Intro\n00:10 GPT Live vs. GPT Realtime\n02:22 Handling background noise\n03:06 Use cases\n03:38 Custom voices\n04:57 Improving delegation\n06:33 Collecting tool call parameters\n07:54 Managing delegation context\n\nLinks\nGPT Live prompting guide\nhttps://developers.openai.com/api/docs/guides/live-prompting\n\nBuilding with GPT-Live-1 and Cognition\nhttps://openai.com/business/learn/gpt-live-1-webinar/",
+      "duration": "PT9M13S",
+      "view_count": 759,
+      "like_count": 32,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE"
+    },
+    {
+      "id": "Z9k5oI3Paoc",
+      "title": "Introducing Businesses in ChatGPT in beta",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T18:07:12Z",
+      "description": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nWith Business Hub, verified businesses can update their details and add product feeds with current pricing and availability. They can also see aggregated insights on mentions, website clicks, and common topics in conversations where their business is cited.\n\nEligible ecommerce and online service businesses in the U.S. can also build a Business Agent to answer customers’ questions and help them explore what they offer. Customers can ask questions, compare products, and find what fits their needs using information provided by the business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.\n\nWe don’t share people’s conversations or Business Agent chats with businesses.\n\nEligible businesses located wherever ChatGPT is available can get started by claiming their business in Business Hub.\n\nFind out more: https://openai.com/business/businesses-in-chatgpt\nClaim your business: chatgpt.com/business-hub",
+      "duration": "PT49S",
+      "view_count": 36142,
+      "like_count": 1114,
+      "comment_count": 118,
+      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc"
+    },
+    {
+      "id": "sSyzj08Cy2U",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T16:07:53Z",
+      "description": "We’re turning lessons from defending OpenAI into practical tools for our customers.\n\nOpenAI President and Co-Founder Greg Brockman shares how we used a frontier model to identify and resolve important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we’re building to help other security teams strengthen their defenses as model capabilities improve.\n\nLearn more about OpenAI’s work in cybersecurity: https://openai.com/daybreak/",
+      "duration": "PT21S",
+      "view_count": 1431,
+      "like_count": 52,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=sSyzj08Cy2U"
+    },
+    {
+      "id": "vdEGZYIvFiI",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T16:02:15Z",
+      "description": "We’re turning lessons from defending OpenAI into practical tools for our customers.\n\nOpenAI President and Co-Founder Greg Brockman shares how we used a frontier model to identify and resolve important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we’re building to help other security teams strengthen their defenses as model capabilities improve.\n\nLearn more about OpenAI’s work in cybersecurity: openai.com/daybreak",
+      "duration": "PT58S",
+      "view_count": 6513,
+      "like_count": 81,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=vdEGZYIvFiI"
+    },
+    {
+      "id": "ZTxzWJeGFAA",
+      "title": "How CodeRabbit uses OpenAI to review AI-generated code",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T15:05:40Z",
+      "description": "CodeRabbit co-founder and CEO Harjot Gill explains how the team uses OpenAI models to help teams understand, review, and secure code produced by AI agents and decide what’s ready to ship. He also shares how CodeRabbit used Codex to ship 20x more software over 6 months with the same engineering team.\n\nRead the story: https://openai.com/index/coderabbit-codex-daybreak/",
+      "duration": "PT1M17S",
+      "view_count": 6293,
+      "like_count": 66,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-10T21:50:57Z",
+    "count": 5
+  }
+}
