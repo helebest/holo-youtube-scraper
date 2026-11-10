@@ -14,15 +14,27 @@
   "date": "2026-11-10",
   "result": [
     {
+      "id": "FNTz0CdqL6g",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-10T02:41:23Z",
+      "description": "Kuken Industries is using the OpenAI API to help engineers search 70 years of drawings in minutes. Built with Recursive, a Japanese AI startup and an official OpenAI partner, the system gives teams more time to mentor younger engineers and take on more demanding work.\n\n➡️ Read how Kuken Industries is putting decades of engineering knowledge to work:\nhttps://openai.com/index/kuken/?utm_medium=social&utm_source=youtube&utm_campaign=CNT-yt_jp&utm_content=case_kuken_article",
+      "duration": "PT3M",
+      "view_count": 20414,
+      "like_count": 190,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g"
+    },
+    {
       "id": "hJOwOkLHRN0",
       "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
       "channel_title": "OpenAI",
       "published_at": "2026-11-06T21:11:34Z",
       "description": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. \n\nSo we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services and managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\n\nhttps://openai.com/index/lifeval/",
       "duration": "PT1M5S",
-      "view_count": 45549,
-      "like_count": 512,
-      "comment_count": 81,
+      "view_count": 46323,
+      "like_count": 522,
+      "comment_count": 82,
       "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-11-05T17:14:11Z",
       "description": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software.\n\nHear Brian Grinstead, Distinguished Engineer for Firefox, share Mozilla’s experience and what stronger AI can mean for software defense.\n\nhttps://openai.com/index/introducing-gpt-6-cyber/",
       "duration": "PT54S",
-      "view_count": 27522,
-      "like_count": 351,
+      "view_count": 28065,
+      "like_count": 355,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-11-05T02:32:21Z",
       "description": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.\n\nImages, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/",
       "duration": "PT35S",
-      "view_count": 143891,
-      "like_count": 2825,
-      "comment_count": 266,
+      "view_count": 146999,
+      "like_count": 2860,
+      "comment_count": 275,
       "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-11-04T23:42:40Z",
       "description": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before.\n\nUse Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds. When you need details to stay consistent across edits, use Sunburst at medium or high quality. Try changing a product’s backdrop while keeping its shape and texture, or bring a mascot to life as a looping GIF.\n\nhttp://openai.com/index/introducing-images-2-6/",
       "duration": "PT1M28S",
-      "view_count": 371893,
-      "like_count": 4661,
-      "comment_count": 284,
+      "view_count": 375651,
+      "like_count": 4677,
+      "comment_count": 285,
       "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
-    },
-    {
-      "id": "6IttBmI4P9M",
-      "title": "Messi asks ChatGPT to reimagine his room",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-04T19:25:46Z",
-      "description": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas.\n\nTry it yourself: “Reimagine this room in my style. Surprise me.”",
-      "duration": "PT18S",
-      "view_count": 276185,
-      "like_count": 6281,
-      "comment_count": 140,
-      "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-10T00:18:55Z",
+    "generated_at": "2026-11-10T12:48:31Z",
     "count": 5
   }
 }
