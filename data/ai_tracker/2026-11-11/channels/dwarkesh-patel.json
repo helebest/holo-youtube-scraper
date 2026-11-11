@@ -20,9 +20,9 @@
       "published_at": "2026-11-09T20:37:38Z",
       "description": "",
       "duration": "PT1M46S",
-      "view_count": 15799,
-      "like_count": 582,
-      "comment_count": 28,
+      "view_count": 18664,
+      "like_count": 672,
+      "comment_count": 30,
       "url": "https://www.youtube.com/watch?v=bkzWrrsRyqA"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-11-07T21:53:54Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 167018,
-      "like_count": 5426,
-      "comment_count": 315,
+      "view_count": 178617,
+      "like_count": 5707,
+      "comment_count": 318,
       "url": "https://www.youtube.com/watch?v=S4NYamZuts4"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-11-06T04:34:08Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 29991,
-      "like_count": 901,
-      "comment_count": 15,
+      "view_count": 30419,
+      "like_count": 910,
+      "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=JyB3mExvn_w"
     },
     {
@@ -56,9 +56,9 @@
       "published_at": "2026-11-05T21:00:50Z",
       "description": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: clocktowerbench.com\n\nMusic by @tomfoxcatalog \n\nGithub: https://github.com/dwarkeshsp/clocktower\nRead the post: dwarkesh.com/p/clocktower\n\n\nCheck out Tom Taylor et al.'s Blood on the Clocktower benchmark at https://www.lesswrong.com/posts/4pgGkbwvdmxKPcJsM/bench-on-the-clocktower",
       "duration": "PT18M14S",
-      "view_count": 153409,
-      "like_count": 2454,
-      "comment_count": 234,
+      "view_count": 156235,
+      "like_count": 2479,
+      "comment_count": 238,
       "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
     },
     {
@@ -68,15 +68,15 @@
       "published_at": "2026-11-04T23:17:12Z",
       "description": "",
       "duration": "PT1M8S",
-      "view_count": 21748,
-      "like_count": 634,
+      "view_count": 22130,
+      "like_count": 648,
       "comment_count": 13,
       "url": "https://www.youtube.com/watch?v=CGPQ2-pJ6As"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-10T21:50:53Z",
+    "generated_at": "2026-11-11T11:58:10Z",
     "count": 5
   }
 }
