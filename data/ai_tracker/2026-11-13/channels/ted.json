@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-11-13",
+  "result": [
+    {
+      "id": "f5RqYHd2cBQ",
+      "title": "How Would You Design Your Dream City? | James Rojas | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-12T16:00:32Z",
+      "description": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love. (Recorded at Play@TED on May 14, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/jamesrojas\n\nhttps://youtu.be/f5RqYHd2cBQ\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Storytelling",
+      "duration": "PT8M35S",
+      "view_count": 18381,
+      "like_count": 69,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ"
+    },
+    {
+      "id": "FfUvKe3WCBQ",
+      "title": "Photographer Platon says empathy is the secret ingredient for finding a human connection. #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-11T20:00:01Z",
+      "description": "With his art, photographer Platon seeks to strip away assumptions and leave viewers with a window into his subject's character, filling our eyes with wonder and curiosity. Sharing extraordinary stories of what it's like to photograph some of the world's most prominent figures -- from Michelle Obama and Pussy Riot to Vladimir Putin and Muhammad Ali -- Platon captures the disarming power of empathy and human connection.",
+      "duration": "PT1M51S",
+      "view_count": 7757,
+      "like_count": 266,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=FfUvKe3WCBQ"
+    },
+    {
+      "id": "dpYRzceuSsk",
+      "title": "When a couple creates their own world together, love thrives #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-10T23:00:27Z",
+      "description": "Social psychologist Eli J. Finkel has spent decades studying what makes partnerships successful. In a practical talk drawing on lessons from pop culture, he explores why so many of us struggle to be true to ourselves in our relationships — and what the happiest couples do differently.",
+      "duration": "PT2M4S",
+      "view_count": 30840,
+      "like_count": 1072,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=dpYRzceuSsk"
+    },
+    {
+      "id": "pTdvsfIMGes",
+      "title": "How People Are Using AI to Grieve, Love and Connect | Jennifer Cearns | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-10T16:00:33Z",
+      "description": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn to AI for grief, love, friendship and more, she pokes holes in this familiar fear — and hints at what these strange new relationships can teach us about ourselves. (Recorded at TED2026 on April 16, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/jennifercearns\n\nhttps://youtu.be/pTdvsfIMGes\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT14M2S",
+      "view_count": 63164,
+      "like_count": 392,
+      "comment_count": 45,
+      "url": "https://www.youtube.com/watch?v=pTdvsfIMGes"
+    },
+    {
+      "id": "g3_TqjSLyLk",
+      "title": "AI Brain Fry Is Real. Here’s What Leaders Can Do | Julie Bedard | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-09T16:00:06Z",
+      "description": "Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix. She shares new research on three areas for leaders to focus on — including how to avoid \"AI brain fry\" — and why we need to shape this change rather than let it happen to us. (Recorded at TED@BCG on August 17, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/juliebedard\n\nhttps://youtu.be/g3_TqjSLyLk\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Business",
+      "duration": "PT9M3S",
+      "view_count": 95811,
+      "like_count": 614,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=g3_TqjSLyLk"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-12T22:18:26Z",
+    "count": 5
+  }
+}
