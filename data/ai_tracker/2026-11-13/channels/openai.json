@@ -14,14 +14,26 @@
   "date": "2026-11-13",
   "result": [
     {
+      "id": "YmxpxJZvm4M",
+      "title": "Cyber at the Frontier",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-12T22:37:14Z",
+      "description": "A live keynote featuring OpenAI's latest cyber announcements.",
+      "duration": "PT34M38S",
+      "view_count": 25117,
+      "like_count": 0,
+      "comment_count": 68,
+      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M"
+    },
+    {
       "id": "vu3YlUMkvyg",
       "title": "What Codex Unlocks for Holiday Extras",
       "channel_title": "OpenAI",
       "published_at": "2026-11-12T09:45:17Z",
       "description": "What happens when the people who understand your customers can build the software to help them? At Holiday Extras, Codex is helping turn that ambition into reality—from rebuilding its main app in two weeks to responding faster to customer feedback. Hear how CEO Matthew Pack, David Lee and Liam Thompson are giving colleagues the confidence to build, improving the travel experience and rethinking what the business can achieve with OpenAI. Read the full story: https://openai.com/business/customer-stories/holidays-extras-codex/",
       "duration": "PT2M27S",
-      "view_count": 4807,
-      "like_count": 57,
+      "view_count": 6056,
+      "like_count": 68,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg"
     },
@@ -32,9 +44,9 @@
       "published_at": "2026-11-11T21:10:28Z",
       "description": "Learn how to request access to Daybreak Blue and enable it for your workspace and API organization. This walkthrough covers business verification, workspace permissions, role-based access controls, and confirming access in Codex. You’ll also see how to set up a project and API key for automation.",
       "duration": "PT5M48S",
-      "view_count": 6293,
-      "like_count": 76,
-      "comment_count": 21,
+      "view_count": 7002,
+      "like_count": 86,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=NS220dAaRMo"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-11-11T21:10:24Z",
       "description": "Bring security reviews into your pull request workflow with Codex Security. Learn how to check your GitHub connection, request a review, work through a fix, and review the change again. Then configure automatic reviews for your repository, including triggers and severity thresholds.",
       "duration": "PT6M31S",
-      "view_count": 2526,
-      "like_count": 42,
+      "view_count": 2793,
+      "like_count": 46,
       "comment_count": 6,
       "url": "https://www.youtube.com/watch?v=vdBDMj2UhDg"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-11-11T21:10:10Z",
       "description": "ChatGPT Images lets you create new images and edit existing images directly inside ChatGPT. Turn plain-language prompts into original images, explore different visual directions.\n\nIn this video, learn three ways to get started: creating an image from scratch, refining its look through conversation, and editing a photo you already have. Along the way, see how the details you share help guide the result.\n\nReady to try it? Open a chat to create something new or give an existing photo a different look: https://chatgpt.com/?utm_source=youtube&utm_medium=social&utm_campaign=CNT-chatgpt-images-three-ways-to-get-started&utm_content=description_try_chatgpt\n\nLooking for inspiration? Explore templates and trending images: https://chatgpt.com/images?utm_source=youtube&utm_medium=social&utm_campaign=CNT-chatgpt-images-three-ways-to-get-started&utm_content=description_explore_images",
       "duration": "PT2M51S",
-      "view_count": 41315,
-      "like_count": 704,
-      "comment_count": 52,
+      "view_count": 45679,
+      "like_count": 762,
+      "comment_count": 54,
       "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw"
-    },
-    {
-      "id": "hUhr0JiVZZs",
-      "title": "How to run your first Codex Security scan",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-11T21:10:05Z",
-      "description": "Get started with Codex Security, from installing the plugin to running your first scan. Learn how to select a repository, add context, review findings, and generate a patch. Then follow the fix into GitHub and see how to use the CLI to bring security scans into your automation workflows.",
-      "duration": "PT6M48S",
-      "view_count": 23568,
-      "like_count": 305,
-      "comment_count": 18,
-      "url": "https://www.youtube.com/watch?v=hUhr0JiVZZs"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-12T22:18:29Z",
+    "generated_at": "2026-11-13T12:23:55Z",
     "count": 5
   }
 }

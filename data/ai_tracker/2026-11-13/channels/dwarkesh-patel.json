@@ -20,8 +20,8 @@
       "published_at": "2026-11-12T00:00:15Z",
       "description": "",
       "duration": "PT1M12S",
-      "view_count": 9123,
-      "like_count": 275,
+      "view_count": 11155,
+      "like_count": 320,
       "comment_count": 7,
       "url": "https://www.youtube.com/watch?v=3eMnUYkvbJg"
     },
@@ -32,9 +32,9 @@
       "published_at": "2026-11-09T20:37:38Z",
       "description": "",
       "duration": "PT1M46S",
-      "view_count": 24498,
-      "like_count": 856,
-      "comment_count": 38,
+      "view_count": 25952,
+      "like_count": 889,
+      "comment_count": 39,
       "url": "https://www.youtube.com/watch?v=bkzWrrsRyqA"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-11-07T21:53:54Z",
       "description": "",
       "duration": "PT1M2S",
-      "view_count": 194063,
-      "like_count": 6181,
-      "comment_count": 326,
+      "view_count": 199468,
+      "like_count": 6313,
+      "comment_count": 329,
       "url": "https://www.youtube.com/watch?v=S4NYamZuts4"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-11-06T04:34:08Z",
       "description": "",
       "duration": "PT1M10S",
-      "view_count": 31229,
-      "like_count": 932,
+      "view_count": 31531,
+      "like_count": 938,
       "comment_count": 16,
       "url": "https://www.youtube.com/watch?v=JyB3mExvn_w"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-11-05T21:00:50Z",
       "description": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: clocktowerbench.com\n\nMusic by @tomfoxcatalog \n\nGithub: https://github.com/dwarkeshsp/clocktower\nRead the post: dwarkesh.com/p/clocktower\n\n\nCheck out Tom Taylor et al.'s Blood on the Clocktower benchmark at https://www.lesswrong.com/posts/4pgGkbwvdmxKPcJsM/bench-on-the-clocktower",
       "duration": "PT18M14S",
-      "view_count": 160972,
-      "like_count": 2540,
-      "comment_count": 238,
+      "view_count": 162594,
+      "like_count": 2559,
+      "comment_count": 239,
       "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-12T22:18:25Z",
+    "generated_at": "2026-11-13T12:23:51Z",
     "count": 5
   }
 }
