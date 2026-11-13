@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-11-14",
+  "result": [
+    {
+      "id": "MJ5f8oJsDaY",
+      "title": "In our element",
+      "channel_title": "Google",
+      "published_at": "2026-11-13T19:50:09Z",
+      "description": "We’re in our element. \n\nGemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.” Created in Google Antigravity, it animates orbiting electrons, atomic data, and light spectra.",
+      "duration": "PT1M25S",
+      "view_count": 1353,
+      "like_count": 210,
+      "comment_count": 56,
+      "url": "https://www.youtube.com/watch?v=MJ5f8oJsDaY"
+    },
+    {
+      "id": "mdSB_Fizm0A",
+      "title": "Google Search Task: Stargazing Edition",
+      "channel_title": "Google",
+      "published_at": "2026-11-06T15:16:04Z",
+      "description": "Set up a task in AI Mode to stay updated on upcoming meteor shower conditions ✨\n\n#GoogleSearch #Space #Stargazing",
+      "duration": "PT16S",
+      "view_count": 19929,
+      "like_count": 618,
+      "comment_count": 71,
+      "url": "https://www.youtube.com/watch?v=mdSB_Fizm0A"
+    },
+    {
+      "id": "MFwdoEtxbwA",
+      "title": "Happy Hunger Games 🐍",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T20:59:20Z",
+      "description": "Search “the hunger games: sunrise on the reaping” to play.",
+      "duration": "PT9S",
+      "view_count": 25590,
+      "like_count": 778,
+      "comment_count": 47,
+      "url": "https://www.youtube.com/watch?v=MFwdoEtxbwA"
+    },
+    {
+      "id": "wNZdVkiEZtE",
+      "title": "Search “Ocarina of Time” to test if you’re a true Hero of Time 🗡️",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T18:49:06Z",
+      "description": "See what happens when you enter it in the search bar ✨\n\n@NintendoAmerica",
+      "duration": "PT8S",
+      "view_count": 25959,
+      "like_count": 699,
+      "comment_count": 58,
+      "url": "https://www.youtube.com/watch?v=wNZdVkiEZtE"
+    },
+    {
+      "id": "aRg5DWHAC_g",
+      "title": "Double tap to break the ice, then search what’s inside ❄️",
+      "channel_title": "Google",
+      "published_at": "2026-11-01T14:00:48Z",
+      "description": "Search “mariah carey” on Google for a holiday miracle ✨ \n@MariahCarey",
+      "duration": "PT6S",
+      "view_count": 85834,
+      "like_count": 3965,
+      "comment_count": 306,
+      "url": "https://www.youtube.com/watch?v=aRg5DWHAC_g"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-13T22:01:26Z",
+    "count": 5
+  }
+}

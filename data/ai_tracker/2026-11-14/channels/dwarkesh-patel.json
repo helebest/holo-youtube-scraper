@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-11-14",
+  "result": [
+    {
+      "id": "1NHPDzpfR6Y",
+      "title": "Recursive self-improvement has started",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-13T18:37:05Z",
+      "description": "If you asked me earlier this year how far away we are from superintelligence, I’d probably have said at least the better part of a decade.\n\nBut over the last three months, from debating people on and off the podcast, I’ve updated my views a ton.\n\nLet me walk you through how my thinking has changed.\n\nIf you want to read the written version (with footnotes and links) you can check it out here: https://www.dwarkesh.com/p/rsi\n\nMusic by @tomfoxcatalog\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n\n0:00:00 – AI is already speeding up AI progress\n0:02:03 – Math is a preview of what will happen to AI research\n0:11:10 – Automating the best researchers would speed up AI progress a lot\n0:14:24 – We might get a singularity or a spark\n0:17:21 – Superintelligence will be a really good meta-learner\n0:25:59 – Appendix: AI R&D is largely verifiable\n0:33:30 – Objections to RSI\n0:33:59 – Objection: continual learning\n0:36:44 – Objection: finding the right verifiable proxies\n0:38:26 – Objection: data\n0:39:58 – Objection: experiment compute",
+      "duration": "PT44M27S",
+      "view_count": 42442,
+      "like_count": 1889,
+      "comment_count": 392,
+      "url": "https://www.youtube.com/watch?v=1NHPDzpfR6Y"
+    },
+    {
+      "id": "3eMnUYkvbJg",
+      "title": "How Robert Moses Got Everything Built",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-12T00:00:15Z",
+      "description": "",
+      "duration": "PT1M12S",
+      "view_count": 12124,
+      "like_count": 352,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=3eMnUYkvbJg"
+    },
+    {
+      "id": "bkzWrrsRyqA",
+      "title": "How Robert Moses Ruled New York Without Being Elected",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-09T20:37:38Z",
+      "description": "",
+      "duration": "PT1M46S",
+      "view_count": 27047,
+      "like_count": 921,
+      "comment_count": 39,
+      "url": "https://www.youtube.com/watch?v=bkzWrrsRyqA"
+    },
+    {
+      "id": "S4NYamZuts4",
+      "title": "How LBJ Fooled the Segregationists",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-07T21:53:54Z",
+      "description": "",
+      "duration": "PT1M2S",
+      "view_count": 201783,
+      "like_count": 6393,
+      "comment_count": 330,
+      "url": "https://www.youtube.com/watch?v=S4NYamZuts4"
+    },
+    {
+      "id": "JyB3mExvn_w",
+      "title": "The Man Who Built New York Without Winning a Single Vote",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-06T04:34:08Z",
+      "description": "",
+      "duration": "PT1M10S",
+      "view_count": 31686,
+      "like_count": 943,
+      "comment_count": 16,
+      "url": "https://www.youtube.com/watch?v=JyB3mExvn_w"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-13T22:01:22Z",
+    "count": 5
+  }
+}

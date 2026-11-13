@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-11-14",
+  "result": [
+    {
+      "id": "5ibgnmypP8I",
+      "title": "Autonomous Vehicle Safety: 5 Things to Know",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-13T22:00:05Z",
+      "description": "Learn about what makes your self-driving car safe with Riccardo Mariani, Head of Industry Safety at NVIDIA.",
+      "duration": "PT1M13S",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=5ibgnmypP8I"
+    },
+    {
+      "id": "IOcODanTpN0",
+      "title": "Meet GR00T 2, our most advanced, open System One model for robotics research.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-13T19:36:39Z",
+      "description": "GR00T 2 learns skills from human demonstrations and predicts how its actions will change the physical world.\n\nThose skills can carry across different robot bodies, reducing the need to teach each robot every task from scratch.\n\nWatch GR00T 2 put that research into motion. Real robots. Real time. Fully autonomous. 🦾\n\nhttps://research.nvidia.com/labs/gear/gr00t-2",
+      "duration": "PT1M1S",
+      "view_count": 973,
+      "like_count": 45,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=IOcODanTpN0"
+    },
+    {
+      "id": "iC6H8KOQTFU",
+      "title": "Meet the Startup: Prima Mente, an AI Biology Company",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-13T18:14:03Z",
+      "description": "Meet Prima Mente — an AI biology company building general-purpose biological foundation models, starting with the brain. Their first model family, Pleiades, is trained on human epigenomics data and is already showing clinical promise in Alzheimer’s disease research.\n \nBacked by the UK Sovereign AI Fund and collaborating with NVIDIA, Prima Mente is generating their own data, building at the frontier of neuroscience, and translating discoveries into real clinical outcomes.\n\nLearn more about the NVIDIA Inception program for startups:  https://nvda.ws/4kjJM2n.",
+      "duration": "PT2M23S",
+      "view_count": 2624,
+      "like_count": 50,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=iC6H8KOQTFU"
+    },
+    {
+      "id": "N5YLi8Ar3Wg",
+      "title": "Meet the Startup: Aegiq, A Full-Stack Photonic Quantum Computing Company",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-10T17:00:21Z",
+      "description": "Quantum computers have a deployment problem. Aegiq is solving it.\n\nThe Sheffield-based startup is building photonic quantum computers designed to connect over standard fiber networks and manufacture using standard semiconductor processes — making quantum hardware practical to deploy at scale, not just in a lab.\n\nIn this interview, Aegiq’s team walks through how they’ve integrated NVIDIA technology into their core workflow. Using NVIDIA’s Ising solver, they cut quantum dot calibration time by 3x. With cuTENSOR libraries, they went from 1 million point meshes on existing GPUs to billions — and are targeting 10 trillion point meshes in collaboration with NVIDIA. \nThe applications are real and near-term: aerospace simulation, fusion energy, materials science, quantum chemistry.\n\nAegiq joined NVIDIA Inception to accelerate access to customers and compute, and is now one of the startups demonstrating what happens when photonic quantum hardware meets GPU-accelerated simulation.\n\n🌱 Aegiq is a member of NVIDIA Inception, a program supporting startups building at the frontier of AI and deep tech.\n\nLearn more about NVIDIA Inception:  https://nvda.ws/4kjJM2n.\n    \n#Aegiq #NVIDIAInception #QuantumComputing #AIStartups #Photonicquantum",
+      "duration": "PT1M46S",
+      "view_count": 59022,
+      "like_count": 242,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=N5YLi8Ar3Wg"
+    },
+    {
+      "id": "OZ5KXB6kHUg",
+      "title": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-10T16:08:39Z",
+      "description": "From yielding to pedestrians to making room for an oncoming bus, watch how it plans driving paths and explains its decisions when needed.\n\nDevelopers can build on this open model to create the next generation of autonomous vehicles, with AI they can adapt to their own fleets.",
+      "duration": "PT52S",
+      "view_count": 33741,
+      "like_count": 137,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=OZ5KXB6kHUg"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-13T22:01:25Z",
+    "count": 5
+  }
+}
