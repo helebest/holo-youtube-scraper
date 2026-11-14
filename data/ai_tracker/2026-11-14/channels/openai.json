@@ -20,9 +20,9 @@
       "published_at": "2026-11-13T18:15:41Z",
       "description": "We asked 6 people for their most underrated way to use ChatGPT. Their answers covered personal style, everyday logistics, and stopping random subscription charges. What’s yours?",
       "duration": "PT1M2S",
-      "view_count": 2995,
-      "like_count": 127,
-      "comment_count": 6,
+      "view_count": 7705,
+      "like_count": 216,
+      "comment_count": 17,
       "url": "https://www.youtube.com/watch?v=ErOVIC-MGVA"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-11-13T16:56:45Z",
       "description": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses.\n\nBrian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps engineers develop fixes. They also explore how GPT-6 Cyber revealed that some known bugs could be more serious than initially understood, helping inform which issues need attention first.\n\nAcross its security workflow, Mozilla saw about an 8× increase in bug discovery and fixes from 2025 to 2026. Brian shares what the team is learning and its ambitions for the future of browser security.",
       "duration": "PT20M19S",
-      "view_count": 5480,
-      "like_count": 87,
+      "view_count": 11034,
+      "like_count": 129,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=PkAmyub12K8"
     },
@@ -44,21 +44,21 @@
       "published_at": "2026-11-13T16:38:23Z",
       "description": "Mozilla’s Brian Grinstead shares how early testing with GPT-6 Cyber identified new vulnerabilities and opportunities to strengthen Firefox’s defenses, helping the team work toward an ambitious goal: zero bugs.\n\nWatch the full conversation with OpenAI’s Clint Gibler to learn more.",
       "duration": "PT24S",
-      "view_count": 1640,
-      "like_count": 43,
+      "view_count": 3163,
+      "like_count": 70,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ"
     },
     {
       "id": "YmxpxJZvm4M",
-      "title": "Cyber at the Frontier",
+      "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
       "channel_title": "OpenAI",
       "published_at": "2026-11-12T22:37:14Z",
-      "description": "A live keynote featuring OpenAI's latest cyber announcements.",
+      "description": "Greg Brockman, Nancy Wang, Fouad Matin, Clint Gibler, Alexander Thiemann, and Matt Boyle took the stage at Cyber at the Frontier, where OpenAI introduced two cybersecurity products under one unified Codex plugin called Daybreak:\n\nDaybreak Defense Factory: builds on Codex Security Cloud to help teams automate the defensive loop to find, validate, and fix vulnerabilities at scale. It gives engineers proposed patches with test results so they can review changes before merging. All of the work runs in isolated cloud development environments.\n\nDaybreak Red Team (early access): uses fleets of agents to test a running application within limits your team sets. It finds new vulnerabilities and checks whether an attacker could exploit issues you’ve already flagged. Engineers can send confirmed findings to Daybreak Defense Factory for help fixing them, then use Red Team to check that the fixes work.",
       "duration": "PT34M38S",
-      "view_count": 35871,
+      "view_count": 46616,
       "like_count": 0,
-      "comment_count": 73,
+      "comment_count": 81,
       "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M"
     },
     {
@@ -68,7 +68,7 @@
       "published_at": "2026-11-12T09:45:17Z",
       "description": "What happens when the people who understand your customers can build the software to help them? At Holiday Extras, Codex is helping turn that ambition into reality—from rebuilding its main app in two weeks to responding faster to customer feedback. Hear how CEO Matthew Pack, David Lee and Liam Thompson are giving colleagues the confidence to build, improving the travel experience and rethinking what the business can achieve with OpenAI. Read the full story: https://openai.com/business/customer-stories/holidays-extras-codex/",
       "duration": "PT2M27S",
-      "view_count": 6328,
+      "view_count": 6567,
       "like_count": 68,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg"
@@ -76,7 +76,7 @@
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-13T22:01:25Z",
+    "generated_at": "2026-11-14T11:37:57Z",
     "count": 5
   }
 }
