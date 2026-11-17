@@ -14,15 +14,27 @@
   "date": "2026-11-17",
   "result": [
     {
+      "id": "gl2U4fGTr6g",
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-11-17T12:46:24Z",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "duration": "PT6M14S",
+      "view_count": 8199,
+      "like_count": 453,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g"
+    },
+    {
       "id": "x7iwI6WfWS0",
       "title": "AI Can Do Everything…Except This",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-11-14T08:40:55Z",
       "description": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help!\n- Vocals: Carolina Padrón\n- Drums: Federico Gucciardo\n- Bass: Phil Gonnand\n- Saxophone: Dima Faustov\n- Guitar: Jens Ambrosch\n- Guitar: Dr. Károly Zsolnai-Fehér\n\nIf you wish to play a cover, the guitar tab is available here for free: https://www.dropbox.com/scl/fi/2x2v6etorp2psnieg4ka6/two-minute-papers-not-perfect.gp?rlkey=kr6n0hhawzhm4xupqalsvfn66&st=kv5igisa&e=1&dl=1",
       "duration": "PT6M3S",
-      "view_count": 48497,
-      "like_count": 1532,
-      "comment_count": 238,
+      "view_count": 49818,
+      "like_count": 1561,
+      "comment_count": 244,
       "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-11-12T13:41:41Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind paper AlphaProof Code is available here:\nhttps://deepmind.google/blog/introducing-alphaproof-code/\nhttps://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT5M26S",
-      "view_count": 310120,
-      "like_count": 4914,
-      "comment_count": 243,
+      "view_count": 311784,
+      "like_count": 4933,
+      "comment_count": 244,
       "url": "https://www.youtube.com/watch?v=gPNiuyYirfw"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-11-10T10:15:57Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n0:00 AI reverse engineering\n1:01 Legal landscape\n1:22 Scientific research\n2:11 Visual reconstruction\n3:05 How AI learns software\n3:55 The problem with restrictions\n4:26 The future of software",
       "duration": "PT6M26S",
-      "view_count": 186799,
-      "like_count": 3233,
+      "view_count": 187392,
+      "like_count": 3243,
       "comment_count": 538,
       "url": "https://www.youtube.com/watch?v=vug73goPJaM"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-11-07T16:24:47Z",
       "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "duration": "PT5M49S",
-      "view_count": 234935,
-      "like_count": 3799,
+      "view_count": 235725,
+      "like_count": 3812,
       "comment_count": 261,
       "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA"
-    },
-    {
-      "id": "XgC1QTs6A2U",
-      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "channel_title": "Two Minute Papers",
-      "published_at": "2026-11-06T07:27:02Z",
-      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be Good Enough?\n43:53 Favorite Papers\n44:53 The hardest question\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "duration": "PT46M19S",
-      "view_count": 55131,
-      "like_count": 651,
-      "comment_count": 63,
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-17T00:18:50Z",
+    "generated_at": "2026-11-17T13:39:37Z",
     "count": 5
   }
 }
