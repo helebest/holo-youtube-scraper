@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-17",
+  "result": [
+    {
+      "id": "Zbv70lLBHgo",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-16T20:23:56Z",
+      "description": "Check Point CTO Jonathan Zanger explains how his team uses OpenAI Daybreak to analyze vulnerabilities and turn findings into protections for customers. A vulnerability research workflow that once took hours can now be completed in minutes, according to Zanger.\n\nWatch the full video: https://www.youtube.com/watch?v=vVVdxMwPBuA\n\nRead the full customer story: https://openai.com/index/check-point-daybreak/",
+      "duration": "PT23S",
+      "view_count": 515,
+      "like_count": 12,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Zbv70lLBHgo"
+    },
+    {
+      "id": "vVVdxMwPBuA",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-16T16:55:56Z",
+      "description": "Check Point CTO Jonathan Zanger explains how his team uses OpenAI Daybreak to analyze vulnerabilities and turn findings into protections for customers. A vulnerability research workflow that once took hours can now be completed in minutes, according to Zanger.\n\nRead the full customer story: https://openai.com/index/check-point-daybreak/",
+      "duration": "PT1M5S",
+      "view_count": 7033,
+      "like_count": 68,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA"
+    },
+    {
+      "id": "soNLXvgUqNY",
+      "title": "La Cousinade",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-16T05:00:26Z",
+      "description": "Une cousinade avec 63 cousins. Un site créé avec ChatGPT.",
+      "duration": "PT30S",
+      "view_count": 19152,
+      "like_count": 210,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY"
+    },
+    {
+      "id": "ErOVIC-MGVA",
+      "title": "6 Underrated Ways to Use ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-13T18:15:41Z",
+      "description": "We asked 6 people for their most underrated way to use ChatGPT. Their answers covered personal style, everyday logistics, and stopping random subscription charges. What’s yours?",
+      "duration": "PT1M2S",
+      "view_count": 14048,
+      "like_count": 353,
+      "comment_count": 37,
+      "url": "https://www.youtube.com/watch?v=ErOVIC-MGVA"
+    },
+    {
+      "id": "PkAmyub12K8",
+      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-13T16:56:45Z",
+      "description": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses.\n\nBrian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps engineers develop fixes. They also explore how GPT-6 Cyber revealed that some known bugs could be more serious than initially understood, helping inform which issues need attention first.\n\nAcross its security workflow, Mozilla saw about an 8× increase in bug discovery and fixes from 2025 to 2026. Brian shares what the team is learning and its ambitions for the future of browser security.",
+      "duration": "PT20M19S",
+      "view_count": 17591,
+      "like_count": 182,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=PkAmyub12K8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-17T00:18:52Z",
+    "count": 5
+  }
+}
