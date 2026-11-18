@@ -14,15 +14,27 @@
   "date": "2026-11-18",
   "result": [
     {
+      "id": "2pdF52EVlbM",
+      "title": "An underrated way to use ChatGPT: Life admin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-18T00:06:39Z",
+      "description": "Even ChatGPT researchers need a little help with life admin.\n\nIsa F. shares an underrated way she uses ChatGPT: keeping track of the details and making time for her next haircut.",
+      "duration": "PT34S",
+      "view_count": 3328,
+      "like_count": 69,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=2pdF52EVlbM"
+    },
+    {
       "id": "pmOJIq7Ah00",
       "title": "Introducing ChatGPT for Sales",
       "channel_title": "OpenAI",
       "published_at": "2026-11-17T23:24:04Z",
       "description": "Spend less time on busywork and more time selling with ChatGPT for Sales.\n\nThe new Sales plugin and 30+ new and expanded partner plugins bring your customer context and sales tools together in ChatGPT. Prepare for calls, tailor proposals, and follow up faster with insights from the tools your team already uses.\n\nLearn more: https://openai.com/index/introducing-chatgpt-for-sales/",
       "duration": "PT51S",
-      "view_count": 405,
-      "like_count": 25,
-      "comment_count": 1,
+      "view_count": 84627,
+      "like_count": 894,
+      "comment_count": 60,
       "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-11-17T18:41:32Z",
       "description": "GPT-6.2 Astra is our new flagship model, delivering a step up in capability with cleaner code, better frontends and 3D models, and more efficient tool use.\n\nRecreate a room from just two video frames with GPT-6.2 Astra in Codex. See how it builds the set in Blender, changes the decor and lighting, and turns the scene into an interactive space and a virtual webcam background.",
       "duration": "PT1M23S",
-      "view_count": 87885,
-      "like_count": 1895,
-      "comment_count": 136,
+      "view_count": 200498,
+      "like_count": 3070,
+      "comment_count": 185,
       "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0"
     },
     {
@@ -44,9 +56,9 @@
       "published_at": "2026-11-17T17:55:40Z",
       "description": "We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage limits. For businesses and developers, that means frontier performance at costs that make sense at scale.\n\nGPT‑6.2 Astra sets a new quality bar for AI in complex professional work. Its slides, spreadsheets, and documents read less like AI, and more closely follow the templates you provide and the conventions of your field. It writes cleaner code and builds frontends that look and work better, particularly for websites, gaming, and 3D design.\n\nCompared with GPT‑6.1 Sol, GPT‑6.2 Sol is smarter, more efficient, and lets you complete more tasks on the same paid plan. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many employees at OpenAI use it as their default model for both technical and non-technical tasks.\n\nStarting today, GPT-6.2 Astra and Sol are available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Eligible Enterprise and Edu users get the same access once their workspace admin enables it. Developers can also access gpt-6.2-astra and gpt-6.2-sol through the OpenAI API, with Ultrafast available for both models at launch.\n\nhttps://openai.com/index/introducing-gpt-6-2-astra-sol",
       "duration": "PT1M59S",
-      "view_count": 166119,
-      "like_count": 4241,
-      "comment_count": 566,
+      "view_count": 288728,
+      "like_count": 5607,
+      "comment_count": 679,
       "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-11-17T09:45:35Z",
       "description": "What can one engineer build when a project looks like it needs a whole team? At Revolut, an engineer used Codex to build an internal code review service himself. Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day. OpenAI also helps Revolut’s financial crime team investigate flagged payments and respond faster to make shopping safer.\n\nRead the full story: https://openai.com/business/customer-stories/revolut/",
       "duration": "PT2M43S",
-      "view_count": 11119,
-      "like_count": 62,
+      "view_count": 13964,
+      "like_count": 80,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk"
-    },
-    {
-      "id": "R_sl8zEp9ng",
-      "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-17T09:45:34Z",
-      "description": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave him more time for the engineering decisions he wanted to get right.\n\nRead the full story: https://openai.com/business/customer-stories/revolut/",
-      "duration": "PT2M",
-      "view_count": 8911,
-      "like_count": 59,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-17T23:33:53Z",
+    "generated_at": "2026-11-18T13:13:46Z",
     "count": 5
   }
 }
