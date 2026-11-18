@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-19",
+  "result": [
+    {
+      "id": "AhmCKHNqhB8",
+      "title": "Introducing ChatGPT for Accounting",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-18T21:01:26Z",
+      "description": "ChatGPT for Accounting helps take the busywork out of your month-end close.\n\nWatch how ChatGPT finds completed jobs in your email and drafts QuickBooks invoices for your review, flagging anything unclear along the way.\n\nThe Accounting plugin also helps you reconcile transactions, process invoices and receipts, and prepare monthly reports using your existing spreadsheets and connected accounting tools.\n\nLearn more about the plugins: \nhttps://openai.com/business/solutions/accounting",
+      "duration": "PT47S",
+      "view_count": 5941,
+      "like_count": 343,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=AhmCKHNqhB8"
+    },
+    {
+      "id": "2pdF52EVlbM",
+      "title": "An underrated way to use ChatGPT: Life admin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-18T00:06:39Z",
+      "description": "Even ChatGPT researchers need a little help with life admin.\n\nIsa F. shares an underrated way she uses ChatGPT: keeping track of the details and making time for her next haircut.",
+      "duration": "PT34S",
+      "view_count": 4742,
+      "like_count": 100,
+      "comment_count": 7,
+      "url": "https://www.youtube.com/watch?v=2pdF52EVlbM"
+    },
+    {
+      "id": "pmOJIq7Ah00",
+      "title": "Introducing ChatGPT for Sales",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-17T23:24:04Z",
+      "description": "Spend less time on busywork and more time selling with ChatGPT for Sales.\n\nThe new Sales plugin and 30+ new and expanded partner plugins bring your customer context and sales tools together in ChatGPT. Prepare for calls, tailor proposals, and follow up faster with insights from the tools your team already uses.\n\nLearn more: https://openai.com/index/introducing-chatgpt-for-sales/",
+      "duration": "PT51S",
+      "view_count": 125339,
+      "like_count": 1189,
+      "comment_count": 70,
+      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00"
+    },
+    {
+      "id": "tKoDPOrLMX0",
+      "title": "Building 3D video sets with GPT-6.2 Astra",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-17T18:41:32Z",
+      "description": "GPT-6.2 Astra is our new flagship model, delivering a step up in capability with cleaner code, better frontends and 3D models, and more efficient tool use.\n\nRecreate a room from just two video frames with GPT-6.2 Astra in Codex. See how it builds the set in Blender, changes the decor and lighting, and turns the scene into an interactive space and a virtual webcam background.",
+      "duration": "PT1M23S",
+      "view_count": 250483,
+      "like_count": 3570,
+      "comment_count": 206,
+      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0"
+    },
+    {
+      "id": "C1zYX5jwqq4",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-17T17:55:40Z",
+      "description": "We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage limits. For businesses and developers, that means frontier performance at costs that make sense at scale.\n\nGPT‑6.2 Astra sets a new quality bar for AI in complex professional work. Its slides, spreadsheets, and documents read less like AI, and more closely follow the templates you provide and the conventions of your field. It writes cleaner code and builds frontends that look and work better, particularly for websites, gaming, and 3D design.\n\nCompared with GPT‑6.1 Sol, GPT‑6.2 Sol is smarter, more efficient, and lets you complete more tasks on the same paid plan. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many employees at OpenAI use it as their default model for both technical and non-technical tasks.\n\nStarting today, GPT-6.2 Astra and Sol are available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Eligible Enterprise and Edu users get the same access once their workspace admin enables it. Developers can also access gpt-6.2-astra and gpt-6.2-sol through the OpenAI API, with Ultrafast available for both models at launch.\n\nhttps://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "duration": "PT1M59S",
+      "view_count": 318391,
+      "like_count": 5909,
+      "comment_count": 713,
+      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-18T22:58:41Z",
+    "count": 5
+  }
+}
