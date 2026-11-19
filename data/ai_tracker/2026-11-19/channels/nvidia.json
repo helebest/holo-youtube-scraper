@@ -20,8 +20,8 @@
       "published_at": "2026-11-18T20:00:13Z",
       "description": "So what does that mean for security? \n\nHugging Face and ServiceNow get into it on the NVIDIA AI Podcast.",
       "duration": "PT31S",
-      "view_count": 219,
-      "like_count": 8,
+      "view_count": 1962,
+      "like_count": 20,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=2Y3e3RYNjFk"
     },
@@ -32,8 +32,8 @@
       "published_at": "2026-11-18T18:36:18Z",
       "description": "Scientific computing is entering the era of agentic AI.\n\nBringing simulation, AI, and agents together gives researchers new ways to tackle complex problems and accelerate scientific discovery.\n\nWatch Ian Buck, VP of Hyperscale and HPC at NVIDIA, highlight the latest cutting-edge breakthroughs revolutionizing the scientific computing community. \n\nhttps://blogs.nvidia.com/blog/ian-buck-sc26/ \nhttps://blogs.nvidia.com/blog/sc26-wrapup",
       "duration": "PT48M19S",
-      "view_count": 5248,
-      "like_count": 116,
+      "view_count": 338746,
+      "like_count": 250,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=uJG53ligJt4"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-11-18T14:41:35Z",
       "description": "The AI Podcast is back.\n\nHugging Face’s Thomas Wolf and ServiceNow’s Amanda Grady join us to discuss why building in the open matters for AI safety.\n\nBecause sharing code means more people can help identify problems and fix them.\n\nListen on your favorite podcast platform or watch on YouTube: https://youtu.be/y9AALMeAeGI?si=zARxzOBGTaG28Jql",
       "duration": "PT31S",
-      "view_count": 1940,
-      "like_count": 20,
+      "view_count": 2831,
+      "like_count": 30,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=gn_LIY2D2Ag"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-11-18T11:00:32Z",
       "description": "Hugging Face co-founder Thomas Wolf and ServiceNow’s Amanda Grady, SVP of AI Platform Security, join the NVIDIA AI Podcast to explain how to keep AI agents safe when telling a model “please don’t” is no longer enough.\n\nThey cover why firm boundaries beat persuadable models, what happened when Hugging Face was attacked by a swarm of AI agents, and why security is what lets companies put agents to real work. This is the 15-minute best-moments edit. The full-length episode is on your favorite podcast platform! \n\nIn this episode:\n0:16 Why guardrails inside the model aren’t enough\n2:00 The attack on Hugging Face, and why open models mattered\n3:28 Agent identity and the AI Passport\n6:03 Security as an unlocker for AI\n8:33 Why open source is more secure, not less\n10:59 Physical AI and the micro-duck\n13:12 Fine-tuning for everyone\n14:11 Who gets to build AI\n\nGuests\nThomas Wolf, Co-founder, Hugging Face\nAmanda Grady, SVP, AI Platform Security, ServiceNow\n\nFollow on Spotify: https://open.spotify.com/show/4TB4pnynaiZ6YHoKmyVN0L\nFollow on Apple Podcasts: https://podcasts.apple.com/us/podcast/nvidia-ai-podcast/id1186480811\nLearn more: https://blogs.nvidia.com/blog/ai-security-agent-stack/\n\n#AgenticAI #AISecurity #NVIDIA",
       "duration": "PT16M40S",
-      "view_count": 6896,
-      "like_count": 73,
+      "view_count": 9866,
+      "like_count": 86,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-11-16T18:32:32Z",
       "description": "NVIDIA cuPhoton moves the scientific data pipeline onto GPUs, helping researchers study black holes as events unfold.\n\n- Eight radio observatories worked together as a virtual telescope the size of Earth to capture the first image of a black hole in the M87 galaxy\n- cuPhoton streams only the data needed for black hole jets and overlaps loading with signal processing, reconstruction, analysis and visualization, all of which AI agents can run\n- It speeds up data loading by up to 3,700x and correlation by up to 460x, scaling across multi-node systems powered by the NVIDIA Vera Rubin platform\n- Data can now be acquired at rates up to 345 GHz, cuPhoton reduces months of compute to minutes and  help  resolve the light rings around black hole\n\nLearn More: https://www.nvidia.com/en-us/high-performance-computing/ai-for-science/cuphoton/",
       "duration": "PT2M12S",
-      "view_count": 37209,
-      "like_count": 402,
+      "view_count": 37785,
+      "like_count": 405,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=E3Hy-WRJbXE"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-18T22:58:41Z",
+    "generated_at": "2026-11-19T13:35:14Z",
     "count": 5
   }
 }
