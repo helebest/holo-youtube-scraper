@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-11-20",
+  "result": [
+    {
+      "id": "-PQpJAdp7gw",
+      "title": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-18T17:00:30Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 62886,
+      "like_count": 1202,
+      "comment_count": 70,
+      "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw"
+    },
+    {
+      "id": "o7D3wiHnU4k",
+      "title": "How Fast Can AI Become an Expert?",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-17T20:39:17Z",
+      "description": "",
+      "duration": "PT1M18S",
+      "view_count": 33198,
+      "like_count": 935,
+      "comment_count": 112,
+      "url": "https://www.youtube.com/watch?v=o7D3wiHnU4k"
+    },
+    {
+      "id": "SyHM5hNPAEo",
+      "title": "AIs might overthrow the government within a year – Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-16T18:08:23Z",
+      "description": "Paul Christiano is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen).\n\nPaul thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario).\n\nHe argues that the labs should pause further algorithmic progress until they can secure their weights and research secrets. Otherwise China could simply steal the superintelligence in the middle of the intelligence explosion, and the labs would no longer be able to slow down even if they saw their models going off the rails.\n\nHe also explains how AIs will be trained during the intelligence explosion, and why even a system trained entirely inside a data center could still have the capabilities profile such that humans would have very little chance of competing with it or controlling it.\n\nAnd he discusses the plan for alignment - basically, making a superintelligence that actually does what we ask the way we mean it. Fixing reward hacks and building better graders will help up till the next few model generations, but he thinks that no single current approach has better than even odds of letting us control superintelligence. The hope is that the AIs figure out the solution to this problem during the intelligence explosion.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/paul-christiano-2\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/paul-christiano-we-could-be-12-months-away-from-ais/id1516093381?i=1000802319734\n* Spotify: https://open.spotify.com/episode/4fOvEHIR2JnBfghmp1j3EF?si=uqA_XkbHRmyHLOrnfiRiPQ\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street has finally come around on formal methods. Ron Minsky, who co-heads Jane Street’s technology group, told me that up until recently, formal methods just weren’t worth the cost. But coding agents have made them easier to apply AND increased the importance of code verification. So now Jane Street is hiring Formal Methods Engineers in both their London and New York offices. If you’re interested, or if you want to watch my full conversation with Ron, go to https://janestreet.com/dwarkesh\n\n* Antithesis is NOT another LLM-based code-review tool. It doesn’t try to reason abstractly about how a PR might break your system. Instead, it just runs your code. You start by defining the rules that your system must never break. Then, whenever an agent proposes a change, Antithesis runs your code through thousands of adversarial worlds, testing whether or not it still adheres to your rules. If you want to try it, go to https://antithesis.com/dwarkesh and use code DWARKESH for 50% off your first month.\n\n* WorkOS lets you give agents their own sign-up flow. This matters because agents tend to pick tools they can use right away, rather than ones that require humans to register. Fortunately, providing this kind of dedicated path is easy: if you already use WorkOS for login, you just toggle on “Agent Registration” in the WorkOS dashboard. Once it’s enabled, you can decide what agents are allowed to do on their own, and what needs to wait until the person they’re working for gets involved, all with the permissions you’ve already set up. Learn more at https://workos.com/authkit\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n0:00:00 – We could be 12 months away from AIs that can overthrow the government\n0:11:44 – Why an AI might want to takeover\n0:20:49 – How an AI takeover could happen\n0:35:35 – If labs keep racing without security, China will just steal the weights of superintelligence\n0:53:15 – The case for pausing now instead of later\n0:59:31 – Superintelligence will be good at learning from real-world experience\n1:11:32 – Crossing the sim-to-real gap\n1:22:23 – METR says AI progress doubled, so why is revenue growth slowing?\n1:27:57 – The best plan we have is to build the plane as we fly it",
+      "duration": "PT1H38M46S",
+      "view_count": 341481,
+      "like_count": 3510,
+      "comment_count": 1584,
+      "url": "https://www.youtube.com/watch?v=SyHM5hNPAEo"
+    },
+    {
+      "id": "7DO3mOl_OrI",
+      "title": "AI’s math progress matters more for AI research than for math",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-15T23:19:02Z",
+      "description": "",
+      "duration": "PT1M41S",
+      "view_count": 63604,
+      "like_count": 1461,
+      "comment_count": 94,
+      "url": "https://www.youtube.com/watch?v=7DO3mOl_OrI"
+    },
+    {
+      "id": "SeGUXN8XIu8",
+      "title": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-15T01:05:37Z",
+      "description": "",
+      "duration": "PT45S",
+      "view_count": 122542,
+      "like_count": 2150,
+      "comment_count": 299,
+      "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-19T23:06:52Z",
+    "count": 5
+  }
+}

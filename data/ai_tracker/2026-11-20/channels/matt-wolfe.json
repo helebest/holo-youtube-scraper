@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-11-20",
+  "result": [
+    {
+      "id": "YbZDDCHDSnE",
+      "title": "This will test if AI truly is a bubble",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-19T21:14:46Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M10S",
+      "view_count": 1992,
+      "like_count": 109,
+      "comment_count": 30,
+      "url": "https://www.youtube.com/watch?v=YbZDDCHDSnE"
+    },
+    {
+      "id": "-oA6oLxWpJg",
+      "title": "Insane AI Breakthroughs Nobody Is Talking About",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-18T22:08:16Z",
+      "description": "12 AI breakthroughs you probably missed, from incredibly human AI voices to a walking robot powered by an old phone.\n\nThese are some of the coolest AI tools, research projects, and tech demos I’ve come across recently that didn’t make it into my weekly AI news videos. We’re looking at AI characters that react to your movements, interactive world models, new ways to edit videos, and voice AI that invents an entire life for itself.\n\nI test several of these tools, explore what you can actually try today, and point out where the demos still fall short. Plus, glasses that claim to understand silent speech, NVIDIA’s AI character animation, and robots learning to move at human speed.\n\nWhich of these would you want to try first? Let me know in the comments.\n\n\nSharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nSimulon: https://simulon.com/\nSimulon Launch Post: https://x.com/Simulon/status/2115519228564693170\nHy-Nomas: https://hy-nomas.hy.tencent.com/\nReshoot 4D: https://itsmetamike.github.io/reshoot-4d/\nMoviEdit: https://multi-shot-edit.github.io/\nDessa: https://block.xyz/dessa\nDessa Demo: https://x.com/RagavanThurair/status/2113671324400861645\nHaru 4B: https://www.higurashi.ai/haru4b/\nFish Audio Live 3: https://fish.audio/live3/\nSubvocal: https://subvocal.company/\nBudget3D: https://budgetany.github.io/budget3d/\nMotionBricks: https://nvlabs.github.io/motionbricks/\nFlash ALOHA: https://johnyao93.github.io/flash-aloha/\nPhoneBot: https://phonebot.dev\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AITools #ArtificialIntelligence #Robotics\n\nTime Stamps:\n00:00 AI Breakthroughs You Probably Missed\n00:51 Simulan: AI Characters in Your Room\n04:27 Tencent’s Hynomus World Model\n08:13 Reshoot 4D: Change Your Video’s Camera Angle\n10:26 Movie Edit: AI Edits Across Multiple Shots\n11:26 Desa: AI Voice That Sounds Human\n14:58 Haru 4B: Downloadable Conversational AI\n16:56 Fish Audio Live 3: AI Voice Agents\n18:48 Subvocal: Glasses That Decode Silent Speech\n20:54 Budget3D: Turn Images Into 3D Models\n23:15 NVIDIA MotionBricks: AI Character Animation\n24:59 Flash Aloha: Robots That Catch and Clean\n26:29 PhoneBot: A Walking Robot With a Phone Brain",
+      "duration": "PT29M25S",
+      "view_count": 151497,
+      "like_count": 2360,
+      "comment_count": 151,
+      "url": "https://www.youtube.com/watch?v=-oA6oLxWpJg"
+    },
+    {
+      "id": "hT0qW_DRFLw",
+      "title": "The Reason No One Can Catch NVIDIA",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-18T19:02:01Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M38S",
+      "view_count": 13061,
+      "like_count": 390,
+      "comment_count": 41,
+      "url": "https://www.youtube.com/watch?v=hT0qW_DRFLw"
+    },
+    {
+      "id": "JVHkb8PTMvc",
+      "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-18T01:43:27Z",
+      "description": "Sharing the latest news and advancements in AI - 🛠️ Explore AI Tools & News: https://futuretools.io/\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT14M58S",
+      "view_count": 120200,
+      "like_count": 1710,
+      "comment_count": 156,
+      "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc"
+    },
+    {
+      "id": "LxKNPrXBuyU",
+      "title": "ChatGPT 6.2 Astra is \"A Mess\"",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-17T23:38:50Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M27S",
+      "view_count": 49602,
+      "like_count": 890,
+      "comment_count": 51,
+      "url": "https://www.youtube.com/watch?v=LxKNPrXBuyU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-19T23:06:57Z",
+    "count": 5
+  }
+}
