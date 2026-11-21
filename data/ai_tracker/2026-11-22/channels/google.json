@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Google",
+    "tier": "tier3_official",
+    "handle": "@google",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  "date": "2026-11-22",
+  "result": [
+    {
+      "id": "Di8ntBu1ouY",
+      "title": "Creativity is a team sport | Walter Isaacson & Kent Walker",
+      "channel_title": "Google",
+      "published_at": "2026-11-19T17:00:31Z",
+      "description": "Is innovation a solo pursuit? In this episode of Dialogues, bestselling author Walter Isaacson joins Kent Walker, Alphabet and Google President of Global Affairs, to explore how history’s greatest breakthroughs depended on collaboration, shared curiosity, and storytelling, and what that means for the AI era of today.\n\nTogether, they discuss how teamwork across disciplines drives technological progress, the role of human creativity alongside new tools, and how thoughtful innovation can shape technology for the benefit of society.\n\nChapters:\n00:00 - Introductions\n00:41 - The 50 year cycle of innovation\n01:46 - Creativity is a team sport\n02:27 - The Ada Lovelace school of thought\n03:35 - Standing at the intersection of the humanities and technology\n04:49 - Using Gemini Notebook for writing\n05:22 - The J curve impact of AI tools\n08:17 - What human agency can bring to AI\n\nExplore More:\nWatch the full Dialogues series: https://www.youtube.com/playlist?list=PL590L5WQmH8f8ID51T0_9JkWpeL9Dcb-S\n\nAbout Dialogues:\nDialogues is a series that connects global leaders, thinkers, and historians to discuss the ideas shaping technology, culture, and society.\n\nAbout The Guests:\nWalter Isaacson: Bestselling author, historian, and professor of history at Tulane University.\nKent Walker: President of Global Affairs at Alphabet and Google.\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google\n\n#AI #Innovation #Technology #History #FutureOfTech",
+      "duration": "PT9M39S",
+      "view_count": 21240,
+      "like_count": 194,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=Di8ntBu1ouY"
+    },
+    {
+      "id": "MJ5f8oJsDaY",
+      "title": "In our element",
+      "channel_title": "Google",
+      "published_at": "2026-11-13T19:50:09Z",
+      "description": "We’re in our element. \n\nGemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.” Created in Google Antigravity, it animates orbiting electrons, atomic data, and light spectra.",
+      "duration": "PT1M25S",
+      "view_count": 16282,
+      "like_count": 889,
+      "comment_count": 162,
+      "url": "https://www.youtube.com/watch?v=MJ5f8oJsDaY"
+    },
+    {
+      "id": "mdSB_Fizm0A",
+      "title": "Google Search Task: Stargazing Edition",
+      "channel_title": "Google",
+      "published_at": "2026-11-06T15:16:04Z",
+      "description": "Set up a task in AI Mode to stay updated on upcoming meteor shower conditions ✨\n\n#GoogleSearch #Space #Stargazing",
+      "duration": "PT16S",
+      "view_count": 28057,
+      "like_count": 824,
+      "comment_count": 79,
+      "url": "https://www.youtube.com/watch?v=mdSB_Fizm0A"
+    },
+    {
+      "id": "MFwdoEtxbwA",
+      "title": "Happy Hunger Games 🐍",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T20:59:20Z",
+      "description": "Search “the hunger games: sunrise on the reaping” to play.",
+      "duration": "PT9S",
+      "view_count": 47494,
+      "like_count": 1117,
+      "comment_count": 52,
+      "url": "https://www.youtube.com/watch?v=MFwdoEtxbwA"
+    },
+    {
+      "id": "wNZdVkiEZtE",
+      "title": "Search “Ocarina of Time” to test if you’re a true Hero of Time 🗡️",
+      "channel_title": "Google",
+      "published_at": "2026-11-05T18:49:06Z",
+      "description": "See what happens when you enter it in the search bar ✨\n\n@NintendoAmerica",
+      "duration": "PT8S",
+      "view_count": 36802,
+      "like_count": 869,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=wNZdVkiEZtE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-21T21:43:18Z",
+    "count": 5
+  }
+}
