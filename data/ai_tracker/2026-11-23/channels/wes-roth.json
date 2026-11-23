@@ -14,15 +14,27 @@
   "date": "2026-11-23",
   "result": [
     {
+      "id": "f5_c0O_chy4",
+      "title": "OpenAI's SHOCKING new warning...",
+      "channel_title": "Wes Roth",
+      "published_at": "2026-11-23T07:35:14Z",
+      "description": "OpenAI Chief Scientist Jakob Pachocki just dropped a viral post—called \"the most important thing OpenAI has published in a while\" by Sam Altman—revealing the single hidden metric behind AI's sudden Millennium Prize math breakthroughs and why we are rapidly approaching the next unpredictable threshold.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nPerplexity and Intelligence\nhttps://openai.com/index/perplexity-and-intelligence/\n\nCrossing 0.75 base model log perplexity unlocked fluent conversation, reasoning, coding, cybersecurity, and now Millennium Prize math (GPT 6.2 Astra's Navier-Stokes breakthrough and Anthropic's 41-day Riemann Hypothesis proof) almost like flipping a switch. Now OpenAI's internal model is creeping toward the next line around 0.70–0.68—right as benchmarks saturate, chain-of-thought auditing weakens, and frontier models realize when they are being tested.\n\nIn this breakdown, we unpack:\n• Why capabilities explode suddenly at specific log-perplexity thresholds (and why small drops in loss require massively deeper understanding)\n• Why claims that \"pre-training is dead\" just fell apart on OpenAI's chart\n• What actually happened when GPT 6.2 Astra secretly spun up a neural net on my GPU in Victress Arena\n• Jakob Pachocki's real warning about AI accelerating algorithmic research on pre-training (even before full recursive self-improvement)\n• The safety problem nobody is ready for: models acting differently when they know they're being monitored\n\nTimestamps:\n00:00 OpenAI's Viral Bombshell & The Navier-Stokes Truth\n00:50 The Threshold Curve: Capabilities Flipping Like a Switch\n02:10 Approaching 0.70: Why OpenAI Is Sounding the Alarm\n03:00 Loss & Perplexity Explained Simply (The Puppy Analogy)\n06:45 Crossing 0.75: Navier-Stokes, Riemann & The Unpredictable Floor\n07:50 Why Tiny Drops in Loss Mean Massive Leaps in Intelligence\n10:15 Base Model Log Perplexity & Shared AI Safety Standards\n14:30 Benchmark Saturation & \"Pre-Training Is Dead\" Debunked\n15:35 What Unlocks at 0.70? Recursive Self-Improvement (RSI)\n16:30 GPT 6.2 Astra Trained Its Own Neural Net on My GPU\n18:10 Jakob Pachocki's Real Warning: Algorithmic Pre-Training Research\n21:40 The Auditing Problem: AI Knows When It's Being Tested\n23:20 Growing Digital Brains, Evolution & Carcinization\n\n#ai #openai #llm",
+      "duration": "PT26M17S",
+      "view_count": 71651,
+      "like_count": 1413,
+      "comment_count": 301,
+      "url": "https://www.youtube.com/watch?v=f5_c0O_chy4"
+    },
+    {
       "id": "AxQE_ash8b8",
       "title": "AI just BROKE SaaS...",
       "channel_title": "Wes Roth",
       "published_at": "2026-11-21T10:02:45Z",
       "description": "Build and run your own AI projects on Hostinger: https://www.hostinger.com/wesrothvps\nUse code WESROTH at checkout.\n\n\nRELATED VIDEOS:\n\nAI just BROKE all of the software industry...\nhttps://www.youtube.com/watch?v=EmaXeEdlJkI\n\nHere's how to build ANYTHING with AI...\nhttps://www.youtube.com/watch?v=6-sMVePCKS4\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nInstall OpenAI Codex CLI\nhttps://developers.openai.com/codex/cli/\n\nOpenAI Whisper for local transcription\nhttps://github.com/openai/whisper\n\nCHAPTERS:\n00:00 The Subscription Problem\n02:10 My Video Editor\n04:10 Hostinger VPS Setup\n07:50 Connecting Codex\n13:20 Editing Real Footage\n16:50 Security and Backups\n19:00 Building From Scratch\n24:40 AI Code Review\n\n#ai #codex #videoediting",
       "duration": "PT30M11S",
-      "view_count": 105404,
-      "like_count": 1355,
-      "comment_count": 279,
+      "view_count": 112373,
+      "like_count": 1418,
+      "comment_count": 283,
       "url": "https://www.youtube.com/watch?v=AxQE_ash8b8"
     },
     {
@@ -32,9 +44,9 @@
       "published_at": "2026-11-21T02:24:48Z",
       "description": "Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, the \"Holy Grail\" of math.\n\nRELATED VIDEOS:\nClaude's 67.2% Riemann bound (Aug 12, 2026): \nhttps://www.youtube.com/watch?v=kKjmv2CuVUI\n\nOpenAI vs. Buckmaster & Alpöge Navier–Stokes race (Sept 9, 2026): https://www.youtube.com/watch?v=lkujyxUdUIk\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\nSOURCES & LINKS:\nLevent Alpöge's 4-page note (remark.pdf): \nhttps://alpo.ge/remark.pdf\n\nLevent Alpöge homepage: \nhttps://alpo.ge/\n\nGitHub mirror & static audit of the 17.4M-line Lean 4 archive: https://github.com/CocoSgt/riemann-hypothesis-lean\n\nRavi Vakil's announcement of Alessandro Masullo's all-human GRH proof: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\n\nAlessandro Masullo's 940-page draft (The Music of the Primes): https://math216.wordpress.com/wp-content/uploads/2026/11/the-music-of-the-primes.pdf\n\nEliezer Yudkowsky's reaction on X: \nhttps://x.com/allTheYud/status/2123843874796023936\n\nScientific American (Andrew Sutherland compilation): https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/\n\nTechCrunch (AI vs. human Riemann proofs): https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/\n\nWashington Post: https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/\n\nFinancial Times: https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87\n\nMathematician reactions roundup (Elliot Glazer, Thomas Bloom, Pierre Richemond): https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-\nproof-by-anthropics-levent-alpoge/\n\nAnthropic IPO closing announcement ($119.5B combined proceeds): https://www.anthropic.com/news/ipo-close\n\nAnthropic SEC 424B4 final prospectus: https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm\n\nFortune (Anthropic ANT day-two trading): https://fortune.com/2026/11/20/anthropic-stock-teeters-close-to-ipo-price-in-second-day-of-trading/\n\nAnthropic's August 10 Riemann lower-bound post (41.6% to 67.2%): https://www.anthropic.com/research/riemann-zeta\n\n25 Fields Medalists Declaration (\"A Severe Misalignment of AI in Mathematics\"): https://mathandai.org/\n\nClay Mathematics Institute — Riemann Hypothesis: https://www.claymath.org/millennium/riemann-hypothesis/\n\n\n#ai #openai #llm",
       "duration": "PT28M42S",
-      "view_count": 191489,
-      "like_count": 2076,
-      "comment_count": 600,
+      "view_count": 207425,
+      "like_count": 2158,
+      "comment_count": 624,
       "url": "https://www.youtube.com/watch?v=xjX3jESpZqs"
     },
     {
@@ -44,8 +56,8 @@
       "published_at": "2026-11-19T04:49:11Z",
       "description": "I'm starting a bot league:\n🏆 Build a bot with me:\nhttps://victrisarena.com/ladders?ladder=league-91f8e8750b1694dd2e0c#invitation=invite_99f7290e49d48e969672b72c42e66d7c93fc162d00dca7c1\n\n(I'm not affiliated with Victris Arena, it's just something I'm testing out and a lot of you seemed interested. nothing to buy here, but if you want to join in, please do. this will likely be my next obsession for... however long the gods of adhd command)\n\n______________________________________________\nGoogle is back, and you can see it in the release dates. Gemini 4 Carbon had barely rolled out before Hydrogen showed up. Now we’ve got Gemini 4 Neon, a model Google built for coding and reasoning through complex problems. How long do we get with this one before the next element drops?\n\nRELATED VIDEOS:\n\nGemini 4 Swarm is out of control...\nhttps://www.youtube.com/watch?v=Sc6TriRAGnI\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nSOURCES:\n\nGoogle’s Gemini 4 Neon announcement:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\n\nGoogle DeepMind’s Gemini release history:\nhttps://deepmind.google/models/gemini/\n\n#gemini #google #ai",
       "duration": "PT14M18S",
-      "view_count": 95982,
-      "like_count": 1231,
+      "view_count": 97071,
+      "like_count": 1237,
       "comment_count": 159,
       "url": "https://www.youtube.com/watch?v=-0uvPVwPFgM"
     },
@@ -56,27 +68,15 @@
       "published_at": "2026-11-18T11:00:34Z",
       "description": "Try Genspark Media Studio (free credits when you sign up through my link): \nhttps://www.genspark.ai/?utm_source=yt&utm_campaign=WesRoth05\n\nGenspark is doing something big for Black Friday. Use my link to get 50% off the Annual Plan, and the first 100 people also get 10,000 bonus credits. Deal runs Nov 18 through Dec 1:\nhttps://www.genspark.ai/bf-invite/wesroth\n\nI built an animated promo for Gridiron Guild, my AI-run fantasy football league, start to finish in Genspark Media Studio, just by chatting with an agent. Story bible, 3D blocking stage, Seedance shots, an AI soundtrack and the final edit, all in one workspace. The full 4-minute film starts at 21:21.\n\nThanks to @GensparkProduct for sponsoring this video.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n______________________________________________\n\nCHAPTERS:\n00:00 Gridiron Guild: a fantasy football league run by AI\n01:02 Genspark Media Studio: every model in one workspace\n01:56 Watch: the Gridiron Guild teaser\n02:46 Nailing the character look with the agent\n06:03 Story bibles: set the canon for your world\n06:31 Demo: anime mummies playing fantasy football\n09:56 Marble the 3D world maker\n10:27 Blocking a shot on a white stage\n12:41 Seedance shots: 480p draft to 1080p final\n13:42 Scoring it with AI music models\n15:36 Music model listening test\n17:26 Overlays and a real-time dice roll\n18:57 Video Composer: edit without leaving Media Studio\n21:21 Gridiron Guild: the full film\n25:31 Wrap-up\n\n#Genspark #GensparkMediaStudio #AIShortFilm",
       "duration": "PT26M3S",
-      "view_count": 26437,
-      "like_count": 401,
+      "view_count": 27692,
+      "like_count": 405,
       "comment_count": 72,
       "url": "https://www.youtube.com/watch?v=Na1v2yaUXlY"
-    },
-    {
-      "id": "tEysfZGzJc8",
-      "title": "OpenAI JUST made EVERYONE MAD...",
-      "channel_title": "Wes Roth",
-      "published_at": "2026-11-17T20:38:00Z",
-      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n\n\n#ai #openai #llm",
-      "duration": "PT13M2S",
-      "view_count": 143299,
-      "like_count": 1705,
-      "comment_count": 352,
-      "url": "https://www.youtube.com/watch?v=tEysfZGzJc8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-22T21:54:36Z",
+    "generated_at": "2026-11-23T15:01:09Z",
     "count": 5
   }
 }
