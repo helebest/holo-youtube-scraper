@@ -14,15 +14,27 @@
   "date": "2026-11-24",
   "result": [
     {
+      "id": "5p8CdiQGqV4",
+      "title": "Conheça o novíssimo ChatGPT Modo Voz.",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T13:14:46Z",
+      "description": "De uma simples pergunta a uma tarefa resolvida. É só falar com o ChatGPT Modo Voz. Ele te escuta e faz com você.",
+      "duration": "PT4M14S",
+      "view_count": 713,
+      "like_count": 77,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=5p8CdiQGqV4"
+    },
+    {
       "id": "asUuxCqj0GE",
       "title": "Waiting for a better price on that gift? Use ChatGPT.",
       "channel_title": "OpenAI",
       "published_at": "2026-11-24T01:36:38Z",
       "description": "Try it yourself 👉 Check the price of this item every day and let me know when it drops. Include the old price, new price, and a link to the offer.",
       "duration": "PT32S",
-      "view_count": 293,
-      "like_count": 19,
-      "comment_count": 2,
+      "view_count": 2329,
+      "like_count": 96,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=asUuxCqj0GE"
     },
     {
@@ -32,8 +44,8 @@
       "published_at": "2026-11-23T20:03:11Z",
       "description": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on.\n\nIn one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review.\n\nCyber researcher Kyle Zeng sits down with Clint Gibler, applied cyber research lead, to discuss how he built the vulnerability research pipeline and worked with Linux maintainers to get fixes upstream.\n\nRead the full research:\nhttps://openai.com/index/a-thousand-fewer-paths-to-root/",
       "duration": "PT46S",
-      "view_count": 1678,
-      "like_count": 44,
+      "view_count": 3956,
+      "like_count": 140,
       "comment_count": 4,
       "url": "https://www.youtube.com/watch?v=w-ltt0Np2cY"
     },
@@ -44,9 +56,9 @@
       "published_at": "2026-11-23T20:02:15Z",
       "description": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on.\n\nIn one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review.\n\nCyber researcher Kyle Zeng sits down with Clint Gibler, applied cyber research lead, to discuss how he built the vulnerability research pipeline and worked with Linux maintainers to get fixes upstream, with lessons for security teams looking to scale their own work.\n\nRead the full research:\nhttps://openai.com/index/a-thousand-fewer-paths-to-root/",
       "duration": "PT11M57S",
-      "view_count": 17901,
-      "like_count": 263,
-      "comment_count": 25,
+      "view_count": 26909,
+      "like_count": 346,
+      "comment_count": 32,
       "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo"
     },
     {
@@ -56,27 +68,15 @@
       "published_at": "2026-11-23T15:23:23Z",
       "description": "“Just delivering data is not enough.”\n\nFranklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers.\n\nThat gives analysts more time in the field, talking to private companies and developing their next investment idea.\n\nSee how AI is changing the work behind investment decisions—and creating more room for the research and judgment that shape an idea.\n\nRead the full story: https://openai.com/index/franklin-templeton/",
       "duration": "PT34S",
-      "view_count": 1574,
-      "like_count": 32,
+      "view_count": 2564,
+      "like_count": 63,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=gAmjBqXNoFI"
-    },
-    {
-      "id": "PXKvR8ta22Q",
-      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-      "channel_title": "OpenAI",
-      "published_at": "2026-11-23T15:21:09Z",
-      "description": "“Just delivering data is not enough.”\n\nFranklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers.\n\nThat gives analysts more time in the field, talking to private companies and developing their next investment idea.\n\nSee how AI is changing the work behind investment decisions—and creating more room for the research and judgment that shape an idea.\n\nRead the full story: https://openai.com/index/franklin-templeton/",
-      "duration": "PT46S",
-      "view_count": 9083,
-      "like_count": 89,
-      "comment_count": 0,
-      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-24T02:57:33Z",
+    "generated_at": "2026-11-24T15:00:57Z",
     "count": 5
   }
 }
