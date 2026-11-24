@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-11-24",
+  "result": [
+    {
+      "id": "oF2xi9BaHco",
+      "title": "Tomorrow on the NVIDIA AI Podcast.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-23T22:03:46Z",
+      "description": "If an AI buys your plane ticket, it shouldn’t come back with a new car.\n\nRed Hat’s Chris Wright explains why AI agents need clear limits.",
+      "duration": "PT33S",
+      "view_count": 1735,
+      "like_count": 18,
+      "comment_count": 5,
+      "url": "https://www.youtube.com/watch?v=oF2xi9BaHco"
+    },
+    {
+      "id": "2b4QUm0tuVc",
+      "title": "Unwrap new possibilities this holiday season. 🎁",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-23T19:03:04Z",
+      "description": "From immersive gaming to creative projects and building your first robot, NVIDIA technologies offer something for the gamers, creators, and makers on your list. Find inspiration for a thoughtful gift or your next holiday hobby.\n\nExplore ways to play, build, and create: https://nvda.ws/4A8NIKK",
+      "duration": "PT10S",
+      "view_count": 3764,
+      "like_count": 50,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=2b4QUm0tuVc"
+    },
+    {
+      "id": "Hgv4wjYXHKw",
+      "title": "AI is more than a better way to search.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-19T20:15:21Z",
+      "description": "Over a drink with NVIDIA’s Chris Alexiuk, Langdock Co-CEO Judith Dada shared why AI’s biggest impact may be felt in better services, better products, and healthier, more affordable lives.",
+      "duration": "PT36S",
+      "view_count": 16733,
+      "like_count": 107,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=Hgv4wjYXHKw"
+    },
+    {
+      "id": "N5YwZjN4_oI",
+      "title": "Europe’s AI Future With Judith Dada | Pub Conversations",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-19T20:00:07Z",
+      "description": "What does Europe need to get right about AI?\n\nLangdock Co-CEO Judith Dada joins NVIDIA’s Chris Alexiuk to talk about Europe’s AI future, from building computing infrastructure to bringing AI’s benefits to everyday life.\n\nThey discuss her move from venture capital to Langdock, the scenario she co-wrote in Europe 2031, and why human dignity matters as AI becomes more capable.\n\nLearn more about Judith’s work at Langdock: \n\nhttps://www.linkedin.com/company/langdock/\nhttps://www.youtube.com/channel/UCpyyPBQpoAD72zrZCWXPFhg\nhttps://www.instagram.com/langdock_se/\nhttps://x.com/langdock\n\nJudith:\nhttps://www.linkedin.com/in/judith-dada/\nhttps://www.instagram.com/jloladada\nhttps://x.com/DadaJudith\n\nPub Conversations brings people together over a drink to talk about AI, their work, and what comes next.\n\nRecorded during GTC Berlin on October 19, 2026.",
+      "duration": "PT36M15S",
+      "view_count": 24087,
+      "like_count": 77,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=N5YwZjN4_oI"
+    },
+    {
+      "id": "xkSVuGruhgE",
+      "title": "Think childproofing, but for AI.",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-19T17:00:13Z",
+      "description": "Hugging Face co-founder Thomas Wolf explains why AI assistants need limits on what they can access and do.\n\nListen to the NVIDIA AI Podcast with ServiceNow’s Amanda Grady and NVIDIA’s Carter Abdallah:",
+      "duration": "PT37S",
+      "view_count": 6639,
+      "like_count": 59,
+      "comment_count": 17,
+      "url": "https://www.youtube.com/watch?v=xkSVuGruhgE"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-24T02:57:33Z",
+    "count": 5
+  }
+}
