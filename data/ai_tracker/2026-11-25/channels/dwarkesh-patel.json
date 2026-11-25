@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-11-25",
+  "result": [
+    {
+      "id": "Em6tbhj9o6A",
+      "title": "The strongest objections to RSI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-24T21:43:11Z",
+      "description": "I read your comments. \n\nLink to the original essay: https://www.youtube.com/watch?v=1NHPDzpfR6Y\n\n(00:00:00) – “Do you have a real job?”\n(00:02:41) – Cindy Wu: Is AI research a verifiable domain?\n(00:11:10) – corsaren: The overarching objection\n(00:12:20) – corsaren: Are the essay’s examples sloppy intuition pumps?\n(00:13:51) – corsaren: Is online learning AI’s Millennium Prize problem?\n(00:17:39) – corsaren: Is human evolution evidence for transfer?\n(00:22:20) – corsaren: Can scaling RL let AIs ramp quickly in new contexts?\n(00:25:31) – Why take Paul Christiano’s predictions seriously?\n(00:26:26) – Intuitions for what superintelligence could be like\n(00:29:26) – Paul’s 2018 prediction and the Hugging Face incident\n(00:32:44) – How would superhuman AIs actually take over?\n(00:35:12) – What should we do about AI motivations?\n(00:40:54) – Séb Krier: Won’t many different models constrain each other?\n(00:44:09) – Henry Zhang: Is METR’s finding just one data point?\n(00:49:13) – Agustin Lebron: Is it still recursive if humans are in the loop?\n(00:53:07) – Peli: Does AI’s success in math transfer to AI research?\n(00:56:20) – Henry Dowling: Will AI research be bottlenecked on compute?\n(01:00:21) – Takeaways, and the next couple of years\n(01:03:30) – Would we even know?\n(01:03:57) – Closing thoughts",
+      "duration": "PT1H5M24S",
+      "view_count": 46002,
+      "like_count": 820,
+      "comment_count": 156,
+      "url": "https://www.youtube.com/watch?v=Em6tbhj9o6A"
+    },
+    {
+      "id": "K42jlW-THdo",
+      "title": "When 6 Years of AI Progress Happens in 6 Months  - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-24T21:06:48Z",
+      "description": "",
+      "duration": "PT1M25S",
+      "view_count": 8065,
+      "like_count": 252,
+      "comment_count": 20,
+      "url": "https://www.youtube.com/watch?v=K42jlW-THdo"
+    },
+    {
+      "id": "QAE9nRTHtas",
+      "title": "What if GPT-10 did the Hugging Face hack? - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-23T19:37:54Z",
+      "description": "",
+      "duration": "PT44S",
+      "view_count": 42434,
+      "like_count": 723,
+      "comment_count": 60,
+      "url": "https://www.youtube.com/watch?v=QAE9nRTHtas"
+    },
+    {
+      "id": "Ru0l6G5oq7U",
+      "title": "AI Labs Should Stop Advancing Until They Fix Security - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-21T01:17:53Z",
+      "description": "",
+      "duration": "PT1M49S",
+      "view_count": 28005,
+      "like_count": 573,
+      "comment_count": 34,
+      "url": "https://www.youtube.com/watch?v=Ru0l6G5oq7U"
+    },
+    {
+      "id": "-PQpJAdp7gw",
+      "title": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-18T17:00:30Z",
+      "description": "",
+      "duration": "PT1M1S",
+      "view_count": 100923,
+      "like_count": 1706,
+      "comment_count": 95,
+      "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-25T00:53:49Z",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Matt Wolfe",
+    "tier": "news_tools",
+    "handle": "@mreflow",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UChpleBmo18P08aKCIgti38g"
+  },
+  "date": "2026-11-25",
+  "result": [
+    {
+      "id": "PQYURWk9-w0",
+      "title": "This helmet tells you when to turn ⮑",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-24T20:11:42Z",
+      "description": "This motorcycle helmet puts GPS directions right in your field of vision, like something straight out of a video game!\n\n#AI #futuretech",
+      "duration": "PT1M9S",
+      "view_count": 1596,
+      "like_count": 66,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=PQYURWk9-w0"
+    },
+    {
+      "id": "u1ozwejEwBo",
+      "title": "This robot face is NOT AI!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-23T21:09:34Z",
+      "description": "I've never seen a robot look THIS realistic before...\n\n#AI #futuretech",
+      "duration": "PT1M12S",
+      "view_count": 11068,
+      "like_count": 258,
+      "comment_count": 26,
+      "url": "https://www.youtube.com/watch?v=u1ozwejEwBo"
+    },
+    {
+      "id": "8RNSJ6Ud4nY",
+      "title": "Google Cooked With This New Model!",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-22T20:58:01Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:",
+      "duration": "PT1M43S",
+      "view_count": 22250,
+      "like_count": 563,
+      "comment_count": 33,
+      "url": "https://www.youtube.com/watch?v=8RNSJ6Ud4nY"
+    },
+    {
+      "id": "GFxHjrYwoFk",
+      "title": "They built cyborg cockroaches with built-in AI...",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-21T21:25:07Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M11S",
+      "view_count": 20425,
+      "like_count": 663,
+      "comment_count": 55,
+      "url": "https://www.youtube.com/watch?v=GFxHjrYwoFk"
+    },
+    {
+      "id": "7_pMINxEEPU",
+      "title": "What else could you use this for?",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-11-21T03:42:44Z",
+      "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+      "duration": "PT1M9S",
+      "view_count": 11078,
+      "like_count": 323,
+      "comment_count": 25,
+      "url": "https://www.youtube.com/watch?v=7_pMINxEEPU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-25T00:53:54Z",
+    "count": 5
+  }
+}

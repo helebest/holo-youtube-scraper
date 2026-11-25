@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-25",
+  "result": [
+    {
+      "id": "1u0hTd86_HU",
+      "title": "Experiment with SVG & 3D Design with the Codex Plugin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T21:32:42Z",
+      "description": "Craig Dennis had never drawn an SVG by hand or used Blender. With the SVG & 3D Design plugin for Codex, he shows how to turn a reference image into an editable graphic or 3D model, then ask for changes in plain language.\n\nSee how a small change in SVG code can make a character’s eyes follow your cursor, and how Codex uses Blender to check a model from another angle. Enable SVG & 3D Design in Codex and tell us what you build!\n\nLearn more:\nSVG & 3D Design Plugin: https://chatgpt.com/plugins/Plugin_13c5903473e081919917a1070fad1dd1?open_in_app\nGuide - From concept art to editable SVGs and 3D scenes:  https://learn.chatgpt.com/guides/svg-3d-design",
+      "duration": "PT4M56S",
+      "view_count": 12228,
+      "like_count": 336,
+      "comment_count": 42,
+      "url": "https://www.youtube.com/watch?v=1u0hTd86_HU"
+    },
+    {
+      "id": "p8lvQQebvpg",
+      "title": "How to Search for Exoplanets",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T20:00:45Z",
+      "description": "Two amateur astronomers, Kevin Bond and Ethan Byrd, independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt. \n\nKevin used Codex and Ethan used Astra to search public telescope data for tiny, recurring dips in starlight that an orbiting planet can cause. Both found signals worth a second look. https://openai.com/index/searching-for-distant-planets-with-astra/",
+      "duration": "PT1M47S",
+      "view_count": 8292,
+      "like_count": 187,
+      "comment_count": 21,
+      "url": "https://www.youtube.com/watch?v=p8lvQQebvpg"
+    },
+    {
+      "id": "2DUJ2whBJRM",
+      "title": "Make sense of your day | with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T17:14:03Z",
+      "description": "Snap a photo and ask ChatGPT to help you figure out what you’re looking at, and highlight anything you should double-check.",
+      "duration": "PT30S",
+      "view_count": 3357,
+      "like_count": 55,
+      "comment_count": 4,
+      "url": "https://www.youtube.com/watch?v=2DUJ2whBJRM"
+    },
+    {
+      "id": "4MFBNFyBmQg",
+      "title": "Make a day of it | with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T17:14:01Z",
+      "description": "ChatGPT can turn a rough idea into the perfect-sized plan for your family. Tell ChatGPT what you’re looking for and it’ll browse sites on your behalf to find local information, and even help you book things.",
+      "duration": "PT30S",
+      "view_count": 5481,
+      "like_count": 45,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=4MFBNFyBmQg"
+    },
+    {
+      "id": "Faoam45LT-Q",
+      "title": "Make room in your day | with ChatGPT",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T17:13:58Z",
+      "description": "A little more time at the park? Connect your calendar and ask ChatGPT to find a later time for your meeting.",
+      "duration": "PT30S",
+      "view_count": 11947,
+      "like_count": 134,
+      "comment_count": 11,
+      "url": "https://www.youtube.com/watch?v=Faoam45LT-Q"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-25T00:53:53Z",
+    "count": 5
+  }
+}
