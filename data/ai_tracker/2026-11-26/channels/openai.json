@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "OpenAI",
+    "tier": "tier3_official",
+    "handle": "@OpenAI",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+  },
+  "date": "2026-11-26",
+  "result": [
+    {
+      "id": "C6DENY3rgqg",
+      "title": "You had us at Deployed",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-25T23:50:43Z",
+      "description": "You had us at deployed. ❤️\n\nWe’re thankful for our customers and everything we’re building together. Thank you for trusting us and sharing what you’re learning along the way.",
+      "duration": "PT1M19S",
+      "view_count": 567,
+      "like_count": 51,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=C6DENY3rgqg"
+    },
+    {
+      "id": "A4UNP-axGHU",
+      "title": "How your dot can keep work moving while you’re away",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-25T18:21:11Z",
+      "description": "Even when you step away for the holidays, work doesn’t always stop. Your dot can help.\n\nRaymond walks through how his dot keeps an eye on ongoing projects, flags what needs his attention, and helps move work forward so he can review and approve next steps on the go.\n\nSteal Raymond’s workflow. Try these prompts with your dot and make them your own:\n\"I’m stepping away until [time + time zone]. Watch [insert slack channel] and [#on-call-[insert channel]]. Group related feedback in existing Linear ticket, or if a new request or issue, create a new ticket and link the Slack messages.  Only ping me for an outage, a critical incident, or multiple reports that a core feature is broken. If Codex is enabled, spin up a Codex thread to investigate on call alerts and send me the findings. No code changes until I review.\"",
+      "duration": "PT1M47S",
+      "view_count": 13481,
+      "like_count": 190,
+      "comment_count": 54,
+      "url": "https://www.youtube.com/watch?v=A4UNP-axGHU"
+    },
+    {
+      "id": "kfGYU_-SuaE",
+      "title": "School Day | Make a day do anything with ChatGPT  (Official)",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-25T16:45:33Z",
+      "description": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT.\n\nChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With ChatGPT, you can Make a Day Do Anything.",
+      "duration": "PT1M44S",
+      "view_count": 9986,
+      "like_count": 123,
+      "comment_count": 19,
+      "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE"
+    },
+    {
+      "id": "hwKct_1ilEQ",
+      "title": "Finances in ChatGPT: A Beginner’s Guide",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-25T14:00:28Z",
+      "description": "Finances in ChatGPT can help you get a clearer picture of your spending and find ways to make progress toward your financial goals.\n\nIn this video, we'll get you up to speed with the basics of Finances in ChatGPT: connect your bank account, review your recurring subscriptions, and build a budget around what matters to you.\n\nGet started with Finances in ChatGPT: https://chatgpt.com/finances/?utm_source=youtube&utm_medium=organic_social&utm_campaign=getting_started_finances&utm_content=description",
+      "duration": "PT2M50S",
+      "view_count": 19344,
+      "like_count": 316,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=hwKct_1ilEQ"
+    },
+    {
+      "id": "1u0hTd86_HU",
+      "title": "Experiment with SVG & 3D Design with the Codex Plugin",
+      "channel_title": "OpenAI",
+      "published_at": "2026-11-24T21:32:42Z",
+      "description": "Craig Dennis had never drawn an SVG by hand or used Blender. With the SVG & 3D Design plugin for Codex, he shows how to turn a reference image into an editable graphic or 3D model, then ask for changes in plain language.\n\nSee how a small change in SVG code can make a character’s eyes follow your cursor, and how Codex uses Blender to check a model from another angle. Enable SVG & 3D Design in Codex and tell us what you build!\n\nLearn more:\nSVG & 3D Design Plugin: https://chatgpt.com/plugins/Plugin_13c5903473e081919917a1070fad1dd1?open_in_app\nGuide - From concept art to editable SVGs and 3D scenes:  https://learn.chatgpt.com/guides/svg-3d-design",
+      "duration": "PT4M56S",
+      "view_count": 79259,
+      "like_count": 1170,
+      "comment_count": 125,
+      "url": "https://www.youtube.com/watch?v=1u0hTd86_HU"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-26T00:31:57Z",
+    "count": 5
+  }
+}
