@@ -20,9 +20,9 @@
       "published_at": "2026-11-25T18:50:43Z",
       "description": "",
       "duration": "PT1M42S",
-      "view_count": 6062,
-      "like_count": 193,
-      "comment_count": 12,
+      "view_count": 13293,
+      "like_count": 362,
+      "comment_count": 23,
       "url": "https://www.youtube.com/watch?v=Ws4dO4_VsRc"
     },
     {
@@ -32,9 +32,9 @@
       "published_at": "2026-11-24T21:43:11Z",
       "description": "I read your comments. \n\nLink to the original essay: https://www.youtube.com/watch?v=1NHPDzpfR6Y\n\n(00:00:00) – “Do you have a real job?”\n(00:02:41) – Cindy Wu: Is AI research a verifiable domain?\n(00:11:10) – corsaren: The overarching objection\n(00:12:20) – corsaren: Are the essay’s examples sloppy intuition pumps?\n(00:13:51) – corsaren: Is online learning AI’s Millennium Prize problem?\n(00:17:39) – corsaren: Is human evolution evidence for transfer?\n(00:22:20) – corsaren: Can scaling RL let AIs ramp quickly in new contexts?\n(00:25:31) – Why take Paul Christiano’s predictions seriously?\n(00:26:26) – Intuitions for what superintelligence could be like\n(00:29:26) – Paul’s 2018 prediction and the Hugging Face incident\n(00:32:44) – How would superhuman AIs actually take over?\n(00:35:12) – What should we do about AI motivations?\n(00:40:54) – Séb Krier: Won’t many different models constrain each other?\n(00:44:09) – Henry Zhang: Is METR’s finding just one data point?\n(00:49:13) – Agustin Lebron: Is it still recursive if humans are in the loop?\n(00:53:07) – Peli: Does AI’s success in math transfer to AI research?\n(00:56:20) – Henry Dowling: Will AI research be bottlenecked on compute?\n(01:00:21) – Takeaways, and the next couple of years\n(01:03:30) – Would we even know?\n(01:03:57) – Closing thoughts",
       "duration": "PT1H5M24S",
-      "view_count": 216328,
-      "like_count": 2179,
-      "comment_count": 436,
+      "view_count": 237825,
+      "like_count": 2358,
+      "comment_count": 453,
       "url": "https://www.youtube.com/watch?v=Em6tbhj9o6A"
     },
     {
@@ -44,9 +44,9 @@
       "published_at": "2026-11-24T21:06:48Z",
       "description": "",
       "duration": "PT1M25S",
-      "view_count": 36275,
-      "like_count": 512,
-      "comment_count": 61,
+      "view_count": 39329,
+      "like_count": 549,
+      "comment_count": 62,
       "url": "https://www.youtube.com/watch?v=K42jlW-THdo"
     },
     {
@@ -56,8 +56,8 @@
       "published_at": "2026-11-23T19:37:54Z",
       "description": "",
       "duration": "PT44S",
-      "view_count": 46370,
-      "like_count": 779,
+      "view_count": 47884,
+      "like_count": 790,
       "comment_count": 64,
       "url": "https://www.youtube.com/watch?v=QAE9nRTHtas"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-11-21T01:17:53Z",
       "description": "",
       "duration": "PT1M49S",
-      "view_count": 28647,
-      "like_count": 583,
-      "comment_count": 35,
+      "view_count": 28981,
+      "like_count": 586,
+      "comment_count": 36,
       "url": "https://www.youtube.com/watch?v=Ru0l6G5oq7U"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-26T00:31:54Z",
+    "generated_at": "2026-11-26T14:03:27Z",
     "count": 5
   }
 }
