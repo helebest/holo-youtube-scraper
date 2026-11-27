@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "NVIDIA",
+    "tier": "tier3_official",
+    "handle": "@NVIDIA",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+  },
+  "date": "2026-11-27",
+  "result": [
+    {
+      "id": "5_peDo1mukg",
+      "title": "One name. Two worlds. A shared commitment to safety. 🏔️🚗",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-25T16:00:36Z",
+      "description": "When principal software systems engineer Rez Nemati set out to scale Alpamayo, the famed pyramidal peak in the Peruvian Andes, he realized the mountain shares more than just a name with NVIDIA’s open ecosystem of reasoning vision-language-action AI models, simulation tools, and datasets for autonomous vehicles and robotaxis. \n\nBoth demand preparation, careful decisions, and layers of protection when the stakes are high. \n\nFollow his climb to explore the connection between mountain and machine.",
+      "duration": "PT2M1S",
+      "view_count": 4522,
+      "like_count": 177,
+      "comment_count": 14,
+      "url": "https://www.youtube.com/watch?v=5_peDo1mukg"
+    },
+    {
+      "id": "IArSmPMHQug",
+      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-24T16:37:31Z",
+      "description": "Eli Lilly and Company’s mission hasn't changed: \"We try to turn science into healing for people around the world.\" \n\nHear how NVIDIA technologies are helping in that journey.",
+      "duration": "PT49S",
+      "view_count": 8651,
+      "like_count": 130,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=IArSmPMHQug"
+    },
+    {
+      "id": "z7tcQiyLK8E",
+      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-24T16:37:11Z",
+      "description": "Chris Lesniewski, Associate VP of Enterprise Infrastructure Services at Eli Lilly and Company, explains how AI and NVIDIA technology help turn decades of data into \"an incredible scientific instrument that we can use to discover new medicines.\" \n\nLearn more about how our customers across industries have achieved AI breakthroughs with #NVIDIADGX:\nhttps://resources.nvidia.com/l/en-us-dgx-customer-use-cases/?ncid=so-yout-711500",
+      "duration": "PT2M17S",
+      "view_count": 20013,
+      "like_count": 209,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=z7tcQiyLK8E"
+    },
+    {
+      "id": "kTJ8NDNYua8",
+      "title": "“Governance is what made us go faster.”",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-24T14:21:00Z",
+      "description": "Red Hat CTO Chris Wright explains how clear rules help teams put AI agents to work with confidence.",
+      "duration": "PT31S",
+      "view_count": 5144,
+      "like_count": 35,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=kTJ8NDNYua8"
+    },
+    {
+      "id": "aAbtjH0-oQQ",
+      "title": "Why Transparency Matters for AI Security",
+      "channel_title": "NVIDIA",
+      "published_at": "2026-11-24T11:00:17Z",
+      "description": "Red Hat CTO Chris Wright joins the NVIDIA AI Podcast at GTC Berlin to explain why open source is the foundation for secure AI agents. From Linux in the 1990s to agent security today, he shares what has changed, what hasn’t, and why “governance is what made us go faster.”\n\nGuest: Chris Wright, CTO, Red Hat\n\nListen to the NVIDIA AI Podcast: https://ai-podcast.nvidia.com/\nFollow on Spotify: https://open.spotify.com/show/4TB4pnynaiZ6YHoKmyVN0L\nFollow on Apple Podcasts: https://podcasts.apple.com/us/podcast/nvidia-ai-podcast/id1186480811\nLearn more: https://blogs.nvidia.com/blog/ai-security-agent-stack/?ncid=so-yout-497446\n\nCHAPTERS\n00:00 Chris Wright and Linux’s enterprise journey\n02:28 Defense in depth for AI agents\n04:04 OpenShell and open collaboration\n06:38 AI security as an engineering problem\n09:43 How governance helps teams move faster\n10:45 Why transparency matters for security\n11:23 Using AI to find vulnerabilities\n13:06 Giving agents clear limits\n\n#AI #OpenSource #AIAgents #AISecurity #GTCBerlin",
+      "duration": "PT15M8S",
+      "view_count": 11879,
+      "like_count": 73,
+      "comment_count": 0,
+      "url": "https://www.youtube.com/watch?v=aAbtjH0-oQQ"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-27T00:40:23Z",
+    "count": 5
+  }
+}

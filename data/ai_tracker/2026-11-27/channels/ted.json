@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "TED",
+    "tier": "tier1_forum",
+    "handle": "@TED",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+  },
+  "date": "2026-11-27",
+  "result": [
+    {
+      "id": "SRTivV6GlJw",
+      "title": "The most teachable moments might happen when parents aren’t there #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-26T20:00:33Z",
+      "description": "Whether it’s micromanaging playtime, constantly hovering or incessantly texting, the adult takeover of childhood has created a crisis of anxiety in both children and parents, says Lenore Skenazy, cofounder and president of Let Grow, an organization dedicated to normalizing childhood independence. With wit and humor, she lays out the unexpected benefits of letting our kids be a bit more “free range” — and shows why the most teachable moments happen when parents aren’t there.",
+      "duration": "PT1M15S",
+      "view_count": 1772,
+      "like_count": 82,
+      "comment_count": 3,
+      "url": "https://www.youtube.com/watch?v=SRTivV6GlJw"
+    },
+    {
+      "id": "1YlG1FeOqoQ",
+      "title": "How to Make Friends (and Keep Them) | Sheridan Voysey | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-26T16:00:04Z",
+      "description": "Who could you call at 2am when everything’s gone wrong? Friendship expert Sheridan Voysey believes we’re in a friendship recession, with many of us forgetting how to foster meaningful relationships. He explores three hidden barriers keeping us apart, why it feels harder to make friends as an adult — and how to nurture the deep connections that sustain us. (Recorded at TEDxSt Albans on October 15, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/sheridanvoysey\n\nhttps://youtu.be/1YlG1FeOqoQ\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Friendship",
+      "duration": "PT13M",
+      "view_count": 31376,
+      "like_count": 347,
+      "comment_count": 27,
+      "url": "https://www.youtube.com/watch?v=1YlG1FeOqoQ"
+    },
+    {
+      "id": "M-57qFII51A",
+      "title": "Why does romance feel so dead? #TEDTalks",
+      "channel_title": "TED",
+      "published_at": "2026-11-24T22:00:36Z",
+      "description": "Every rom-com tells us what romance is supposed to look like — but does seeking it only in relationships mean we’re missing it everywhere else? Check out the full episode of @cornerpiecepod, at https://link.mgln.ai/VBzPbb.",
+      "duration": "PT1M4S",
+      "view_count": 14982,
+      "like_count": 353,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=M-57qFII51A"
+    },
+    {
+      "id": "39-b_QsTfjU",
+      "title": "Can You Spot the Lies in Your News Feed? | Laura Smythe | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-24T20:00:17Z",
+      "description": "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us. Using Fyre Festival as a cautionary tale, she explains why media literacy is a vital skill in our age of deepfakes and algorithmic feeds — and describes the country that’s already found a way to start teaching it in elementary school. (Recorded at TED Democracy Philadelphia on June 13, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/laurasmythe\n\nhttps://youtu.be/39-b_QsTfjU\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Media",
+      "duration": "PT11M21S",
+      "view_count": 70426,
+      "like_count": 476,
+      "comment_count": 35,
+      "url": "https://www.youtube.com/watch?v=39-b_QsTfjU"
+    },
+    {
+      "id": "L8HdlknRkA4",
+      "title": "The “Godfather of AI” on the Risks That Worry Him Most | Geoffrey Hinton | TED",
+      "channel_title": "TED",
+      "published_at": "2026-11-24T18:00:35Z",
+      "description": "Geoffrey Hinton helped create the neural networks behind today's AI, won a Nobel Prize for it — and has spent the years since warning about where it's headed. In conversation with journalist Nicholas Thompson, Hinton shares the AI risks he's worried about, sketches out a best-case future for the technology and explores whether or not chatbots have subjective experience. Plus: hear his thoughts on the one rule he'd give superintelligent AI. (Recorded at TEDAI Vienna 2026 on October 30, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/geoffreyhinton\n\nhttps://youtu.be/L8HdlknRkA4\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+      "duration": "PT25M55S",
+      "view_count": 550242,
+      "like_count": 4642,
+      "comment_count": 548,
+      "url": "https://www.youtube.com/watch?v=L8HdlknRkA4"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-27T00:40:21Z",
+    "count": 5
+  }
+}
