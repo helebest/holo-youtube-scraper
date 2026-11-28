@@ -20,9 +20,9 @@
       "published_at": "2026-11-27T18:06:08Z",
       "description": "Join Ian Buck, Justin Boitano, Kari Briski, and Rev Lebaredian for a look at what’s next in infrastructure, security, physical AI, open models, and agents.\n\nLive on December 1, starting at 2:00 PM ET.\n\nAdd to your calendar: https://nvda.ws/4ATNJSK",
       "duration": "PT31S",
-      "view_count": 907,
-      "like_count": 39,
-      "comment_count": 8,
+      "view_count": 2546,
+      "like_count": 73,
+      "comment_count": 9,
       "url": "https://www.youtube.com/watch?v=sHWEMk0l2iU"
     },
     {
@@ -32,8 +32,8 @@
       "published_at": "2026-11-25T16:00:36Z",
       "description": "When principal software systems engineer Rez Nemati set out to scale Alpamayo, the famed pyramidal peak in the Peruvian Andes, he realized the mountain shares more than just a name with NVIDIA’s open ecosystem of reasoning vision-language-action AI models, simulation tools, and datasets for autonomous vehicles and robotaxis. \n\nBoth demand preparation, careful decisions, and layers of protection when the stakes are high. \n\nFollow his climb to explore the connection between mountain and machine.",
       "duration": "PT2M1S",
-      "view_count": 7141,
-      "like_count": 279,
+      "view_count": 7666,
+      "like_count": 299,
       "comment_count": 14,
       "url": "https://www.youtube.com/watch?v=5_peDo1mukg"
     },
@@ -44,8 +44,8 @@
       "published_at": "2026-11-24T16:37:31Z",
       "description": "Eli Lilly and Company’s mission hasn't changed: \"We try to turn science into healing for people around the world.\" \n\nHear how NVIDIA technologies are helping in that journey.",
       "duration": "PT49S",
-      "view_count": 9866,
-      "like_count": 139,
+      "view_count": 10087,
+      "like_count": 142,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=IArSmPMHQug"
     },
@@ -56,8 +56,8 @@
       "published_at": "2026-11-24T16:37:11Z",
       "description": "Chris Lesniewski, Associate VP of Enterprise Infrastructure Services at Eli Lilly and Company, explains how AI and NVIDIA technology help turn decades of data into \"an incredible scientific instrument that we can use to discover new medicines.\" \n\nLearn more about how our customers across industries have achieved AI breakthroughs with #NVIDIADGX:\nhttps://resources.nvidia.com/l/en-us-dgx-customer-use-cases/?ncid=so-yout-711500",
       "duration": "PT2M17S",
-      "view_count": 23009,
-      "like_count": 223,
+      "view_count": 23964,
+      "like_count": 227,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=z7tcQiyLK8E"
     },
@@ -68,15 +68,15 @@
       "published_at": "2026-11-24T14:21:00Z",
       "description": "Red Hat CTO Chris Wright explains how clear rules help teams put AI agents to work with confidence.",
       "duration": "PT31S",
-      "view_count": 5731,
-      "like_count": 38,
+      "view_count": 5883,
+      "like_count": 37,
       "comment_count": 0,
       "url": "https://www.youtube.com/watch?v=kTJ8NDNYua8"
     }
   ],
   "error": null,
   "meta": {
-    "generated_at": "2026-11-28T00:07:10Z",
+    "generated_at": "2026-11-28T13:19:58Z",
     "count": 5
   }
 }
