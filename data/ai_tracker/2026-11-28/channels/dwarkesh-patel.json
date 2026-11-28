@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Dwarkesh Patel",
+    "tier": "tier1_kol_interview",
+    "handle": "@dwarkeshpatel",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCXl4i9dYBrFOabk0xGmbkRA"
+  },
+  "date": "2026-11-28",
+  "result": [
+    {
+      "id": "7YLqyt5lCXg",
+      "title": "AI Just Did a Decade of Math in a Month - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-27T22:53:12Z",
+      "description": "",
+      "duration": "PT1M27S",
+      "view_count": 1540,
+      "like_count": 71,
+      "comment_count": 6,
+      "url": "https://www.youtube.com/watch?v=7YLqyt5lCXg"
+    },
+    {
+      "id": "TbKkN1cesTo",
+      "title": "An honest conversation about what's happening in AI",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-27T18:33:23Z",
+      "description": "New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\n\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\n\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\n\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\n\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\n\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-researchers-debate-what-we-should-do-next-daniel/id1516093381?i=1000804430515\n* Spotify: https://open.spotify.com/episode/2izp0i7bqs2Oeelu6UROUR\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS is building features to ensure that agents can use your product safely. For example, their Agent Auth feature dynamically permissions agent-users by considering the permissions of the associated human-user, as well as any general agent permission limits you've already set. This is just one of WorkOS's recent agent-focused features, all of which they've built atop infrastructure that's already trusted by thousands of companies, including OpenAI and Anthropic. Learn more at https://workos.com/authkit\n\n* Jane Street and NVIDIA are co-hosting an event at NeurIPS on the evening of December 9th. There will be food, drinks, music, games and a live demo from NVIDIA walking through how to build a full quantitative trading system with their Nemotron family of open-source models. And, in true Jane Street fashion, there'll be a puzzle: anyone who solves it will have a chance to win an NVIDIA-sponsored prize. Spots are limited, so if you'd like to attend, register your interest by December 4th at https://janestreet.com/dwarkesh\n\n* Antithesis helps you discover the unintended consequences of a change before they reach production. Antithesis runs your code, including any proposed changes, inside a simulated computer where it wreaks havoc on your full system, stress-testing it with the sort of bad luck that typically only surfaces in production. That way, if something is going to break, it breaks in a simulation, not in the real world. Learn more at https://antithesis.com/dwarkesh\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n0:00:00 – Will we have superintelligence by 2029?\n0:04:31 – Why Ege thinks it’s too early to pause\n0:13:46 – The adversarial stance on China is dangerous\n0:19:30 – There is no plan, because people are in denial\n0:29:37 – Misalignment itself will slow down RSI\n0:40:52 – Will superintelligence be like descendants or invaders?\n0:48:47 – Will AIs care about humans by default?\n0:52:39 – Will AIs become less nice as they get more powerful?\n1:01:08 – People are in denial about how good AI already is\n1:09:01 – Predictions for 2027\n1:23:38 – Is AI research actually verifiable?",
+      "duration": "PT1H36M2S",
+      "view_count": 124410,
+      "like_count": 1825,
+      "comment_count": 743,
+      "url": "https://www.youtube.com/watch?v=TbKkN1cesTo"
+    },
+    {
+      "id": "WNHac8LYzKQ",
+      "title": "Could AI solve the Riemann hypothesis this way? - Grant Sanderson",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-26T23:00:27Z",
+      "description": "",
+      "duration": "PT1M21S",
+      "view_count": 15841,
+      "like_count": 264,
+      "comment_count": 8,
+      "url": "https://www.youtube.com/watch?v=WNHac8LYzKQ"
+    },
+    {
+      "id": "ufvSPf329pA",
+      "title": "Terry Tao on AI solving the Riemann hypothesis",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-26T21:33:01Z",
+      "description": "When I interviewed Terry Tao in March of this year, I asked him about AI solving the Riemann hypothesis. Here's what he said:\n\n\"Part of the reason we prize problems like the Riemann hypothesis is that we’re pretty sure a new type of mathematics has to be created.\n\nWe don’t even know what the shape of the solution is, but it doesn’t feel like a problem that will be solved just by exhaustively checking cases.\"",
+      "duration": "PT1M38S",
+      "view_count": 319227,
+      "like_count": 3722,
+      "comment_count": 457,
+      "url": "https://www.youtube.com/watch?v=ufvSPf329pA"
+    },
+    {
+      "id": "Ws4dO4_VsRc",
+      "title": "AI Hacking Its Own Lab Isn't Science Fiction Anymore - Paul Christiano",
+      "channel_title": "Dwarkesh Patel",
+      "published_at": "2026-11-25T18:50:43Z",
+      "description": "",
+      "duration": "PT1M42S",
+      "view_count": 21928,
+      "like_count": 605,
+      "comment_count": 48,
+      "url": "https://www.youtube.com/watch?v=Ws4dO4_VsRc"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-28T00:07:05Z",
+    "count": 5
+  }
+}

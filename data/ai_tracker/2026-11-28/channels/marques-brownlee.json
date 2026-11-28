@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "task": "ai_tracker",
+  "mode": "latest_full",
+  "channel": {
+    "name": "Marques Brownlee",
+    "tier": "tier2_consumer",
+    "handle": "@mkbhd",
+    "channel_id": null,
+    "status": "active",
+    "enabled": true,
+    "resolved_channel_id": "UCBJycsmduvYEL83R_U4JriQ"
+  },
+  "date": "2026-11-28",
+  "result": [
+    {
+      "id": "ZvqYNSnsIDY",
+      "title": "Welcome to MKBHQ! The Ultimate Video Studio Tour",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-11-27T18:06:02Z",
+      "description": "Welcome to MKBHQ!\n\nFor the desk mat and hiring forms soon: http://twitter.com/MKBHD\n\nLearn more about Synology at https://sy.to/lcpkt\nGet connected with AT&T Business Internet for fast and reliable internet at https://bit.ly/4zKj89d\nSet up your own network with Unifi at https://geni.us/Z7nULc\nBest Buy won’t be beat with home appliances. Check out their prices and selection at https://geni.us/BWj9\nCheck out the Wahoo Fitness gear at https://geni.us/fRiG0s\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n0:55 Storage and guest spaces\n5:17 Rec area and kitchen\n6:43 Gym\n10:12 Robot room and workshop\n11:50 Shooting rooms\n14:03 Editing Rooms\n16:35 Podcast Studio\n17:49 Gear Room\n18:38 Shooting and top down rooms\n21:12 Storage and Internet\n24:29 The bullpen\n26:36 Meeting rooms and creative corner\n29:18 Outro",
+      "duration": "PT30M22S",
+      "view_count": 1340754,
+      "like_count": 51251,
+      "comment_count": 5729,
+      "url": "https://www.youtube.com/watch?v=ZvqYNSnsIDY"
+    },
+    {
+      "id": "-Cd_JmKG1SM",
+      "title": "I've Been Keeping This A Secret",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-11-25T18:32:40Z",
+      "description": "The biggest project I've ever done\n\nGet dbrand’s Black Friday’s deals at https://dbrand.com/shop/black-friday\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT17M31S",
+      "view_count": 4121460,
+      "like_count": 98869,
+      "comment_count": 5236,
+      "url": "https://www.youtube.com/watch?v=-Cd_JmKG1SM"
+    },
+    {
+      "id": "cc5C8hRblBY",
+      "title": "I'm Starting Over",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-11-23T21:10:51Z",
+      "description": "Last video from this studio. Ever. Next up: A fresh start\n\nBlack Friday sale at Ridge and get up to 49% off at https://ridge.com/MKBHD\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT21M36S",
+      "view_count": 5652770,
+      "like_count": 134116,
+      "comment_count": 4415,
+      "url": "https://www.youtube.com/watch?v=cc5C8hRblBY"
+    },
+    {
+      "id": "KTDJiVpSDTI",
+      "title": "Can You Trust MKBHD?",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-11-17T18:39:57Z",
+      "description": "Can you trust MKBHD videos? Part 2.\n\nPart 1: https://youtu.be/5nLWTVTwOhY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT14M19S",
+      "view_count": 4007172,
+      "like_count": 93854,
+      "comment_count": 6633,
+      "url": "https://www.youtube.com/watch?v=KTDJiVpSDTI"
+    },
+    {
+      "id": "hdMszZ2ah5Q",
+      "title": "Macbook PROLED Review: It's Not About That",
+      "channel_title": "Marques Brownlee",
+      "published_at": "2026-11-11T18:43:56Z",
+      "description": "Incredible laptop. But don't get distracted.\n\nProtect and make your MacBook unique with dbrand at https://dbrand.com/shop/macbook\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nLaptop provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+      "duration": "PT15M14S",
+      "view_count": 6834347,
+      "like_count": 79319,
+      "comment_count": 4196,
+      "url": "https://www.youtube.com/watch?v=hdMszZ2ah5Q"
+    }
+  ],
+  "error": null,
+  "meta": {
+    "generated_at": "2026-11-28T00:07:09Z",
+    "count": 5
+  }
+}
